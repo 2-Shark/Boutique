@@ -1,0 +1,142 @@
+{%- liquid
+  comment
+    'lazysizes'
+  endcomment
+
+  assign widths = '200,400,600,700,800,900,1000,1200,1500,1800,2000,2400,3000' | split: ','
+
+  capture widths
+    for width in widths
+      assign width_int = width | plus: 0
+      if image.width >= width_int
+        echo width_int | append: ','
+      else
+        break
+      endif
+    endfor
+
+    if image.width <= 3000
+      echo image.width | downcase
+    endif
+  endcapture
+  assign valid_widths = widths | split: ',' | uniq
+
+  for width in valid_widths
+    assign width_int = width | plus: 0
+    capture srcset
+      echo srcset
+      echo image | image_url: width: width_int | append: ' ' | append: width | append: 'w'
+      unless forloop.last
+        echo ', '
+      endunless
+    endcapture
+
+    if mobile_image
+      capture mobile_srcset
+        echo mobile_srcset
+        echo mobile_image | image_url: width: width_int | append: ' ' | append: width | append: 'w'
+        unless forloop.last
+          echo ', '
+        endunless
+      endcapture
+    endif
+  endfor
+
+  comment
+    'if `max_width` isn't passed, we default to the full width of the container'
+  endcomment
+
+  assign image_width = '100%'
+  if max_width
+    assign image_width = image.width | append: 'px'
+  endif
+
+  assign lazy_classes = 'lazyload'
+  if preload
+    assign lazy_classes = lazy_classes | append: ' lazypreload'
+  endif
+
+  comment
+    'aspect ratios'
+  endcomment
+
+  unless aspect_ratio
+    assign aspect_ratio = image.aspect_ratio | round: 4
+  else
+    assign aspect_ratio = aspect_ratio | round: 4
+  endunless
+
+  unless mobile_aspect_ratio
+    assign mobile_aspect_ratio = aspect_ratio
+    if mobile_image
+      assign mobile_aspect_ratio = mobile_image.aspect_ratio | round: 4
+    endif
+  else
+    assign mobile_aspect_ratio = mobile_aspect_ratio | round: 4
+  endunless
+
+  comment
+    'focal points'
+  endcomment
+
+  assign focal_point = '50% 50%'
+  if image.presentation.focal_point
+    assign focal_point = image.presentation.focal_point
+  endif
+
+  assign mobile_focal_point = focal_point
+  if mobile_image.presentation.focal_point
+    assign mobile_focal_point = mobile_image.presentation.focal_point
+  elsif mobile_image
+    assign mobile_focal_point = '50% 50%'
+  endif
+
+  capture image_properties
+    echo '--aspect-ratio:' | append: aspect_ratio | append: ';'
+    echo '--mobile-aspect-ratio:' | append: mobile_aspect_ratio | append: ';'
+    echo '--focal-point:' | append: focal_point | append: ';'
+    echo '--mobile-focal-point:' | append: mobile_focal_point | append: ';'
+    echo '--image-width:' | append: image_width | append: ';'
+  endcapture
+-%}
+
+<div
+  class="image--root"
+  data-parallax="{{ parallax }}"
+  data-darken="{{ darken }}"
+  data-darken-mobile="{{ darken_mobile }}"
+  style="{{ image_properties }}"
+>
+  <picture class="image--container">
+    {%- if mobile_image -%}
+      <source
+        loading="lazy"
+        media="(max-width: 767px)"
+        srcset="{{ mobile_srcset }}"
+        alt="{{ mobile_image.alt }}"
+        height="{{ mobile_image.height }}"
+        width="{{ mobile_image.width }}"
+      >
+    {%- endif -%}
+
+    <img
+      class="{{ lazy_classes }}"
+      data-src="{{ image | image_url }}"
+      data-srcset="{{ srcset }}"
+      data-sizes="auto"
+      alt="{{ image.alt | escape }}"
+      height="{{ image.height }}"
+      width="{{ image.width }}"
+    />
+  </picture>
+
+  <noscript>
+    <img
+      src="{{ image | image_url }}"
+      srcset="{{ srcset }}"
+      alt="{{ image.alt | escape }}"
+      height="{{ image.height }}"
+      width="{{ image.width }}"
+    >
+  </noscript>
+</div>

@@ -1,0 +1,26 @@
+{%- liquid
+  assign copied_t = 'general.social.copied' | t
+  assign n_items_left_t = 'products.n_items_left' | t
+  assign no_items_left_t = 'products.no_items_left' | t
+  assign one_item_left_t = 'products.one_item_left' | t
+  assign product_form_t = 'products.sold_out.form_notification' | t
+  assign success_feedback_t = 'sections.contact.success_feedback' | t
+  assign success_t = 'sections.newsletter.success' | t
+
+  render 'section-assets', name: 'feedback-bar'
+-%}
+
+<feedback-bar-root class="feedback-bar--root" data-open="false">
+  <div class="feedback-bar--message" data-item="accent-text"></div>
+  <script type="application/json">
+    {
+      "copied": "{{- copied_t -}}",
+      "contact-form": "{{- success_feedback_t -}}",
+      "newsletter": "{{- success_t -}}",
+      "product-form": "{{- product_form_t -}}",
+      "product--no-items": "{{- no_items_left_t -}}",
+      "product--one-item": "{{- one_item_left_t -}}",
+      "product--n-items": "{{- n_items_left_t -}}"
+    }
+  </script>
+</feedback-bar-root>

@@ -1,0 +1,56 @@
+<drawer-root class="drawer--root">
+  <transition-root class="drawer--overlay"></transition-root>
+
+  <transition-root
+    class="drawer--close"
+    aria-label="{{ 'general.a11y.close' | t }}"
+    data-drawer-close
+  >
+    {%- render 'icons', icon: 'cross' -%}
+  </transition-root>
+
+  <div class="drawer--focus-trigger" tabindex="0"></div>
+
+  <transition-root class="drawer--instance" data-side="top" aria-expanded="false">
+    <div class="drawer--container" data-view="search">
+      {%- render 'main-search' -%}
+    </div>
+  </transition-root>
+
+  {% comment %}
+  <transition-root class="drawer--instance" data-side="bottom" aria-expanded="false">
+    <div class="drawer--container" data-view="">
+    </div>
+  </transition-root>
+  {% endcomment %}
+
+  <transition-root class="drawer--instance" data-side="right" aria-expanded="false">
+    {%- liquid
+      if request.page_type == 'product'
+        echo '<div class="drawer--container" data-view="pickup"></div>'
+      endif
+
+      if request.page_type == 'collection' or request.page_type == 'search'
+        echo '<div class="drawer--container" data-view="filter"></div>'
+      endif
+
+      if settings.product--quick-add-enabled
+        echo '<div class="drawer--container" data-view="product-form"></div>'
+      endif
+
+      if settings.cart--type == 'drawer' or settings.product--quick-add-enabled
+        echo '<div class="drawer--container" data-view="cart">'
+          render 'cart', view: 'drawer'
+        echo '</div>'
+      endif
+    -%}
+  </transition-root>
+
+  <transition-root class="drawer--instance" data-side="left" aria-expanded="false">
+    <div class="drawer--container" data-view="menu">
+      {%- render 'mobile-nav' -%}
+    </div>
+  </transition-root>
+
+  <div class="drawer--focus-trigger" tabindex="0"></div>
+</drawer-root>

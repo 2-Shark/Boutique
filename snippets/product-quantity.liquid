@@ -1,0 +1,22 @@
+{%- liquid
+  assign quantity_t = 'products.quantity' | t
+
+  unless settings.product--quick-add-enabled
+    render 'section-assets', name: 'product-quantity', type: 'script'
+  endunless
+-%}
+
+<product-quantity-root class="product-quantity--root" data-id="{{ id }}">
+  <label for="{{ id }}--quantity">
+    {{ quantity_t }}
+  </label>
+  <input
+    class="product-quantity--input"
+    id="{{ id }}--quantity"
+    type="number"
+    form="{{ id }}"
+    name="quantity"
+    min="1"
+    value="1"
+  />
+</product-quantity-root>

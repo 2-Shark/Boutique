@@ -1,0 +1,30 @@
+{%- for product in recommendations.products -%}
+  <a
+    class="complementary-product"
+    href="{{ product.url }}"
+    aria-label="{{ product.title }}"
+    data-product-item
+  >
+    <div class="complementary-product--wrapper">
+      <div class="complementary-product--image">
+        {%- liquid
+          if product.featured_media.preview_image
+            render "image", image: product.featured_media.preview_image
+          else
+            render "placeholder", type: 'product', aspect_ratio: 1, placeholder_index: 1
+          endif
+        -%}
+      </div>
+
+      <div class="complementary-product--info">
+        <div data-item="paragraph">
+          {{- product.title -}}
+        </div>
+
+        {%- render 'product--item-price', product: product -%}
+      </div>
+
+      {%- render 'product--quick-add', product: product -%}
+    </div>
+  </a>
+{%- endfor -%}

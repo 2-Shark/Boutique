@@ -1,0 +1,134 @@
+<!doctype html>
+<html class="no-js flexbox-gap" lang="{{ request.locale.iso_code }}" dir="ltr">
+  <head>
+    <!-- Beyond Theme - Version 3.1.1 by Troop Themes - https://troopthemes.com/ -->
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    {%- if page_description -%}
+      <meta name="description" content="{{ page_description | escape }}">
+    {%- endif -%}
+
+    <link rel="preconnect" href="https://cdn.shopify.com">
+    <link rel="preconnect" href="https://fonts.shopifycdn.com">
+    <link rel="preconnect" href="https://monorail-edge.shopifysvc.com">
+
+    <link rel="preload" href="{{ "theme--critical.css" | asset_url }}" as="style">
+    <link rel="preload" href="{{ "theme--async.css" | asset_url }}" as="style">
+    <link rel="preload" href="{{ 'lazysizes.min.js' | asset_url }}" as="script">
+
+    {%- if canonical_url != blank -%}
+      <link rel="canonical" href="{{ canonical_url }}">
+    {%- endif -%}
+
+    {%- if settings.favicon != blank -%}
+      <link rel="shortcut icon" href="{{ settings.favicon | image_url: width: 32 }}" type="image/png">
+      <link rel="apple-touch-icon" href="{{ settings.favicon | image_url: width: 180 }}">
+    {%- endif -%}
+
+    <title>
+      {%- liquid
+        echo page_title
+        unless request.page_type == 'index'
+          echo ' | ' | append: shop.name
+        endunless
+      -%}
+    </title>
+
+    {%- liquid
+      render 'meta-tags'
+      render 'css-typography'
+      render 'css-variables'
+      render 'custom-styles'
+      render 'js-variables'
+      render 'js-utilities'
+      render 'js-modules'
+    -%}
+
+    <script
+      src="{{ 'lazysizes.min.js' | asset_url }}"
+      async="async"
+      onload="this.loaded=true;window.trigger('theme:lazySizes:loaded');"
+    ></script>
+
+    {%- if request.page_type contains 'customers' -%}
+      <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
+      <script src="{{ 'customer_area.js' | shopify_asset_url }}" defer="defer"></script>
+    {%- endif -%}
+
+    <link href="{{ "theme--critical.css" | asset_url }}" rel="stylesheet" media="all">
+    <link
+      href="{{ "theme--async.css" | asset_url }}"
+      rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
+    >
+
+    <noscript>
+      <style>
+        .layout--template > *,
+        .layout--footer-group > *,
+        .popup-modal-close,
+        .modal--root,
+        .modal--window {
+          opacity: 1;
+        }
+      </style>
+      <link href="{{ "theme--async.css" | asset_url }}" rel="stylesheet">
+    </noscript>
+
+    {{ content_for_header }}
+  </head>
+
+  <body
+    class="template--{{ template | split: '.' | first | remove: '_' | replace: '/', '--' }} page--{{ page_title | handle }}{% if customer %} customer-logged-in{% endif %}"
+    data-theme-id="939"
+    data-theme-name="beyond"
+    data-theme-version="3.1.1"
+    {%- if settings.layout--show-page-border -%}
+      data-show-border
+    {%- endif -%}
+  >
+    <!--[if IE]>
+      <div style="text-align:center;padding:72px 16px;">
+        {{ 'general.browser_unsupported' | t }}
+      </div>
+      <style>
+        .layout--viewport { display: none; }
+      </style>
+    <![endif]-->
+
+    <a data-item="a11y-button" href='#main-content'>
+      {{- 'general.a11y.skip_main' | t -}}
+    </a>
+
+    <div class="layout--viewport" data-drawer-status="closed">
+      <div class="layout--main-content">
+        <header class="layout--header-group">
+          {%- sections 'header-group' -%}
+        </header>
+
+        <main class="layout--template" id="main-content">
+          {{ content_for_layout }}
+        </main>
+
+        <footer class="layout--footer-group">
+          {%- sections 'footer-group' -%}
+        </footer>
+      </div>
+
+      {%- render 'drawer' -%}
+    </div>
+
+    {%- liquid
+      if settings.popup--enabled
+        render 'popup'
+      endif
+
+      render 'modal'
+      render 'feedback-bar'
+      render 'icons', icon: 'defs'
+    -%}
+  </body>
+</html>

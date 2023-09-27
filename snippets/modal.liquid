@@ -1,0 +1,15 @@
+{%- render 'section-assets', name: 'modal', type: 'script' -%}
+
+<div class="modal--window">
+  <transition-root class="modal--mask" data-transition="at_start"></transition-root>
+  <div class="modal--container"></div>
+  <div class="modal--close" tabindex="0">
+    {%- render 'icons', icon: 'cross' -%}
+  </div>
+  <div class="modal--prev">
+    {%- render 'css-icons', icon: 'prev' -%}
+  </div>
+  <div class="modal--next">
+    {%- render 'css-icons', icon: 'next' -%}
+  </div>
+</div>

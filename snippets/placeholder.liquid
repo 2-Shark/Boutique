@@ -1,0 +1,31 @@
+{% comment %} Aspect ratio needs at least one decimal {% endcomment %}
+{%- liquid
+  assign placeholder = type
+
+  unless aspect_ratio and aspect_ratio != 0
+    assign aspect_ratio = 1.45
+  endunless
+
+  unless mobile_aspect_ratio
+    assign mobile_aspect_ratio = aspect_ratio | round: 2
+  endunless
+
+  if placeholder_index
+    capture placeholder
+      echo type | append: '-' | append: placeholder_index
+    endcapture
+  endif
+-%}
+
+<div
+  class="placeholder--root"
+  data-cover="{{ cover }}"
+  data-cover-mobile="{{ cover_mobile }}"
+  data-darken="{{ darken }}"
+  data-darken-mobile="{{ darken_mobile }}"
+  style="--aspect-ratio:{{ aspect_ratio | round: 2 }};--mobile-aspect-ratio:{{ mobile_aspect_ratio }};"
+>
+  <div class="placeholder--container">
+    {{- placeholder | placeholder_svg_tag -}}
+  </div>
+</div>

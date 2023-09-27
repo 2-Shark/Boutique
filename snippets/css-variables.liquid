@@ -1,0 +1,32 @@
+<style>
+  :root {
+    --color--accent-1: {{ settings.color--accent-1 }};
+    --color--accent-2: {{ settings.color--accent-2 }};
+    --bg-color--light: {{ settings.bg-color--light }};
+    --bg-color--dark: {{ settings.bg-color--dark }};
+    --bdr-color--badge: {{ settings.color--body | color_modify: 'alpha', 0.07 }};
+    --bg-color--body: {{ settings.bg-color--body }};
+    --color--body: {{ settings.color--body }};
+    --color--body--light: {{ settings.color--body | color_lighten: 19 }};
+    --color--alternative: {{ settings.color--alternative }};
+    --color--button: {{ settings.color--button }};
+    --bdr-color--button: {{ settings.color--button }};
+    --bg-color--button: {{ settings.bg-color--button }};
+    --bg-color--button--hover: {{ settings.bg-color--button }};
+    --bdr-color--general: #eaeaea;
+    --bg-color--textbox: #fff;
+    --bg-color--panel: #f7f7f7;
+
+    --color--border-disabled: #d2d2d2;
+    --color--button-disabled: #b9b9b9;
+    --color--success: #4caf50;
+    --color--fail: #d32f2f;
+    --color--stars: black;
+
+    /* shop pay */
+    --payment-terms-background-color: {{ settings.bg-color--body }};
+
+    /* js helpers */
+    --sticky-offset: 0px;
+  }
+</style>
