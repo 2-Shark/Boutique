@@ -1,16 +1,12 @@
 {%- liquid
   assign articles_printed_count = 0
   assign aspect_ratio = section.settings.aspect-ratio
-  assign bg_color = section.settings.background-color
   assign blog = blogs[section.settings.blog]
   assign blog_heading = section.settings.blog-heading | escape
   assign container_width = section.settings.container-width
-  assign light_text = section.settings.light-text
   assign selected_tag = section.settings.tag-select | downcase | escape
   assign show_date = section.settings.show-date
   assign show_excerpt = section.settings.show-excerpt
-  assign spacing_above = section.settings.spacing-above
-  assign spacing_below = section.settings.spacing-below
   assign view_more_text = section.settings.view-more-text | escape
   assign tag_found = false
 
@@ -22,33 +18,82 @@
   render 'section-assets', name: 'featured-blog', type: 'style'
 -%}
 
+<style>
+  {% if section.settings.background_color != blank %}
+    .featured-blog--root-{{section.id}} {
+      background-color: {{ section.settings.background_color }};
+    }
+  {% endif %}
+
+  {% if section.settings.text_color != blank %}
+    .featured-blog--root-{{section.id}} {
+      color: {{ section.settings.text_color }};
+    }
+  {% endif %}
+
+  {% if section.settings.border_bottom %}
+    .featured-blog--root-{{section.id}} {
+      border-bottom: 1px solid #13613E;
+    }
+  {% endif %}
+
+  {% if section.settings.inner_padding_top_desktop != blank %}
+    .featured-blog--root-{{section.id}} {
+      padding-top: {{section.settings.inner_padding_top_desktop}}px;
+    }
+  {% endif %}
+
+  {% if section.settings.inner_padding_bottom_desktop != blank %}
+    .featured-blog--root-{{section.id}} {
+      padding-bottom: {{section.settings.inner_padding_bottom_desktop}}px;
+    }
+  {% endif %}
+
+  {% if section.settings.page_width_desktop != "full" %}
+    .featured-blog--root-{{section.id}} .featured-blog--wrapper  {
+      max-width: {{section.settings.page_width_desktop}}px;
+    }
+  {% endif %}
+
+  @media (max-width: 750px) {
+    {% if section.settings.inner_padding_top_mobile != blank %}
+      .featured-blog--root-{{section.id}} {
+        padding-top: {{section.settings.inner_padding_top_mobile}}px;
+      }
+    {% endif %}
+  
+    {% if section.settings.inner_padding_bottom_mobile != blank %}
+      .featured-blog--root-{{section.id}} {
+        padding-bottom: {{section.settings.inner_padding_bottom_mobile}}px;
+      }
+    {% endif %}
+    
+    {% if section.settings.page_width_mobile != "full" %}
+      .featured-blog--root-{{section.id}} .featured-blog--wrapper  {
+        max-width: {{section.settings.page_width_mobile}}px;
+      }
+    {% endif %}
+  }
+</style>
+
 {% comment %} View {% endcomment %}
 <div
-  class="featured-blog--root"
+  class="featured-blog--root featured-blog--root-{{section.id}}"
   data-section-id="{{ section.id }}"
   data-aspect-ratio="{{ aspect_ratio }}"
-  data-background-color="{{ bg_color }}"
   data-container-width="{{ container_width }}"
-  data-light-text="{{ light_text }}"
-  data-spacing-above="{{ spacing_above }}"
-  data-spacing-below="{{ spacing_below }}"
 >
-  <div class="featured-blog--wrapper" data-container="section">
-    {%- if blog_heading != blank -%}
-      {%- unless blog == blank -%}
+  <div class="featured-blog--wrapper">
+    <div class="featured-blog--header">
+      <h2 class="featured-blog--heading" data-item="section-heading">
+        {{- blog_heading -}}
+      </h2>
+      <div class="featured-blog--viewmore">
         <a href="{{ blog.url }}">
-      {%- endunless -%}
-
-      <div class="featured-blog--header" data-container="block">
-        <h2 class="featured-blog--heading" data-item="section-heading">
-          {{- blog_heading -}}
-        </h2>
-      </div>
-
-      {%- unless blog == blank -%}
+          {{ view_more_text }}
         </a>
-      {%- endunless -%}
-    {%- endif -%}
+      </div>
+    </div>
 
     <div
       class="featured-blog--grid"
@@ -91,14 +136,6 @@
         endif
       -%}
     </div>
-
-    {%- if view_more_text != blank -%}
-      <div class="featured-blog--footer" data-container="block">
-        <a data-item="{{ button_type }}" href="{{ blog.url }}">
-          <div>{{ view_more_text }}</div>
-        </a>
-      </div>
-    {%- endif -%}
   </div>
 </div>
 
@@ -119,25 +156,6 @@
       "default": "landscape"
     },
     {
-      "id": "background-color",
-      "label": "Background color",
-      "type": "select",
-      "options": [
-        { "label": "None", "value": "none" },
-        { "label": "Light", "value": "light" },
-        { "label": "Dark", "value": "dark" },
-        { "label": "Accent 1", "value": "accent-1" },
-        { "label": "Accent 2", "value": "accent-2" }
-      ],
-        "default": "none"
-    },
-    {
-      "id": "light-text",
-      "label": "Use light text color",
-      "type": "checkbox",
-      "default": false
-    },
-    {
       "id": "container-width",
       "label": "Maximum width of container",
       "type": "range",
@@ -147,22 +165,10 @@
       "default": 4
     },
     {
-      "id": "spacing-above",
-      "label": "Spacing above",
-      "type": "checkbox",
-      "default": true
-    },
-    {
-      "id": "spacing-below",
-      "label": "Spacing below",
-      "type": "checkbox",
-      "default": true
-    },
-    {
       "id": "blog-heading",
       "label": "Heading",
       "type": "text",
-      "default": "Blog posts"
+      "default": "BLOG"
     },
     {
       "id": "blog",
@@ -193,6 +199,68 @@
       "label": "View more text",
       "type": "text",
       "default": "View more"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text color"
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "text",
+      "id": "inner_padding_top_desktop",
+      "label": "Above section spacing in Desktop",
+      "default": "72"
+    },
+    {
+      "type": "text",
+      "id": "inner_padding_top_mobile",
+      "label": "Above section spacing in Mobile",
+      "default": "32"
+    },
+    {
+      "type": "text",
+      "id": "inner_padding_bottom_desktop",
+      "label": "Below section spacing in Desktop",
+      "default": "72"
+    },
+    {
+      "type": "text",
+      "id": "inner_padding_bottom_mobile",
+      "label": "Below section spacing in Mobile",
+      "default": "32"
+    },
+    {
+      "type": "checkbox",
+      "id": "border_bottom",
+      "label": "Border bottom",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "Section page width size"
+    },
+    {
+      "type": "text",
+      "id": "page_width_desktop",
+      "label": "Page width in Desktop",
+      "default": "full",
+      "info": "Type 'full' if you want to make it full screen. Otherwise type only number value"
+    },
+    {
+      "type": "text",
+      "id": "page_width_mobile",
+      "label": "Page width in Mobile",
+      "default": "full",
+      "info": "Type 'full' if you want to make it full screen. Otherwise type only number value"
     }
   ],
   "presets": [
