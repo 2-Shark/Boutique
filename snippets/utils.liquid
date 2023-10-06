@@ -27,6 +27,8 @@
       endif
     -%}
 
+  {%- when 'date' -%}
+    {{ created_at | time_tag: format: 'date' }}
   {%- comment -%} uncomment for next utility {%- endcomment -%}
   {%- comment -%} {%- when 'next_utility' -%} {%- endcomment -%}
 

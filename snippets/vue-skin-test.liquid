@@ -1,0 +1,909 @@
+<!-- font -->
+<style>
+  .font-ambroise {
+    /* light: 300 */
+    font-family: "Poppins";
+  }
+
+  .font-compact {
+    /* light: 300 */
+    font-family: "Poppins";
+  }
+
+  .font-acumin {
+    /* regular: 400, light: 300 */
+    font-family: "Roboto";
+  }
+
+  .skin-test-header__title {
+    font-size: 50px;
+    line-height: 1.1;
+    color: var(--skin-test-color--sub);
+  }
+
+  .skin-test-start-body__desc {
+    font-size: 40px;
+    line-height: 1.3;
+    color: var(--skin-test-color--sub);
+  }
+
+  .skin-test-body__question-font {
+    font-size: 70px;
+    line-height: 1.28;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-body__answer-button {
+    font-size: 40px;
+    line-height: 1.5;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-body__number {
+    font-size: 60px;
+    line-height: 1;
+    color: var(--skin-test-color--sub);
+  }
+
+  .skin-test-body__number-current {
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-footer__back {
+    font-size: 40px;
+    line-height: 1.5;
+    color: var(--skin-test-color--sub) !important;
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-header__title {
+      font-size: 30px;
+    }
+    
+    .skin-test-start-body__desc {
+      font-size: 12px;
+    }
+  
+    .skin-test-body__question-font {
+      font-size: 30px;
+    }
+  
+    .skin-test-body__answer-button {
+      font-size: 18px;
+    }
+  
+    .skin-test-body__number {
+      font-size: 25px;
+    }
+  
+    .skin-test-footer__back {
+      font-size: 25px;
+    }
+  }
+</style>
+
+
+<style>
+  header,
+  footer {
+    display: none !important;
+  }
+
+  body {
+    --skin-test-background: #F6F6F6;
+    background-color: var(--skin-test-background);
+  }
+
+  .skin-test {
+    --skin-test-background: #F6F6F6;
+    --skin-test-color--main: #13613E;
+    --skin-test-color--sub: #A5BCB4;
+
+    --skin-test-padding-right: 100px;
+    --skin-test-padding-left: 83px;
+
+    width: 100%;
+    min-height: 100vh;
+    letter-spacing: 0;
+  }
+
+  .skin-test img {
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
+  }
+
+  .skin-test button {
+    border-radius: 0;
+    background-color: unset; 
+    color: unset;
+  }
+
+  .skin-test button:hover {
+    background-color: unset;
+  }
+
+  @media (max-width: 750px) {
+    .skin-test {
+      --skin-test-padding-right: 28px;
+      --skin-test-padding-left: 28px;
+    }
+  }
+  
+  .skin-test-wrapper {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* header */
+  .skin-test-header {
+    width: 100%;
+    padding: 45px var(--skin-test-padding-right) 18px var(--skin-test-padding-right);
+    border-bottom: 1px solid var(--skin-test-color--main);
+    position: sticky;
+    top: 0;
+    background-color: var(--skin-test-background);
+    z-index: 1;
+  }
+  
+  .skin-test-header__wrapper {
+    width: 100%;
+    position: relative;
+  }
+  
+  .skin-test-header__title {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .skin-test-header__close {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 2px;
+    height: 40px;
+  }
+
+  .skin-test-header__close:before,
+  .skin-test-header__close:after {
+    display: block;
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #A5BCB4;
+  }
+
+  .skin-test-header__close:before {
+    transform: rotate(45deg);
+  }
+
+  .skin-test-header__close:after {
+    transform: rotate(-45deg);
+  }
+
+
+  @media (max-width: 750px) {
+    .skin-test-header__close {
+      width: 1.5px;
+      height: 20px;
+      top: -15px;
+    }
+  }
+
+  /* body */
+  .skin-test-body {
+    position: relative;
+    flex: 1;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .skin-test-body__number {
+    position: absolute;
+    top: 43px;
+    right: var(--skin-test-padding-right);
+  }
+
+  .skin-test-body__number-current {
+  
+  }
+  
+  .skin-test-body__number-total {
+  
+  }
+  
+  .skin-test-body__wrapper {
+    margin-top: 60px;
+    max-width: 1300px;
+  }
+  
+  .skin-test-body__question {
+  }
+  
+  .skin-test-body__answer {
+    margin-top: 110px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .skin-test-body__answer-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 812px;
+    height: 90px;
+
+    border: 1px solid var(--skin-test-color--main);
+  }
+
+  .skin-test-body__answer-item + .skin-test-body__answer-item {
+    margin-top: 57px;
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-body__wrapper {
+      max-width: 300px;
+      margin-top: 100px;
+    }
+
+    .skin-test-body__answer {
+      margin-top: 60px;
+    }
+
+    .skin-test-body__answer-item {
+      width: 282px;
+      height: 45px;
+    }
+
+    .skin-test-body__answer-item + .skin-test-body__answer-item {
+      margin-top: 45px;
+    }
+  }
+  
+  /* footer */
+  .skin-test-footer {
+    padding: 0 var(--skin-test-padding-right) 86px var(--skin-test-padding-left);
+  }
+  
+  .skin-test-footer__wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  .skin-test-footer__back {
+  
+  }
+  
+  .skin-test-footer__logo {
+    width: 80px;
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-footer {
+      padding-bottom: 38px;
+    }
+
+    .skin-test-footer__logo {
+      width: 40px;
+    }
+  }
+</style>
+
+<style>
+  .skin-test-start-body {
+    position: relative;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 90px 0;
+  }
+  
+  .skin-test-start-body__wrapper {
+    max-width: 800px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .skin-test-start-body__title {
+    text-transform: capitalize;
+  }
+  
+  .skin-test-start-body__desc {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    margin-top: 37px;
+  }
+  
+  .skin-test-start-body__logo {
+    width: 188px;
+
+    margin-top: 74px;
+  }
+  
+  .skin-test-start-body__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 536px;
+    height: 90px;
+
+    margin-top: 70px;
+    text-transform: uppercase;
+    font-style: italic;
+    border: 1px solid var(--skin-test-color--main);
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-start-body {
+    
+    }
+
+    .skin-test-start-body__wrapper {
+      max-width: 300px;
+    }
+
+    .skin-test-start-body__desc {
+      letter-spacing: 0;
+      margin-top: 18px;
+    }
+
+    .skin-test-start-body__logo {
+      width: 100px;
+      margin-top: 74px;
+    }
+
+    button.skin-test-start-body__button {
+      width: 282px;
+      height: 45px;
+      font-size: 16px;
+
+      margin-top: 74px;
+    }
+  }
+</style>
+
+<!-- end -->
+<style>
+  .skin-test-end-body {
+    position: relative;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .skin-test-end-body__wrapper {
+    max-width: 800px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .skin-test-end-body__title {
+  
+  }
+  
+  .skin-test-end-body__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 900px;
+    height: 100px;
+
+    margin-top: 144px;
+    border: 1px solid var(--skin-test-color--main);
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-end-body__wrapper {
+      max-width: 300px;
+    }
+
+    button.skin-test-end-body__button {
+      width: 282px;
+      height: 54px;
+      font-size: 25px;
+
+      margin-top: 67px;
+    }
+  }
+</style>
+
+<!-- result -->
+
+<style>
+  .skin-test-result-body__subtitle {
+    font-size: 30px;
+    line-height: 1.6;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-result-body__title {
+    font-size: 70px;
+    line-height: 1;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-result-body__roco-name {
+    font-size: 32px;
+    line-height: 1.25;
+    color: var(--skin-test-color--main);
+  }
+  
+  .skin-test-result-body__roco-price {
+    font-size: 32px;
+    line-height: 1.25;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-result-body__message {
+    font-size: 32px;
+    line-height: 1.25;
+    color: var(--skin-test-color--main);
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-result-body__subtitle {
+      font-size: 12px;
+    }
+  
+    .skin-test-result-body__title {
+      font-size: 25px;
+    }
+  
+    .skin-test-result-body__roco-name {
+      font-size: 12px;
+    }
+    
+    .skin-test-result-body__roco-price {
+      font-size: 12px;
+    }
+  
+    .skin-test-result-body__message {
+      font-size: 12px;
+    }
+  }
+</style>
+
+<style>
+  .skin-test-result-body__wrapper {
+    --line-padding-left: 184px;
+    --result-line-spacing-left: 126px;
+    --result-line-spacing-right: 310px;
+  }
+
+  .skin-test-result-body {
+    border-bottom: 1px solid var(--skin-test-color--main);
+  }
+  
+  .skin-test-result-body-wrapper-line {
+    margin: 0 var(--result-line-spacing-right) 0 var(--result-line-spacing-left);
+    padding-left: var(--line-padding-left);
+    border-left: 1px solid var(--skin-test-color--main);
+  }
+
+  .skin-test-result-body__intro {
+    padding-top: 110px;
+    padding-bottom: 100px;
+  }
+  
+  .skin-test-result-body__subtitle {
+  
+  }
+  
+  .skin-test-result-body__title {
+  
+  }
+  
+  .skin-test-result-body__reco {
+    margin-top: 76px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 40px;
+  }
+  
+  .skin-test-result-body__roco-item {
+    text-align: center;
+    display: grid;
+  }
+  
+  .skin-test-result-body__roco-img {
+  
+  }
+  
+  .skin-test-result-body__roco-name {
+    margin-top: 40px;
+  }
+  
+  .skin-test-result-body__roco-price {
+    margin-top: 40px;
+    align-self: end;
+  }
+  
+  .skin-test-result-body__summary {
+    display: flex;
+  }
+
+  .skin-test-result-body__summary-img {
+    flex: 1;
+    max-width: 50%;
+  }
+  
+  .skin-test-result-body__summary-message {
+    flex: 1;
+    max-width: 50%;
+    padding: 70px 220px 70px 70px
+  }
+
+  .skin-test-result-body__total {
+    padding-top: 160px;
+    padding-bottom: 127px;
+  }
+  
+  .skin-test-result-body__total-message {
+  
+  }
+  
+  .skin-test-result-body__total-title {
+    font-weight: 400;
+  }
+  
+  .skin-test-result-body__total-desc {
+  
+  }
+
+  .skin-test-result-body__email {
+  
+  }
+
+  @media (max-width: 750px) {
+    .skin-test-result-body__wrapper {
+      --line-padding-left: 20px;
+      --result-line-spacing-left: 20px;
+      --result-line-spacing-right: 40px;
+    }
+
+    .skin-test-result-body__intro {
+      padding-top: 38px;
+      padding-bottom: 38px;
+    }
+
+    .skin-test-result-body__reco {
+      margin-top: 34px;
+
+      grid-template-columns: repeat(2, 1fr);
+      column-gap: 15px;
+      row-gap: 30px;
+    }
+
+    .skin-test-result-body__roco-name {
+      margin-top: 10px;
+    }
+    
+    .skin-test-result-body__roco-price {
+      margin-top: 10px;
+    }
+
+    .skin-test-result-body__summary {
+      flex-direction: column;
+    }
+
+    .skin-test-result-body__summary-img {
+      max-width: unset;
+    }
+
+    .skin-test-result-body__summary-message {
+      max-width: unset;
+
+      margin: 0 var(--result-line-spacing-right) 0 var(--result-line-spacing-left);
+      padding: var(--line-padding-left) 0 var(--line-padding-left) var(--line-padding-left);
+      border-left: 1px solid var(--skin-test-color--main);
+    }
+
+    .skin-test-result-body__total {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+  }
+</style>
+
+<section id="skin-test-vue" class="skin-test">
+  <div :class="`skin-test-wrapper skin-test-wrapper-${status}`">
+    <div class="skin-test-header">
+      <div class="skin-test-header__wrapper">
+        <div class="skin-test-header__title">SKIN TEST</div>
+        <!-- <div class="skin-test-header__close"></div> -->
+      </div>
+    </div>
+    <div v-if="status == 'start'" style="display: flex; flex-direction: column; flex: 1;">
+      <div class="skin-test-start-body">
+        <div class="skin-test-start-body__wrapper">
+          <div class="skin-test-start-body__title skin-test-body__question-font">Test Your Skin & Find Routine</div>
+          <div class="skin-test-start-body__desc">BY COMPREHENDING ITS SPECIFIC CONCERNS, WE CAN RECOMMEND THE MOST SUITABLE PRODUCTS FOR YOUR SKINCARE NEEDS.</div>
+          <div class="skin-test-start-body__logo">
+            <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-logo.svg?v=1695982720" alt="skin-test-logo" />
+          </div>
+          <button class="skin-test-start-body__button skin-test-body__answer-button" @click="next">
+            Start
+          </button>
+        </div>
+      </div>
+    </div>
+    
+    <div v-if="status == 'play' || status == 'end'" style="display: flex; flex-direction: column; flex: 1;">
+      <div v-if="status == 'play'" class="skin-test-body">
+        <div class="skin-test-body__number">
+          <span class="skin-test-body__number-current" v-html="`${step + 1}`"></span>
+          <span>/</span>
+          <span class="skin-test-body__number-total" v-html="`${lists.length}`"></span>
+        </div>
+        <div class="skin-test-body__wrapper">
+          <div class="skin-test-body__question skin-test-body__question-font" v-html="currentQuestion"></div>
+          <div class="skin-test-body__answer">
+            <button class="skin-test-body__answer-item skin-test-body__answer-button" v-for="(list, index) in currentListAnswer" :key="`${index}`" @click="select(index)">
+              <span v-html="`${list}`"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+      
+      <div v-if="status == 'end'" style="flex: 1; display: flex;">
+        <div class="skin-test-end-body">
+          <div class="skin-test-end-body__wrapper">
+            <div class="skin-test-end-body__title skin-test-body__question-font">Thank you for taking the time to complete our SKIN TEST!</div>
+            <button class="skin-test-end-body__button skin-test-body__answer-button" @click="next">
+              See the result
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="skin-test-footer">
+        <div class="skin-test-footer__wrapper">
+          <button class="skin-test-footer__back" @click="prev()">Back</button>
+          <div class="skin-test-footer__logo">
+            <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-logo.svg?v=1695982720" alt="skin-test-logo" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div v-if="status == 'result'" style="display: flex; flex-direction: column; flex: 1;">
+      <div class="skin-test-result-body__wrapper">
+        <div class="skin-test-result-body">
+          <div class="skin-test-result-body__intro skin-test-result-body-wrapper-line">
+            <div class="skin-test-result-body__subtitle">Here is a Personalized Routine for You!</div>
+            <div class="skin-test-result-body__title">BOUTI Lover in their 20’s<br> recommended routines</div>
+            <div class="skin-test-result-body__reco">
+              <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in collections" :key="`reco-${itemInd}`">
+                <div class="skin-test-result-body__roco-img">
+                  <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/reco_thumbanil.png?v=1696233543" alt="Boutijour product img" />
+                </div>
+                <div class="skin-test-result-body__roco-name">Lotus Leaf Anti Pollution Repairing Toner</div>
+                <div class="skin-test-result-body__roco-price">$30.00</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="skin-test-result-body skin-test-result-body__summary">
+          <div class="skin-test-result-body__summary-img">
+            <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/reco_thumbanil.png?v=1696233543" alt="skin test result thumbnail" />
+          </div>
+          <div class="skin-test-result-body__message skin-test-result-body__summary-message">
+            In our 20s, our skin is typically at its prime in terms of collagen production and cell turnover, but it’s still important to take good care of it to maintain its youthful appearance and prevent from ‘skin aging’ such as pigmentation, sagging and wrinkles. Collagen production in the skin does start to decline from our mid-20s. It’s essential to keep skin hydrated and protect the skin from daily sun exposure.
+            <br><br>
+            Especially, if you love being out in the sun and outdoor activities, proper way of preventing from the UV/Sunlight suncare is essential. Protecting your skin from sunlight can certainly slow down the aging process and help maintain a more youthful appearance. Sun exposure is one of the primary factors that accelerate the aging of the skin, leading to premature aging signs.
+          </div>
+        </div>
+        <div class="skin-test-result-body">
+          <div class="skin-test-result-body__total skin-test-result-body-wrapper-line">
+            <div class="skin-test-result-body__message skin-test-result-body__total-message">
+              <span class="skin-test-result-body__total-title">Acne: </span>
+              <span class="skin-test-result-body__total-desc">Many people continue to deal with acne well into their 20s. It can be caused by hormonal fluctuations, diet, stress, or genetics. Proper skincare and sometimes medical intervention can help manage acne. </span>
+            </div>
+            <br>
+            <div class="skin-test-result-body__message skin-test-result-body__total-message">
+              <span class="skin-test-result-body__total-title">Sun Damage: </span>
+              <span class="skin-test-result-body__total-desc">Accumulated sun exposure can lead to early signs of aging like fine lines, wrinkles, and hyperpigmentation. It’s essential to use sunscreen daily and practice sun-safe behaviors. </span>
+            </div>
+            <br>
+            <div class="skin-test-result-body__message skin-test-result-body__total-message">
+              <span class="skin-test-result-body__total-title">Preventative Anti-Aging: </span>
+              <span class="skin-test-result-body__total-desc">While signs of aging may not be very noticeable in your 20s, it’s an excellent time to start preventative measures like using anti-aging products containing antioxidants and retinoids to maintain collagen production and skin elasticity. </span>
+            </div>
+            <br>
+            <div class="skin-test-result-body__message skin-test-result-body__total-message">
+              <span class="skin-test-result-body__total-title">Dehydration: </span>
+              <span class="skin-test-result-body__total-desc">Lack of hydration can make your skin look dull and tired. It’s crucial to use a moisturizer suitable for your skin type and drink plenty of water. </span>
+            </div>
+            <br>
+            <div class="skin-test-result-body__message skin-test-result-body__total-message">
+              <span class="skin-test-result-body__total-title">Uneven Skin Tone: </span>
+              <span class="skin-test-result-body__total-desc">Skin concerns like redness or uneven skin tone can become more noticeable in your 20s. Products containing ingredients like niacinamide or vitamin C can help address these issues.</span>
+            </div>
+          </div>
+        </div>
+        <div class="skin-test-result-body skin-test-result-body__email"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+
+<script>
+  const SkinTestVueApp = new Vue({
+    el: "#skin-test-vue",
+    data: {
+      lists: [
+        {
+          question: "How old are you?",
+          answer: ["I’m in 20’s", "I’m in 30’s", "I’m in 40’s and above"]
+        },
+        {
+          question: "How would you describe your skin?",
+          answer: ["My facial skin is rough or dry", "My skin is oily in some areas", "My face is very oily"]
+        },
+        {
+          question: "I have facial redness and sensitive skin.",
+          answer: ["Yes", "No"]
+        },
+        {
+          question: "My major skin concern is dehyrated skin. I’m in ineed for healthy glass glow skin.",
+          answer: ["Yes", "No"]
+        },
+        {
+          question: "I have hyper-pigmentation concern from the sunlight.",
+          answer: ["Yes", "No"]
+        },
+        {
+          question: "I see signs of aging of wrinkles and facial lines.",
+          answer: ["Yes", "No"]
+        },
+        {
+          question: "I take appropriate & proper care for sun protection.",
+          answer: ["Yes", "No"]
+        },
+        {
+          question: "My skin looks fatigued frequently.",
+          answer: ["Yes", "No"]
+        }
+      ],
+      choose: [
+        {
+          question: "How old are you?",
+          answer: ""
+        },
+        {
+          question: "How would you describe your skin?",
+          answer: ""
+        },
+        {
+          question: "I have facial redness and sensitive skin.",
+          answer: ""
+        },
+        {
+          question: "My major skin concern is dehyrated skin. I’m in ineed for healthy glass glow skin.",
+          answer: ""
+        },
+        {
+          question: "I have hyper-pigmentation concern from the sunlight.",
+          answer: ""
+        },
+        {
+          question: "I see signs of aging of wrinkles and facial lines.",
+          answer: ""
+        },
+        {
+          question: "I take appropriate & proper care for sun protection.",
+          answer: ""
+        },
+        {
+          question: "My skin looks fatigued frequently.",
+          answer: ""
+        }
+      ],
+      step: 0,
+      status: "start", // start, play, end, result,
+      collections: [0,1,2,3,4,5]
+    },
+    mounted() {
+      // console.log("mounted?");
+      // this.getItems();
+    },
+    computed: {
+      currentQuestion() {
+        return this.lists[this.step].question;
+      },
+
+      currentListAnswer() {
+        return this.lists[this.step].answer;
+      }
+    },
+    watch: {
+      step(after, before) {
+        scrollTo(0, 0);
+      },
+
+      status(after, before) {
+        scrollTo(0, 0);
+      }
+    },
+    methods: {
+      getItems() {
+        {% comment %} let collections = {{ collections["accessories"].products | json }};
+
+        let accItems = collections.reduce((prev, current) => {
+          return [
+            ...prev,
+            ...this.formatProduct(current)
+          ]
+        }, []); {% endcomment %}
+      },
+      select(index) {
+        if (this.step < this.lists.length) {
+          this.choose[this.step].answer = this.currentListAnswer[index];
+        }
+        
+        this.next();
+      },
+      next() {
+        if (this.status == "start") {
+          this.status = "play";
+          return;
+        }
+
+        if (this.status == "play" && this.step >= this.lists.length - 1) {
+          this.status = "end";
+          return;
+        }
+
+        if (this.status == "end") {
+          this.status = "result";
+          return;
+        }
+
+        this.step += 1;
+      },
+      prev() {
+        if (this.status == "end") {
+          this.status = "play";
+          this.step = this.lists.length - 1;
+
+          return;
+        } else if (this.status == "play") {
+          if (this.step <= 0) {
+            this.status = "start";
+            this.step = 0;
+            return;
+          }
+          this.step -= 1;
+        }
+      }
+    }
+  })
+</script>

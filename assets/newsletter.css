@@ -1,1 +1,122 @@
-.newsletter--wrapper{width:100%;max-width:var(--max-width--x-small);margin:0 auto;text-align:center;justify-content:center}.newsletter--body{max-width:400px;margin:0 auto;padding:0 var(--spacing--4)}@media only screen and (max-width:767px){.newsletter--body{padding:0 var(--spacing--3)}}.newsletter--failure{padding-top:var(--spacing--item);color:var(--color--fail)}.newsletter--inputs{display:flex;align-items:center}.flexbox-gap .newsletter--inputs{gap:var(--spacing--2)}.no-flexbox-gap .newsletter--inputs>*{margin:calc(var(--spacing--2)/ 2)}input.newsletter--email{margin:0}
+.newsletter--wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.newsletter--failure {
+  padding-top: var(--spacing--item);
+  color: var(--color--fail);
+}
+.newsletter--body,
+.newsletter--body form {
+  width: 100%;
+}
+.newsletter--inputs {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.flexbox-gap .newsletter--inputs {
+  gap: var(--spacing--2);
+}
+.no-flexbox-gap .newsletter--inputs > * {
+  margin: calc(var(--spacing--2) / 2);
+}
+input.newsletter--email {
+  margin: 0;
+}
+
+.newsletter--heading {
+  font-size: 55px;
+  color: inherit;
+}
+
+.newsletter--subheading {
+  margin-top: 17px;
+
+  font-size: 30px;
+  color: inherit;
+}
+
+.newsletter--inputs button {
+  width: 280px;
+  height: 80px;
+  border: 1px solid #13613e;
+  font-size: 30px;
+  text-transform: uppercase;
+  background: unset !important;
+  color: inherit !important;
+  align-self: flex-end;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter--body {
+  margin-top: 96px;
+}
+
+.newsletter--formBox {
+  position: relative;
+  flex: 1;
+  width: 100%;
+}
+
+.newsletter--formBox label {
+  font-size: 35px;
+  padding: 0;
+}
+
+.newsletter--formBox input {
+  border: none;
+  border-bottom: 1px solid #13613e;
+  outline: 0;
+  margin-top: 20px;
+  height: unset;
+  font-size: 35px;
+  line-height: 1.25;
+  background-color: unset;
+}
+
+@media (max-width: 750px) {
+  .newsletter--wrapper {
+    justify-content: center;
+  }
+
+  .newsletter--heading {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .newsletter--subheading {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .newsletter--inputs {
+    flex-direction: column;
+  }
+
+  .newsletter--inputs button {
+    margin-top: 25px;
+    align-self: center;
+
+    width: 100%;
+    height: 40px;
+    font-size: 12px;
+  }
+
+  .newsletter--body {
+    margin-top: 60px;
+  }
+
+  .newsletter--formBox label {
+    font-size: 12px;
+  }
+
+  .newsletter--formBox input {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,128 @@
+{% comment %}
+    Accepts:
+    - desktop_url: {String} desktop video cdn (optional)
+    - mobile_url: {String} mobile video cdn (optional)
+
+    Usage:
+    {% render 'video-snippet', desktop_url: desktop_url %}
+{% endcomment %}
+
+<style>
+    @media (min-width: 750px) {
+        .desktop-hidden {
+            display: none;
+        }
+    }
+
+    @media (max-width: 750px) {
+        .mobile-hidden {
+            display: none;
+        }
+    }
+</style>
+
+{% if desktop_url != blank or mobile_url != blank %}
+    <div style="width: 100%; height: auto;" class="{% if desktop_url == blank %} desktop-hidden{% endif %}{% if mobile_url == blank %} mobile-hidden{% endif %}">
+        <video-element {% if desktop_url != blank %} data-desktop="{{desktop_url}}"{% endif %}{% if mobile_url != blank %} data-mobile="{{mobile_url}}"{% endif %}>
+            <video muted="true" autoplay="" loop="" playsinline="" preload="auto" data-loaded="true" style="width: 100%; height: auto;">
+            </video>
+        </video-element>
+    </div>
+{% endif %}
+
+<script>
+    class LazyLoad extends HTMLElement {
+        constructor() {
+            super();
+        
+            this.options = {
+                selector: ['data-src'],
+                rootMargin: '550px 0px',
+                threshold: 0.01
+            };
+        
+            this.desktopSrc = this.getAttribute("data-desktop");
+            this.mobileSrc = this.getAttribute("data-mobile") || this.desktopSrc;
+            this.desktopSrc = this.desktopSrc || this.mobileSrc;
+        
+            this.desktopRatio = this.getAttribute("data-desktop-ratio");
+            this.mobileRatio = this.getAttribute("data-mobile-ratio") || this.desktopRatio;
+            this.desktopRatio = this.desktopRatio || this.mobileRatio;
+        
+            this.init();
+        }
+        
+        init() {
+            this.isMobile = this.checkMobile();
+            const assetsObserver = new IntersectionObserver((entries, assetsObserver) => {
+            entries.filter(entry => entry.isIntersecting).forEach(entry => {
+        
+                this.loadAsset();
+                assetsObserver.unobserve(entry.target);
+            });
+            }, this.options);
+        
+            assetsObserver.observe(this);
+        }
+        
+        loadAsset() {
+            if (!this.getAttribute("data-lazyloaded")) {
+                this.setAttribute("data-lazyloaded", true);
+                return;
+            }
+        }
+        
+        checkMobile() {
+            if (innerWidth > 750) {
+                return false;
+            }
+            return true;
+        }
+    }
+    
+    customElements.define('lazy-load', LazyLoad);
+    
+    class VideoElement extends LazyLoad {
+        constructor() {
+            super();
+            this.video = this.querySelector("video");
+        
+            window.addEventListener("resize", this.resizeHandler.bind(this));
+        }
+        
+        resizeHandler(e) {
+            // fire at the very first change
+            if (innerWidth > 750 && this.isMobile) {
+                this.isMobile = false;
+                this.loadAsset();
+            } else if (innerWidth < 750 && !this.isMobile) {
+                this.isMobile = true;
+                this.loadAsset();
+            }
+        }
+        
+        loadAsset() {
+            this.loaded = Boolean(this.getAttribute("data-lazyloaded"));
+            this.video.src = this.isMobile ? this.mobileSrc : this.desktopSrc;
+        
+            this.shouldNotAutoPlay = Boolean(this.getAttribute("shouldnotautoplay"))
+        
+            if (!this.loaded) {
+                if (this.isMobile) {
+                    this.video.autoplay = true;
+                }
+                this.video.addEventListener("loadeddata", (e) => {
+                    if (this.shouldNotAutoPlay) {
+                        this.video.pause()
+                    } else {
+                        this.video.play()
+                    }
+                })
+            
+                this.setAttribute("data-lazyloaded", true);
+            }
+        }
+    }
+    
+    customElements.define('video-element', VideoElement);
+</script>
