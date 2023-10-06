@@ -40,7 +40,7 @@
       endcapture
     endif
   else
-    assign collection_title = collection.title
+    assign collection_title = section.settings.header
 
     if collection.image.size > 0 and section.settings.featured-collection--image--show
       capture collection_image
@@ -66,15 +66,27 @@
   data-section-type="index_featured_collection"
   data-spacing-above="{{ spacing_above }}"
   data-spacing-below="{{ spacing_below }}"
-  style="display:grid;"
+  style="display:grid; background: #F7F6F0 !important"
 >
   <div class="featured-collection--header" data-container="block">
     <div class="featured-collection--header-text">
       <h2 class="featured-collection--title" data-item="section-heading">
         <a href="{{ collection.url }}">
-          {{- collection_title -}}
+          {{ section.settings.header }}
         </a>
       </h2>
+
+      <div >
+        <a href="{{ collection.url }}">
+          {{ section.settings.eyebrow }}
+        </a>
+      </div>
+
+      <div class="feature-shop-cta only-dsk" style="text-align: right">
+        <a href="{{ collection.url }}" style="border-bottom: 1px solid #13613E; text-align:right" >
+          {{ section.settings.cta }}
+        </a>
+      </div>
 
       {%- if collection_description.size > 0 -%}
         <div class="featured-collection--description" data-item="paragraph">
@@ -92,12 +104,14 @@
 
   <div
     class="featured-collection--products"
+    style="display: flex; flex-direction: column; align-items: center"
     data-display-type="{{ display_type }}"
     data-container="panel"
     {%- if display_type == 'grid' -%}
       data-columns="{{ product_per_row_desktop }}"
       data-mobile-columns="{{ product_per_row_mobile }}"
     {%- endif -%}
+    
   >
     {%- liquid
       if display_type == 'slideshow'
@@ -105,7 +119,7 @@
           echo skip_link_t
         echo '</a>'
 
-        render 'carousel', view: 'product', section_id: section.id, onboarding: onboarding, bg_color: bg_color, blocks: collection.products, blocks_per_slide: 4, blocks_per_slide_mobile: 2, dot_nav_enabled: true, total_blocks: max_products, spacing_around_blocks: true, transition_type: 'slide'
+        render 'disrupt-carousel', option: 1,  blocks: collection.products
 
       else
         if onboarding
@@ -128,10 +142,222 @@
   </div>
 </div>
 
+<style>
+  .carousel--root {
+    background: #F7F6F0 !important;
+  }
+
+  .featured-collection--header {
+    max-width: 1200px !important;
+    width: 1200px;
+  }
+
+  .disrupt-carousel_container {
+    width: 1200px;
+    overflow-x: auto;
+    position: relative;
+  }
+
+  .disrupt-carousel_container::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  .disrupt-carousel_container::-webkit-scrollbar-track {
+    background: #A5BCB4;
+  }
+
+  .disrupt-carousel_container::-webkit-scrollbar-thumb {
+    background: #3A7762;
+  }
+
+
+  .disrupt-carousel_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    width: calc({{collection.products | size}}px * 408);
+    margin-bottom:30px;
+  }
+
+  .carousel-product-img {
+    width: 384px;
+    height: 100%
+  }
+
+  
+  .carousel-title {
+    text-align: left;
+    font-size: 35px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    color: #13613E;
+    opacity: 1;
+    margin-top: 8px;
+  }
+
+  .carousel-body {
+    text-align: left;
+    font-size: 16px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    color: #13613E;
+    opacity: 1;
+  }
+  
+  .carousel-price {
+    text-align: left;
+    font-size: 34px;
+    line-height: 44px;
+    letter-spacing: 0px;
+    color: #13613E;
+    opacity: 1;
+    margin-top: 5px;
+  }
+
+  .carousel-shop-btn {
+    width: 100%; 
+    height: 90px;
+    border: 1px solid #13613E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #13613E;
+    margin-top: 30px;
+    font-size: 32px;
+    line-height: 1;
+  }
+
+  .carousel-shop-btn_wrapper {
+    margin-top: 7px;
+  }
+
+  .carousel-card_wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 384px;
+  }
+
+  @media(max-width: 750px) {
+
+    .featured-collection--header {
+      max-width: 100% !important;
+      width: 100%;
+    }
+
+    .carousel-card_wrap {
+      width: 100%;
+      max-width: 162px;
+      margin-bottom: 35px;
+    }
+
+    .disrupt-carousel_container {
+      width: 100%;
+      overflow-x: auto;
+      position: relative;
+      padding: 0 20px;
+    }
+
+    .disrupt-carousel_wrapper {
+      margin-bottom: 0;
+    }
+
+    .disrupt-carousel_wrapper {
+      display: flex;
+      gap: 0;
+      width: 100%;
+      justify-content: space-between;
+    }
+
+    .carousel-product-img {
+      width: 100%;
+    }
+
+    .carousel-title {
+      text-align: left;
+      font-size: 15px;
+      line-height: 20px;
+      letter-spacing: 0px;
+      color: #13613E;
+      opacity: 1;
+      margin-top: 8px;
+    }
+
+    .carousel-body {
+      text-align: left;
+      font-size: 9px;
+      line-height: 11px;
+      letter-spacing: 0px;
+      color: #13613E;
+      opacity: 1;
+      margin-top: 7px;
+    }
+    
+    .carousel-price {
+      text-align: left;
+      font-size: 15px;
+      line-height: 16px;
+      letter-spacing: 0px;
+      color: #13613E;
+      opacity: 1;
+      margin-top: 7px;
+    }
+
+    .carousel-shop-btn {
+      width: 100%; 
+      height: 38px;
+      border: 1px solid #13613E;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #13613E;
+      margin-top: 7px;
+      font-size: 12px;
+      line-height: 22px;
+    }
+
+    .featured-collection--root {
+      padding-bottom: 0 !important;
+    }
+  }
+
+  
+
+
+</style>
+
 {% schema %}
 {
-  "name": "Featured collection",
+  "name": "Disrupt collections",
   "settings": [
+    {
+      "type": "header",
+      "content": "Text banner settings"
+    },
+    {
+      "type": "text",
+      "id": "header",
+      "label": "header",
+      "default": "WELL-AGING ESSENTIALS"
+    },
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "OUR BEST SELLING MUST HAVES"
+    },
+    {
+      "type": "text",
+      "id": "cta",
+      "label": "cta",
+      "default": "SHOP ALL"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "CTA Link"
+    },
     {
       "type": "collection",
       "id": "collection",
@@ -224,7 +450,7 @@
   ],
   "presets": [
     {
-      "name": "Featured collection"
+      "name": "Disrupt collections"
     }
   ]
 }

@@ -1,0 +1,77 @@
+
+{% if option == 1 %}
+  <div class="disrupt-carousel_container">
+    <div class="disrupt-carousel_wrapper">
+      {%- for block in blocks limit: total_blocks -%}
+        <div class="carousel-card_wrap {% if forloop.last %}only-dsk{% endif %}">
+          <div>
+            <div>
+              <img class="carousel-product-img" src="{{block.featured_media | image_url}}" >
+            </div>
+            <div class="carousel-title">
+              {{block.title}}
+            </div>
+            <div class="carousel-body">
+              HYDROGEL BRIGHTENING & GLOW EYE PATCH
+            </div>
+            <div class="carousel-price">
+              {{block.price | money_without_trailing_zeros}}
+            </div>
+          </div>
+
+          <div class="carousel-shop-btn_wrapper">
+            <a class="carousel-shop-btn" href="{{block.url}}">
+              SHOP NOW
+            </a>
+          </div>
+        </div>
+        {% if forloop.last %}
+        <div class="carousel-card_wrap {% if forloop.last %}only-mb{% endif %}">
+          <div>
+            <div>
+            <img class="carousel-product-img" src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/9.jpg?v=1696563538" >
+            </div>
+            <div class="carousel-title">
+              Shop our<br>Best Seller
+            </div>
+
+            <div class="carousel-shop-link_wrapper">
+              <a class="carousel-shop-link" href="{{block.url}}" style="font-size:12px; line-height:14px; border-bottom: 1px solid #13613E;">
+                VIEW MORE
+              </a>
+            </div>
+            </div>
+            <div class="carousel-shop-btn_wrapper">
+              <a class="carousel-shop-btn" href="{{block.url}}">
+                ESSENTIALS
+              </a>
+            </div>
+        </div>
+        {% endif %}
+
+      
+
+      {% endfor %}
+    </div>
+  </div>
+{% elsif option == 2 %}
+  <div class="disrupt-essential_container">
+    <div class="disrupt-essential_wrapper">
+      {%- for block in blocks limit: total_blocks -%}
+        <div class="essential-card_wrap {% if forloop.last %}only-dsk{% endif %}">
+          <div>
+            <img class="essential-product-img" src="{{block.featured_media | image_url}}" >
+          </div>
+          <div style="display:flex; justify-content:space-between; flex-direction: column">
+            <div class="essential-title">
+              {{block.title}}
+            </div>
+            <div class="essential-price">
+              {{block.price | money_without_trailing_zeros}}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}
