@@ -58,6 +58,32 @@
     color: var(--skin-test-color--sub) !important;
   }
 
+  @media (max-width: 1920px) {
+    .skin-test-header__title {
+      font-size: 30px;
+    }
+  
+    .skin-test-start-body__desc {
+      font-size: 26px;
+    }
+  
+    .skin-test-body__question-font {
+      font-size: 46px;
+    }
+  
+    .skin-test-body__answer-button {
+      font-size: 26px;
+    }
+  
+    .skin-test-body__number {
+      font-size: 30px;
+    }
+  
+    .skin-test-footer__back {
+      font-size: 26px;
+    }
+  }
+
   @media (max-width: 750px) {
     .skin-test-header__title {
       font-size: 30px;
@@ -467,6 +493,102 @@
     color: var(--skin-test-color--main);
   }
 
+  .skin-test-result-body__email {
+  }
+
+  .skin-test-result-body__email-wrapper {
+    padding: 140px var(--result-line-spacing-right);
+    {% comment %} max-width: 1300px; {% endcomment %}
+    margin: auto;
+  }
+
+  .skin-test-result-body__email-title {
+    font-size: 40px;
+    line-height: 1.25;
+    color: var(--skin-test-color--main);
+    text-align: center;
+    margin-bottom: 87px;
+    font-weight: 400;
+  }
+
+  .skin-test-result-body__email-form {
+    
+  }
+
+  .skin-test-result-body__email-form .newsletter--formBox {
+    width: 100%;
+    margin-right: 18px;
+  }
+
+  .skin-test-result-body__email-form .newsletter--inputs {
+    display: flex;
+    justify-content: center;
+  }
+
+  .skin-test-result-body__email-form input {
+    outline: 0;
+    border: 1px solid var(--skin-test-color--main);
+    font-size: 40px;
+    line-height: 1.25;
+    background-color: unset;
+    height: 100%;
+    margin: 0 !important;
+  }
+
+
+  .skin-test-result-body__email-form input::placeholder {
+    color: var(--skin-test-color--sub);
+  }
+
+  .skin-test-result-body__email-form button {
+    width: 320px;
+    height: 80px;
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background: var(--skin-test-color--main) !important;
+    color: white !important;
+    align-self: flex-end;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media (max-width: 1920px) {
+    .skin-test-result-body__subtitle {
+      font-size: 20px;
+    }
+  
+    .skin-test-result-body__title {
+      font-size: 46px;
+    }
+  
+    .skin-test-result-body__roco-name {
+      font-size: 21px;
+    }
+    
+    .skin-test-result-body__roco-price {
+      font-size: 21px;
+    }
+  
+    .skin-test-result-body__message {
+      font-size: 21px;
+    }
+
+    .skin-test-result-body__email-title {
+      font-size: 26px;
+    }
+
+    .skin-test-result-body__email-form input {
+      font-size: 26px;
+    }
+
+    .skin-test-result-body__email-form button {
+      font-size: 23px;
+    }
+  }
+
   @media (max-width: 750px) {
     .skin-test-result-body__subtitle {
       font-size: 12px;
@@ -485,6 +607,37 @@
     }
   
     .skin-test-result-body__message {
+      font-size: 12px;
+    }
+
+    .skin-test-result-body__email-wrapper {
+      padding-top: 64px;
+      padding-bottom: 64px;
+    }
+
+    .skin-test-result-body__email-form .newsletter--formBox {
+      margin-right: 0;
+      margin-bottom: 40px;
+    }
+  
+    .skin-test-result-body__email-form .newsletter--inputs {
+      flex-direction: column;
+    }
+
+    .skin-test-result-body__email-title {
+      font-size: 15px;
+      margin-bottom: 12px;
+    }
+
+    .skin-test-result-body__email-form input {
+      width: 100%;
+      height: 35px;
+      font-size: 13px;
+    }
+
+    .skin-test-result-body__email-form button {
+      width: 100%;
+      height: 35px;
       font-size: 12px;
     }
   }
@@ -734,7 +887,51 @@
             </div>
           </div>
         </div>
-        <div class="skin-test-result-body skin-test-result-body__email"></div>
+        {% comment %} <div class="skin-test-result-body skin-test-result-body__email">
+          <div class="skin-test-result-body__email-wrapper font-acumin">
+            <div class="skin-test-result-body__email-title">
+              Send the result to your email!
+            </div>
+            <div class="skin-test-result-body__email-form">
+              {%- form 'customer', id: form_id, class: 'newsletter--form' -%}
+                <div class="newsletter--inputs">
+                  <input type="hidden" name="contact[tags]" value="newsletter"/>
+                  <div class="newsletter--formBox">
+                    <input
+                      class="newsletter--email"
+                      id="newsletter-email"
+                      name="contact[email]"
+                      type="email"
+                      autocomplete="email"
+                      required
+                      placeholder="Your email address"
+                    />
+                  </div>
+                  <button type="submit" class="font-acumin">
+                    SEND
+                  </button>
+                </div>
+        
+                {%- if form.errors -%}
+                  <p class="newsletter--failure">
+                  {%- for field in form.errors -%}
+                    {{- field }} {{ form.errors.messages[field] -}}
+                  {%- endfor -%}
+                  </p>
+                {%- endif -%}
+        
+                {%- if form.posted_successfully? -%}
+                  <script>window.location.hash = '#feedback-bar--newsletter';</script>
+                {%- endif -%}
+        
+                <div data-item="hidden-text">
+                  {%- comment -%} remove the below line to display reCAPTCHA badge {%- endcomment -%}
+                  {{- 'shopify.online_store.spam_detection.disclaimer_html' | t -}}
+                </div>
+              {%- endform -%}
+            </div>
+          </div>
+        </div> {% endcomment %}
       </div>
     </div>
   </div>
