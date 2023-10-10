@@ -2,17 +2,20 @@
 <style>
   .font-ambroise {
     /* light: 300 */
-    font-family: "Poppins";
+    font-family: "ambroise-std";
+    font-weight: 300;
   }
 
   .font-compact {
     /* light: 300 */
-    font-family: "Poppins";
+    font-family: "acumin-pro";
+    font-weight: 300;
   }
 
   .font-acumin {
     /* regular: 400, light: 300 */
-    font-family: "Roboto";
+    font-family: "acumin-pro";
+    font-weight: 300;
   }
 
   .skin-test-header__title {
@@ -284,7 +287,7 @@
   }
   
   .skin-test-footer__back {
-  
+    text-decoration: underline;
   }
   
   .skin-test-footer__logo {
@@ -567,6 +570,10 @@
   .skin-test-result-body__total-message {
   
   }
+
+  .skin-test-result-body__total-message + .skin-test-result-body__total-message {
+    margin-top: 32px;
+  }
   
   .skin-test-result-body__total-title {
     font-weight: 400;
@@ -628,11 +635,15 @@
       padding-top: 30px;
       padding-bottom: 30px;
     }
+
+    .skin-test-result-body__total-message + .skin-test-result-body__total-message {
+      margin-top: 12px;
+    }
   }
 </style>
 
 <section id="skin-test-vue" class="skin-test">
-  <div :class="`skin-test-wrapper skin-test-wrapper-${status}`">
+  <div :class="`font-ambroise skin-test-wrapper skin-test-wrapper-${status}`">
     <div class="skin-test-header">
       <div class="skin-test-header__wrapper">
         <div class="skin-test-header__title">SKIN TEST</div>
@@ -643,11 +654,11 @@
       <div class="skin-test-start-body">
         <div class="skin-test-start-body__wrapper">
           <div class="skin-test-start-body__title skin-test-body__question-font">Test Your Skin & Find Routine</div>
-          <div class="skin-test-start-body__desc">BY COMPREHENDING ITS SPECIFIC CONCERNS, WE CAN RECOMMEND THE MOST SUITABLE PRODUCTS FOR YOUR SKINCARE NEEDS.</div>
+          <div class="font-acumin skin-test-start-body__desc">BY COMPREHENDING ITS SPECIFIC CONCERNS, WE CAN RECOMMEND THE MOST SUITABLE PRODUCTS FOR YOUR SKINCARE NEEDS.</div>
           <div class="skin-test-start-body__logo">
             <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-logo.svg?v=1695982720" alt="skin-test-logo" />
           </div>
-          <button class="skin-test-start-body__button skin-test-body__answer-button" @click="next">
+          <button class="font-ambroise skin-test-start-body__button skin-test-body__answer-button" @click="next">
             Start
           </button>
         </div>
@@ -656,7 +667,7 @@
     
     <div v-if="status == 'play' || status == 'end'" style="display: flex; flex-direction: column; flex: 1;">
       <div v-if="status == 'play'" class="skin-test-body">
-        <div class="skin-test-body__number">
+        <div class="skin-test-body__number font-acumin">
           <span class="skin-test-body__number-current" v-html="`${step + 1}`"></span>
           <span>/</span>
           <span class="skin-test-body__number-total" v-html="`${lists.length}`"></span>
@@ -664,7 +675,7 @@
         <div class="skin-test-body__wrapper">
           <div class="skin-test-body__question skin-test-body__question-font" v-html="currentQuestion"></div>
           <div class="skin-test-body__answer">
-            <button class="skin-test-body__answer-item skin-test-body__answer-button" v-for="(list, index) in currentListAnswer" :key="`${index}`" @click="select(index)">
+            <button class="font-acumin skin-test-body__answer-item skin-test-body__answer-button" v-for="(list, index) in currentListAnswer" :key="`${index}`" @click="select(index)">
               <span v-html="`${list}`"></span>
             </button>
           </div>
@@ -675,7 +686,7 @@
         <div class="skin-test-end-body">
           <div class="skin-test-end-body__wrapper">
             <div class="skin-test-end-body__title skin-test-body__question-font">Thank you for taking the time to complete our SKIN TEST!</div>
-            <button class="skin-test-end-body__button skin-test-body__answer-button" @click="next">
+            <button class="skin-test-end-body__button skin-test-body__answer-button font-acumin" @click="next">
               See the result
             </button>
           </div>
@@ -684,7 +695,7 @@
 
       <div class="skin-test-footer">
         <div class="skin-test-footer__wrapper">
-          <button class="skin-test-footer__back" @click="prev()">Back</button>
+          <button class="skin-test-footer__back font-acumin" @click="prev()">Back</button>
           <div class="skin-test-footer__logo">
             <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-logo.svg?v=1695982720" alt="skin-test-logo" />
           </div>
@@ -696,54 +707,30 @@
       <div class="skin-test-result-body__wrapper">
         <div class="skin-test-result-body">
           <div class="skin-test-result-body__intro skin-test-result-body-wrapper-line">
-            <div class="skin-test-result-body__subtitle">Here is a Personalized Routine for You!</div>
-            <div class="skin-test-result-body__title">BOUTI Lover in their 20’s<br> recommended routines</div>
+            <div class="skin-test-result-body__subtitle font-acumin">Here is a Personalized Routine for You!</div>
+            <div class="skin-test-result-body__title" v-html="resultReco.title"></div>
             <div class="skin-test-result-body__reco">
-              <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in collections" :key="`reco-${itemInd}`">
+              <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in resultReco.collections" :key="`reco-${itemInd}`">
                 <div class="skin-test-result-body__roco-img">
-                  <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/reco_thumbanil.png?v=1696233543" alt="Boutijour product img" />
+                  <img :src="item.featured_image" alt="Boutijour product img" />
                 </div>
-                <div class="skin-test-result-body__roco-name">Lotus Leaf Anti Pollution Repairing Toner</div>
-                <div class="skin-test-result-body__roco-price">$30.00</div>
+                <div class="skin-test-result-body__roco-name" v-html="item.title"></div>
+                <div class="skin-test-result-body__roco-price" v-html="formatMoney(item.price)"></div>
               </div>
             </div>
           </div>
         </div>
-        <div class="skin-test-result-body skin-test-result-body__summary">
+        <div class="font-acumin skin-test-result-body skin-test-result-body__summary">
           <div class="skin-test-result-body__summary-img">
-            <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/reco_thumbanil.png?v=1696233543" alt="skin test result thumbnail" />
+            <img :src="resultReco.thumbnail" alt="skin test result thumbnail" />
           </div>
-          <div class="skin-test-result-body__message skin-test-result-body__summary-message">
-            In our 20s, our skin is typically at its prime in terms of collagen production and cell turnover, but it’s still important to take good care of it to maintain its youthful appearance and prevent from ‘skin aging’ such as pigmentation, sagging and wrinkles. Collagen production in the skin does start to decline from our mid-20s. It’s essential to keep skin hydrated and protect the skin from daily sun exposure.
-            <br><br>
-            Especially, if you love being out in the sun and outdoor activities, proper way of preventing from the UV/Sunlight suncare is essential. Protecting your skin from sunlight can certainly slow down the aging process and help maintain a more youthful appearance. Sun exposure is one of the primary factors that accelerate the aging of the skin, leading to premature aging signs.
-          </div>
+          <div class="skin-test-result-body__message skin-test-result-body__summary-message" v-html="resultReco.summary"></div>
         </div>
-        <div class="skin-test-result-body">
+        <div class="font-acumin skin-test-result-body">
           <div class="skin-test-result-body__total skin-test-result-body-wrapper-line">
-            <div class="skin-test-result-body__message skin-test-result-body__total-message">
-              <span class="skin-test-result-body__total-title">Acne: </span>
-              <span class="skin-test-result-body__total-desc">Many people continue to deal with acne well into their 20s. It can be caused by hormonal fluctuations, diet, stress, or genetics. Proper skincare and sometimes medical intervention can help manage acne. </span>
-            </div>
-            <br>
-            <div class="skin-test-result-body__message skin-test-result-body__total-message">
-              <span class="skin-test-result-body__total-title">Sun Damage: </span>
-              <span class="skin-test-result-body__total-desc">Accumulated sun exposure can lead to early signs of aging like fine lines, wrinkles, and hyperpigmentation. It’s essential to use sunscreen daily and practice sun-safe behaviors. </span>
-            </div>
-            <br>
-            <div class="skin-test-result-body__message skin-test-result-body__total-message">
-              <span class="skin-test-result-body__total-title">Preventative Anti-Aging: </span>
-              <span class="skin-test-result-body__total-desc">While signs of aging may not be very noticeable in your 20s, it’s an excellent time to start preventative measures like using anti-aging products containing antioxidants and retinoids to maintain collagen production and skin elasticity. </span>
-            </div>
-            <br>
-            <div class="skin-test-result-body__message skin-test-result-body__total-message">
-              <span class="skin-test-result-body__total-title">Dehydration: </span>
-              <span class="skin-test-result-body__total-desc">Lack of hydration can make your skin look dull and tired. It’s crucial to use a moisturizer suitable for your skin type and drink plenty of water. </span>
-            </div>
-            <br>
-            <div class="skin-test-result-body__message skin-test-result-body__total-message">
-              <span class="skin-test-result-body__total-title">Uneven Skin Tone: </span>
-              <span class="skin-test-result-body__total-desc">Skin concerns like redness or uneven skin tone can become more noticeable in your 20s. Products containing ingredients like niacinamide or vitamin C can help address these issues.</span>
+            <div class="skin-test-result-body__message skin-test-result-body__total-message" v-for="resultMessage in resultReco.result">
+              <span class="skin-test-result-body__total-title" v-html="resultMessage.title"></span>
+              <span class="skin-test-result-body__total-desc" v-html="resultMessage.desc"></span>
             </div>
           </div>
         </div>
@@ -829,11 +816,159 @@
       ],
       step: 0,
       status: "start", // start, play, end, result,
-      collections: [0,1,2,3,4,5]
+      results: {
+        "20": {
+          title: "BOUTI Lover in their 20’s recommended routines",
+          collections: "",
+          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-20.jpg?v=1696908733",
+          summary: "In our 20s, our skin is typically at its prime in terms of collagen production and cell turnover, but it’s still important to take good care of it to maintain its youthful appearance and prevent from ‘skin aging’ such as pigmentation, sagging and wrinkles. Collagen production in the skin does start to decline from our mid-20s. It’s essential to keep skin hydrated and protect the skin from daily sun exposure. <br><br> Especially, if you love being out in the sun and outdoor activities, proper way of preventing from the UV/Sunlight suncare is essential. Protecting your skin from sunlight can certainly slow down the aging process and help maintain a more youthful appearance. Sun exposure is one of the primary factors that accelerate the aging of the skin, leading to premature aging signs.",
+          result: [
+            {
+              title: "Acne: ",
+              desc: "Many people continue to deal with acne well into their 20s. It can be caused by hormonal fluctuations, diet, stress, or genetics. Proper skincare and sometimes medical intervention can help manage acne."
+            },
+            {
+              title: "Sun Damage: ",
+              desc: "Accumulated sun exposure can lead to early signs of aging like fine lines, wrinkles, and hyperpigmentation. It’s essential to use sunscreen daily and practice sun-safe behaviors."
+            },
+            {
+              title: "Preventative Anti-Aging: ",
+              desc: "While signs of aging may not be very noticeable in your 20s, it’s an excellent time to start preventative measures like using anti-aging products containing antioxidants and retinoids to maintain collagen production and skin elasticity."
+            },
+            {
+              title: "Dehydration: ",
+              desc: "Lack of hydration can make your skin look dull and tired. It’s crucial to use a moisturizer suitable for your skin type and drink plenty of water."
+            },
+            {
+              title: "Uneven Skin Tone: ",
+              desc: "Skin concerns like redness or uneven skin tone can become more noticeable in your 20s. Products containing ingredients like niacinamide or vitamin C can help address these issues."
+            }
+          ]
+        },
+        "30": {
+          title: "BOUTI Lover in their 30’s routine with sensitive skin.",
+          collections: "",
+          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-30.jpg?v=1696908732",
+          summary: "In our 30s, your skin’s needs and concerns can evolve, and it’s essential to adjust your skincare routine accordingly to address these changes. Here are some essential skincare steps and considerations for people in their 30s. Also If you have sensitive skin in your 30s, it’s essential to choose skincare products and routines that are clean, non-sensitive, gentle and soothing while still addressing your skin’s specific needs. Here are essential skincare steps and considerations for individuals with sensitive skin in our 30s:",
+          result: [
+            {
+              title: "Cleansing: ",
+              desc: "Continue to cleanse your face twice a day, morning and night, to remove dirt, oil, and makeup. Choose a gentle cleanser that doesn’t strip your skin’s natural oils."
+            },
+            {
+              title: "Sunscreen: ",
+              desc: "Sunscreen remains a crucial step in your skincare routine. Opt for a broad-spectrum sunscreen with SPF 30 or higher and apply it every morning, even on cloudy days. Reapply if you spend extended periods outdoors."
+            },
+            {
+              title: "Anti-Aging Products: ",
+              desc: "Consider incorporating anti-aging products into your routine."
+            },
+            {
+              title: "Antioxidants: ",
+              desc: "Products containing antioxidants, such as vitamin C or E, can protect your skin from free radical damage and promote a more youthful complexion."
+            },
+            {
+              title: "Peptides: ",
+              desc: "Peptides may help boost collagen production and improve skin elasticity."
+            },
+            {
+              title: "Moisturizer: ",
+              desc: "Choose a hydrating and nourishing moisturizer suitable for your skin type to help maintain skin barrier function and keep your skin supple."
+            }
+          ]
+        },
+        "30_combination": {
+          title: "BOUTI Lover in their 30’s routine with combination needs.",
+          collections: "",
+          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-30-combination.jpg?v=1696908733",
+          summary: "In your 30s, your skin’s needs and concerns can evolve, and it’s essential to adjust your skincare routine accordingly to address these changes. Here are some essential skincare steps and considerations for people in their 30s with sensitive skin :",
+          result: [
+            {
+              title: "Cleansing: ",
+              desc: "Continue to cleanse your face twice a day, morning and night, to remove dirt, oil, and makeup. Choose a gentle cleanser that doesn’t strip your skin’s natural oils."
+            },
+            {
+              title: "Sunscreen: ",
+              desc: "Sunscreen remains a crucial step in your skincare routine. Opt for a broad-spectrum sunscreen with SPF 30 or higher and apply it every morning, even on cloudy days. Reapply if you spend extended periods outdoors."
+            },
+            {
+              title: "Anti-Aging Products: ",
+              desc: "Consider incorporating anti-aging products into your routine"
+            },
+            {
+              title: "Antioxidants: ",
+              desc: "Products containing antioxidants, such as vitamin C or E, can protect your skin from free radical damage and promote a more youthful complexion."
+            },
+            {
+              title: "Peptides: ",
+              desc: "Peptides may help boost collagen production and improve skin elasticity."
+            },
+            {
+              title: "Moisturizer: ",
+              desc: "Choose a hydrating and nourishing moisturizer suitable for your skin type to help maintain skin barrier function and keep your skin supple."
+            }
+          ]
+        },
+        "40": {
+          title: "BOUTI Lover in their 40’s routine with aging-processed skin",
+          collections: "",
+          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-40.jpg?v=1696908732",
+          summary: "In our 40s, your skin undergoes various changes due to the natural aging process, which may include decreased collagen production, reduced skin elasticity, and increased dryness. To address these changes and maintain healthy, youthful-looking skin, consider the following essential skincare steps:",
+          result: [
+            {
+              title: "Cleansing: ",
+              desc: "Continue using a gentle cleanser to remove dirt, oil, and makeup. Avoid harsh or overly drying cleansers, as your skin may become more sensitive with age."
+            },
+            {
+              title: "Sunscreen: ",
+              desc: "Sun protection remains crucial in your 40s. Use a broad-spectrum sunscreen with SPF 30 or higher daily, and reapply as needed when exposed to the sun."
+            },
+            {
+              title: "Moisturizer: ",
+              desc: "Choose a hydrating and richer moisturizer than what you might have used in your 30s. Look for ingredients like hyaluronic acid, ceramides, and peptides to support skin hydration and barrier function."
+            },
+            {
+              title: "Melasma: ",
+              desc: "Melasma is a specific type of pigmentation issue characterized by brown or gray-brown patches on the face, particularly on the cheeks, forehead. It’s more common in women, and hormonal changes, such as those that occur during pregnancy (chloasma or “pregnancy mask”) or as a result of birth control pills, can trigger or worsen it."
+            },
+            {
+              title: "Anti-Aging Products: Retinoids: ",
+              desc: "Continue or start using retinoids (retinol, tretinoin) to stimulate collagen production, reduce the appearance of fine lines and wrinkles, and improve skin texture. Gradually increase usage to minimize irritation."
+            },
+            {
+              title: "Antioxidants: ",
+              desc: "Use antioxidant-rich products containing vitamins C and E to protect your skin from free radicals and environmental damage."
+            },
+            {
+              title: "Peptides: ",
+              desc: "Peptide-based products may help enhance collagen production and improve skin firmness."
+            },
+            {
+              title: "Eye Winle Care: ",
+              desc: "Invest in an eye cream specifically formulated to address common concerns in the eye area, such as crow's feet, puffiness, and dark circles with eye age preventing mask or cream products."
+            },
+            {
+              title: "Hormone Changes: ",
+              desc: "Perimenopause and menopause can lead to hormonal shifts that affect your skin. Discuss these changes with your healthcare provider, as hormone replacement therapy may be an option."
+            },
+            {
+              title: "Customized Routine: ",
+              desc: "Tailor your skincare routine to your specific skin concerns, whether it's dryness, age spots, uneven tone, or other issues."
+            }     
+          ]
+        }
+      }
     },
     mounted() {
-      // console.log("mounted?");
-      // this.getItems();
+      let collection_20 = {{ collections["skincare-routine-for-20s"].products | json }};
+      let collection_30 = {{ collections["skincare-routine-for-30s"].products | json }};
+      let collection_30_combination = {{ collections["skincare-routine-for-30s-combination"].products | json }};
+      let collection_40 = {{ collections["skincare-routine-for-40s-above"].products | json }};
+
+      this.results["20"].collections = collection_20;
+      this.results["30"].collections = collection_30;
+      this.results["30_combination"].collections = collection_30_combination;
+      this.results["40"].collections = collection_40;
     },
     computed: {
       currentQuestion() {
@@ -842,6 +977,36 @@
 
       currentListAnswer() {
         return this.lists[this.step].answer;
+      },
+
+      resultReco() {
+        let age = this.choose[0].answer;
+        let type = this.choose[2].answer;
+        if (age.includes("20")) {
+          return this.results["20"];
+        } else if (age.includes("30")) {
+          if (type) {
+            // I have facial redness and sensitive skin.
+            return this.results["30_combination"];
+          } else {
+            return this.results["30"];
+          }
+        } else if (age.includes("40")) {
+          return this.results["40"];
+        } else {
+          return {
+            title: "",
+            collections: "",
+            thumbnail: "",
+            summary: "",
+            result: [
+              {
+                title: "",
+                desc: ""
+              }
+            ]
+          }
+        }
       }
     },
     watch: {
@@ -854,16 +1019,6 @@
       }
     },
     methods: {
-      getItems() {
-        {% comment %} let collections = {{ collections["accessories"].products | json }};
-
-        let accItems = collections.reduce((prev, current) => {
-          return [
-            ...prev,
-            ...this.formatProduct(current)
-          ]
-        }, []); {% endcomment %}
-      },
       select(index) {
         if (this.step < this.lists.length) {
           this.choose[this.step].answer = this.currentListAnswer[index];
@@ -903,6 +1058,9 @@
           }
           this.step -= 1;
         }
+      },
+      formatMoney(price) {
+        return window.theme.utils.formatMoney(price);
       }
     }
   })
