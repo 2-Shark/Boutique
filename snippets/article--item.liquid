@@ -25,7 +25,7 @@
         </div>
       </a>
 
-      <h3 class="article--item--heading" data-item="block-heading">
+      <h3 class="article--item--heading amb-font" data-item="block-heading">
         <a href="{{ featured_article.url }}">
           {{- featured_article.title -}}
         </a>
@@ -79,23 +79,23 @@
         {%- render "placeholder", type: "image" -%}
       </div>
 
-      <h3 class="article--item--heading" data-item="block-heading">
+      <h3 class="article--item--heading amb-font" data-item="block-heading">
         {{- article_item_title_t -}}
       </h3>
 
       {%- if show_date -%}
-        <div class="article--item--date" data-item="light-accent-text">
+        <div class="article--item--date acu-font" data-item="light-accent-text">
           {{- article_date_t -}}
         </div>
       {%- endif -%}
 
       {%- if show_excerpt -%}
-        <div class="article--item--excerpt" data-item="paragraph">
+        <div class="article--item--excerpt acu-font" data-item="paragraph">
           {{- article_excerpt_t -}}
         </div>
       {%- endif -%}
 
-      <div class="article--item--read-more" data-item="block-link">
+      <div class="article--item--read-more acu-font" data-item="block-link">
         <a>{{ article_continue_reading_t }}</a>
       </div>
 

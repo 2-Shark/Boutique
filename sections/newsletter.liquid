@@ -66,13 +66,13 @@
 >
   <div class="newsletter--wrapper" data-container="block">
     {%- if heading != blank -%}
-      <h2 class="newsletter--heading" data-item="section-heading">
+      <h2 class="newsletter--heading amb-font" data-item="section-heading">
         {{- heading -}}
       </h2>
     {%- endif -%}
 
     {%- if subheading != blank -%}
-      <div class="newsletter--subheading" data-item="rte-content">
+      <div class="newsletter--subheading acu-font" data-item="rte-content">
         {{- subheading -}}
       </div>
     {%- endif -%}
@@ -82,7 +82,7 @@
         <div class="newsletter--inputs">
           <input type="hidden" name="contact[tags]" value="newsletter"/>
           <div class="newsletter--formBox">
-            <label for="newsletter-email">
+            <label for="newsletter-email acu-font">
               {{- email_placeholder_t -}}
             </label>
             <input
@@ -94,7 +94,7 @@
               required
             />
           </div>
-          <button type="submit" value="{{ button_t }}">
+          <button type="submit" value="{{ button_t }} acu-font">
             {{- button_t -}}
           </button>
         </div>
