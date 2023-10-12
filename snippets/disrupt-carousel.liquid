@@ -8,10 +8,18 @@
             <div style="position: relative" class="{% if block.images[1]  %}hover-wrapper{% endif %}">
               <img class="carousel-product-img" src="{{ block.featured_media | image_url}}" >
               {% if block.images[1]  %}
-
               <img class="carousel-product-img img-hover" src="{{ block.images[1] | image_url}}" style="position:absolute; top: 0; left:0; width: 100%;">
-
               {% endif  %}
+
+              <div class="aging-badge_wrapper">
+              {% if block.metafields.custom.isvogue.value %}
+                <div class="vogue-badge"><img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/KakaoTalk_Photo_2023-10-12-07-56-17_002.png?v=1697065038"></div>
+              {% endif %}
+
+              {% if block.metafields.custom.isbestseller.value %}
+                <div class="bestseller-badge">Best Seller</div>
+              {% endif %}
+              </div>
             </div>
             <div class="carousel-title">
               {{block.title}}
