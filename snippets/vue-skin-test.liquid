@@ -280,6 +280,25 @@
     margin-top: 57px;
   }
 
+  @media (max-width: 1920px) {
+    .skin-test-body__wrapper {
+      margin-top: 100px;
+    }
+
+    .skin-test-body__answer-item {
+      width: 610px;
+      height: 68px;
+    }
+
+    .skin-test-body__answer {
+      margin-top: 60px;
+    }
+  
+    .skin-test-body__answer-item + .skin-test-body__answer-item {
+      margin-top: 37px;
+    }
+  }
+
   @media (max-width: 750px) {
     .skin-test-body__wrapper {
       max-width: 300px;
@@ -318,6 +337,12 @@
   
   .skin-test-footer__logo {
     width: 80px;
+  }
+
+  @media (max-width: 1920px) {
+    .skin-test-footer {
+      padding: 0 var(--skin-test-padding-right) 50px var(--skin-test-padding-left);
+    }
   }
 
   @media (max-width: 750px) {
@@ -379,6 +404,20 @@
     text-transform: uppercase;
     font-style: italic;
     border: 1px solid var(--skin-test-color--main);
+  }
+
+  @media (max-width: 1920px) {
+    .skin-test-start-body__logo {
+      width: 120px;
+  
+      margin-top: 54px;
+    }
+    
+    .skin-test-start-body__button {
+      width: 402px;
+      height: 68px;
+      margin-top: 50px
+    }
   }
 
   @media (max-width: 750px) {
@@ -443,6 +482,13 @@
 
     margin-top: 144px;
     border: 1px solid var(--skin-test-color--main);
+  }
+
+  @media (max-width: 1920px) {
+    .skin-test-end-body__button {
+      width: 610px;
+      height: 68px;
+    }
   }
 
   @media (max-width: 750px) {
@@ -645,9 +691,9 @@
 
 <style>
   .skin-test-result-body__wrapper {
-    --line-padding-left: 184px;
-    --result-line-spacing-left: 126px;
-    --result-line-spacing-right: 310px;
+    --line-padding-left: 9.6vw;
+    --result-line-spacing-left: 6.4vw;
+    --result-line-spacing-right: 16vw;
   }
 
   .skin-test-result-body {
@@ -692,11 +738,11 @@
   }
   
   .skin-test-result-body__roco-name {
-    margin-top: 40px;
+    margin-top: 10px;
   }
   
   .skin-test-result-body__roco-price {
-    margin-top: 40px;
+    margin-top: 10px;
     align-self: end;
   }
   
@@ -712,7 +758,7 @@
   .skin-test-result-body__summary-message {
     flex: 1;
     max-width: 50%;
-    padding: 70px 220px 70px 70px
+    padding: 70px 11vw 70px 3.6vw;
   }
 
   .skin-test-result-body__total {
@@ -738,6 +784,42 @@
 
   .skin-test-result-body__email {
   
+  }
+
+  @media (min-width: 750px) and (max-width: 1920px) {
+
+    .skin-test-result-body__total {
+      padding-top: 100px;
+      padding-bottom: 80px;
+    }
+
+    .skin-test-result-body__summary {
+      position: relative;
+    }
+
+    .skin-test-result-body__summary-message {
+      height: 100%;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+
+    .skin-test-result-body__summary-message {
+      overflow: auto;
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+    }
+    
+    .skin-test-result-body__summary-message::-webkit-scrollbar {
+      display: none; /* Chrome, Safari, Opera*/
+    }
+  }
+
+  @media (min-width: 750px) and (max-width: 1920px) {
+    .skin-test-result-body__intro {
+      padding-top: 80px;
+      padding-bottom: 70px;
+    }
   }
 
   @media (max-width: 750px) {
