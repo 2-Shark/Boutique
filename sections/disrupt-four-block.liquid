@@ -1,0 +1,235 @@
+<div class="disrupt-four">
+
+  <div class="disrupt-main-txt align-text-center txt-color-grn f-mg-t-b ">
+    {{ section.settings.header }}
+  </div>
+
+  <div class="disrupt-four__wrapper">
+
+    {%- for block in section.blocks -%}
+      {% case block.type %}
+        {%- when 'image_text' -%}
+        <div class="four-card">
+          <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+            <source media="(max-width:750px)" srcset="{{block.settings.image_mobile | image_url}}">
+            <img src="{{block.settings.image_desktop | image_url}}" style="width: 100%; z-index: 1">
+          </picture>
+
+          <div class="disrupt-header-txt abs-center txt-color-wh">
+            {{ block.settings.header }}
+          </div>
+
+          <div class="four-link-container abs-bottom txt-color-wh">
+            <a href="{{block.settings.cta_link}}" class="disrupt-link-txt bd-b-w txt-color-wh">
+              {{ block.settings.cta }}
+            </a>
+          </div>
+        </div>
+      {%- endcase -%}
+    {%- endfor -%}
+
+  </div>
+
+</div>
+
+<style>
+
+
+
+  .disrupt-four {
+    width: 100%;
+    position: relative;
+  }
+
+  .disrupt-four__wrapper {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+  }
+
+  .four-card {
+    position: relative;
+    width: calc(100% / {{ section.blocks | size }});
+    height: calc(100vw / {{ section.blocks | size }} * 1.43);
+    overflow: hidden;
+  }
+
+  .abs-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .bd-b-w {
+    border-bottom: 1px solid white !important;
+  }
+  .txt-color-wh {
+    color: white !important;
+  }
+  .txt-color-grn {
+    color: #13613E !important;
+  }
+
+  .align-text-center {
+    text-align: center;
+  }
+
+  .abs-bottom {
+    position: absolute;
+    bottom: 55px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .disrupt-main-txt {
+    font-family: ambroise-std;
+    font-size: 55px;
+    line-height: 53px;
+    letter-spacing: 0;
+    z-index: 5;
+  }
+  .disrupt-header-txt {
+    font-family: ambroise-std;
+    font-size: 50px;
+    line-height: 53px;
+    letter-spacing: 0;
+    z-index: 5;
+  }
+  .disrupt-link-txt {
+    font-family: acumin-pro;
+    font-size: 25px;
+    line-height: 25px;
+    letter-spacing: 2.5px;
+    z-index: 5;
+  }
+
+  .four-link-container {
+    z-index: 5;
+    width: 100%;
+    text-align: center;
+  }
+
+  .f-mg-t-b {
+    margin-top: 41px;
+    margin-bottom: 44px;
+  }
+
+  @media(max-width: 1920px) {
+    .disrupt-main-txt {
+      font-family: ambroise-std;
+      font-size: 40px;
+      line-height: 1;
+      letter-spacing: 0;
+      z-index: 5;
+    }
+    .disrupt-header-txt {
+      font-family: ambroise-std;
+      font-size: 40px;
+      line-height: 1;
+      letter-spacing: 0;
+      z-index: 5;
+    }
+    .disrupt-link-txt {
+      font-size: 23px;
+      line-height: 1;
+      letter-spacing: 2.5px;
+      z-index: 5;
+    }
+  }
+
+  @media(max-width: 750px) {
+
+    .four-card {
+      position: relative;
+      width: 50%;
+      height: calc(50vw * 1.43);
+      overflow: hidden;
+    }
+
+    .f-mg-t-b {
+      margin-top: 22px;
+      margin-bottom: 16px;
+    }
+
+    .disrupt-main-txt {
+      font-size: 20px;
+      line-height: 25px;
+      letter-spacing: 0;
+      z-index: 5;
+    }
+    .disrupt-header-txt {
+      font-size: 18px;
+      line-height: 22px;
+      letter-spacing: 0;
+      z-index: 5;
+    }
+    .disrupt-link-txt {
+      font-size: 12px;
+      line-height: 25px;
+      letter-spacing: 1.2px;
+      z-index: 5;
+    }
+
+    .abs-bottom {
+      bottom: 21px;
+    }
+  }
+</style>
+{% schema %}
+  {
+    "name": "Disrupt four block",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Media Content"
+      }, {
+        "type": "text",
+        "id": "header",
+        "label": "Header",
+        "default": "SUPER WELL AGING RITUAL"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "image_text",
+        "name": "add image text",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image_desktop",
+            "label": "Desktop image"
+          },
+          {
+            "type": "image_picker",
+            "id": "image_mobile",
+            "label": "Mobile image"
+          },
+          {
+            "type": "text",
+            "id": "header",
+            "label": "Header",
+            "default": "Hydration"
+          },
+          {
+            "type": "text",
+            "id": "cta",
+            "label": "cta",
+            "default": "cta"
+          }, {
+            "type": "url",
+            "id": "cta_link",
+            "label": "cta link"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Disrupt four block"
+      }
+    ]
+  }
+{% endschema %}

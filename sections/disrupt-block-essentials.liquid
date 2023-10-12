@@ -66,12 +66,11 @@
   data-section-type="index_featured_collection"
   data-spacing-above="{{ spacing_above }}"
   data-spacing-below="{{ spacing_below }}"
-  style="display:grid; background: white !important"
->
+  style="display:grid; background: white !important">
   <div class="featured-collection--header" data-container="block">
-    <div class="featured-collection--header-text">
+    <div class="featured-collection--header-text cl-txt">
       <h2 class="featured-collection--title" data-item="section-heading">
-        <a href="{{ collection.url }}">
+        <a class="disrupt-main-txt" href="{{ collection.url }}">
           {{ section.settings.header }}
         </a>
       </h2>
@@ -92,16 +91,14 @@
   </div>
 
   <div
-    class="featured-collection--products pp" 
+    class="featured-collection--products pp"
     style="display: flex; flex-direction: column; align-items: center"
     data-display-type="{{ display_type }}"
     data-container="panel"
     {%- if display_type == 'grid' -%}
-      data-columns="{{ product_per_row_desktop }}"
-      data-mobile-columns="{{ product_per_row_mobile }}"
-    {%- endif -%}
-    
-  >
+    data-columns="{{ product_per_row_desktop }}"
+    data-mobile-columns="{{ product_per_row_mobile }}"
+    {%- endif -%}>
     {%- liquid
       if display_type == 'slideshow'
         echo '<a data-item="a11y-button" href="#featured-collection-show-more">'
@@ -137,6 +134,7 @@
     position: relative;
   }
 
+
   .disrupt-essential_container {
     width: 1200px;
     overflow-x: auto;
@@ -155,49 +153,56 @@
   }
 
   .disrupt-essential_container {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
   }
 
-
+  .wh {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+  }
 
   .disrupt-essential_container {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
     width: 1200px;
-    margin-bottom:30px;
+    margin-bottom: 30px;
   }
 
-  .essential-product-img { 
+  .essential-product-img {
     width: 100%;
     height: 100%
   }
 
-  
+
   .essential-title {
+    font-family: ambroise-std;
     text-align: center;
     font-size: 25px;
     line-height: 34px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     color: #13613E;
     opacity: 1;
     margin-top: 8px;
   }
 
   .essential-price {
+    font-family: ambroise-std;
     text-align: center;
     font-size: 24px;
     line-height: 34px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     color: #13613E;
     opacity: 1;
+    margin-top: 5px;
   }
 
   .essential-card_wrap {
     width: 282px;
   }
-  
+
 
   .carousel-shop-btn_wrapper {
     margin-top: 7px;
@@ -209,7 +214,47 @@
     justify-content: space-between;
   }
 
+  .pp {
+    margin: 0 !important;
+  }
+
+  @media(max-width: 1920px) {
+    .essential-title {
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .essential-price {
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .disrupt-essential_container {
+      width: calc(4 * 19.6vw);
+    }
+
+    .disrupt-essential_wrapper {
+      width: calc(4 * 19.6vw);
+    }
+    .essential-card_wrap {
+      width: 17.5vw;
+    }
+
+    .pp {
+      margin-top: 40px !important;
+    }
+  }
+
   @media(max-width: 750px) {
+
+    .cl-txt {
+      width: 100% !important;
+      max-width: unset !important;
+    }
+
+    .wh {
+      overflow-x: hidden;
+    }
 
     .featured-collection--header {
       max-width: 100% !important;
@@ -252,9 +297,9 @@
     }
 
     .disrupt-essential_container {
-      width: 100vw;
       overflow-x: auto;
       position: relative;
+      display: inline-block;
     }
 
     .disrupt-essential_container {
@@ -262,7 +307,7 @@
     }
 
     .disrupt-essential_container {
-      display: flex;
+      /*display: flex;*/
       gap: 0;
     }
 
@@ -273,7 +318,7 @@
     .essential-title {
       font-size: 13px;
       line-height: 19px;
-      letter-spacing: 0px;
+      letter-spacing: 0;
       color: #13613E;
       opacity: 1;
       margin-top: 8px;
@@ -282,7 +327,7 @@
     .essential-price {
       font-size: 13px;
       line-height: 19px;
-      letter-spacing: 0px;
+      letter-spacing: 0;
       color: #13613E;
       opacity: 1;
       margin-top: 7px;
@@ -292,125 +337,140 @@
       padding-bottom: 0 !important;
     }
   }
-
-  
-
-
 </style>
 
 {% schema %}
-{
-  "name": "Disrupt feature essential",
-  "settings": [
-    {
-      "type": "header",
-      "content": "Text banner settings"
-    },
-    {
-      "type": "text",
-      "id": "header",
-      "label": "header",
-      "default": "WELL-AGING ESSENTIALS"
-    },
-    {
-      "type": "url",
-      "id": "link",
-      "label": "CTA Link"
-    },
-    {
-      "type": "collection",
-      "id": "collection",
-      "label": "Collection"
-    },
-    {
-      "id": "max-products",
-      "label": "Maximum number of products",
-      "type": "range",
-      "min": 4,
-      "max": 12,
-      "step": 1,
-      "default": 8
-    },
-    {
-      "id": "background-color",
-      "label": "Background color",
-      "type": "select",
-      "options": [
-        { "label": "None", "value": "none" },
-        { "label": "Light", "value": "light" },
-        { "label": "Dark", "value": "dark" },
-        { "label": "Accent 1", "value": "accent-1" },
-        { "label": "Accent 2", "value": "accent-2" }
-      ],
-      "default": "none"
-    },
-    {
-      "id": "light-text",
-      "label": "Use light text color",
-      "type": "checkbox",
-      "default": false
-    },
-    {
-      "id": "spacing-above",
-      "label": "Spacing above",
-      "type": "checkbox",
-      "default": true
-    },
-    {
-      "id": "spacing-below",
-      "label": "Spacing below",
-      "type": "checkbox",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "featured-collection--image--show",
-      "label": "Show collection image",
-      "default": false
-    },
-    {
-      "type": "checkbox",
-      "id": "featured-collection--description--show",
-      "label": "Show collection description",
-      "default": false
-    },
-    {
-      "id": "display-type",
-      "label": "Display type",
-      "type": "radio",
-      "options": [
-        { "label": "Slideshow", "value": "slideshow" },
-        { "label": "Grid", "value": "grid" }
-      ],
-      "default": "slideshow"
-    },
-    {
-      "label": "Products per row (desktop)",
-      "id": "products-per-row--desktop",
-      "type": "radio",
-      "options": [
-        { "value": "3", "label": "3" },
-        { "value": "4", "label": "4" }
-      ],
-      "default": "3",
-      "info": "Applies to grid display only"
-    },
-    {
-      "label": "Product per row (mobile)",
-      "id": "products-per-row--mobile",
-      "type": "radio",
-      "options": [
-        { "value": "1", "label": "1" },
-        { "value": "2", "label": "2" }
-      ],
-      "default": "1",
-      "info": "Applies to grid display only"
-    }
-  ],
-  "presets": [
-    {
-      "name": "Disrupt feature essential"
-    }
-  ]
-}
+  {
+    "name": "Disrupt feature essential",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Text banner settings"
+      },
+      {
+        "type": "text",
+        "id": "header",
+        "label": "header",
+        "default": "WELL-AGING ESSENTIALS"
+      },
+      {
+        "type": "url",
+        "id": "link",
+        "label": "CTA Link"
+      },
+      {
+        "type": "collection",
+        "id": "collection",
+        "label": "Collection"
+      }, {
+        "id": "max-products",
+        "label": "Maximum number of products",
+        "type": "range",
+        "min": 4,
+        "max": 12,
+        "step": 1,
+        "default": 8
+      }, {
+        "id": "background-color",
+        "label": "Background color",
+        "type": "select",
+        "options": [
+          {
+            "label": "None",
+            "value": "none"
+          },
+          {
+            "label": "Light",
+            "value": "light"
+          },
+          {
+            "label": "Dark",
+            "value": "dark"
+          },
+          {
+            "label": "Accent 1",
+            "value": "accent-1"
+          }, {
+            "label": "Accent 2",
+            "value": "accent-2"
+          }
+        ],
+        "default": "none"
+      }, {
+        "id": "light-text",
+        "label": "Use light text color",
+        "type": "checkbox",
+        "default": false
+      }, {
+        "id": "spacing-above",
+        "label": "Spacing above",
+        "type": "checkbox",
+        "default": true
+      }, {
+        "id": "spacing-below",
+        "label": "Spacing below",
+        "type": "checkbox",
+        "default": true
+      }, {
+        "type": "checkbox",
+        "id": "featured-collection--image--show",
+        "label": "Show collection image",
+        "default": false
+      }, {
+        "type": "checkbox",
+        "id": "featured-collection--description--show",
+        "label": "Show collection description",
+        "default": false
+      }, {
+        "id": "display-type",
+        "label": "Display type",
+        "type": "radio",
+        "options": [
+          {
+            "label": "Slideshow",
+            "value": "slideshow"
+          }, {
+            "label": "Grid",
+            "value": "grid"
+          }
+        ],
+        "default": "slideshow"
+      }, {
+        "label": "Products per row (desktop)",
+        "id": "products-per-row--desktop",
+        "type": "radio",
+        "options": [
+          {
+            "value": "3",
+            "label": "3"
+          }, {
+            "value": "4",
+            "label": "4"
+          }
+        ],
+        "default": "3",
+        "info": "Applies to grid display only"
+      }, {
+        "label": "Product per row (mobile)",
+        "id": "products-per-row--mobile",
+        "type": "radio",
+        "options": [
+          {
+            "value": "1",
+            "label": "1"
+          }, {
+            "value": "2",
+            "label": "2"
+          }
+        ],
+        "default": "1",
+        "info": "Applies to grid display only"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Disrupt feature essential"
+      }
+    ]
+  }
 {% endschema %}

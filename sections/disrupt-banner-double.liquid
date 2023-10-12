@@ -9,9 +9,9 @@
       </picture>
 
       <div class="tp-d-banner-header only-mb" style="z-index: 5; position:relative">
-        {{section.settings.header}}
+        {{ section.settings.header }}
       </div>
-      
+
     </div>
 
     <div class="double-banner_right pd-t-162-l-90">
@@ -21,18 +21,20 @@
       </picture>
       <div class="double-banner-right-text_wrapper" style="z-index: 5;">
         <div class="tp-d-banner-header only-dsk">
-          {{section.settings.header}}
+          {{ section.settings.header }}
         </div>
-        <div class="tp-d-banner-body">
-          {{section.settings.body}}
-        </div>
-        <div class="link-container">
-          <a class="tp-d-banner-cta" href="#">
-            {{section.settings.cta}}
-          </a>
+        <div class="f-height">
+          <div class="tp-d-banner-body">
+            {{ section.settings.body }}
+          </div>
+          <div class="link-container">
+            <a class="tp-d-banner-cta" href="#">
+              {{ section.settings.cta }}
+            </a>
+          </div>
         </div>
       </div>
-     
+
     </div>
   </div>
 
@@ -41,7 +43,7 @@
 <style>
   .disrupt-double-banner {
     width: 100%;
-    height: 62.5vw;;
+    height: 62.5vw;
   }
 
   .disrupt-double-banner__wrapper {
@@ -52,7 +54,8 @@
     height: 100%;
   }
 
-  .double-banner_right, .double-banner_left {
+  .double-banner_right,
+  .double-banner_left {
     position: relative;
     width: 50%;
     height: 100%;
@@ -60,33 +63,41 @@
 
 
   .link-container {
-    margin-top: 42px;
+    ;
+    /*margin-top: 42px;*/
   }
 
   .double-banner-right-text_wrapper {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
   }
 
-  
+
   .tp-d-banner-header {
+    font-family: ambroise-std;
     text-align: left;
     font-size: 100px;
     line-height: 110px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     color: #13613E;
     opacity: 1;
   }
   .tp-d-banner-body {
+    font-family: acumin-pro;
     text-align: left;
     font-size: 30px;
-    line-height: 1.2;
-    letter-spacing: 0px;
+    line-height: 1.5;
+    letter-spacing: 0;
     color: #13613E;
     text-transform: uppercase;
     opacity: 1;
-    margin-top: 402px;
+    /*margin-top: 402px;*/
   }
   .tp-d-banner-cta {
+    font-family: acumin-pro;
     text-align: center;
     font-size: 25px;
     line-height: 1.2;
@@ -97,9 +108,47 @@
     border-bottom: 1px solid #13613E;
   }
 
+  .link-container {
+    margin-top: 48px !important;
+  }
+
   .pd-t-162-l-90 {
     padding-top: 162px;
     padding-left: 90px;
+    padding-bottom: 63px;
+  }
+
+  @media(max-width: 1920px) {
+
+    .pd-t-162-l-90 {
+      padding-top: 88px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    .pd-t-49-l-90 {
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 41px;
+    }
+
+    .tp-d-banner-header {
+      font-size: 60px;
+      line-height: 1;
+    }
+    .tp-d-banner-body {
+      font-size: 23px;
+      line-height: 1.8;
+    }
+    .tp-d-banner-cta {
+      font-size: 20px;
+      line-height: 1.2;
+    }
+
+    .link-container {
+      margin-top: 37px !important;
+    }
+
   }
 
   @media(max-width: 750px) {
@@ -128,9 +177,7 @@
     .pd-t-162-l-90 {
       display: flex;
       align-items: center;
-      padding-left: 20px;
-      padding-right: 20px;
-      padding-top: 0;
+      padding: 56px 20px 41px;
     }
 
     .pd-t-49-l-90 {
@@ -145,7 +192,7 @@
       text-align: left;
       font-size: 40px;
       line-height: 45px;
-      letter-spacing: 0px;
+      letter-spacing: 0;
       color: white;
       opacity: 1;
     }
@@ -153,7 +200,7 @@
       text-align: left;
       font-size: 12px;
       line-height: 20px;
-      letter-spacing: 0px;
+      letter-spacing: 0;
       color: #13613E;
       text-transform: uppercase;
       opacity: 1;
@@ -176,8 +223,11 @@
       border: 1px solid white;
     }
 
-    .link-container {
-      margin-top: 191px;
+    .f-height {
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
     }
   }
 
@@ -211,196 +261,164 @@
       {
         "type": "header",
         "content": "Media Content"
-      },
-      {
+      }, {
         "type": "image_picker",
         "id": "image_desktop_right",
         "label": "Desktop image right container"
-      },
-      {
+      }, {
         "type": "image_picker",
         "id": "image_mobile_right",
         "label": "Mobile image right container",
         "info": "Leave it blank if no need to show different mobile image."
-      },
-      {
+      }, {
         "type": "header",
         "content": "Text settings"
-      },
-      {
+      }, {
         "type": "text",
         "id": "header",
         "label": "Header",
         "default": "Redefining Anti-aging. We’re “Well-aging”"
-      },
-      {
+      }, {
         "type": "text",
         "id": "body",
         "label": "Body",
         "default": "NATURAL FORMULA WITH TECHNOLOGY FOR ADVANCED WELL-AGING."
-      },
-      {
+      }, {
         "type": "text",
         "id": "cta",
         "label": "CTA",
         "default": "ABOUT US"
-      },
-      {
+      }, {
         "type": "url",
         "id": "link",
         "label": "CTA Link"
-      },
-      {
+      }, {
         "type": "header",
         "content": "Media banner settings"
-      },
-      {
+      }, {
         "type": "select",
         "id": "inner_padding_left_right",
         "options": [
           {
             "value": "none",
             "label": "none"
-          },
-          {
+          }, {
             "value": "185",
             "label": "185"
-          },
-          {
+          }, {
             "value": "20",
             "label": "20"
           }
         ],
         "default": "185",
         "label": "Inner padding left and right"
-      },
-      {
+      }, {
         "type": "select",
         "id": "inner_padding_bottom",
         "options": [
           {
             "value": "none",
             "label": "none"
-          },
-          {
+          }, {
             "value": "166",
             "label": "166"
           }
         ],
         "default": "166",
         "label": "Inner padding bottom"
-      },
-      {
+      }, {
         "type": "color",
         "id": "background_color",
         "label": "Background color"
-      },
-      {
+      }, {
         "type": "color",
         "id": "text_color",
         "label": "Text color"
-      },
-      {
+      }, {
         "type": "select",
         "id": "content_alignment_horizontal",
         "options": [
           {
             "value": "left",
             "label": "left"
-          },
-          {
+          }, {
             "value": "center",
             "label": "center"
-          },
-          {
+          }, {
             "value": "right",
             "label": "right"
           }
         ],
         "default": "left",
         "label": "Content alignment(horizontal)"
-      },
-      {
+      }, {
         "type": "select",
         "id": "text_alignment",
         "options": [
           {
             "value": "left",
             "label": "left"
-          },
-          {
+          }, {
             "value": "center",
             "label": "center"
-          },
-          {
+          }, {
             "value": "right",
             "label": "right"
           }
         ],
         "default": "left",
         "label": "Text alignment"
-      },
-      {
+      }, {
         "type": "header",
         "content": "Section spacing"
-      },
-      {
+      }, {
         "type": "select",
         "id": "section_spacing",
         "options": [
           {
             "value": "none",
             "label": "none"
-          },
-          {
+          }, {
             "value": "150",
             "label": "150"
-          },
-          {
+          }, {
             "value": "60",
             "label": "60"
           }
         ],
         "default": "150",
         "label": "Spacing between sections"
-      },
-      {
+      }, {
         "type": "header",
         "content": "Section page width size"
-      },
-      {
+      }, {
         "type": "select",
         "id": "media_width_size",
         "options": [
           {
             "value": "full",
             "label": "Full"
-          },
-          {
+          }, {
             "value": "960",
             "label": "960"
-          },
-          {
+          }, {
             "value": "1200",
             "label": "1200"
           }
         ],
         "default": "full",
         "label": "Media part width size"
-      },
-      {
+      }, {
         "type": "select",
         "id": "text_width_size",
         "options": [
           {
             "value": "full",
             "label": "Full"
-          },
-          {
+          }, {
             "value": "960",
             "label": "960"
-          },
-          {
+          }, {
             "value": "1200",
             "label": "1200"
           }
@@ -415,4 +433,4 @@
       }
     ]
   }
-  {% endschema %}
+{% endschema %}

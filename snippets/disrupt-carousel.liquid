@@ -29,7 +29,11 @@
         <div class="carousel-card_wrap {% if forloop.last %}only-mb{% endif %}">
           <div>
             <div>
-            <img class="carousel-product-img" src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/9.jpg?v=1696563538" >
+            <!--<img class="carousel-product-img" src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/9.jpg?v=1696563538" >-->
+            <video controls autoplay loop style="width:100%;">
+              <source src="https://cdn.shopify.com/videos/c/o/v/4111081bfa8944e788f54db3ab713035.mp4" type="video/mp4">
+            </video>
+
             </div>
             <div class="carousel-title">
               Shop our<br>Best Seller
@@ -58,14 +62,14 @@
   <div class="disrupt-essential_container">
     <div class="disrupt-essential_wrapper">
       {%- for block in blocks limit: total_blocks -%}
-        <div class="essential-card_wrap {% if forloop.last %}only-dsk{% endif %}">
+        <div class="essential-card_wrap">
           <div>
             <img class="essential-product-img" src="{{block.featured_media | image_url}}" >
           </div>
           <div style="display:flex; justify-content:space-between; flex-direction: column">
-            <div class="essential-title">
+            <a href="{{ block.url }}" class="essential-title">
               {{block.title}}
-            </div>
+            </a>
             <div class="essential-price">
               {{block.price | money_without_trailing_zeros}}
             </div>

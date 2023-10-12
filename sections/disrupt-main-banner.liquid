@@ -20,6 +20,11 @@
 </div>
 
 <style>
+  .header--root {
+    background: transparent;
+    border-color: transparent;
+  }
+
   .disrupt-media-banner {
     width: 100%;
     height: 62.5vw;
@@ -36,6 +41,7 @@
   }
 
   .tp-banner-eyebrow {
+    font-family: acumin-pro;
     text-align: left;
     line-height: 48px;
     font-size: 30px;
@@ -51,9 +57,11 @@
     letter-spacing: 0px;
     color: #FFFFFF;
     margin-top:12px;
+    font-family: ambroise-std;
   }
 
   .tp-banner-cta {
+    font-family: acumin-pro;
     width: 290px;
     height: 80px;
     /* UI Properties */
@@ -68,6 +76,7 @@
     color: #FFFFFF !important;
     text-transform: uppercase;
     opacity: 1;
+    
   }
 
   .tp-banner-cta-container {
@@ -85,9 +94,63 @@
     margin-bottom: -117px;
   }
 
+  @media(max-width: 1920px) {
+
+    .tp-banner-eyebrow {
+      text-align: left;
+      line-height: 30px;
+      font-size: 23px;
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      text-transform: uppercase;
+    }
+  
+    .tp-banner-header {
+      text-align: left;
+      font-size: 60px;
+      line-height: 1;
+      letter-spacing: 0px;
+      color: #FFFFFF;
+      margin-top:12px;
+    }
+  
+    .tp-banner-cta {
+      width: 304px;
+      height: 70px;
+      /* UI Properties */
+      border: 1px solid #FFFFFF;
+  
+      display:flex;
+      align-items:center;
+      justify-content: center;
+      font-size: 23px;
+      line-height: 1;
+      letter-spacing: 0px;
+      color: #FFFFFF !important;
+      text-transform: uppercase;
+      opacity: 1;
+    }
+
+
+    .pd-185 {
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    .pd-b-166 {
+      padding-bottom: 10.6vw;
+      margin-bottom: -116px;
+    }
+  }
 
 
   @media(max-width: 750px) {
+
+    .header--root {
+      background: white;
+      border-color: white;
+    }
+
     .disrupt-media-banner {
       width: 100%;
       height: 133.3vw;
@@ -117,7 +180,7 @@
       width: 150px;
       height: 40px;
       /* UI Properties */
-      border: 2px solid #FFFFFF;
+      border: 1px solid #FFFFFF;
   
       display:flex;
       align-items:center;
