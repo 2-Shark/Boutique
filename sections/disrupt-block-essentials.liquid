@@ -129,9 +129,20 @@
 </div>
 
 <style>
+
+.img-hover {
+  opacity: 0;
+  transition: opacity 0.5s;
+   -webkit-transition: opacity 0.5s;
+}
   .wh .carousel--root {
     background: white !important;
     position: relative;
+  }
+
+
+  .hover-wrapper:hover .img-hover {
+    opacity: 1;
   }
 
 

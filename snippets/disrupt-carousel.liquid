@@ -5,8 +5,13 @@
       {%- for block in blocks limit: total_blocks -%}
         <div class="carousel-card_wrap {% if forloop.last %}only-dsk{% endif %}">
           <div>
-            <div>
-              <img class="carousel-product-img" src="{{block.featured_media | image_url}}" >
+            <div style="position: relative" class="{% if block.images[1]  %}hover-wrapper{% endif %}">
+              <img class="carousel-product-img" src="{{ block.featured_media | image_url}}" >
+              {% if block.images[1]  %}
+
+              <img class="carousel-product-img img-hover" src="{{ block.images[1] | image_url}}" style="position:absolute; top: 0; left:0; width: 100%;">
+
+              {% endif  %}
             </div>
             <div class="carousel-title">
               {{block.title}}
