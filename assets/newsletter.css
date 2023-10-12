@@ -17,7 +17,7 @@
   width: 100%;
 }
 .flexbox-gap .newsletter--inputs {
-  gap: var(--spacing--2);
+  gap: 10px;
 }
 .no-flexbox-gap .newsletter--inputs > * {
   margin: calc(var(--spacing--2) / 2);
@@ -79,9 +79,57 @@ input.newsletter--email {
   background-color: unset;
 }
 
+.newsletter--root {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+@media (min-width: 750px) and (max-width: 1920px) {
+  .newsletter--wrapper {
+    display: block !important;
+    width: calc(4 * 19.6vw) !important;
+    max-width: calc(4 * 19.6vw) !important;
+  }
+}
+
+@media (max-width: 1920px) {
+  .newsletter--heading {
+    font-size: 35px;
+  }
+
+  .newsletter--subheading {
+    font-size: 20px;
+    margin-top: 12px;
+  }
+
+  .newsletter--inputs button {
+    width: 230px;
+    height: 63px;
+    font-size: 23px;
+  }
+
+  .newsletter--body {
+    margin-top: 106px;
+  }
+
+  .newsletter--formBox label {
+    font-size: 23px;
+  }
+
+  .newsletter--formBox input {
+    margin-top: 0;
+    font-size: 23px;
+    height: 63px;
+  }
+}
+
 @media (max-width: 750px) {
   .newsletter--wrapper {
     justify-content: center;
+
+    width: 100%;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
   }
 
   .newsletter--heading {
@@ -118,5 +166,6 @@ input.newsletter--email {
   .newsletter--formBox input {
     margin-top: 10px;
     font-size: 12px;
+    height: unset;
   }
 }

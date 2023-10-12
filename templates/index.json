@@ -416,29 +416,6 @@
         "link-text": ""
       }
     },
-    "featured-blog": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "aspect-ratio": "landscape",
-        "container-width": 4,
-        "blog-heading": "BLOG",
-        "blog": "news",
-        "tag-select": "pinned",
-        "show-date": true,
-        "show-excerpt": true,
-        "view-more-text": "Read more",
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "border_bottom": false,
-        "page_width_desktop": "full",
-        "page_width_mobile": "full"
-      }
-    },
     "16401848243576879d": {
       "type": "image-with-text",
       "disabled": true,
@@ -599,19 +576,61 @@
         "link-text": ""
       }
     },
+    "featured-blog": {
+      "type": "featured-blog",
+      "settings": {
+        "aspect-ratio": "landscape",
+        "container-width": 4,
+        "blog-heading": "BLOG",
+        "blog": "well-aging-know-hows-glowing-skincare",
+        "tag-select": "pinned",
+        "show-date": true,
+        "show-excerpt": true,
+        "view-more-text": "READ MORE",
+        "background_color": "#F7F6F0",
+        "text_color": "#13613E",
+        "inner_padding_top_desktop": "58",
+        "inner_padding_bottom_desktop": "80",
+        "inner_padding_top_mobile": "27",
+        "inner_padding_bottom_mobile": "40",
+        "border_bottom": true,
+        "page_width_desktop": "full",
+        "page_width_mobile": "full"
+      }
+    },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "settings": {
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "heading": "JOIN OUR SUPER AGING CLUB",
-        "newsletter--subheading": "<p>Free membership to subscribe our well-aging & wellness club to receive weekly reads & promotion!<\/p>",
+        "background_color": "#F7F6F0",
+        "text_color": "#13613E",
+        "inner_padding_top_desktop": "76",
+        "inner_padding_bottom_desktop": "76",
+        "inner_padding_top_mobile": "30",
+        "inner_padding_bottom_mobile": "47",
+        "heading": "JOIN OUR WELL-AGER CLUB",
+        "newsletter--subheading": "<p>Join our email subscription for news letter</p>",
         "border_bottom": false
+      }
+    },
+    "instagram": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "{% render 'instagram-gallery' %}",
+        "inner_padding_top_desktop": "60",
+        "inner_padding_bottom_desktop": "95",
+        "inner_padding_top_mobile": "30",
+        "inner_padding_bottom_mobile": "37"
+      }
+    },
+    "video-section": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "{% render 'video-snippet', mobile_url: 'https://cdn.shopify.com/videos/c/o/v/63736d8db0164371bce2f84fcb0ed00a.mp4' %}",
+        "page_width_mobile": "full",
+        "inner_padding_top_desktop": "0",
+        "inner_padding_bottom_desktop": "0",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_mobile": "0"
       }
     },
     "image-with-text": {
@@ -688,11 +707,13 @@
     "featured-text",
     "2f0495be-685b-4ea7-8cc8-6ea09a6d06e4",
     "16401844160b2264d6",
-    "featured-blog",
     "16401848243576879d",
     "grid-with-overlay",
     "text-columns",
+    "featured-blog",
     "newsletter",
+    "instagram",
+    "video-section",
     "image-with-text",
     "map",
     "featured-collection-slider"

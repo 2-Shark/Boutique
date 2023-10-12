@@ -16,6 +16,29 @@
 </style>
 
 <style>
+  {% if section.settings.page_width_desktop != "full" %}
+    @media (min-width: 750px) and (max-width: 1920px) {
+      .section-layout-{{section.id}} .section-layout__wrapper {
+        width: calc(4 * 19.6vw) !important;
+        max-width: calc(4 * 19.6vw) !important;
+      }
+    }
+  {% endif %}
+
+  {% if section.settings.page_width_mobile != "full" %}
+    @media (max-width: 750px) {
+      .section-layout-{{section.id}} .section-layout__wrapper {
+        width: 100% !important;
+        max-width: 100% !important;
+  
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+  {% endif %}
+</style>
+
+<style>
   {% if section.settings.background_color != blank %}
     .section-layout-{{section.id}} {
       background-color: {{ section.settings.background_color }};
@@ -154,14 +177,14 @@
         "type": "text",
         "id": "page_width_desktop",
         "label": "Page width in Desktop",
-        "default": "full",
+        "default": "default",
         "info": "Type 'full' if you want to make it full screen. Otherwise type only number value"
       },
       {
         "type": "text",
         "id": "page_width_mobile",
         "label": "Page width in Mobile",
-        "default": "full",
+        "default": "default",
         "info": "Type 'full' if you want to make it full screen. Otherwise type only number value"
       }
     ],
