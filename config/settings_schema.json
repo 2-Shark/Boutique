@@ -24,7 +24,7 @@
         "id": "color--accent-2",
         "label": "Accent 2",
         "type": "color",
-        "default": "#fff4cc"
+        "default": "#01351E"
       },
       {
         "id": "bg-color--light",

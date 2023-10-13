@@ -1,6 +1,8 @@
 <div class="disrupt-media-banner pd-{{section.settings.inner_padding_left_right}} pd-b-{{section.settings.inner_padding_bottom}}">
   <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+    <source media="(max-width:1024px)" srcset="{{section.settings.image_tablet | image_url}}">
     <source media="(max-width:750px)" srcset="{{section.settings.image_mobile | image_url}}">
+    
     <img src="{{section.settings.image_desktop | image_url}}" style="width:100%">
   </picture>
 
@@ -31,7 +33,7 @@
     display: flex;
     overflow: hidden;
     position: relative;
-    top: -117px;
+    top: -62px;
   }
 
   .disrupt-media-banner__wrapper {
@@ -91,7 +93,7 @@
   .pd-b-166 {
     padding-bottom: 8.6vw;
     align-items: flex-end;
-    margin-bottom: -117px;
+    margin-bottom: -62px;
   }
 
   @media(max-width: 1500px) {
@@ -139,7 +141,19 @@
 
     .pd-b-166 {
       padding-bottom: 10.6vw;
-      margin-bottom: -116px;
+      margin-bottom: -62px;
+    }
+
+  }
+
+  @media(max-width: 1024px) {
+    .disrupt-media-banner {
+      height: 101vw;
+    }
+
+    .pd-185 {
+      padding-left: 40px;
+      padding-right: 126px;
     }
   }
 
@@ -225,9 +239,13 @@
       },
       {
         "type": "image_picker",
+        "id": "image_tablet",
+        "label": "Tablet image"
+      },
+      {
+        "type": "image_picker",
         "id": "image_mobile",
-        "label": "Mobile image",
-        "info": "Leave it blank if no need to show different mobile image."
+        "label": "Mobile image"
       },
       {
         "type": "header",
