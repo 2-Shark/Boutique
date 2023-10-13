@@ -84,7 +84,7 @@ input.newsletter--email {
   padding-right: 0 !important;
 }
 
-@media (min-width: 750px) and (max-width: 1920px) {
+@media (min-width: 750px) and (max-width: 1500px) {
   .newsletter--wrapper {
     display: block !important;
     width: calc(4 * 19.6vw) !important;
@@ -92,7 +92,7 @@ input.newsletter--email {
   }
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 1500px) {
   .newsletter--heading {
     font-size: 35px;
   }

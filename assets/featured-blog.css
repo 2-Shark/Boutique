@@ -26,7 +26,7 @@
   padding-right: 0 !important;
 }
 
-@media (min-width: 750px) and (max-width: 1920px) {
+@media (min-width: 750px) and (max-width: 1500px) {
   .featured-blog--wrapper {
     width: calc(4 * 19.6vw) !important;
     max-width: calc(4 * 19.6vw) !important;
@@ -79,7 +79,7 @@
   border-color: #6f6f6f;
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 1500px) {
   .article--item--heading {
     margin-top: 2px;
     font-size: 18px;
@@ -135,7 +135,7 @@
   text-transform: uppercase;
 }
 
-@media (max-width: 1920px) {
+@media (max-width: 1500px) {
   .featured-blog--heading {
     font-size: 35px;
   }

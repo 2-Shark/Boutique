@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
   }
-  
+
   .section-layout__wrapper {
     width: 100%;
     display: flex;
@@ -17,8 +17,8 @@
 
 <style>
   {% if section.settings.page_width_desktop != "full" %}
-    @media (min-width: 750px) and (max-width: 1920px) {
-      .section-layout-{{section.id}} .section-layout__wrapper {
+    @media(min-width: 750px) and (max-width: 1500px) {
+      .section-layout-{{ section.id}}.section-layout__wrapper {
         width: calc(4 * 19.6vw) !important;
         max-width: calc(4 * 19.6vw) !important;
       }
@@ -26,11 +26,11 @@
   {% endif %}
 
   {% if section.settings.page_width_mobile != "full" %}
-    @media (max-width: 750px) {
-      .section-layout-{{section.id}} .section-layout__wrapper {
+    @media(max-width: 750px) {
+      .section-layout-{{ section.id}}.section-layout__wrapper {
         width: 100% !important;
         max-width: 100% !important;
-  
+
         padding-left: 20px;
         padding-right: 20px;
       }
@@ -40,57 +40,65 @@
 
 <style>
   {% if section.settings.background_color != blank %}
-    .section-layout-{{section.id}} {
-      background-color: {{ section.settings.background_color }};
+    .section-layout-{{ section.id}}{
+      background-color: {{ section.settings.background_color }}
+      ;
     }
   {% endif %}
 
   {% if section.settings.text_color != blank %}
-    .section-layout-{{section.id}} {
-      color: {{ section.settings.text_color }};
+    .section-layout-{{ section.id}}{
+      color: {{ section.settings.text_color }}
+      ;
     }
   {% endif %}
 
   {% if section.settings.border_bottom %}
-    .section-layout-{{section.id}} {
+    .section-layout-{{ section.id}}{
       border-bottom: 1px solid #13613E;
     }
   {% endif %}
 
   {% if section.settings.inner_padding_top_desktop != blank %}
-    .section-layout-{{section.id}} {
-      padding-top: {{section.settings.inner_padding_top_desktop}}px;
+    .section-layout-{{ section.id}}{
+      padding-top: {{ section.settings.inner_padding_top_desktop}}
+      px;
     }
   {% endif %}
 
   {% if section.settings.inner_padding_bottom_desktop != blank %}
-    .section-layout-{{section.id}} {
-      padding-bottom: {{section.settings.inner_padding_bottom_desktop}}px;
+    .section-layout-{{ section.id}}{
+      padding-bottom: {{ section.settings.inner_padding_bottom_desktop}}
+      px;
     }
   {% endif %}
 
   {% if section.settings.page_width_desktop != "full" %}
-    .section-layout-{{section.id}} .section-layout__wrapper  {
-      max-width: {{section.settings.page_width_desktop}}px;
+    .section-layout-{{ section.id}}.section-layout__wrapper {
+      max-width: {{ section.settings.page_width_desktop}}
+      px;
     }
   {% endif %}
 
-  @media (max-width: 750px) {
+  @media(max-width: 750px) {
     {% if section.settings.inner_padding_top_mobile != blank %}
-      .section-layout-{{section.id}} {
-        padding-top: {{section.settings.inner_padding_top_mobile}}px;
+      .section-layout-{{ section.id}}{
+        padding-top: {{ section.settings.inner_padding_top_mobile}}
+        px;
       }
     {% endif %}
-  
+
     {% if section.settings.inner_padding_bottom_mobile != blank %}
-      .section-layout-{{section.id}} {
-        padding-bottom: {{section.settings.inner_padding_bottom_mobile}}px;
+      .section-layout-{{ section.id}}{
+        padding-bottom: {{ section.settings.inner_padding_bottom_mobile}}
+        px;
       }
     {% endif %}
 
     {% if section.settings.page_width_mobile != "full" %}
-      .section-layout-{{section.id}} .section-layout__wrapper  {
-        max-width: {{section.settings.page_width_mobile}}px;
+      .section-layout-{{ section.id}}.section-layout__wrapper {
+        max-width: {{ section.settings.page_width_mobile}}
+        px;
       }
     {% endif %}
   }
@@ -126,61 +134,51 @@
         "id": "border_bottom",
         "label": "Border bottom",
         "default": false
-      },
-      {
+      }, {
         "type": "color",
         "id": "background_color",
         "label": "Background color"
-      },
-      {
+      }, {
         "type": "color",
         "id": "text_color",
         "label": "Text color"
-      },
-      {
+      }, {
         "type": "header",
         "content": "Section spacing"
-      }, 
-      {
+      }, {
         "type": "text",
         "id": "inner_padding_top_desktop",
         "label": "Above section spacing in Desktop",
         "default": "72",
         "info": "Please type only number value"
-      },
-      {
+      }, {
         "type": "text",
         "id": "inner_padding_top_mobile",
         "label": "Above section spacing in Mobile",
         "default": "32",
         "info": "Please type only number value"
-      },
-      {
+      }, {
         "type": "text",
         "id": "inner_padding_bottom_desktop",
         "label": "Below section spacing in Desktop",
         "default": "72",
         "info": "Please type only number value"
-      },
-      {
+      }, {
         "type": "text",
         "id": "inner_padding_bottom_mobile",
         "label": "Below section spacing in Mobile",
         "default": "32",
         "info": "Please type only number value"
-      },
-      {
+      }, {
         "type": "header",
         "content": "Section page width size"
-      },
-      {
+      }, {
         "type": "text",
         "id": "page_width_desktop",
         "label": "Page width in Desktop",
         "default": "default",
         "info": "Type 'full' if you want to make it full screen. Otherwise type only number value"
-      },
-      {
+      }, {
         "type": "text",
         "id": "page_width_mobile",
         "label": "Page width in Mobile",
