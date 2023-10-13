@@ -1,6 +1,6 @@
 <div class="disrupt-media-banner pd-{{section.settings.inner_padding_left_right}} pd-b-{{section.settings.inner_padding_bottom}}">
   <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
-    <source media="(max-width:1024px)" srcset="{{section.settings.image_tablet | image_url}}">
+    <source media="(min-width: 750px) and (max-width: 1023px)" srcset="{{section.settings.image_tablet | image_url}}">
     <source media="(max-width:750px)" srcset="{{section.settings.image_mobile | image_url}}">
     
     <img src="{{section.settings.image_desktop | image_url}}" style="width:100%">
@@ -154,6 +154,13 @@
     .pd-185 {
       padding-left: 40px;
       padding-right: 126px;
+    }
+
+    .disrupt-media-banner {
+      top: 49px;
+    }
+    .pd-b-166 {
+      margin-bottom: 49px;
     }
   }
 
