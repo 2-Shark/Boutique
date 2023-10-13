@@ -4,6 +4,7 @@
       "type": "disrupt-main-banner",
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/1_c2eb3491-0d28-4a74-9186-d0affd27db36.png",
+        "image_tablet": "shopify:\/\/shop_images\/1_c9f9c657-7d9d-4083-b65b-503d83477504.jpg",
         "image_mobile": "shopify:\/\/shop_images\/202307202314_copy.png",
         "eyebrow": "SCIENCE MEETS NATURE",
         "header": "New Innovative<br class=\"only-mb\"> Well-aging Skincare",
@@ -139,6 +140,25 @@
         "display-type": "slideshow",
         "products-per-row--desktop": "3",
         "products-per-row--mobile": "1"
+      }
+    },
+    "b69860be-717b-4156-b06f-e6dbbea974f2": {
+      "type": "disrupt-skin-banner",
+      "disabled": true,
+      "settings": {
+        "eyebrow": "TE MEETS NATURE",
+        "header": "New Innovative Well-aging Skincare",
+        "cta": "SHOP NOW",
+        "link": "",
+        "inner_padding_left_right": "185",
+        "inner_padding_bottom": "166",
+        "background_color": "",
+        "text_color": "",
+        "content_alignment_horizontal": "left",
+        "text_alignment": "left",
+        "section_spacing": "150",
+        "media_width_size": "full",
+        "text_width_size": "960"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
@@ -587,11 +607,11 @@
         "show-date": true,
         "show-excerpt": true,
         "view-more-text": "READ MORE",
-        "background_color": "#F7F6F0",
-        "text_color": "#13613E",
+        "background_color": "#f7f6f0",
+        "text_color": "#13613e",
         "inner_padding_top_desktop": "58",
-        "inner_padding_bottom_desktop": "80",
         "inner_padding_top_mobile": "27",
+        "inner_padding_bottom_desktop": "80",
         "inner_padding_bottom_mobile": "40",
         "border_bottom": true,
         "page_width_desktop": "full",
@@ -601,14 +621,14 @@
     "newsletter": {
       "type": "newsletter",
       "settings": {
-        "background_color": "#F7F6F0",
-        "text_color": "#13613E",
+        "background_color": "#f7f6f0",
+        "text_color": "#13613e",
         "inner_padding_top_desktop": "76",
-        "inner_padding_bottom_desktop": "76",
         "inner_padding_top_mobile": "30",
+        "inner_padding_bottom_desktop": "76",
         "inner_padding_bottom_mobile": "47",
         "heading": "JOIN OUR WELL-AGER CLUB",
-        "newsletter--subheading": "<p>Join our email subscription for news letter</p>",
+        "newsletter--subheading": "<p>Join our email subscription for news letter<\/p>",
         "border_bottom": false
       }
     },
@@ -616,21 +636,30 @@
       "type": "section-layout",
       "settings": {
         "snippet_name": "{% render 'instagram-gallery' %}",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
         "inner_padding_top_desktop": "60",
-        "inner_padding_bottom_desktop": "95",
         "inner_padding_top_mobile": "30",
-        "inner_padding_bottom_mobile": "37"
+        "inner_padding_bottom_desktop": "95",
+        "inner_padding_bottom_mobile": "37",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "video-section": {
       "type": "section-layout",
       "settings": {
-        "snippet_name": "{% render 'video-snippet', mobile_url: 'https://cdn.shopify.com/videos/c/o/v/63736d8db0164371bce2f84fcb0ed00a.mp4' %}",
-        "page_width_mobile": "full",
+        "snippet_name": "{% render 'video-snippet', mobile_url: 'https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/63736d8db0164371bce2f84fcb0ed00a.mp4' %}",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
         "inner_padding_top_desktop": "0",
-        "inner_padding_bottom_desktop": "0",
         "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_mobile": "0"
+        "inner_padding_bottom_desktop": "0",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "full"
       }
     },
     "image-with-text": {
@@ -699,6 +728,7 @@
     "71abef73-9e41-4268-855f-afba83392ef9",
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5",
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
+    "b69860be-717b-4156-b06f-e6dbbea974f2",
     "64199d9c-7934-497b-ab6f-34c84f1dcb50",
     "f3bacd45-5a99-4f55-bf0b-1f5d9448547b",
     "106354e2-d471-4368-8771-3834b878d36e",
