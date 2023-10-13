@@ -658,7 +658,7 @@
         "inner_padding_top_mobile": "0",
         "inner_padding_bottom_desktop": "0",
         "inner_padding_bottom_mobile": "0",
-        "page_width_desktop": "default",
+        "page_width_desktop": "full",
         "page_width_mobile": "full"
       }
     },

@@ -251,6 +251,7 @@
   
   .skin-test-body__wrapper {
     margin-top: 60px;
+    max-width: 70vw;
   }
   
   .skin-test-body__question {
@@ -282,7 +283,6 @@
   @media (max-width: 1500px) {
     .skin-test-body__wrapper {
       margin-top: 100px;
-      max-width: 70vw;
     }
 
     .skin-test-body__answer-item {
@@ -785,13 +785,7 @@
   
   }
 
-  @media (min-width: 750px) and (max-width: 1500px) {
-
-    .skin-test-result-body__total {
-      padding-top: 100px;
-      padding-bottom: 80px;
-    }
-
+  @media (min-width: 750px) {
     .skin-test-result-body__summary {
       position: relative;
     }
@@ -811,6 +805,13 @@
     
     .skin-test-result-body__summary-message::-webkit-scrollbar {
       display: none; /* Chrome, Safari, Opera*/
+    }
+  }
+
+  @media (min-width: 750px) and (max-width: 1500px) {
+    .skin-test-result-body__total {
+      padding-top: 100px;
+      padding-bottom: 80px;
     }
   }
 
@@ -976,7 +977,7 @@
             <div class="skin-test-result-body__email-form">
               {%- form 'customer', id: form_id, class: 'newsletter--form' -%}
                 <div class="newsletter--inputs">
-                  <input type="hidden" name="contact[tags]" value="newsletter"/>
+                  <input type="hidden" name="contact[tags]" value="skintest_"/>
                   <div class="newsletter--formBox">
                     <input
                       class="newsletter--email"
@@ -999,10 +1000,6 @@
                     {{- field }} {{ form.errors.messages[field] -}}
                   {%- endfor -%}
                   </p>
-                {%- endif -%}
-        
-                {%- if form.posted_successfully? -%}
-                  <script>window.location.hash = '#feedback-bar--newsletter';</script>
                 {%- endif -%}
         
                 <div data-item="hidden-text">
