@@ -38,14 +38,16 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+    background: 0 !important;
+    padding: 0;
   }
 
   .arrow_left {
-    left: -100px;
+    left: -45px;
   }
 
   .arrow_right {
-    right: 100px;
+    right: -45px;
   }
 }
 
@@ -54,6 +56,10 @@
   .arrow_right {
     display: none !important;
   }
+}
+
+.featured-blog--wrapper {
+  position: relative;
 }
 
 @media (min-width: 750px) and (max-width: 1500px) {

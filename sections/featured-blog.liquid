@@ -117,14 +117,10 @@
                   break
                 endif
               endfor
-  
-              if articles_printed_count == 3
-                break
-              endif
             endfor
   
             if tag_found == false
-              for article in blog.articles limit: 3
+              for article in blog.articles
                 render "article--item", featured_article: article, show_date: show_date, show_excerpt: show_excerpt, type: 'full_article'
               endfor
             endif
@@ -138,6 +134,9 @@
         -%}
       </div>
     </div>
+
+    <button class="arrow_left">{% render 'icon-arrow_left' %}</button>
+    <button class="arrow_right">{% render 'icon-arrow_right' %}</button>
   </div>
 </div>
 
@@ -164,7 +163,6 @@
     window.addEventListener("resize", handleResize)
 
     function handleResize() {
-      console.log("resizng");
       if (window.innerWidth > 750) {
         wrapper.scrollTo(0, 0);
 
@@ -184,7 +182,7 @@
 
       curIndex = Math.max(0, curIndex);
 
-      let translatedValue = itemWidth * curIndex;
+      let translatedValue = itemWidth * curIndex + gap * curIndex;
       wrapper.style.transform = `translateX(-${translatedValue}px)`;
     }
 
@@ -193,7 +191,7 @@
 
       curIndex = Math.min(items.length - columnNum, curIndex);
 
-      let translatedValue = itemWidth * curIndex;
+      let translatedValue = itemWidth * curIndex + gap * curIndex;
       wrapper.style.transform = `translateX(-${translatedValue}px)`;
     }
   }
