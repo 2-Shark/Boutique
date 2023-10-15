@@ -82,11 +82,11 @@
         <div class="newsletter--inputs">
           <input type="hidden" name="contact[tags]" value="newsletter"/>
           <div class="newsletter--formBox">
-            <label for="newsletter-email acu-font">
+            <label for="newsletter-email" class="acu-font">
               {{- email_placeholder_t -}}
             </label>
             <input
-              class="newsletter--email"
+              class="newsletter--email acu-font"
               id="newsletter-email"
               name="contact[email]"
               type="email"
@@ -94,7 +94,7 @@
               required
             />
           </div>
-          <button type="submit" value="{{ button_t }} acu-font">
+          <button type="submit" value="{{ button_t }}" class="acu-font">
             {{- button_t -}}
           </button>
         </div>
