@@ -41,18 +41,18 @@
         {% if forloop.last %}
         <div class="carousel-card_wrap {% if forloop.last %}only-mb{% endif %}">
           <div>
-            <div>
+            <div style="height:57vw; overflow:hidden">
             <!--<img class="carousel-product-img" src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/9.jpg?v=1696563538" >-->
             <video controls autoplay loop muted style="width:100%;">
               <source src="https://cdn.shopify.com/videos/c/o/v/4111081bfa8944e788f54db3ab713035.mp4" type="video/mp4">
             </video>
 
             </div>
-            <div class="carousel-title">
+            <div class="carousel-title" style="font-style:italic; font-size: 20px !important; line-height:1.2">
               Shop our<br>Best Seller
             </div>
 
-            <div class="carousel-shop-link_wrapper">
+            <div class="carousel-shop-link_wrapper" style="margin-top:3px">
               <a class="carousel-shop-link" href="{{block.url}}" style="font-size:12px; line-height:14px; border-bottom: 1px solid #13613E;">
                 VIEW MORE
               </a>
