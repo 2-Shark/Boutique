@@ -149,8 +149,8 @@
     const prevBtn = document.querySelector(".arrow_left");
     const nextBtn = document.querySelector(".arrow_right");
 
-    prevBtn.addEventListener("click", prev);
-    nextBtn.addEventListener("click", next);
+    if (prevBtn) prevBtn.addEventListener("click", prev);
+    if (nextBtn) nextBtn.addEventListener("click", next);
 
     if (!wrapper) return;
 

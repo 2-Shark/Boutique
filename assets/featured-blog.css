@@ -75,6 +75,10 @@
   }
 }
 
+.flexbox-gap .article--item {
+  gap: unset !important;
+}
+
 @media (max-width: 750px) {
   .featured-blog--grid__wrapper {
     overflow: auto;
@@ -85,7 +89,6 @@
   }
 
   .flexbox-gap .article--item {
-    gap: unset !important;
     min-width: 270px;
     flex: 1;
   }
