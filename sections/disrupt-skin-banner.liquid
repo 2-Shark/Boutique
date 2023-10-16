@@ -1,28 +1,36 @@
 <div class="skin-test-slider_container">
   <div class="skin-test-slider_wrapper">
     <div class="skin-test_slide">
-      <div>
-        <div>
+      <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+        <source media="(max-width:750px)" srcset="{{section.settings.image_mobile | image_url}}">
+        <img src="{{section.settings.image_desktop | image_url}}" style="width:100%">
+      </picture>
+      <div class="left-text-container-main">
+        <div class="skin-left_eyebrow">
           TEST YOUR SKIN & FIND YOUR ROUTINE
         </div>
-        <div>
+        <div class="skin-left_header">
           FIND YOUR<br> ‘WELL-AGING’<br> ROUTINE
         </div>
-        <div>
-          <a href="/pages/skin-test">DO SKIN TEST</a>
+        <div class="left-text-cta-wrapper">
+          <a class="skin-left_cta" href="/pages/skin-test">DO SKIN TEST</a>
         </div>
       </div>
     </div>
     <div class="skin-test_slide">
-      <div>
-        <div>
+      <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+        <source media="(max-width:750px)" srcset="{{section.settings.image_mobile_r | image_url}}">
+        <img src="{{section.settings.image_desktop_r | image_url}}" style="width:100%">
+      </picture>
+      <div class="right-text-container-main">
+        <div class="skin-right_eyebrow">
           TEST YOUR SKIN & FIND YOUR ROUTINE
         </div>
-        <div>
+        <div class="skin-right_header">
           SKIN TEST
         </div>
 
-        <div>
+        <div class="skin-card_wrapper">
           <div class="skin_card">
             <div class="skin-card_title">Age of New Journey</div>
             <div class="skin-card_btn">I’m 20’s</div>
@@ -45,9 +53,11 @@
     </div>
   </div>
 
-  <button class="skin-test-slide-next_btn">
-    >
-  </button>
+  <svg class="skin-test-slide-next_btn" xmlns="http://www.w3.org/2000/svg" width="42.413" height="91.969" viewBox="0 0 42.413 91.969">
+    <path id="패스_15" data-name="패스 15" d="M-8.959,1327.528l40,42.845-40,46.3" transform="translate(10.372 -1326.114)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </svg>
+
+
 </div>
 
 
@@ -60,7 +70,6 @@
 
   .skin-test_slide {
     width: 100%;
-    height: 100vh;
     position: absolute;
     top: 0;
     left: 0;
@@ -68,11 +77,28 @@
     background: white;
     opacity: 0;
     transition: opacity 0.5s;
+    z-index: 2;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 162px;
+    padding-bottom: 101px;
+    height: 51vw;
+  }
+
+  .skin-test-slider_wrapper {
+    position: relative;
+    width: 100%;
+    height: 51vw;
   }
 
   .skin-test_slide:first-child {
     z-index: 5;
     opacity: 1;
+  }
+
+  .skin-test_slide:last-child {
+    display: flex;
+    align-items: flex-end;
   }
 
   .skin-test-slider_container {
@@ -88,6 +114,8 @@
     right: 5%;
     transform: translateY(-50%);
     z-index: 6;
+    width: 50px;
+    cursor: pointer;
   }
 
   .z-index-5 {
@@ -97,6 +125,310 @@
 
   .slide-btn_left {
     transform: translateY(-50%) rotate(180deg);
+  }
+
+  .right-text-container-main, .left-text-container-main {
+    position: relative;
+    width: 100%;
+    z-index: 3;
+  }
+
+  .skin-left_eyebrow {
+    font-family: acumin-pro;
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    color: #13613E;
+    text-transform: uppercase;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .skin-left_header {
+    text-align: left;
+    font-family: Ambroise-Std;
+    font-size: 100px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    color: #13613E;
+    opacity: 1;
+    margin-top: 10px;
+  }
+
+  .skin-left_cta {
+    font-family: Acumin-Pro;
+    font-size: 30px;
+    line-height: 1;
+    letter-spacing: 0px;
+    color: #13613E;
+    text-transform: uppercase;
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .left-text-cta-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 292px;
+    height: 80px;
+    border: 1px solid #13613E;
+    margin-top: 38px;
+  }
+
+
+  .skin-right_eyebrow {
+    text-align: left;
+    font-family: Acumin-Pro;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    line-height: 1.2;
+  }
+
+  .skin-right_header {
+    text-align: left;
+    font-family: Ambroise-Std;
+    font-weight: 300;
+    font-size: 100px;
+    letter-spacing: 0px;
+    color: #13613E;
+    opacity: 1;
+    margin-top: 10px;
+    line-height: 1.2;
+  }
+
+  .skin-card_title {
+    text-align: center;
+    font-family: Ambroise-Std;
+    font-size: 40px;
+    font-style: italic;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    line-height: 1.2;
+  }
+
+  .skin-card_btn {
+    width: 350px;
+    height: 100px;
+    border: 1px solid white;
+    text-align: center;
+    font-family: Acumin-Pro;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 21px;
+  }
+
+  .skin-card_body {
+    text-align: center;
+    font-family: Acumin-Pro;
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    line-height: 1.2;
+    margin-top: 35px;
+  }
+
+  .skin-card_wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between !important;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
+
+  @media( max-width: 1500px ) {
+
+    .skin-test_slide {
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-top: 101px;
+      padding-bottom: 49px;
+    }
+    .skin-test-slide-next_btn {
+      right: 3%;
+    }
+    .skin-left_eyebrow {
+      font-size: 23px;
+    }
+
+    .skin-left_header {
+      font-size: 60px;
+    }
+
+    .skin-left_cta {
+      font-size: 23px;
+    }
+
+    .left-text-cta-wrapper {
+      width: 304px;
+      height: 70px;
+    }
+
+
+    .skin-right_eyebrow {
+      font-size: 23px;
+    }
+
+    .skin-right_header {
+      font-size: 60px;
+    }
+
+    .skin-card_title {
+      font-size: 23px;
+    }
+
+    .skin-card_btn {
+      width: 240px;
+      height: 64px;
+      font-size: 23px;
+    }
+
+    .skin-card_body {
+      font-size: 20px;
+    }
+  }
+
+  @media( max-width: 750px ) {
+    
+    .skin-test-slider_container {
+      overflow-x: scroll;
+      overflow-y: hidden;
+    }
+
+    .skin-test-slider_container {
+      height: 105vw;
+    }
+
+    .skin-card_wrapper {
+      justify-content: center !important;
+    }
+
+    .skin-test_slide {
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      background: white;
+      opacity: 0;
+      transition: opacity 0.5s;
+      z-index: 2;
+      padding-left: 180px;
+      padding-right: 180px;
+      padding-top: 162px;
+      padding-bottom: 101px;
+      height: 105vw;
+    }
+
+    .skin-test-slider_wrapper {
+      position: relative;
+      width: 100%;
+      height: 105vw;
+      display: flex;
+      width: 200%;
+      flex-wrap: wrap;
+    }
+
+    .skin-test_slide {
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 65px;
+      padding-bottom: 41px;
+      position: relative;
+      width: 50%;
+      height: 100%;
+      opacity: 1 !important;
+    }
+    .skin-test-slide-next_btn {
+      right: 3%;
+      display: none;
+    }
+
+    .skin-left_eyebrow {
+      font-size: 12px;
+    }
+
+    .skin-left_header {
+      font-size: 40px;
+    }
+
+    .skin-left_cta {
+      font-size: 12px;
+    }
+
+    .left-text-cta-wrapper {
+      width: 162px;
+      height: 40px;
+    }
+
+
+    .skin-right_eyebrow {
+      font-size: 12px;
+      color: white;
+      text-align: center;
+    }
+
+    .skin-right_header {
+      font-size: 40px;
+      color: white;
+      text-align: center;
+      margin-top: 15px;
+    }
+
+    .skin-card_title {
+      font-size: 14px;
+      color: white;
+     
+    }
+
+    .skin-card_btn {
+      width: 162px;
+      height: 40px;
+      font-size: 12px;
+      color: white;
+      margin-top: 8px;
+    }
+
+    .skin-card_body {
+      font-size: 12px;
+      color: white;
+      margin-top: 7px;
+    }
+
+    .skin_card {
+      width: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .skin-card_wrapper .skin_card:last-child .skin-card_title {
+      margin-top: 22px;
+    }
   }
 </style>
 
@@ -152,6 +484,17 @@ skin_btn.addEventListener('click', function(){
       {
         "type": "image_picker",
         "id": "image_mobile",
+        "label": "Mobile image",
+        "info": "Leave it blank if no need to show different mobile image."
+      },
+      {
+        "type": "image_picker",
+        "id": "image_desktop_r",
+        "label": "Desktop image"
+      },
+      {
+        "type": "image_picker",
+        "id": "image_mobile_r",
         "label": "Mobile image",
         "info": "Leave it blank if no need to show different mobile image."
       },
