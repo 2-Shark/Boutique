@@ -9,7 +9,7 @@
         "eyebrow": "SCIENCE MEETS NATURE",
         "header": "New Innovative<br class=\"only-mb\"> Well-aging Skincare",
         "cta": "SHOP NOW",
-        "link": "",
+        "link": "\/collections\/all",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166",
         "background_color": "",
@@ -31,7 +31,7 @@
         "header": "Redefining<br>Anti-aging.<br>We’re “Well-aging”",
         "body": "NATURAL FORMULA WITH<br> TECHNOLOGY<br> FOR ADVANCED WELL-AGING.",
         "cta": "SHOP NOW",
-        "link": "",
+        "link": "\/collections\/all",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166",
         "background_color": "",
@@ -144,8 +144,11 @@
     },
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
-      "disabled": true,
       "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/202307200232_1.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/202307200232_1_ce31e617-c007-4114-9c82-644c33641e6f.jpg",
+        "image_desktop_r": "shopify:\/\/shop_images\/83d4bc892755710892331e45e607dbaf.jpg",
+        "image_mobile_r": "shopify:\/\/shop_images\/Group_337.jpg",
         "eyebrow": "TE MEETS NATURE",
         "header": "New Innovative Well-aging Skincare",
         "cta": "SHOP NOW",
@@ -228,7 +231,7 @@
     "106354e2-d471-4368-8771-3834b878d36e": {
       "type": "disrupt-block-essentials",
       "settings": {
-        "header": "EVERY DAY WELL-AGING<br class='only-mb'> ESSENTIALS",
+        "header": "EVERY DAY WELL-AGING<br class=\"only-mb\"> ESSENTIALS",
         "link": "",
         "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
