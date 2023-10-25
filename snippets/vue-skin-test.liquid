@@ -21,6 +21,12 @@
     letter-spacing: 0;
   }
 
+  .font-acumin-variable {
+    font-family: "acumin-variable";
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+
   .skin-test-header__title {
     font-size: 50px;
     line-height: 1.1;
@@ -556,8 +562,8 @@
 
 <style>
   .skin-test-result-body__subtitle {
-    font-size: 30px;
-    font-size: 1.43vw;
+    font-size: 24px;
+    font-size: 1.1vw;
     line-height: 1.6;
     color: var(--skin-test-color--main);
   }
@@ -566,6 +572,13 @@
     font-size: 70px;
     font-size: 3.34vw;
     line-height: 1;
+    color: var(--skin-test-color--main);
+  }
+
+  .skin-test-result-body__body {
+    font-size: 30px;
+    font-size: 1.43vw;
+    line-height: 1.6;
     color: var(--skin-test-color--main);
   }
 
@@ -594,8 +607,13 @@
   }
 
   .skin-test-result-body__email-wrapper {
-    padding: 140px var(--result-line-spacing-right);
+    padding: 50px var(--result-line-spacing-right);
     margin: auto;
+    text-align: center;
+  }
+
+  .skin-test-result-body__email-wrapper img {
+    max-width: 100px;
   }
 
   .skin-test-result-body__email-title {
@@ -656,11 +674,17 @@
 
   @media (min-width: 1500px) {
     .skin-test-result-body__subtitle {
-      font-size: 1.43vw;
+      font-size: 1.1vw;
     }
   
     .skin-test-result-body__title {
       font-size: 3.34vw;
+    }
+
+    .skin-test-result-body__body {
+      font-size: 1.43vw;
+
+      margin-top: 30px;
     }
   
     .skin-test-result-body__roco-name {
@@ -690,11 +714,17 @@
 
   @media (max-width: 1500px) {
     .skin-test-result-body__subtitle {
-      font-size: 20px;
+      font-size: 16px;
     }
   
     .skin-test-result-body__title {
       font-size: 46px;
+    }
+
+    .skin-test-result-body__body {
+      font-size: 20px;
+
+      margin-top: 20px;
     }
   
     .skin-test-result-body__roco-name {
@@ -724,13 +754,20 @@
 
   @media (max-width: 750px) {
     .skin-test-result-body__subtitle {
-      font-size: 12px;
-      font-size: 3.2vw;
+      font-size: 9px;
+      font-size: 2.8vw;
     }
   
     .skin-test-result-body__title {
       font-size: 25px;
       font-size: 6.6vw;
+    }
+
+    .skin-test-result-body__body {
+      font-size: 12px;
+      font-size: 3.2vw;
+
+      margin-top: 13px;
     }
   
     .skin-test-result-body__roco-name {
@@ -749,8 +786,12 @@
     }
 
     .skin-test-result-body__email-wrapper {
-      padding-top: 64px;
-      padding-bottom: 64px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+
+    .skin-test-result-body__email-wrapper img {
+      max-width: 26px;
     }
 
     .skin-test-result-body__email-form .newsletter--formBox {
@@ -813,12 +854,15 @@
   .skin-test-result-body__title {
   
   }
+
+  .skin-test-result-body__body {
+  
+  }
   
   .skin-test-result-body__reco {
     margin-top: 76px;
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: 1fr;
     gap: 40px;
   }
@@ -918,6 +962,16 @@
     }
   }
 
+  @media (min-width: 750px) {
+    .skin-test-result-body__reco {
+      grid-template-columns: repeat(3, 1fr) !important; 
+    }
+  }
+
+  .skin-test-result-body__reco__scrollbar {
+    display: none;
+  }
+
   @media (max-width: 750px) {
     .skin-test-result-body__wrapper {
       --line-padding-left: 20px;
@@ -936,6 +990,47 @@
       grid-template-columns: repeat(2, 1fr);
       column-gap: 15px;
       row-gap: 30px;
+
+      overflow: auto;
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+
+      --result-body__reco-item-width: 50px;
+    }
+    
+    .skin-test-result-body__reco::-webkit-scrollbar {
+      display: none; /* Chrome, Safari, Opera*/
+    }
+
+    .skin-test-result-body__reco__scrollbar {
+      display: block;
+      position: relative;
+      margin-top: 24px;
+
+      width: 100%;
+      height: 3px;
+      border-radius: 50px;
+      overflow: hidden;
+      background-color: var(--skin-test-color--sub);
+
+      --result-body__reco-scrollbar-width: 50px;
+      --result-body__reco-scrollbar-left: 0px;
+    }
+
+    .skin-test-result-body__reco__scrollbar:before {
+      display: block;
+      content: "";
+      position: absolute;
+      top: 0;
+      left: var(--result-body__reco-scrollbar-left);
+      width: var(--result-body__reco-scrollbar-width);
+      height: 100%;
+      border-radius: 50px;
+      background-color: var(--skin-test-color--main);
+    }
+
+    .skin-test-result-body__roco-item {
+      min-width: var(--result-body__reco-item-width);
     }
 
     .skin-test-result-body__roco-name {
@@ -1038,9 +1133,10 @@
       <div class="skin-test-result-body__wrapper">
         <div class="skin-test-result-body">
           <div class="skin-test-result-body__intro skin-test-result-body-wrapper-line">
-            <div class="skin-test-result-body__subtitle font-acumin">Here is a Personalized Routine for You!</div>
+            <div class="skin-test-result-body__subtitle font-acumin-variable">Here is a Personalized Routine for You!</div>
             <div class="skin-test-result-body__title" v-html="resultReco.title"></div>
-            <div class="skin-test-result-body__reco">
+            <div class="skin-test-result-body__body font-acumin" v-html="resultReco.body"></div>
+            <div ref="result_container" class="skin-test-result-body__reco">
               <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in resultReco.collections" :key="`reco-${itemInd}`">
                 <div class="skin-test-result-body__roco-img">
                   <img :src="item.featured_image" alt="Boutijour product img" />
@@ -1049,6 +1145,7 @@
                 <div class="skin-test-result-body__roco-price" v-html="formatMoney(item.price)"></div>
               </div>
             </div>
+            <div ref="result_scrollbar" class="skin-test-result-body__reco__scrollbar"></div>
           </div>
         </div>
         <div class="font-acumin skin-test-result-body skin-test-result-body__summary">
@@ -1063,6 +1160,11 @@
               <span class="skin-test-result-body__total-title" v-html="resultMessage.title"></span>
               <span class="skin-test-result-body__total-desc" v-html="resultMessage.desc"></span>
             </div>
+          </div>
+        </div>
+        <div class="skin-test-result-body skin-test-result-body__email">
+          <div class="skin-test-result-body__email-wrapper">
+            <img src="https://cdn.shopify.com/s/files/1/0799/9488/0287/files/boutijour_skin_test_result_logo.svg?v=1698207153" alt="skin-test-logo" />
           </div>
         </div>
         {% comment %} <div class="skin-test-result-body skin-test-result-body__email">
@@ -1189,7 +1291,8 @@
       status: "start", // start, play, end, result,
       results: {
         "20": {
-          title: "BOUTI Lover in their 20’s recommended routines",
+          title: "Discover our recommended well-aging routines for your 20’s skin.",
+          body: "Here are BOUTIJOUR’s high performance natural skincare products and routines recommended for us to prevent pre-mature skin aging and start well-aging care together.",
           collections: "",
           thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-20.jpg?v=1696908733",
           summary: "In our 20s, our skin is typically at its prime in terms of collagen production and cell turnover, but it’s still important to take good care of it to maintain its youthful appearance and prevent from ‘skin aging’ such as pigmentation, sagging and wrinkles. Collagen production in the skin does start to decline from our mid-20s. It’s essential to keep skin hydrated and protect the skin from daily sun exposure. <br><br> Especially, if you love being out in the sun and outdoor activities, proper way of preventing from the UV/Sunlight suncare is essential. Protecting your skin from sunlight can certainly slow down the aging process and help maintain a more youthful appearance. Sun exposure is one of the primary factors that accelerate the aging of the skin, leading to premature aging signs.",
@@ -1217,9 +1320,10 @@
           ]
         },
         "30": {
-          title: "BOUTI Lover in their 30’s routine with sensitive skin.",
+          title: "Discover our recommended well-aging routines for your 30’s sensitive skin.",
+          body: "Here are BOUTIJOUR’s high performance natural skincare products and routines recommended for us to prevent pre-mature skin aging and start well-aging care together.",
           collections: "",
-          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-30.jpg?v=1696908732",
+          thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-result-30s.png?v=1698213569",
           summary: "In our 30s, your skin’s needs and concerns can evolve, and it’s essential to adjust your skincare routine accordingly to address these changes. <br><br> Here are some essential skincare steps and considerations for people in their 30s. Also If you have sensitive skin in your 30s, it’s essential to choose skincare products and routines that are clean, non-sensitive, gentle and soothing while still addressing your skin’s specific needs. Here are essential skincare steps and considerations for individuals with sensitive skin in our 30s:",
           result: [
             {
@@ -1249,7 +1353,8 @@
           ]
         },
         "30_combination": {
-          title: "BOUTI Lover in their 30’s routine with combination needs.",
+          title: "Discover our recommended well-aging routines for your 30’s skin with combination needs.",
+          body: "Here are BOUTIJOUR’s high performance natural skincare products and routines recommended for us to prevent pre-mature skin aging and start well-aging care together.",
           collections: "",
           thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-30-combination.jpg?v=1696908733",
           summary: "In your 30s, your skin’s needs and concerns can evolve, and it’s essential to adjust your skincare routine accordingly to address these changes. <br><br> Here are some essential skincare steps and considerations for people in their 30s with sensitive skin :",
@@ -1281,7 +1386,8 @@
           ]
         },
         "40": {
-          title: "BOUTI Lover in their 40’s routine with aging-processed skin",
+          title: "Our skin needs extra moisturizing and rejuvenating care to prevent dehydration and various signs of aging.",
+          body: "Here are BOUTIJOUR’s high performance natural skincare products and routines recommended for us to age gracefully together.",
           collections: "",
           thumbnail: "https://cdn.shopify.com/s/files/1/0799/9488/0287/files/skin-test-40.jpg?v=1696908732",
           summary: "In our 40s, your skin undergoes various changes due to the natural aging process, which may include decreased collagen production, reduced skin elasticity, and increased dryness. To address these changes and maintain healthy, youthful-looking skin, consider the following essential skincare steps:",
@@ -1387,9 +1493,42 @@
 
       status(after, before) {
         scrollTo(0, 0);
+
+
+        this.$nextTick(() => {
+          this.resizeHanlder();
+        });
       }
     },
     methods: {
+      resizeHanlder() {
+        if (window.innerWidth < 750) {
+          const container = this.$refs.result_container;
+          if (!container) return;
+
+          const containerWidth = container.clientWidth;
+          const itemWidth = (containerWidth - 15) / 2;
+          const columnNum = Math.ceil(this.resultReco.collections.length / 2);
+
+          if (columnNum > 2) {
+            container.style.setProperty("grid-template-columns", `repeat(${columnNum}, 1fr)`)
+            container.style.setProperty("--result-body__reco-item-width", itemWidth + "px");
+
+            const scrollbarTotalWidth  = itemWidth * columnNum + 15 * (columnNum - 1);
+            const scrollbarWidthPercentage = (containerWidth / scrollbarTotalWidth) * 100;
+            const scrollbarWidthPx = containerWidth * (scrollbarWidthPercentage / 100);
+
+            this.$refs.result_scrollbar.style.setProperty("--result-body__reco-scrollbar-width", `${scrollbarWidthPercentage}%`);
+
+            container.addEventListener("scroll", () => {
+              const scrollPercentage = container.scrollLeft / (container.scrollWidth - containerWidth);
+              const scrollLeft = (containerWidth - scrollbarWidthPx) * scrollPercentage;
+
+              this.$refs.result_scrollbar.style.setProperty("--result-body__reco-scrollbar-left", `${scrollLeft}px`);
+            });
+          }
+        }
+      },
       select(index) {
         if (this.step < this.lists.length) {
           this.choose[this.step].answer = this.currentListAnswer[index];
