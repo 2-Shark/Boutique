@@ -566,6 +566,8 @@
     font-size: 1.1vw;
     line-height: 1.6;
     color: var(--skin-test-color--main);
+
+    text-transform: uppercase;
   }
 
   .skin-test-result-body__title {
@@ -1133,9 +1135,9 @@
       <div class="skin-test-result-body__wrapper">
         <div class="skin-test-result-body">
           <div class="skin-test-result-body__intro skin-test-result-body-wrapper-line">
-            <div class="skin-test-result-body__subtitle font-acumin-variable">Here is a Personalized Routine for You!</div>
+            <div class="skin-test-result-body__subtitle font-acumin-variable">HERE IS A PERSONALIZED ROUTINE FOR YOUR SKIN.</div>
             <div class="skin-test-result-body__title" v-html="resultReco.title"></div>
-            <div class="skin-test-result-body__body font-acumin" v-html="resultReco.body"></div>
+            <div class="skin-test-result-body__body font-acumin-variable" v-html="resultReco.body"></div>
             <div ref="result_container" class="skin-test-result-body__reco">
               <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in resultReco.collections" :key="`reco-${itemInd}`">
                 <div class="skin-test-result-body__roco-img">
@@ -1464,9 +1466,9 @@
         } else if (age.includes("30")) {
           if (type) {
             // I have facial redness and sensitive skin.
-            return this.results["30_combination"];
-          } else {
             return this.results["30"];
+          } else {
+            return this.results["30_combination"];
           }
         } else if (age.includes("40")) {
           return this.results["40"];
