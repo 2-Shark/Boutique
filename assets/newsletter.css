@@ -17,7 +17,7 @@
   width: 100%;
 }
 .flexbox-gap .newsletter--inputs {
-  gap: 10px;
+  gap: 50px;
 }
 .no-flexbox-gap .newsletter--inputs > * {
   margin: calc(var(--spacing--2) / 2);
@@ -130,6 +130,10 @@ input.newsletter--email {
     width: 100%;
     padding-left: 20px !important;
     padding-right: 20px !important;
+  }
+
+  .flexbox-gap .newsletter--inputs {
+    gap: 10px;
   }
 
   .newsletter--heading {
