@@ -40,7 +40,8 @@
 
   <div class="disrupt-anti-aging-icon_wrapper">
     <div class="anti-aging-text">
-      “BOUTIJOUR, WELL-AGING MUST HAVES”
+      <div class="anti-aging-title">“Wish I had bought the full line up”</div>
+      <div class="anti-aging-subtitle">VOGUE</div>
     </div>
 
     <div class="anti-aging-image_container">
@@ -57,7 +58,7 @@
 
 <style>
   .disrupt-anti-aging-icon_wrapper {
-    height: 290px;
+    padding-bottom: 100px;
     background: #F7F6F0;
   }
 
@@ -180,6 +181,33 @@
     align-items: center;
   }
 
+  .anti-aging-text {
+    text-align: center;
+    padding: 70px 0;
+
+    color: #2C3D33;
+  }
+
+  .anti-aging-title {
+    font-family: ambroise-std;
+    font-style: italic;
+    letter-spacing: 0;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: 300;
+  }
+
+  .anti-aging-subtitle {
+    font-family: acumin-variable;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    font-size: 25px;
+    line-height: 2;
+    font-weight: 300;
+
+    margin-top: 20px;
+  }
+
 
   @media(max-width: 1500px) {
 
@@ -194,7 +222,6 @@
 
     .anti-aging-image_wrapper {
       width: calc(4 * 19.6vw);
-      margin-top: 35px;
     }
 
     .anti-aging-image_wrapper img:nth-child(1) {
@@ -267,33 +294,21 @@
     .mg-t-51 {
       margin-top: 35px;
     }
-
-    .anti-aging-text {
-      text-align: center;
-      font-size: 20px;
-      letter-spacing: 0;
-      line-height: 1;
-      color: #13613E;
-      text-transform: uppercase;
-      opacity: 1;
-      padding-top: 61px;
-      display: block !important;
-    }
   }
 
 
   /* right */
 
+  @media (min-width: 750px) {
+    .anti-aging-image_wrapper {
+      transform: scale(0.9);
+    }
+  }
+
 
   @media(max-width: 750px) {
 
     .anti-aging-image_container {}
-
-    .anti-aging-image_wrapper {
-      padding-left: 20px;
-      padding-right: 20px;
-      margin-top: 20px;
-    }
 
     .anti-aging-image_wrapper img:nth-child(1) {
       width: 51px;
@@ -313,19 +328,20 @@
     }
 
     .anti-aging-text {
-      text-align: center;
-      font-size: 12px;
-      letter-spacing: 0;
-      line-height: 1;
-      color: #13613E;
-      text-transform: uppercase;
-      opacity: 1;
-      padding-top: 41px;
+      padding: 26px 0;
     }
 
+    .anti-aging-title {
+      font-size: 14px;
+    }
+  
+    .anti-aging-subtitle {
+      font-size: 9px;
+      margin-top: 6px;
+    }
 
     .disrupt-anti-aging-icon_wrapper {
-      height: 130px;
+      padding-bottom: 27px;
     }
 
     .anti-aging_wrapper {
@@ -388,19 +404,6 @@
       margin-top: 40px;
     }
 
-    .anti-aging-text {
-      font-family: acumin-pro;
-      font-size: 12px;
-      line-height: 1;
-    }
-
-
-  }
-
-  @media(min-width: 750px) {
-    .anti-aging-text {
-      display: none;
-    }
   }
 </style>
 {% schema %}
