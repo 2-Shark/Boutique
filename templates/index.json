@@ -9,7 +9,7 @@
         "eyebrow": "SCIENCE MEETS NATURE",
         "header": "New Well-aging<br class=\"only-mb\"> Skincare & Rituals",
         "cta": "SHOP NOW",
-        "link": "\/collections\/all",
+        "link": "\/pages\/shop-all",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166",
         "background_color": "",
@@ -31,7 +31,7 @@
         "header": "Redefining<br>Anti-aging.<br>We’re “Well-aging”",
         "body": "NATURAL FORMULA WITH<br> TECHNOLOGY<br> FOR ADVANCED WELL-AGING.",
         "cta": "ABOUT US",
-        "link": "\/collections\/all",
+        "link": "\/account",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166",
         "background_color": "",
@@ -184,7 +184,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307201674_1.jpg",
             "header": "GLASS GLOW<br> SKINCARE",
             "cta": "DISCOVER RITUAL",
-            "cta_link": ""
+            "cta_link": "/pages/glass-glow-skincare"
           }
         },
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
@@ -194,7 +194,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202311_1.jpg",
             "header": "DIPUFFING<br> & DETOXING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": ""
+            "cta_link": "/pages/dipuffing-detoxing"
           }
         },
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e": {
@@ -204,7 +204,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
             "header": "SCULPTING<br> LIFTING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": ""
+            "cta_link": "/pages/lifting-sculting"
           }
         },
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
@@ -214,7 +214,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202524_1.jpg",
             "header": "EXTREME<br> SUN LOVERS",
             "cta": "DISCOVER RITUAL",
-            "cta_link": ""
+            "cta_link": "/pages/extreme-sun-lovers"
           }
         }
       },
