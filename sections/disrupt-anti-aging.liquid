@@ -1,41 +1,48 @@
 <div class="disrupt-anti-aging">
 
-  <div class="anti-aging_wrapper">
-    <div class="anti-aging_left">
-      <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
-        <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_l | image_url }}">
-        <img src="{{ section.settings.image_desktop_l | image_url }}" style="width: 100%; z-index: 1">
-      </picture>
-      <div class="anti-agin-left-txt_wrapper">
-        <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center mg-b-20">Switch from</div>
-        <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Anti-Aging</div>
+  <div class="anti-aging_container">
+    <div class="anti-aging_wrapper">
+      <div class="anti-aging_left">
+        <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+          <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_l | image_url }}">
+          <img src="{{ section.settings.image_desktop_l | image_url }}" style="width: 100%; z-index: 1">
+        </picture>
+        <div class="anti-agin-left-txt_wrapper">
+          <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center mg-b-20">Switch from</div>
+          <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Anti-Aging</div>
+        </div>
+  
+        <div class="anti-agin-left-cta_wrapper">
+          <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center">to</div>
+          <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Well-Aging</div>
+          <a href="/blogs/well-aging-know-hows-glowing-skincare" class="disrupt-cta-btn disrupt-btn-txt txt-color-wh mg-t-116">
+            READ BLOG
+          </a>
+        </div>
       </div>
-
-      <div class="anti-agin-left-cta_wrapper">
-        <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center">to</div>
-        <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Well-Aging</div>
-        <a href="/blogs/well-aging-know-hows-glowing-skincare" class="disrupt-cta-btn disrupt-btn-txt txt-color-wh mg-t-116">
-          READ BLOG
-        </a>
+      <div class="anti-aging_right">
+        <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
+          <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_r | image_url}} ">
+          <img src="{{ section.settings.image_desktop_r | image_url }}" style="width: 100%; z-index: 1">
+        </picture>
+        <div class="anti-agin-right-txt_wrapper">
+          <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center">Let's join to be</div>
+          <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Well-ager</div>
+          <div class="disrupt-aging-body txt-color-wh disrupt-txt-align-center mg-t-51">WELL-AGER CLUB</div>
+        </div>
+  
+        <div class="anti-agin-right-cta_wrapper">
+          <a href="/account" class="disrupt-cta-btn disrupt-btn-txt txt-color-wh">
+            JOIN US
+          </a>
+        </div>
       </div>
     </div>
-    <div class="anti-aging_right">
-      <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
-        <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_r | image_url}} ">
-        <img src="{{ section.settings.image_desktop_r | image_url }}" style="width: 100%; z-index: 1">
-      </picture>
-      <div class="anti-agin-right-txt_wrapper">
-        <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center">Let's join to be</div>
-        <div class="disrupt-aging-header txt-color-wh disrupt-txt-align-center">Well-ager</div>
-        <div class="disrupt-aging-body txt-color-wh disrupt-txt-align-center mg-t-51">WELL-AGER CLUB</div>
-      </div>
 
-      <div class="anti-agin-right-cta_wrapper">
-        <a href="/account" class="disrupt-cta-btn disrupt-btn-txt txt-color-wh">
-          JOIN US
-        </a>
-      </div>
-    </div>
+    <ul class="anti-aging-slide-dot">
+      <li class="anti-aging-slide-dot--item selected"></li>
+      <li class="anti-aging-slide-dot--item"></li>
+    </ul>
   </div>
 
   <div class="disrupt-anti-aging-icon_wrapper">
@@ -56,6 +63,66 @@
 
 </div>
 
+<script>
+  let antiAgingSlideWrapper = document.querySelector(".anti-aging_wrapper");
+  let antiAgingDots = [...document.querySelectorAll(".anti-aging-slide-dot--item")];
+  let antiAgingPrevDotIndex = 0;
+
+  antiAgingDots.forEach((dot, index) => {
+    
+    dot.addEventListener("click", (cur) => {
+      antiAgingDots[antiAgingPrevDotIndex].classList.remove("selected");
+      antiAgingPrevDotIndex = index;
+      antiAgingDots[index].classList.add("selected");
+
+      antiAgingSlideWrapper.style.transform = `translateX(-${index * 100}%)`;
+    })
+  })
+</script>
+
+<style>
+  .anti-aging-slide-dot {
+    display: none;
+  }
+
+  @media (min-width: 750px) {
+    .anti-aging_wrapper {
+      transform: translateX(0) !important;
+    }
+  }
+
+  @media (max-width: 750px) {
+    .anti-aging_wrapper {
+      transition: all 0.3s ease 0s;
+    }
+
+    .anti-aging-slide-dot {
+      display: flex;
+      flex-direction: row;
+      position: absolute;
+      left: 50%;
+      bottom: 17px;
+      transform: translateX(-50%);
+      z-index: 15;
+    }
+
+    .anti-aging-slide-dot--item {
+      width: 8px;
+      height: 8px;
+      border-radius: 100%;
+      background-color: #626262;
+    }
+
+    .anti-aging-slide-dot--item + .anti-aging-slide-dot--item {
+      margin-left: 10px;
+    }
+
+    .anti-aging-slide-dot--item.selected {
+      background-color: #13613E;
+    }
+  }
+</style>
+
 <style>
   .disrupt-anti-aging-icon_wrapper {
     padding-bottom: 100px;
@@ -67,9 +134,14 @@
     width: 100%;
   }
 
+  .anti-aging_container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
   .anti-aging_wrapper {
     display: flex;
-    flex-wrap: wrap;
   }
 
   .anti-aging_left,
@@ -344,14 +416,11 @@
       padding-bottom: 27px;
     }
 
-    .anti-aging_wrapper {
-      flex-direction: column;
-    }
-
     .anti-aging_left,
     .anti-aging_right {
       position: relative;
       width: 100%;
+      min-width: 100%;
       height: 104vw;
       overflow: hidden;
       padding-top: 50px;
@@ -360,12 +429,6 @@
       align-items: center;
       flex-direction: column;
       justify-content: space-between;
-    }
-
-
-
-    .anti-aging_right {
-      display: none;
     }
 
     .disrupt-aging-eyebrow {
