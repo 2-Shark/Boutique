@@ -163,6 +163,23 @@
     display: none !important;
   }
 
+  [data-light-text=true] a, [data-light-text=true] a:hover, [data-light-text=true] a:link, [data-light-text=true] a:visited {
+    color: black;
+  }
+
+  .header--fill-for-fixing {
+    display: none !important;
+  }
+
+  .announcement--root {
+    position: relative;
+  }
+
+  header-root.header--root[data-fixed=false][data-fixed-enabled=true] {
+    position: relative !important;
+    top: unset !important
+  }
+
   body {
     --skin-test-background: #F6F6F6;
     background-color: var(--skin-test-background);
