@@ -75,7 +75,7 @@
   <div class="disrupt-essential_container">
     <div class="disrupt-essential_wrapper">
       {%- for block in blocks limit: total_blocks -%}
-        <div class="essential-card_wrap">
+        <div class="essential-card_wrap" style="display: flex; flex-direction: column;">
           <div>
             <img class="essential-product-img" src="{{block.featured_media | image_url}}" >
           </div>
@@ -86,6 +86,11 @@
             <div class="essential-price">
               {{block.price | money_without_trailing_zeros}}
             </div>
+          </div>
+          <div class="carousel-shop-btn_wrapper" style="flex: 1; display: flex; align-items: flex-end;">
+            <a class="carousel-shop-btn" href="{{block.url}}">
+              SHOP NOW
+            </a>
           </div>
         </div>
       {% endfor %}
