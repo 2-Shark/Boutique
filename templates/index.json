@@ -24,9 +24,9 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/boutijour_desktop-min.jpg",
+        "image_desktop": "shopify:\/\/shop_images\/banner-left-desktop-min.jpg",
         "image_mobile": "shopify:\/\/shop_images\/boutijour_mobile-min.jpg",
-        "image_desktop_right": "shopify:\/\/shop_images\/202307200414_1.jpg",
+        "image_desktop_right": "shopify:\/\/shop_images\/banner-right-desktop-min.jpg",
         "image_mobile_right": "shopify:\/\/shop_images\/202307200414_1_ac6c0ae5-b98c-4be9-a2bc-f66b66e0f1c5.jpg",
         "header": "Redefining<br>Anti-aging.<br>We’re “Well-aging”",
         "body": "NATURAL FORMULA WITH<br> TECHNOLOGY<br> FOR ADVANCED WELL-AGING.",
