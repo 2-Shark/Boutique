@@ -126,6 +126,20 @@
       endif
     -%}
   </div>
+
+  {%- if collection.products.size > max_products -%}
+    <div data-container="block">
+      <div
+        id="featured-collection-show-more"
+        class="featured-collection--show-more"
+        data-item="block-link"
+      >
+        <a href="{{ collection.url }}">
+          {{- view_collection_t -}}
+        </a>
+      </div>
+    </div>
+  {%- endif -%}
 </div>
 
 {% schema %}
