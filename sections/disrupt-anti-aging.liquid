@@ -5,7 +5,7 @@
       <div class="anti-aging_left">
         <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
           <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_l | image_url }}">
-          <img src="{{ section.settings.image_desktop_l | image_url }}" style="width: 100%; z-index: 1">
+          <img src="{{ section.settings.image_desktop_l | image_url }}" style="width: 100%; height: 100%; object-fit: cover; z-index: 1">
         </picture>
         <div class="anti-agin-left-txt_wrapper">
           <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center mg-b-20">Switch from</div>
@@ -23,7 +23,7 @@
       <div class="anti-aging_right">
         <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
           <source media="(max-width:750px)" srcset="{{ section.settings.image_mobile_r | image_url}} ">
-          <img src="{{ section.settings.image_desktop_r | image_url }}" style="width: 100%; z-index: 1">
+          <img src="{{ section.settings.image_desktop_r | image_url }}" style="width: 100%; height: 100%; object-fit: cover; z-index: 1">
         </picture>
         <div class="anti-agin-right-txt_wrapper">
           <div class="disrupt-aging-eyebrow txt-color-wh disrupt-txt-align-center">Let's join to be</div>

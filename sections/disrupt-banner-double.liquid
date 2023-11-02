@@ -5,7 +5,7 @@
     <div class="double-banner_left pd-t-49-l-90">
       <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
         <source media="(max-width:750px)" srcset="{{section.settings.image_mobile | image_url}}">
-        <img src="{{section.settings.image_desktop | image_url}}" style="width: 100%; z-index: 1">
+        <img src="{{section.settings.image_desktop | image_url}}" style="width: 100%; height: 100%; object-fit: cover; z-index: 1">
       </picture>
 
       <div class="tp-d-banner-header only-mb" style="z-index: 5; position:relative">
@@ -17,7 +17,7 @@
     <div class="double-banner_right pd-t-162-l-90">
       <picture style="position:absolute; top:0; left:0; width:100%; height:100%; z-index: 1">
         <source media="(max-width:750px)" srcset="{{section.settings.image_mobile_right | image_url}}">
-        <img src="{{section.settings.image_desktop_right | image_url}}" style="width: 100%; z-index: 1">
+        <img src="{{section.settings.image_desktop_right | image_url}}" style="width: 100%; height: 100%; object-fit: cover; z-index: 1">
       </picture>
       <div class="double-banner-right-text_wrapper" style="z-index: 5;">
         <div class="tp-d-banner-header only-dsk">

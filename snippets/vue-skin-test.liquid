@@ -888,6 +888,18 @@
   .skin-test-result-body__roco-item {
     text-align: center;
     display: grid;
+    position: relative;
+  }
+
+  .skin-test-result-body__roco-link {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+    z-index: 2;
   }
   
   .skin-test-result-body__roco-img {
@@ -1156,6 +1168,7 @@
             <div class="skin-test-result-body__body font-acumin-variable" v-html="resultReco.body"></div>
             <div ref="result_container" class="skin-test-result-body__reco">
               <div class="skin-test-result-body__roco-item" v-for="(item, itemInd) in resultReco.collections" :key="`reco-${itemInd}`">
+                <a :href="`/products/${item.handle}`" class="skin-test-result-body__roco-link" target="_blank"></a>
                 <div class="skin-test-result-body__roco-img">
                   <img :src="item.featured_image" alt="Boutijour product img" />
                 </div>
