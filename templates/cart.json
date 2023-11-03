@@ -1,1 +1,28 @@
-{"sections":{"main":{"type":"cart","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "cart",
+      "settings": {
+      }
+    },
+    "alireviews-section-24bce732-0451-4013-841b-1bfcf80b30e0": {
+      "type": "apps",
+      "blocks": {
+        "862a54b7-f026-4f76-9d36-99108be32d47": {
+          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box-in-cart\/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "862a54b7-f026-4f76-9d36-99108be32d47"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "alireviews-section-24bce732-0451-4013-841b-1bfcf80b30e0"
+  ]
+}
