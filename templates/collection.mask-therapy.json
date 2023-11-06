@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection--header",
+      "settings": {
+        "show-title": true,
+        "title-alignment": "left",
+        "show-description": true,
+        "description-alignment": "with-title",
+        "show-image": true,
+        "use-image-fallback": true,
+        "image-aspect-ratio": 30,
+        "mobile-image-aspect-ratio": 40,
+        "alt-color": true,
+        "apply-overlay": false,
+        "parallax-enabled": false
+      }
+    },
+    "navigation": {
+      "type": "collection--navigation",
+      "settings": {
+        "show-browse-button": true,
+        "show-sort-button": true,
+        "show-refine-button": true,
+        "show-layout-buttons": true,
+        "show-collections-list": false,
+        "custom-list-collections": "main-menu",
+        "show-sort-list": true,
+        "show-refine-list": true,
+        "swatches-enabled": false,
+        "show-search-link": true
+      }
+    },
+    "main": {
+      "type": "collection--body",
+      "settings": {
+        "products-per-row--desktop": 4,
+        "products-per-row--mobile": "1",
+        "number-of-rows": 4
+      }
+    },
+    "819ecd02-a830-4301-8d8e-60c28368dda2": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "skincare",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "grid",
+        "products-per-row--desktop": "4",
+        "products-per-row--mobile": "1"
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "navigation",
+    "main",
+    "819ecd02-a830-4301-8d8e-60c28368dda2"
+  ]
+}
