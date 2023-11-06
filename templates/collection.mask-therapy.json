@@ -57,7 +57,7 @@
     "17015277-73c0-460f-96a3-c26e47962a28": {
       "type": "recent-products",
       "settings": {
-        "background-color": "accent-1",
+        "background-color": "light",
         "light-text": false,
         "heading": "Recently viewed",
         "title-alignment": "center",
