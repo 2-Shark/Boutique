@@ -58,15 +58,6 @@
             "default-open": false
           }
         },
-        "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Refund Policy",
-            "description": "",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-3": {
           "type": "collapsible-row",
           "settings": {
@@ -89,7 +80,6 @@
       "block_order": [
         "6cab9e44-d8a6-410b-9d37-49609008b17b",
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-1",
-        "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-2",
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-3",
         "b6e3abdb-d3c8-4de1-95fa-011ce35d5d5b"
       ],
