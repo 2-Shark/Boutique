@@ -53,7 +53,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Refund Policy",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "description": "",
             "page-content": "",
             "default-open": false
           }
