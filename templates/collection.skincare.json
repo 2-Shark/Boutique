@@ -39,13 +39,28 @@
         "number-of-rows": 4
       }
     },
+    "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "e30185d6-13c4-4327-948c-7db17782cb84": {
       "type": "recent-products",
       "settings": {
         "background-color": "none",
         "light-text": false,
         "heading": "Recently viewed",
-        "title-alignment": "left",
+        "title-alignment": "center",
         "spacing-above": true,
         "spacing-below": true
       }
@@ -55,6 +70,7 @@
     "collection-header",
     "navigation",
     "main",
+    "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18",
     "e30185d6-13c4-4327-948c-7db17782cb84"
   ]
 }
