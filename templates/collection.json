@@ -270,11 +270,26 @@
         "spacing-below": true
       }
     },
+    "ec1f74e9-e81a-458d-9b82-7d2902eea733": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "5",
+        "inner_padding_bottom_desktop": "5",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "footer-promo": {
       "type": "image-with-text",
       "settings": {
-        "text-color": "auto",
-        "background-color": "none",
+        "text-color": "dark",
+        "background-color": "light",
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
@@ -286,11 +301,11 @@
         "text-width": "large",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
+        "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/Collection_10.png",
-        "overline": "clean, plant-based formulations with high-performance.",
+        "overline": "",
         "title": "our essentials:",
-        "description": "<p>Minimizing the steps, providing results with healthy ingredients, and caring for our planet through sustainable packaging. Our goal is to keep offering skincare products that we can age gracefully together with and ultimately bring positive impact to our customers and the planet.<\/p>",
+        "description": "<p>Minimizing the steps, providing results with healthy ingredients, and caring for our planet through sustainable packaging. Our goal is to keep offering skincare products that we can age gracefully together.<\/p>",
         "link-url": "",
         "link-text": ""
       }
@@ -339,6 +354,7 @@
     "7dd5b911-d162-4deb-a976-850883fb0b10",
     "a731380b-be11-4dbc-92ec-c3978081afe3",
     "recent-products",
+    "ec1f74e9-e81a-458d-9b82-7d2902eea733",
     "footer-promo",
     "main"
   ]
