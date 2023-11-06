@@ -57,7 +57,7 @@
     "e30185d6-13c4-4327-948c-7db17782cb84": {
       "type": "recent-products",
       "settings": {
-        "background-color": "accent-1",
+        "background-color": "light",
         "light-text": false,
         "heading": "Recently viewed",
         "title-alignment": "center",
