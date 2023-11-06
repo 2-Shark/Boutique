@@ -39,21 +39,15 @@
         "number-of-rows": 4
       }
     },
-    "819ecd02-a830-4301-8d8e-60c28368dda2": {
-      "type": "featured-collection",
-      "disabled": true,
+    "e30185d6-13c4-4327-948c-7db17782cb84": {
+      "type": "recent-products",
       "settings": {
-        "collection": "skincare",
-        "max-products": 8,
         "background-color": "none",
         "light-text": false,
+        "heading": "Recently viewed",
+        "title-alignment": "left",
         "spacing-above": true,
-        "spacing-below": true,
-        "featured-collection--image--show": false,
-        "featured-collection--description--show": false,
-        "display-type": "grid",
-        "products-per-row--desktop": "4",
-        "products-per-row--mobile": "1"
+        "spacing-below": true
       }
     }
   },
@@ -61,6 +55,6 @@
     "collection-header",
     "navigation",
     "main",
-    "819ecd02-a830-4301-8d8e-60c28368dda2"
+    "e30185d6-13c4-4327-948c-7db17782cb84"
   ]
 }
