@@ -270,6 +270,78 @@
         "spacing-below": true
       }
     },
+    "be22a701-4b8a-41ef-82fc-da6b6782b197": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
+            "title": "Glass glow skincare",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-2": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/lifting.jpg",
+            "title": "Sculting & Lifting",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-3": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/detox.jpg",
+            "title": "Depuffing & Detoxing",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-4": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/sunlover.jpg",
+            "title": "Extreme Sun Lovers",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-1",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-2",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-3",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-4"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "block-spacing": true,
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true,
+        "width": 4,
+        "aspect-ratio": "square",
+        "image-width": 0,
+        "mobile-width": "2",
+        "text-alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "ec1f74e9-e81a-458d-9b82-7d2902eea733": {
       "type": "section-layout",
       "settings": {
@@ -354,6 +426,7 @@
     "7dd5b911-d162-4deb-a976-850883fb0b10",
     "a731380b-be11-4dbc-92ec-c3978081afe3",
     "recent-products",
+    "be22a701-4b8a-41ef-82fc-da6b6782b197",
     "ec1f74e9-e81a-458d-9b82-7d2902eea733",
     "footer-promo",
     "main"
