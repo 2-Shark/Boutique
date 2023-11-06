@@ -20,7 +20,7 @@
         "image": "shopify:\/\/shop_images\/COMPANY.png",
         "mobile-image": "shopify:\/\/shop_images\/COMPANY-mobile.png",
         "overline": "",
-        "title": "Our Policy",
+        "title": "Our Policies",
         "description": "",
         "link-url": "shopify:\/\/pages\/contact",
         "link-text": "Contact us"
@@ -40,10 +40,19 @@
     "2a2884cc-2409-4b38-8913-0e3978310bd7": {
       "type": "collapsible-rows",
       "blocks": {
+        "6cab9e44-d8a6-410b-9d37-49609008b17b": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Shipping policy",
+            "description": "",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-1": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Return rules",
             "description": "",
             "page-content": "",
             "default-open": false
@@ -78,6 +87,7 @@
         }
       },
       "block_order": [
+        "6cab9e44-d8a6-410b-9d37-49609008b17b",
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-1",
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-2",
         "template--21408219136287__2a2884cc-2409-4b38-8913-0e3978310bd7-collapsible-row-3",
