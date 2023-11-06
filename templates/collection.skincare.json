@@ -1,0 +1,450 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection--header",
+      "disabled": true,
+      "settings": {
+        "show-title": true,
+        "title-alignment": "center",
+        "show-description": true,
+        "description-alignment": "with-title",
+        "show-image": true,
+        "use-image-fallback": true,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 134,
+        "alt-color": true,
+        "apply-overlay": true,
+        "parallax-enabled": false
+      }
+    },
+    "6caa325d-4997-4b59-8a16-c8e5ac764ed1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Collection_3.png",
+            "overline": "The new Anti-Aging. WELL-AGING.",
+            "title": "Well-Aging Skincare",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "About Us"
+          }
+        },
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/8_97a70b52-e12b-4a39-b7ae-720439d114d9.png",
+            "overline": "powered with lotus",
+            "title": "Purifying & Revitalizing Formula",
+            "description": "",
+            "link-url": "https:\/\/www.instagram.com\/boutijour.official\/",
+            "link-text": "visit our Instagram"
+          }
+        },
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-4": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Collection_d611bd82-4c94-458e-85cd-c52513294c10.png",
+            "overline": "Glass-glow skincare routine",
+            "title": "Elevate your glow to the next level.",
+            "description": "",
+            "link-url": "shopify:\/\/pages\/glass-glow-skincare",
+            "link-text": "Discover routine"
+          }
+        },
+        "d778a469-1029-466d-8d3c-28a0b65edb50": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Collection_6_441c1f40-720f-411d-95e7-7c162998d058.png",
+            "overline": "revitalization through scent therapy",
+            "title": "Body & Hand care Ritual",
+            "description": "",
+            "link-url": "shopify:\/\/pages\/body-hand",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Collection_7.png",
+            "overline": "stress-free, relaxing therapy",
+            "title": "Build your wellness routine",
+            "description": "",
+            "link-url": "shopify:\/\/pages\/skincare-routine",
+            "link-text": "Discover routine",
+            "mobile-image": "shopify:\/\/shop_images\/Collection_7-m_a4e03402-bb68-4910-9b05-f431ab9fa86e.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-1",
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-2",
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-4",
+        "d778a469-1029-466d-8d3c-28a0b65edb50",
+        "template--21429996683551__6caa325d-4997-4b59-8a16-c8e5ac764ed1-image-3"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 40,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 80,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "navigation": {
+      "type": "collection--navigation",
+      "settings": {
+        "show-browse-button": true,
+        "show-sort-button": true,
+        "show-refine-button": true,
+        "show-layout-buttons": true,
+        "show-collections-list": false,
+        "custom-list-collections": "main-menu",
+        "show-sort-list": true,
+        "show-refine-list": true,
+        "swatches-enabled": false,
+        "show-search-link": true
+      }
+    },
+    "53f59d77-783e-4a4e-bfa3-d0167f163585": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "10",
+        "inner_padding_top_mobile": "10",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "3ab7c357-ab20-4027-ba57-c4825a11c086": {
+      "type": "featured-collections",
+      "settings": {
+        "heading": "Well-Aging & Wellness",
+        "collection-list": [
+          "skincare",
+          "mask-therapy",
+          "body-hand",
+          "ritual-tools"
+        ],
+        "aspect-ratio": "square",
+        "image-type": "product",
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 4,
+        "mobile-width": "2"
+      }
+    },
+    "8ee537d5-f6a1-4590-a276-3ffdbab45ab8": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "5",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "header-promo": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "light",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 60,
+        "mobile-image-aspect-ratio": 100,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/Collection_9.png",
+        "overline": "",
+        "title": "let's enjoy the well-aging journey.",
+        "description": "<p>We will continue to develop meaningful products that can bring positive, healthy, resilient energy to our lifestyle.<\/p>",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "2260adeb-e9d6-4fd2-9feb-132447160454": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "",
+        "inner_padding_top_desktop": "5",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "7dd5b911-d162-4deb-a976-850883fb0b10": {
+      "type": "featured-collections",
+      "settings": {
+        "heading": "Shop by skin concern",
+        "collection-list": [
+          "dry-skin",
+          "calming",
+          "pigmentation-dark-spot",
+          "lifting-firming",
+          "rejuvenation"
+        ],
+        "aspect-ratio": "square",
+        "image-type": "collection",
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 4,
+        "mobile-width": "2"
+      }
+    },
+    "a731380b-be11-4dbc-92ec-c3978081afe3": {
+      "type": "featured-collections",
+      "settings": {
+        "heading": "routines",
+        "collection-list": [
+          "skincare-routine-for-20s",
+          "skincare-routine-for-30s-combination",
+          "skincare-routine-for-30s",
+          "skincare-routine-for-40s-above"
+        ],
+        "aspect-ratio": "square",
+        "image-type": "collection",
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 4,
+        "mobile-width": "2"
+      }
+    },
+    "recent-products": {
+      "type": "recent-products",
+      "disabled": true,
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "Recently viewed",
+        "title-alignment": "left",
+        "spacing-above": false,
+        "spacing-below": true
+      }
+    },
+    "ec1f74e9-e81a-458d-9b82-7d2902eea733": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "5",
+        "inner_padding_bottom_desktop": "5",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "be22a701-4b8a-41ef-82fc-da6b6782b197": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
+            "title": "Glass glow skincare",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-2": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/lifting.jpg",
+            "title": "Sculting & Lifting",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-3": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/detox.jpg",
+            "title": "Depuffing & Detoxing",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-4": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/sunlover.jpg",
+            "title": "Extreme Sun Lovers",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-1",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-2",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-3",
+        "template--21429996683551__be22a701-4b8a-41ef-82fc-da6b6782b197-image-4"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "block-spacing": true,
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true,
+        "width": 4,
+        "aspect-ratio": "square",
+        "image-width": 0,
+        "mobile-width": "2",
+        "text-alignment": "center",
+        "heading": "",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "6242545f-2630-48b6-80b9-7f25cc92eb51": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "30",
+        "inner_padding_top_mobile": "20",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "footer-promo": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "dark",
+        "background-color": "light",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 70,
+        "mobile-image-aspect-ratio": 100,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/Collection_10.png",
+        "overline": "",
+        "title": "our essentials:",
+        "description": "<p>Minimizing the steps, providing results with healthy ingredients, and caring for our planet through sustainable packaging. Our goal is to keep offering skincare products that we can age gracefully together.<\/p>",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "main": {
+      "type": "collection--body",
+      "blocks": {
+        "grid-promo-1": {
+          "type": "promotion",
+          "settings": {
+            "row-number": 2,
+            "column-number": 2,
+            "promo-width": 2,
+            "background-color": "light",
+            "text-color": "dark",
+            "darken-image": true,
+            "image-size": "fit-to-container",
+            "overline": "Overline text",
+            "title": "Grid promotion",
+            "description": "<p>Create eye-catching promos within collection grids to increase discoverability and accelerate conversions.<\/p>",
+            "link-url": "",
+            "link-text": "Optional link"
+          }
+        }
+      },
+      "block_order": [
+        "grid-promo-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "products-per-row--desktop": 4,
+        "products-per-row--mobile": "1",
+        "number-of-rows": 4
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "6caa325d-4997-4b59-8a16-c8e5ac764ed1",
+    "navigation",
+    "53f59d77-783e-4a4e-bfa3-d0167f163585",
+    "3ab7c357-ab20-4027-ba57-c4825a11c086",
+    "8ee537d5-f6a1-4590-a276-3ffdbab45ab8",
+    "header-promo",
+    "2260adeb-e9d6-4fd2-9feb-132447160454",
+    "7dd5b911-d162-4deb-a976-850883fb0b10",
+    "a731380b-be11-4dbc-92ec-c3978081afe3",
+    "recent-products",
+    "ec1f74e9-e81a-458d-9b82-7d2902eea733",
+    "be22a701-4b8a-41ef-82fc-da6b6782b197",
+    "6242545f-2630-48b6-80b9-7f25cc92eb51",
+    "footer-promo",
+    "main"
+  ]
+}
