@@ -22,15 +22,41 @@
         "text": "<p>Aging is an inevitable part of life. As we grow older, our bodies undergo various changes, both internal and external. While we cannot stop the clock or reverse time, we can certainly take steps to ensure that we age gracefully and maintain our overall well-being. This shift from the concept of 'anti-aging' to 'well-aging' emphasizes the importance of embracing the aging process while prioritizing health and vitality. In this article, we will explore the key principles and practices that can help us transition from anti-aging to well-aging.<\/p>"
       }
     },
+    "c144a42c-baf1-4229-ab29-1cebd32bdb16": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 48,
+        "mobile-image-aspect-ratio": 110,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_how_to_well-age.png",
+        "mobile-image": "shopify:\/\/shop_images\/How_to_well-age.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "d7d70280-fed4-4379-9f34-8dd6abc15010": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "01",
         "heading": "",
         "text": "<p><strong>Embrace a Positive Mindset<\/strong><\/p><p>Well-aging begins with a positive mindset. Embracing the aging process as a natural part of life can significantly impact how we experience it. Cultivating a positive attitude can reduce stress, boost mental health, and increase resilience in the face of challenges. Instead of fearing wrinkles or gray hair, consider them as badges of experience and wisdom earned over the years.<\/p>"
       }
@@ -40,10 +66,10 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "02",
         "heading": "",
         "text": "<p><strong>Prioritize Nutritious Eating<\/strong><\/p><p>A well-balanced diet plays a crucial role in well-aging. Consuming a variety of nutrient-rich foods can provide the body with the vitamins, minerals, and antioxidants it needs to function optimally. Focus on a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. Adequate hydration is also vital for maintaining skin elasticity and overall health.<\/p>"
       }
@@ -53,10 +79,10 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "03",
         "heading": "",
         "text": "<p><strong>Stay Physically Active<\/strong><\/p><p>Regular physical activity is a cornerstone of well-aging. Exercise not only helps to maintain a healthy weight but also keeps muscles strong, bones dense, and joints flexible. Engaging in activities such as walking, swimming, yoga, or strength training can improve cardiovascular health, balance, and overall mobility.<\/p><p><\/p>"
       }
@@ -66,10 +92,10 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "04",
         "heading": "",
         "text": "<p><strong>Get Quality Sleep<\/strong><\/p><p>A good night's sleep is essential for well-aging. During deep sleep, the body repairs and regenerates cells, promoting physical and mental health. Establishing a consistent sleep routine and creating a comfortable sleep environment can contribute to better sleep quality.<\/p>"
       }
@@ -79,10 +105,10 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "05",
         "heading": "",
         "text": "<p><strong>Manage Stress Effectively<\/strong><\/p><p>Chronic stress can accelerate the aging process and increase the risk of various health issues. Learning to manage stress through techniques like meditation, deep breathing exercises, or mindfulness can be transformative. Reducing stress not only benefits mental well-being but also has a positive impact on physical health.<\/p>"
       }
@@ -92,20 +118,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "06",
         "heading": "",
         "text": "<p><strong>Maintain Social Connections<\/strong><\/p><p>Loneliness and isolation can take a toll on mental and emotional health, which can, in turn, affect physical health. Maintaining social connections with friends and family is crucial for well-aging. Engaging in social activities, volunteering, or joining clubs can help foster a sense of community and belonging.<\/p>"
-      }
-    },
-    "comments": {
-      "type": "article-comments",
-      "settings": {
-        "show-comments": true,
-        "disqus-enabled": false,
-        "disqus-shortname": ""
       }
     },
     "9c7e19eb-4fab-4759-8e30-c2dac7432a53": {
@@ -113,10 +131,10 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "07",
         "heading": "",
         "text": "<p><strong>Protect Your Skin<\/strong><\/p><p>While well-aging focuses on overall well-being, it's essential to care for your skin as well. Sun protection is key in preventing premature aging and reducing the risk of skin cancer. Use sunscreen, wear protective clothing, and avoid excessive sun exposure.<\/p>"
       }
@@ -126,7 +144,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
@@ -145,6 +163,14 @@
         "url-enabled": true
       }
     },
+    "comments": {
+      "type": "article-comments",
+      "settings": {
+        "show-comments": true,
+        "disqus-enabled": false,
+        "disqus-shortname": ""
+      }
+    },
     "recents": {
       "type": "article-recents",
       "settings": {
@@ -156,16 +182,17 @@
   "order": [
     "main",
     "01174489-935f-4c6b-b659-4c1205ea8a89",
+    "c144a42c-baf1-4229-ab29-1cebd32bdb16",
     "d7d70280-fed4-4379-9f34-8dd6abc15010",
     "abc0869b-0fc7-4eb7-a205-abe115314046",
     "ffd2f915-28cd-4bcf-8711-8f6c4332823a",
     "41284923-f8ad-4682-b2ae-a0afe583288e",
     "9b12fec8-c4be-4d4b-967d-af20db91c876",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
-    "comments",
     "9c7e19eb-4fab-4759-8e30-c2dac7432a53",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
+    "comments",
     "recents"
   ]
 }
