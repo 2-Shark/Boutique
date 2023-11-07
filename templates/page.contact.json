@@ -46,8 +46,8 @@
         "spacing-above": false,
         "spacing-below": true,
         "overline": "",
-        "heading": "",
-        "text": "<p>For all customer service & general inquiries please contact us below.<\/p>"
+        "heading": "For all customer service & general inquiries",
+        "text": ""
       }
     },
     "1632180071f18cee62": {
