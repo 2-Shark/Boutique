@@ -131,34 +131,6 @@
         "heading": "",
         "text": "<h6><em>For all customer service & general inquiries please contact us below. <\/em><\/h6>"
       }
-    },
-    "1632180071f18cee62": {
-      "type": "contact",
-      "settings": {
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "heading": "Customer Contact",
-        "store-address": "16, Itaewon-ro 45-gil, Yongsan-gu, Seoul",
-        "store-hours": "<p><strong>Wednesday - Friday |<\/strong> 12:00 pm - 7:30 pm<br\/><\/p><p><strong>Break time - 3:00 pm |<\/strong> 4:00 pm<br\/><\/p><p><strong>Saturday |<\/strong>  1:00 pm - 7:30 pm<br\/><strong>Sunday |<\/strong> 1:00 pm - 6:00 pm<\/p>",
-        "show-social-sharing": false
-      }
-    },
-    "537abefb-d827-4869-8fbf-ffed1b87df3c": {
-      "type": "contact",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "heading": "Business Contact",
-        "store-address": "16, Itaewon-ro 45-gil, Yongsan-gu, Seoul",
-        "store-hours": "",
-        "show-social-sharing": false
-      }
     }
   },
   "order": [
@@ -166,8 +138,6 @@
     "main",
     "2a2884cc-2409-4b38-8913-0e3978310bd7",
     "aa72f5cb-a27f-4fdc-96e8-139216058eb9",
-    "16324378141979f11c",
-    "1632180071f18cee62",
-    "537abefb-d827-4869-8fbf-ffed1b87df3c"
+    "16324378141979f11c"
   ]
 }
