@@ -203,7 +203,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>After washing your face, apply an appropriate amount gently, as if you are smoothing your skin's texture. Depending on your skin condition, you can use more drops to experience a calming effect.<\/p>",
+            "description": "<p>Apply the toner after gently cleansing. Use on face and neck every morning and night.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -221,7 +221,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Lightweight | Refreshing | Quick-absorbing<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -230,7 +230,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot       |       Lavender<\/p>",
+            "description": "<p>Ylang ylang | Orange peel | Geranium<\/p>",
             "page-content": "",
             "default-open": false
           }
