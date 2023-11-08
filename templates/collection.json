@@ -442,7 +442,7 @@
         "inner_padding_top_desktop": "30",
         "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
+        "inner_padding_bottom_mobile": "10",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
