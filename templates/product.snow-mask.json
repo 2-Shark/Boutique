@@ -212,7 +212,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | +4-peptide <\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Dipropylene Glycol, Cetyl Ethylhexanoate, Niacinamide, Methylpropanediol, 1,2-Hexanediol, Polyglyceryl-3 Methylglucose Distearate, Betaine, Trehalose, Panthenol, Glyceryl Stearate, Saussurea Involucrata Extract, Arginine, Carbomer, Xanthan Gum, Hydrogenated Polyisobutene, Butylene glycol, Sorbitan Stearate, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Adenosine, Disodium EDTA, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Hydrolyzed Hyaluronic Acid, Anemarrhena Asphodeloides Root Extract, Sorbitan Sesquioleate, Sodium Hyaluronate, Sucrose Cocoate, Pentylene Glycol, Caprylyl Glycol, Sodium hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Acetyl Hexapeptide-8, Copper Tripeptide-1, Oligopeptide-29 , Palmitoyl Pentapeptide-4, Camellia Japonica Flower Extract <\/p>",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Anemarrhena Asphodeloides Root | Camellia Sinensis | +4-Peptide<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Dipropylene Glycol , Cetyl Ethylhexanoate, Niacinamide, Methylpropanediol, 1,2-Hexanediol, Polyglyceryl-3 Methylglucose Distearate, Betaine, Trehalose, Panthenol, Glyceryl Stearate, Saussurea Involucrata Extract, Arginine, Carbomer, Xanthan Gum, Hydrogenated Polyisobutene, Butylene glycol, Sorbitan Stearate, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Adenosine, Disodium EDTA, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Hydrolyzed Hyaluronic Acid, Anemarrhena Asphodeloides Root Extract, Sorbitan Sesquioleate, Sodium Hyaluronate, Sucrose Cocoate, Pentylene Glycol, Caprylyl Glycol, Sodium hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Acetyl Hexapeptide-8, Copper Tripeptide-1, Oligopeptide-29 , Palmitoyl Pentapeptide-4, Camellia Japonica Flower Extract, Linalool, Limonene<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -221,7 +221,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Lightweight | Creamy | Moisturizing<\/p>",
+            "description": "<p>Creamy | Moisturizing | Firming<\/p>",
             "page-content": "",
             "default-open": false
           }
