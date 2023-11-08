@@ -211,7 +211,7 @@
         "text_color": "",
         "inner_padding_top_desktop": "5",
         "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_desktop": "10",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
@@ -240,6 +240,7 @@
     },
     "a731380b-be11-4dbc-92ec-c3978081afe3": {
       "type": "featured-collections",
+      "disabled": true,
       "settings": {
         "heading": "routines",
         "collection-list": [
@@ -277,9 +278,9 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
+        "inner_padding_top_desktop": "10",
         "inner_padding_top_mobile": "5",
-        "inner_padding_bottom_desktop": "5",
+        "inner_padding_bottom_desktop": "10",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
