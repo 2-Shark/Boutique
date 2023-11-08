@@ -285,6 +285,66 @@
         "page_width_mobile": "default"
       }
     },
+    "777ab9be-3acd-4e60-98c9-6c70e6792012": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/20.png",
+            "title": "for 20's",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-2": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/30-combination.png",
+            "title": "for 30's",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-3": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/40.png",
+            "title": "for 40's & Above",
+            "description": "",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-1",
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-2",
+        "template--21429996683551__777ab9be-3acd-4e60-98c9-6c70e6792012-image-3"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "block-spacing": true,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 3,
+        "aspect-ratio": "square",
+        "image-width": 0,
+        "mobile-width": "2",
+        "text-alignment": "center",
+        "heading": "SHOP BY Routine",
+        "subtitle": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "be22a701-4b8a-41ef-82fc-da6b6782b197": {
       "type": "text-columns",
       "blocks": {
@@ -442,6 +502,7 @@
     "a731380b-be11-4dbc-92ec-c3978081afe3",
     "recent-products",
     "ec1f74e9-e81a-458d-9b82-7d2902eea733",
+    "777ab9be-3acd-4e60-98c9-6c70e6792012",
     "be22a701-4b8a-41ef-82fc-da6b6782b197",
     "6242545f-2630-48b6-80b9-7f25cc92eb51",
     "footer-promo",
