@@ -296,7 +296,7 @@
             "image": "shopify:\/\/shop_images\/20.png",
             "title": "for 20's",
             "description": "",
-            "link-url": "",
+            "link-url": "shopify:\/\/pages\/skincare-routine-for-20s",
             "link-text": "View more"
           }
         },
@@ -307,7 +307,7 @@
             "image": "shopify:\/\/shop_images\/30-combination.png",
             "title": "for 30's",
             "description": "",
-            "link-url": "",
+            "link-url": "shopify:\/\/pages\/skincare-routine-for-30s",
             "link-text": "View more"
           }
         },
@@ -318,7 +318,7 @@
             "image": "shopify:\/\/shop_images\/40.png",
             "title": "for 40's & Above",
             "description": "",
-            "link-url": "",
+            "link-url": "shopify:\/\/pages\/40-s-above-routine-with-aging-processed-skin",
             "link-text": "View more"
           }
         }
