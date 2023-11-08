@@ -2,6 +2,7 @@
   "sections": {
     "collection-header": {
       "type": "collection--header",
+      "disabled": true,
       "settings": {
         "show-title": true,
         "title-alignment": "left",
@@ -14,6 +15,31 @@
         "alt-color": true,
         "apply-overlay": false,
         "parallax-enabled": false
+      }
+    },
+    "9b9b627e-7fd4-4939-8fea-c1309b5b0e5f": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 30,
+        "mobile-image-aspect-ratio": 40,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "bottom-left",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/Collection_dry_skin_page.png",
+        "overline": "",
+        "title": "DRY skin",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "navigation": {
@@ -68,6 +94,7 @@
   },
   "order": [
     "collection-header",
+    "9b9b627e-7fd4-4939-8fea-c1309b5b0e5f",
     "navigation",
     "main",
     "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18",
