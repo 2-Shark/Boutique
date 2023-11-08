@@ -144,20 +144,6 @@
             "mobile-image": "shopify:\/\/shop_images\/3262299d7ac540e56801fb5c14869c4e.png"
           }
         },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_1c6db29b-56c8-4949-b33c-fa4b9cf11937.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_bb6ff8c2-767c-4297-8d6e-9c79ddf91cec.png"
-          }
-        },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
           "type": "image",
           "settings": {
@@ -171,12 +157,26 @@
             "link-text": "",
             "mobile-image": "shopify:\/\/shop_images\/1_1b469282-aaf2-4c27-8f80-08c8d1bc15d2.png"
           }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_2_1c6db29b-56c8-4949-b33c-fa4b9cf11937.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/2_bb6ff8c2-767c-4297-8d6e-9c79ddf91cec.png"
+          }
         }
       },
       "block_order": [
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2"
       ],
       "settings": {
         "text-color": "auto",
