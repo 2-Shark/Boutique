@@ -44,6 +44,8 @@
     "social--pinterest--url": "https:\/\/pinterest.com\/shopify",
     "social--twitter--url": "https:\/\/twitter.com\/shopify",
     "social--tiktok--url": "https:\/\/tiktok.com\/@shopify",
+    "checkout_accent_color": "#13613e",
+    "checkout_button_color": "#13613e",
     "bdr-color--page": "#ffffff",
     "color--link-underline": "#212121",
     "content_for_index": [
