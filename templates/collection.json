@@ -337,12 +337,27 @@
         "width": 3,
         "aspect-ratio": "square",
         "image-width": 0,
-        "mobile-width": "2",
+        "mobile-width": "1",
         "text-alignment": "center",
         "heading": "SHOP BY Routine",
         "subtitle": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "fc3018f9-6205-41a2-b0e6-03ba235265c0": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "10",
+        "inner_padding_top_mobile": "5",
+        "inner_padding_bottom_desktop": "10",
+        "inner_padding_bottom_mobile": "5",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "be22a701-4b8a-41ef-82fc-da6b6782b197": {
@@ -503,6 +518,7 @@
     "recent-products",
     "ec1f74e9-e81a-458d-9b82-7d2902eea733",
     "777ab9be-3acd-4e60-98c9-6c70e6792012",
+    "fc3018f9-6205-41a2-b0e6-03ba235265c0",
     "be22a701-4b8a-41ef-82fc-da6b6782b197",
     "6242545f-2630-48b6-80b9-7f25cc92eb51",
     "footer-promo",
