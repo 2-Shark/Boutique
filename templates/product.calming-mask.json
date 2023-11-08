@@ -221,7 +221,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Soothing, watery type<\/p>",
+            "description": "<p>Soothing  |  Dewy  |  Hydrating<\/p>",
             "page-content": "",
             "default-open": false
           }
