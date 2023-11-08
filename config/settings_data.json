@@ -55,6 +55,12 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "6289556993211952083": {
+        "type": "shopify:\/\/apps\/popup-sign-up-sales-banner\/blocks\/app-embed\/bf8cecc4-adc8-4a21-b131-1cdc35783b70",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
