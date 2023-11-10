@@ -5,8 +5,8 @@
       "settings": {
         "show-featured": false,
         "title-position": "left",
-        "show-date": true,
-        "show-author": true
+        "show-date": false,
+        "show-author": false
       }
     },
     "00535d13-c37f-4e7d-802a-6fdc02bd6621": {
