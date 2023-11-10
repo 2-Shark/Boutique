@@ -1,1 +1,152 @@
-{"sections":{"e20f8c30-0c1e-481d-9b97-4e9c2e0598ae":{"type":"slideshow","blocks":{"template--20216775934239__e20f8c30-0c1e-481d-9b97-4e9c2e0598ae-image-1":{"type":"image","settings":{"text-position":"bottom-left","text-width":"large","image":"shopify:\/\/shop_images\/gggggg_-07.jpg","overline":"","title":"blog","description":"","link-url":"\/","link-text":""}}},"block_order":["template--20216775934239__e20f8c30-0c1e-481d-9b97-4e9c2e0598ae-image-1"],"settings":{"text-color":"auto","background-color":"none","spacing-above":false,"spacing-below":false,"spacing-around-blocks":false,"image-aspect-ratio":24,"darken-image":false,"blocks_per_slide":1,"box-around-text":false,"auto-rotate":false,"rotate-frequency":7,"transition_type":"slide","mobile-image-aspect-ratio":70,"blocks_per_slide_mobile":"1","mobile-overlay":true}},"d69da759-9852-4bc6-a3cd-7224bb99229e":{"type":"text-columns","blocks":{"template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3":{"type":"image","settings":{"show-image":true,"image":"shopify:\/\/shop_images\/10_-06.jpg","title":"How To Well-age","description":"<p>Essential well-aging secrets that inspire and elevate our everyday habits for healthier and rejuvenating life. <\/p>","link-url":"shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/how-to-well-age","link-text":"View more"}},"template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1":{"type":"image","settings":{"show-image":true,"image":"shopify:\/\/shop_images\/blog_1_-03_7e573cec-79c3-4b87-ad42-9110faa479fc.jpg","title":"We're Well-aging Skincare","description":"<p>Hello. We're Well-aging Skincare embracing the beauty of aging and nurturing natural skincare rituals with high performance.<\/p>","link-url":"shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/we-re-well-aging-skincare","link-text":"Read more"}},"ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c":{"type":"image","disabled":true,"settings":{"show-image":true,"title":"Add a title or tagline","description":"<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>","link-url":"","link-text":"View more"}},"c520fd82-8005-4f0f-bad5-6a94d48413a0":{"type":"image","disabled":true,"settings":{"show-image":true,"title":"Add a title or tagline","description":"<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>","link-url":"","link-text":"View more"}}},"block_order":["template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3","template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1","ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c","c520fd82-8005-4f0f-bad5-6a94d48413a0"],"settings":{"background-color":"light","light-text":false,"block-spacing":true,"container-width":5,"spacing-above":true,"spacing-below":true,"width":2,"aspect-ratio":"square","image-width":0,"mobile-width":"1","text-alignment":"center","heading":"Featured","subtitle":"Check out our most featured posts","link-url":"","link-text":""}},"435fe506-73f8-4992-acc8-b0fbb4ae98ed":{"type":"featured-text","settings":{"background-color":"none","light-text":false,"container-width":4,"spacing-above":true,"spacing-below":true,"overline":"","heading":"All Posts","text":""}},"main":{"type":"blog","settings":{"show-title":false,"show-date":true,"show-tag-filter":true,"show-author":true,"show-excerpt":true,"columns":2,"image-aspect-ratio":80,"mobile-image-aspect-ratio":134,"show-rss":false,"show-featured":false,"tag":"featured","alt-color":true,"parallax-enabled":false,"apply-overlay":false}}},"order":["e20f8c30-0c1e-481d-9b97-4e9c2e0598ae","d69da759-9852-4bc6-a3cd-7224bb99229e","435fe506-73f8-4992-acc8-b0fbb4ae98ed","main"]}
+{
+  "sections": {
+    "e20f8c30-0c1e-481d-9b97-4e9c2e0598ae": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216775934239__e20f8c30-0c1e-481d-9b97-4e9c2e0598ae-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "large",
+            "image": "shopify:\/\/shop_images\/gggggg_-07.jpg",
+            "overline": "",
+            "title": "blog",
+            "description": "",
+            "link-url": "\/",
+            "link-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20216775934239__e20f8c30-0c1e-481d-9b97-4e9c2e0598ae-image-1"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 24,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 70,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "d69da759-9852-4bc6-a3cd-7224bb99229e": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/10_-06.jpg",
+            "title": "How To Well-age",
+            "description": "<p>Essential well-aging secrets that inspire and elevate our everyday habits for healthier and rejuvenating life. <\/p>",
+            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/how-to-well-age",
+            "link-text": "View more"
+          }
+        },
+        "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/blog_1_-03_7e573cec-79c3-4b87-ad42-9110faa479fc.jpg",
+            "title": "We're Well-aging Skincare",
+            "description": "<p>Hello. We're Well-aging Skincare embracing the beauty of aging and nurturing natural skincare rituals with high performance.<\/p>",
+            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/we-re-well-aging-skincare",
+            "link-text": "Read more"
+          }
+        },
+        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        },
+        "c520fd82-8005-4f0f-bad5-6a94d48413a0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "show-image": true,
+            "title": "Add a title or tagline",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "link-url": "",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3",
+        "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1",
+        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c",
+        "c520fd82-8005-4f0f-bad5-6a94d48413a0"
+      ],
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "block-spacing": true,
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": true,
+        "width": 2,
+        "aspect-ratio": "square",
+        "image-width": 0,
+        "mobile-width": "1",
+        "text-alignment": "center",
+        "heading": "Featured",
+        "subtitle": "Check out our most featured posts",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "435fe506-73f8-4992-acc8-b0fbb4ae98ed": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "All Posts",
+        "text": ""
+      }
+    },
+    "main": {
+      "type": "blog",
+      "settings": {
+        "show-title": false,
+        "show-date": false,
+        "show-tag-filter": true,
+        "show-author": false,
+        "show-excerpt": true,
+        "columns": 2,
+        "image-aspect-ratio": 80,
+        "mobile-image-aspect-ratio": 134,
+        "show-rss": false,
+        "show-featured": false,
+        "tag": "featured",
+        "alt-color": true,
+        "parallax-enabled": false,
+        "apply-overlay": false
+      }
+    }
+  },
+  "order": [
+    "e20f8c30-0c1e-481d-9b97-4e9c2e0598ae",
+    "d69da759-9852-4bc6-a3cd-7224bb99229e",
+    "435fe506-73f8-4992-acc8-b0fbb4ae98ed",
+    "main"
+  ]
+}
