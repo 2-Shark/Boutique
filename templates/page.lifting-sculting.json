@@ -336,9 +336,9 @@
           "settings": {
             "show-image": true,
             "image": "shopify:\/\/shop_images\/lifting.jpg",
-            "title": "Lifting & Sculting",
+            "title": "Sculting & Lifting",
             "description": "",
-            "link-url": "",
+            "link-url": "shopify:\/\/pages\/lifting-sculting",
             "link-text": "Read more"
           }
         },
