@@ -56,7 +56,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "STEP 1.",
@@ -196,7 +196,7 @@
         "box-around-text": false,
         "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/Lifting_Sculting_3fa4153a-4b3e-48cd-83d5-dbbbed878555.png",
-        "overline": "",
+        "overline": "100% MADE WITH NATURAL CERAMIC",
         "title": "Ceramic Bouti Gua Sha",
         "description": "<p>Lifting, Sculpting, Relaxing<\/p>",
         "link-url": "shopify:\/\/products\/ceramic-bouti-guasha",
@@ -208,50 +208,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "STEP 2.",
-        "heading": "Layer on Hydrating Toner",
-        "text": "<p><\/p><p>Start your skincare routine by applying toner before anything else – even before serums and moisturizers. Think of toner as a boost for your skin, enhancing its ability to absorb the following products and ensuring you reap all the benefits. <\/p><p>Our \"Lotus Leaf Anti-Pollution Toner\" is a lightweight, essence-like toner made with 98% natural ingredients, enriched with organic lotus leaf extract from South Korea. It delicately repairs and hydrates the skin, counteracting irritations caused by daily activities and environmental stressors, promoting clear and healthy skin. Furthermore, it has been clinically proven to shield your skin from pollution and contaminants such as fine dust.<\/p>"
-      }
-    },
-    "1f97f2e8-72bb-4fe0-b611-a73e07fe1c34": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "light",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 60,
-        "mobile-image-aspect-ratio": 76,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "right",
-        "text-width": "large",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow_21dd687e-8267-4755-bd47-9068afe4fbfe.png",
         "overline": "",
-        "title": "Lotus Leaf Anti-Pollution Repairing Toner",
-        "description": "<p><em>Anti-Pollution, Repairing, Calming<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
-        "link-text": "SHOP"
-      }
-    },
-    "062b1fbf-d25a-4c27-9d12-10824278891c": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "STEP 3.",
-        "heading": "Use a Nourishing Serum",
-        "text": "<p><\/p><p>For all-day dewy and hydrated skin, incorporating nourishing serums into your routine is essential. Apply the serum with a gentle tapping motion on your face. Using a circular motion, ensure even distribution and give your skin time to absorb all the goodness. <\/p><p>Discover the rejuvenating benefits of our Snow Lotus Lifting Serum, infused with the potent vitality of snow lotus cultivated at high altitudes in winter mountains, and enriched with green active ingredients. Our serum boasts a high antioxidant and anti inflammatory formula, working to enhance collagen production and fortify your skin's barrier, resulting in a radiant and more luminous complexion. With 98% natural ingredients, it has been clinically proven to lift, reduce wrinkles, and enhance skin firmness.<\/p>"
+        "heading": "More tips:",
+        "text": "<p><\/p><p>If you're seeking to enhance the efficacy of your skincare routine for lifting, consider incorporating our clean lifting serum & lifting cream along with Gua Sha. The synergy would be remarkable, offering a holistic approach to skin rejuvenation. Our lifting serum & lifting cream is designed to nourish and hydrate, promoting elasticity and a brighter complexion.<\/p>"
       }
     },
     "42c19ad0-7dff-4908-8333-9577c2aa91a9": {
@@ -272,24 +234,11 @@
         "box-around-text": false,
         "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/Glass_glow_dc2f9d6a-555e-42e0-a0e2-7a772c5b38ff.png",
-        "overline": "",
+        "overline": "97.7% natural ingredients",
         "title": "Snow Lotus Lifting Serum",
         "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
         "link-url": "shopify:\/\/products\/super-aging-serum",
         "link-text": "SHOP"
-      }
-    },
-    "cda88602-1be1-404a-a738-a378a1ee6145": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "STEP 4.",
-        "heading": "Never Skip Moisturizer",
-        "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. <\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
       }
     },
     "201582d3-b1a4-4a65-b8a3-83d889c8fab7": {
@@ -310,11 +259,62 @@
         "box-around-text": false,
         "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/Glass_glow.png",
-        "overline": "",
+        "overline": "90.5% natural ingredients",
         "title": "Snow Lotus Lifting Cream",
         "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
         "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
         "link-text": "SHOP"
+      }
+    },
+    "062b1fbf-d25a-4c27-9d12-10824278891c": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "STEP 2.",
+        "heading": "Try our Patent X-lifting mask",
+        "text": "<p><\/p><p>Stay firm, strong, and revitalized with the X-Lifting Mask—scientifically designed to enhance facial lifting. Its advanced X-weaving fabric and Hydrogel are enriched with botanical lifting and firming extracts such as Volufiline, Lotus, and Tea Complex. This mask delivers a sensational lifting experience, leaving you feeling invigorated and uplifted throughout the day with its resilient fabric.<\/p><p>Our advanced X-Lifting Mask—an innovative solution featuring a patented design meticulously crafted to lift the jawline, double chin, cheeks, and smile lines simultaneously. It’s clinically proven for its efficacy in face lifting, jawline sculpting, double chin reduction, and smile line improvement.<\/p><p>Furthermore, this versatile mask extends its benefits beyond facial care. Explore its application on your legs or forearms for an additional slimming effect. Elevate your skincare routine with the serene effectiveness of our X-Lifting Mask, backed by clinical validation and patent design.<\/p>"
+      }
+    },
+    "ec411aa5-8d88-424d-92f6-26eae8c2070d": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "light",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 60,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/Lifting-mask-product.png",
+        "overline": "PATENTED DESIGN & clinically proven",
+        "title": "X-LIFTING MASK",
+        "description": "<p><em>Lifting, Firming, Moisturizing<\/em><\/p>",
+        "link-url": "shopify:\/\/products\/x-lifting-mask-1",
+        "link-text": "SHOP"
+      }
+    },
+    "cda88602-1be1-404a-a738-a378a1ee6145": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "STEP 4.",
+        "heading": "Never Skip Moisturizer",
+        "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. <\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
       }
     },
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087": {
@@ -398,11 +398,11 @@
     "7494883d-da02-4cbf-bd67-510e8eb79717",
     "5b4a0ac9-2845-4194-97a6-428d94407615",
     "dd399ad7-a629-4c5a-85ff-9fe75f6a2a8d",
-    "1f97f2e8-72bb-4fe0-b611-a73e07fe1c34",
-    "062b1fbf-d25a-4c27-9d12-10824278891c",
     "42c19ad0-7dff-4908-8333-9577c2aa91a9",
-    "cda88602-1be1-404a-a738-a378a1ee6145",
     "201582d3-b1a4-4a65-b8a3-83d889c8fab7",
+    "062b1fbf-d25a-4c27-9d12-10824278891c",
+    "ec411aa5-8d88-424d-92f6-26eae8c2070d",
+    "cda88602-1be1-404a-a738-a378a1ee6145",
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087"
   ]
 }
