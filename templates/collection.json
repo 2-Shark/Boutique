@@ -152,7 +152,7 @@
           "body-hand",
           "ritual-tools"
         ],
-        "aspect-ratio": "square",
+        "aspect-ratio": "natural",
         "image-type": "product",
         "background-color": "none",
         "light-text": false,
