@@ -318,86 +318,6 @@
         "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. <\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
       }
     },
-    "b17e7054-3ba7-4b4d-929e-6f6cb0051108": {
-      "type": "slideshow",
-      "blocks": {
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_2_aad0eb78-be48-4f79-b3bf-c44b7e076dec.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_2_5f05aa81-874a-4f42-b00a-7cb2311ee9b8.png"
-          }
-        },
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_3_fc316997-5d58-4992-8e97-00acb3d15f2d.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_3_17181c8a-8264-4ebe-903e-c88409c8218c.png"
-          }
-        },
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-4": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        }
-      },
-      "block_order": [
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-1",
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-2",
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-3",
-        "template--21435516977439__b17e7054-3ba7-4b4d-929e-6f6cb0051108-image-4"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087": {
       "type": "text-columns",
       "blocks": {
@@ -484,7 +404,6 @@
     "062b1fbf-d25a-4c27-9d12-10824278891c",
     "ec411aa5-8d88-424d-92f6-26eae8c2070d",
     "cda88602-1be1-404a-a738-a378a1ee6145",
-    "b17e7054-3ba7-4b4d-929e-6f6cb0051108",
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087"
   ]
 }
