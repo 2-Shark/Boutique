@@ -36,6 +36,7 @@
     "popup--show-image": true,
     "popup--newsletter-title--rt": "",
     "popup--social-title": "",
+    "favicon": "shopify:\/\/shop_images\/boutijour_favicon.png",
     "cart--type": "drawer",
     "social--instagram--url": "https:\/\/instagram.com\/boutijour.official",
     "social--facebook--url": "https:\/\/facebook.com\/boutijour",
