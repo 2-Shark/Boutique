@@ -25,6 +25,12 @@
           "settings": {
           }
         },
+        "733cd013-8537-4721-9b43-8d35f46f82b7": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "options": {
           "type": "options",
           "settings": {
@@ -39,12 +45,6 @@
           "type": "buy-buttons",
           "settings": {
             "smart-payment-enabled": true
-          }
-        },
-        "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
           }
         },
         "pickup": {
@@ -97,9 +97,9 @@
         "heading",
         "vendor",
         "price",
+        "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
         "buy-buttons",
-        "733cd013-8537-4721-9b43-8d35f46f82b7",
         "pickup",
         "description",
         "complementary-products",
