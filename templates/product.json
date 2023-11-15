@@ -518,6 +518,27 @@
         "spacing-above": true,
         "spacing-below": true
       }
+    },
+    "1700015062738e4158": {
+      "type": "apps",
+      "blocks": {
+        "68637843-a234-4020-b31e-d14dc9544133": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "68637843-a234-4020-b31e-d14dc9544133"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
     }
   },
   "order": [
@@ -532,6 +553,7 @@
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "b8f597d5-408e-4e85-9e30-05801e242feb",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
-    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5",
+    "1700015062738e4158"
   ]
 }
