@@ -14,11 +14,6 @@
           "settings": {
           }
         },
-        "df749988-3ef9-4f17-b14d-673c9e9410bb": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-star-rating\/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-          }
-        },
         "vendor": {
           "type": "vendor",
           "disabled": true,
@@ -44,6 +39,12 @@
           "type": "buy-buttons",
           "settings": {
             "smart-payment-enabled": true
+          }
+        },
+        "9e0b6caf-972d-4f87-9d92-de80721ff15b": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "pickup": {
@@ -94,11 +95,11 @@
       "block_order": [
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
-        "df749988-3ef9-4f17-b14d-673c9e9410bb",
         "vendor",
         "price",
         "options",
         "buy-buttons",
+        "9e0b6caf-972d-4f87-9d92-de80721ff15b",
         "pickup",
         "description",
         "complementary-products",
@@ -513,20 +514,15 @@
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
       "blocks": {
-        "996fae0f-06d7-4273-90dc-8492d6ffef57": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box\/bf2eea72-0400-4db1-8908-44b7418f9a88",
+        "a494c201-964f-4d1c-be00-a07db0d0e27a": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
-            "product": "",
-            "name": "Review Box",
-            "vertical_alignment": "2",
-            "rating_color": "#1f1f1f",
-            "section_color": "#ffffff",
-            "primary_text_color": "#1f1f1f"
+            "product": "{{product}}"
           }
         }
       },
       "block_order": [
-        "996fae0f-06d7-4273-90dc-8492d6ffef57"
+        "a494c201-964f-4d1c-be00-a07db0d0e27a"
       ],
       "settings": {
         "background-color": "none",
