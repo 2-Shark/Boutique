@@ -116,7 +116,7 @@
         "media-gap": 9,
         "column-spacing": "close",
         "text-alignment": "left",
-        "thumbnail-width": 121,
+        "thumbnail-width": 45,
         "heading-enabled": false,
         "heading-sizes-enabled": true,
         "heading-size": 45,
@@ -284,13 +284,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_988becb6-9ce6-4a92-be36-f33256f1c72f.png",
-            "overline": "Lifting, Firming, Moisturizing",
-            "title": "X-Lifting Mask",
+            "image": "shopify:\/\/shop_images\/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
+            "overline": "Anti-Pollution, Repairing, Calming",
+            "title": "Lotus Leaf Anti-Pollution Repairing Toner",
             "description": "",
-            "link-url": "shopify:\/\/products\/x-lifting-mask-1",
+            "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
             "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_f9e01ca6-2543-4f20-ba11-b6d82ed7e597.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -298,13 +298,27 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_b219f859-6cd2-4a33-bf74-6bcbe5f5cc63.png",
-            "overline": "Cleansing, Purifying, Collagen-boosting",
-            "title": "Lotus Leaf Cleansing Gel",
+            "image": "shopify:\/\/shop_images\/PC_743509a8-cb29-40f8-97c1-eccc1209f3de.png",
+            "overline": "Lifting, Hydrating, Brightening",
+            "title": "Snow Lotus Lifting Serum",
             "description": "",
-            "link-url": "shopify:\/\/products\/lotus-leaf-cleansing-gel",
+            "link-url": "shopify:\/\/products\/super-aging-serum",
             "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_e1cc575f-4b1b-4e81-9be4-b1df7f952968.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_435b31a6-2cb5-4dcf-8bbd-f3e2fb9b8b88.png"
+          }
+        },
+        "5a70a823-92d2-42ac-99ff-20aeff4794cb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_d7b0793e-aab9-4d77-b044-cb0d6a32aba3.png",
+            "overline": "Lifting, Hydrating, Brightening",
+            "title": "Snow Lotus Lifting Cream",
+            "description": "",
+            "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+            "link-text": "PRODUCT DETAILS",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_83e01017-4536-44fe-aa12-3d4b917dd418.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -325,6 +339,7 @@
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
+        "5a70a823-92d2-42ac-99ff-20aeff4794cb",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
       "settings": {
