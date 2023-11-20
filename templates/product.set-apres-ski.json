@@ -279,34 +279,6 @@
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
-            "overline": "Anti-Pollution, Repairing, Calming",
-            "title": "Lotus Leaf Anti-Pollution Repairing Toner",
-            "description": "",
-            "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
-            "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_743509a8-cb29-40f8-97c1-eccc1209f3de.png",
-            "overline": "Lifting, Hydrating, Brightening",
-            "title": "Snow Lotus Lifting Serum",
-            "description": "",
-            "link-url": "shopify:\/\/products\/super-aging-serum",
-            "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_435b31a6-2cb5-4dcf-8bbd-f3e2fb9b8b88.png"
-          }
-        },
         "5a70a823-92d2-42ac-99ff-20aeff4794cb": {
           "type": "image",
           "settings": {
@@ -319,6 +291,20 @@
             "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
             "link-text": "PRODUCT DETAILS",
             "mobile-image": "shopify:\/\/shop_images\/MOBILE_83e01017-4536-44fe-aa12-3d4b917dd418.png"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
+            "overline": "Anti-Pollution, Repairing, Calming",
+            "title": "Lotus Leaf Anti-Pollution Repairing Toner",
+            "description": "",
+            "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
+            "link-text": "PRODUCT DETAILS",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -337,9 +323,8 @@
         }
       },
       "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "5a70a823-92d2-42ac-99ff-20aeff4794cb",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
       "settings": {
