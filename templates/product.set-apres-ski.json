@@ -1,0 +1,556 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "Special skincare bundles"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
+        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "complementary-products": {
+          "type": "complementary-products",
+          "settings": {
+            "title": "Pairs well with",
+            "max-products": 2,
+            "collapsible-row-enabled": false
+          }
+        },
+        "social-sharing": {
+          "type": "social-sharing",
+          "disabled": true,
+          "settings": {
+            "facebook-enabled": true,
+            "twitter-enabled": true,
+            "pinterest-enabled": true,
+            "email-enabled": true,
+            "url-enabled": true
+          }
+        },
+        "35fabdba-a7a1-4bc2-a122-5effa977b694": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "ef005e46-1092-400f-a562-311b51df9d9e": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "WHAT IT DOES",
+            "description": "<p><strong>*X-Lifting Mask<\/strong><\/p><ul><li>A quadruple face-lifting mask with a patented design that simultaneously lifts the jawline, double chin, cheeks, and smile lines.<\/li><\/ul><p><\/p><p><strong>*Lotus Melight Eye Patch<\/strong><\/p><ul><li>Lotus extract, along with naturally derived whitening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps to suppress melanin production, which is the underlying cause of pigmentation.<\/li><\/ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
+        "heading",
+        "vendor",
+        "price",
+        "options",
+        "buy-buttons",
+        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
+        "pickup",
+        "description",
+        "complementary-products",
+        "social-sharing",
+        "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "ef005e46-1092-400f-a562-311b51df9d9e"
+      ],
+      "settings": {
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": false,
+        "media-layout": "thumbnails",
+        "text-column-width": 44,
+        "media-gap": 9,
+        "column-spacing": "close",
+        "text-alignment": "left",
+        "thumbnail-width": 45,
+        "heading-enabled": false,
+        "heading-sizes-enabled": true,
+        "heading-size": 45,
+        "breadcrumbs-enabled": true,
+        "modal-enabled": true,
+        "variant-scroll-enabled": true,
+        "image-zoom-enabled": true,
+        "loop-enabled": true,
+        "mobile-media-layout": "slideshow"
+      }
+    },
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_-_2_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_-_1_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/06264258e094b162de1c236add7e2afe.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 144,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "HOW TO USE",
+            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "INGREDIENTS",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Rosehip Fruit Oil | Pumpkin Seed Oil | Jojoba Seed Oil | Snow Lotus | Niacinamide | Adenosine<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate, 2,3-Butanediol, 1,2-Hexanediol, CetearylAlcohol, Betaine, Niacinamide, Polyglyceryl-3 Stearate, CetearylOlivate, SimmondsiaChinensis(Jojoba) Seed Oil, Glyceryl Stearate, Sodium Acrylate\/ Sodium AcryloyldimethylTaurateCopolymer, Cucurbita Pepo(Pumpkin) Seed Oil, Polyisobutene, Ethylhexylglycerin, Rosa Canina Fruit Oil, Caprylyl\/Capryl Glucoside, SorbitanOleate, Adenosine, Malt Extract, Propanediol, Butylene Glycol, Fragrance, Camellia Japonica Flower Extract, Cucurbita Pepo(Pumpkin) Fruit Extract, Nelumbo Nucifera Flower Extract, Saussurea Involucrata Extract, Limonene, Benzyl Salicylate<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "TEXTURE",
+            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "AROMA",
+            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+      ],
+      "disabled": true,
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "product details",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "aspect-ratio": 38,
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-url": "",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 134
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
+            "overline": "Anti-Pollution, Repairing, Calming",
+            "title": "Lotus Leaf Anti-Pollution Repairing Toner",
+            "description": "",
+            "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
+            "link-text": "PRODUCT DETAILS",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_743509a8-cb29-40f8-97c1-eccc1209f3de.png",
+            "overline": "Lifting, Hydrating, Brightening",
+            "title": "Snow Lotus Lifting Serum",
+            "description": "",
+            "link-url": "shopify:\/\/products\/super-aging-serum",
+            "link-text": "PRODUCT DETAILS",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_435b31a6-2cb5-4dcf-8bbd-f3e2fb9b8b88.png"
+          }
+        },
+        "5a70a823-92d2-42ac-99ff-20aeff4794cb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_d7b0793e-aab9-4d77-b044-cb0d6a32aba3.png",
+            "overline": "Lifting, Hydrating, Brightening",
+            "title": "Snow Lotus Lifting Cream",
+            "description": "",
+            "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+            "link-text": "PRODUCT DETAILS",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_83e01017-4536-44fe-aa12-3d4b917dd418.png"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_80194046-6a9f-4116-982b-f1fd84ec5449.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_4a17d1a2-155b-4d56-811d-46ba2358ab46.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
+        "5a70a823-92d2-42ac-99ff-20aeff4794cb",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 40,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 82,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 50,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "b8f597d5-408e-4e85-9e30-05801e242feb": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        },
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        },
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "overline": "Overline text",
+        "heading": "Testimonials",
+        "image-shape": "square",
+        "background-color": "light",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "mobile-width": "2"
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 116,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
+      "type": "apps",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "5dc9f552-4580-4447-8abe-673add963394",
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "related-products",
+    "260d160b-2e45-4d0f-87aa-3259f69332e3",
+    "b8f597d5-408e-4e85-9e30-05801e242feb",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+  ]
+}
