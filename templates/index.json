@@ -11,14 +11,7 @@
         "cta": "SHOP NOW",
         "link": "\/pages\/shop-all",
         "inner_padding_left_right": "185",
-        "inner_padding_bottom": "166",
-        "background_color": "",
-        "text_color": "",
-        "content_alignment_horizontal": "left",
-        "text_alignment": "left",
-        "section_spacing": "150",
-        "media_width_size": "full",
-        "text_width_size": "960"
+        "inner_padding_bottom": "166"
       }
     },
     "71abef73-9e41-4268-855f-afba83392ef9": {
@@ -31,16 +24,7 @@
         "header": "Redefining<br>Anti-aging.<br>We’re “Well-aging”",
         "body": "NATURAL FORMULA WITH<br> TECHNOLOGY<br> FOR ADVANCED WELL-AGING.",
         "cta": "ABOUT US",
-        "link": "\/pages\/about-us",
-        "inner_padding_left_right": "185",
-        "inner_padding_bottom": "166",
-        "background_color": "",
-        "text_color": "",
-        "content_alignment_horizontal": "left",
-        "text_alignment": "left",
-        "section_spacing": "150",
-        "media_width_size": "full",
-        "text_width_size": "960"
+        "link": "\/pages\/about-us"
       }
     },
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5": {
@@ -128,7 +112,7 @@
         "header": "WELL-AGING ESSENTIALS",
         "eyebrow": "OUR BEST SELLING MUST HAVES",
         "cta": "SHOP ALL",
-        "link": "",
+        "link": "/pages/shop-all",
         "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
         "background-color": "none",
@@ -148,20 +132,7 @@
         "image_desktop": "shopify:\/\/shop_images\/landing_skin_test_desktop-min.jpg",
         "image_mobile": "shopify:\/\/shop_images\/landing_skin_test_mobile-min.png",
         "image_desktop_r": "shopify:\/\/shop_images\/83d4bc892755710892331e45e607dbaf.jpg",
-        "image_mobile_r": "shopify:\/\/shop_images\/Group_337.jpg",
-        "eyebrow": "TE MEETS NATURE",
-        "header": "New Innovative Well-aging Skincare",
-        "cta": "SHOP NOW",
-        "link": "",
-        "inner_padding_left_right": "185",
-        "inner_padding_bottom": "166",
-        "background_color": "",
-        "text_color": "",
-        "content_alignment_horizontal": "left",
-        "text_alignment": "left",
-        "section_spacing": "150",
-        "media_width_size": "full",
-        "text_width_size": "960"
+        "image_mobile_r": "shopify:\/\/shop_images\/Group_337.jpg"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
@@ -170,8 +141,46 @@
         "image_desktop_l": "shopify:\/\/shop_images\/landing_switch_from_well_aging-min.jpg",
         "image_mobile_l": "shopify:\/\/shop_images\/landing_switch_from_well_aging-min.jpg",
         "image_desktop_r": "shopify:\/\/shop_images\/202307202256_1.jpg",
-        "image_mobile_r": "shopify:\/\/shop_images\/202307202256_1.jpg",
-        "header": "SUPER WELL AGING RITUAL"
+        "image_mobile_r": "shopify:\/\/shop_images\/202307202256_1.jpg"
+      }
+    },
+    "anti-aging-icon": {
+      "type": "disrupt-anti-aging-icon",
+      "blocks": {
+        "icon-1": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_002.png"
+          }
+        },
+        "icon-2": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-16_001.png"
+          }
+        },
+        "icon-3": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_004.png"
+          }
+        },
+        "icon-4": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_003.png"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "settings": {
+        "title": "“Wish I had bought the full line up”",
+        "subtitle": "VOGUE"
       }
     },
     "f3bacd45-5a99-4f55-bf0b-1f5d9448547b": {
@@ -733,6 +742,7 @@
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
     "b69860be-717b-4156-b06f-e6dbbea974f2",
     "64199d9c-7934-497b-ab6f-34c84f1dcb50",
+    "anti-aging-icon",
     "f3bacd45-5a99-4f55-bf0b-1f5d9448547b",
     "106354e2-d471-4368-8771-3834b878d36e",
     "slideshow",
