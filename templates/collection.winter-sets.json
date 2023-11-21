@@ -2,7 +2,6 @@
   "sections": {
     "collection-header": {
       "type": "collection--header",
-      "disabled": true,
       "settings": {
         "show-title": true,
         "title-alignment": "left",
@@ -19,6 +18,7 @@
     },
     "9b9b627e-7fd4-4939-8fea-c1309b5b0e5f": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -34,7 +34,6 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Collection_Rejuvenation-page.png",
         "overline": "",
         "title": "Rejuvenation",
         "description": "",
