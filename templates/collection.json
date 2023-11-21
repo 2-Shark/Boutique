@@ -150,7 +150,8 @@
           "skincare",
           "mask-therapy",
           "body-hand",
-          "ritual-tools"
+          "ritual-tools",
+          "special-winter-skincare-bundles"
         ],
         "aspect-ratio": "natural",
         "image-type": "product",
@@ -158,7 +159,7 @@
         "light-text": false,
         "spacing-above": true,
         "spacing-below": true,
-        "width": 4,
+        "width": 5,
         "mobile-width": "2"
       }
     },
