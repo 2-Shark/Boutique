@@ -4,11 +4,14 @@
   "sections": {
     "announcement": {
       "type": "announcement",
+      "custom_css": [
+
+      ],
       "settings": {
         "home-page-only": false,
         "background-color": "accent-1",
         "light-text": true,
-        "text": "BLACK FRIDAY SALE Up to 35% Starts Now!",
+        "text": "BLACK FRIDAY SALE Up to 35% Starts Now! FREE STANDARD SHIPPING OVER $80 PURCHASE & MASK SAMPLE",
         "link": "shopify:\/\/pages\/shop-all"
       }
     },
