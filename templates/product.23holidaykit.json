@@ -382,11 +382,25 @@
             "button-text": "",
             "button-url": ""
           }
+        },
+        "31cb817f-ea40-4a80-9976-2e7ad970c43b": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_-_5_f76782ea-b77b-403c-8bcf-06c6904c1fe1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": ""
+          }
         }
       },
       "block_order": [
         "4fecc69f-db4a-474a-b00b-9f57887e910d",
-        "76d2f9f0-b8eb-4284-a25d-9feeb3a5db89"
+        "76d2f9f0-b8eb-4284-a25d-9feeb3a5db89",
+        "31cb817f-ea40-4a80-9976-2e7ad970c43b"
       ],
       "settings": {
         "text-color": "auto",
@@ -395,10 +409,10 @@
         "spacing-below": false,
         "spacing-around-blocks": false,
         "image-aspect-ratio": 38,
-        "darken-image": true,
+        "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
-        "auto-rotate": false,
+        "auto-rotate": true,
         "rotate-frequency": 15,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 134,
