@@ -82,6 +82,24 @@
           "settings": {
           }
         },
+        "6d1e2c06-8a69-43de-be32-cf56d834e654": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Leaf Anti-Pollution Repairing Toner",
+            "description": "<p>Light textured essence-like toner enriched with lotus leaf extract from Jeju gently repairs and hydrates the skin from irritations caused by daily activities and environmental stressors, helping keep the skin clear and healthy. The refreshing texture with delicate scents of natural oil leaves the skin feeling replenished and vitalized. *98% natural origin<\/p><p><em>Anti-Pollution, Repairing, Calming<\/em><\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "79227bd3-1748-4e6d-b9c3-4963430b4948": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Melight Eye Patch",
+            "description": "<p>Lotus Melight Eye Patch is infused with powerful botanical extracts to restore youthful appearance to the fatigued eye area. The hydrogel features Alpha-Melight, a patented formula derived from natural ingredients, helps suppress melanin production and brighten complexion. Powerful complex of natural extracts delivers hydration and work to reduce dark spot concerns.<\/p><p><em>Brightening, Rejuvenating, Nourishing<\/em><\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -105,6 +123,8 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "6d1e2c06-8a69-43de-be32-cf56d834e654",
+        "79227bd3-1748-4e6d-b9c3-4963430b4948",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
       "settings": {
