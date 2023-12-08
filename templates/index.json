@@ -3,13 +3,13 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/1_c2eb3491-0d28-4a74-9186-d0affd27db36.png",
-        "image_tablet": "shopify:\/\/shop_images\/1_c9f9c657-7d9d-4083-b65b-503d83477504.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/202307202314_copy.png",
-        "eyebrow": "SCIENCE MEETS NATURE",
-        "header": "New Well-aging<br class=\"only-mb\"> Skincare & Rituals",
+        "image_desktop": "shopify:\/\/shop_images\/HOIDAY_PC-1.png",
+        "image_tablet": "shopify:\/\/shop_images\/HOIDAY_T-1.png",
+        "image_mobile": "shopify:\/\/shop_images\/HOIDAY_-1.png",
+        "eyebrow": "LIMITED Holiday glass-glow kit",
+        "header": "Mindful Holiday at Home.",
         "cta": "SHOP NOW",
-        "link": "\/pages\/shop-all",
+        "link": "shopify:\/\/products\/holiday-glass-glow-kit",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
@@ -17,14 +17,14 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/banner-left-desktop-min.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/boutijour_mobile-min.jpg",
-        "image_desktop_right": "shopify:\/\/shop_images\/banner-right-desktop-min.jpg",
-        "image_mobile_right": "shopify:\/\/shop_images\/202307200414_1_ac6c0ae5-b98c-4be9-a2bc-f66b66e0f1c5.jpg",
-        "header": "Redefining<br>Anti-aging.<br>We’re “Well-aging”",
-        "body": "NATURAL FORMULA WITH<br> TECHNOLOGY<br> FOR ADVANCED WELL-AGING.",
-        "cta": "ABOUT US",
-        "link": "\/pages\/about-us"
+        "image_desktop": "shopify:\/\/shop_images\/HOIDAY_PC-2.png",
+        "image_mobile": "shopify:\/\/shop_images\/HOIDAY_M-3_763787cc-a526-441f-b76c-b927ec300a7a.png",
+        "image_desktop_right": "shopify:\/\/shop_images\/HOIDAY_PC-3.png",
+        "image_mobile_right": "shopify:\/\/shop_images\/HOIDAY_M-2.png",
+        "header": "Enjoy your Mindful Self -care moment.",
+        "body": "Try our holiday Glass<br>-glow kit with Special<br>wellness editions.",
+        "cta": "SHOP",
+        "link": "shopify:\/\/products\/holiday-glass-glow-kit"
       }
     },
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5": {
@@ -112,7 +112,7 @@
         "header": "WELL-AGING ESSENTIALS",
         "eyebrow": "OUR BEST SELLING MUST HAVES",
         "cta": "SHOP ALL",
-        "link": "/pages/shop-all",
+        "link": "\/pages\/shop-all",
         "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
         "background-color": "none",
@@ -129,8 +129,8 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/landing_skin_test_desktop-min.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/landing_skin_test_mobile-min.png",
+        "image_desktop": "shopify:\/\/shop_images\/HOIDAY_PC4.png",
+        "image_mobile": "shopify:\/\/shop_images\/HOIDAY_M-4.png",
         "image_desktop_r": "shopify:\/\/shop_images\/83d4bc892755710892331e45e607dbaf.jpg",
         "image_mobile_r": "shopify:\/\/shop_images\/Group_337.jpg"
       }
@@ -138,10 +138,10 @@
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify:\/\/shop_images\/landing_switch_from_well_aging-min.jpg",
-        "image_mobile_l": "shopify:\/\/shop_images\/landing_switch_from_well_aging-min.jpg",
-        "image_desktop_r": "shopify:\/\/shop_images\/202307202256_1.jpg",
-        "image_mobile_r": "shopify:\/\/shop_images\/202307202256_1.jpg"
+        "image_desktop_l": "shopify:\/\/shop_images\/HOIDAY_PC-5.png",
+        "image_mobile_l": "shopify:\/\/shop_images\/HOIDAY_M-6.png",
+        "image_desktop_r": "shopify:\/\/shop_images\/HOIDAY_PC-6.png",
+        "image_mobile_r": "shopify:\/\/shop_images\/HOIDAY_M-5.png"
       }
     },
     "anti-aging-icon": {
@@ -193,7 +193,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307201674_1.jpg",
             "header": "GLASS GLOW<br> SKINCARE",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "/pages/glass-glow-skincare"
+            "cta_link": "\/pages\/glass-glow-skincare"
           }
         },
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
@@ -203,7 +203,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202311_1.jpg",
             "header": "DIPUFFING<br> & DETOXING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "/pages/dipuffing-detoxing"
+            "cta_link": "\/pages\/dipuffing-detoxing"
           }
         },
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e": {
@@ -213,7 +213,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
             "header": "SCULPTING<br> & LIFTING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "/pages/lifting-sculting"
+            "cta_link": "\/pages\/lifting-sculting"
           }
         },
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
@@ -223,7 +223,7 @@
             "image_mobile": "shopify:\/\/shop_images\/202307202524_1.jpg",
             "header": "EXTREME<br> SUN LOVERS",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "/pages/extreme-sun-lovers"
+            "cta_link": "\/pages\/extreme-sun-lovers"
           }
         }
       },
