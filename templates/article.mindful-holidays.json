@@ -19,7 +19,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>‘Glass skin’ refers to a Korean beauty trend that aims to achieve a clear, translucent, and dewy complexion that resembles the smooth surface of glass. Rooted from Korea, in years of research in healthy balanced skin and skin aging, BOUTIJOUR developed 3 steps of lotus skincare products that aim to deeply moisturize the skin and rejuvenate with natural plant-based extracts and oils, and patent active formulas proven to safely improve dryness, signs of aging, and most importantly ‘skin’s healthy glow’.<\/p><p>We define 'glass glow' as achieving deep skin hydration for a healthy and radiant complexion. Not just as it looks, our goal is to deliver proper skincare rituals and solutions to achieve the healthiest and radiant glow.<br\/><br\/>We’ve asked frequent questions regarding ‘Korean Glass Glow’ and how to achieve damped, hydrated, fully moisturized skin look.<\/p><p>We believe that Achieving a glass glow isn't just about external skincare routines; it also involves maintaining good overall health and well-being ; eating balanced nutrition, staying hydrated with an adequate amount of water, managing stress, good sleep, regular exercise, limiting too much sugar and artificial food, and most importantly healthy & clean skincare.<br\/><br\/>Let’s elevate our glow to a whole new level, and glass glow with this simple skincare routines.<\/p>"
+        "text": "<p>The holiday season—a time for warmth, joy, and the gentle embrace of tranquility. Amidst the hustle and bustle, finding moments of peace and self-care can feel like a mindful gift. This year, let’s center our holidays around serenity, bringing mindfulness into our homes.<\/p>"
       }
     },
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd": {
@@ -30,7 +30,7 @@
         "container-width": 3,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 110,
+        "image-aspect-ratio": 50,
         "mobile-image-aspect-ratio": 134,
         "darken-image": false,
         "parallax-enabled": false,
@@ -39,7 +39,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/gggggg_-07.jpg",
+        "image": "shopify:\/\/shop_images\/holiday-blogjpg-02.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -57,7 +57,147 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p><strong>Double Cleanse with Oil Cleanser :<\/strong> Double cleansing involves using an oil-based cleanser followed by a water-based cleanser. Oil cleansers are known for their ability to remove makeup and impurities while maintaining the skin's natural oils. This method ensures a thorough clean and can contribute to a clearer complexion.Some people find that incorporating oil cleansing into their routine helps achieve a healthy, radiant glow.<\/p><p><strong>Use a Gentle Cleanser : <\/strong>After cleansing makeup or sunscreen with Oil cleanser, choose gentle low PH level, soothing cleanser that does not strip the skin of its natural oils, leading to dryness and dullness. Our Lotus Leaf Cleanser helps purify and cleanse pollutants with low PH6 Level, as maintaining the moisture of the skin.  <\/p><p><strong>Deeply Moisturizing Toner : <\/strong>Look for toners that are specifically formulated with hydrating ingredients, such as hyaluronic acid, glycerin, or ceramides. Also soothing and repairing ingredients such as : Lotus Leaf and Calming natural ingredients help to attract and retain moisture, giving your skin a plump and dewy appearance. <\/p><p><strong>Double Layering Toner : <\/strong>Consider a Korean toner layering technique that involves applying multiple layers of a hydrating toner. This can enhance hydration levels, giving your skin a luminous and glass-like quality.<\/p><p><strong>Hydrating & Anti oxidant Rich Serum to Boost Glass Glow : <\/strong>Look for serums that contain hydrating ingredients like hyaluronic acid, panthenol, ceramides, peptides, as well as antioxidant rich ingredients. We recommend Snow Lotus Lifting Serum is enriched with panthenol, madecassoside from centella extracts, plant-based peptides and oils.  <\/p><p><strong>Hydrating & Anti oxidant Rich Cream to Complete Glass Glow : <\/strong>Choose moisturizers with light texture that provides sufficient amount of hydration without feeling too heavy on the skin. Hydrating Creams with antioxidants, such as vitamin E or high-potent flowers and plants, can help protect your skin from free radicals and environmental damage, promoting a healthier glow and natural, radiant finish.<\/p>"
+        "text": "<p><em>Here are a few simple yet profound activities to infuse your holidays with mindfulness and self-care, all within the comfort of your own space:<\/em><\/p>"
+      }
+    },
+    "73046ece-d896-4f66-9fdf-e2945029dad8": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "01",
+        "heading": "",
+        "text": "<p><strong>Morning Meditation and Self-Reflection:<\/strong><\/p><p>Start your day with a few minutes of meditation. Find a quiet corner, light a candle, and focus on your breath. Follow it up with a gratitude practice, reflecting on things you're thankful for that enrich your life.<\/p><p>Take some time to reflect on your journey this year. Celebrate your achievements, no matter how small. Acknowledge your growth and resilience in the face of challenges. Self-reflection is a powerful tool for self-love. Remind yourself of your worth, your strengths, and the beauty within you. Express gratitude to yourself for all the effort and love you’ve invested in your journey.<\/p>"
+      }
+    },
+    "b39c658c-061d-4e60-a334-6a24664b5666": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "image-aspect-ratio": 80,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/holiday-blogjpg-04.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "d1a7fc67-3b76-4441-bd6c-d282abc424d9": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "02",
+        "heading": "",
+        "text": "<p><strong>Nourish Your Skin and Soul [Self-Care Rituals]:<\/strong><\/p><p>Indulge in a skincare ritual that’s not only about rejuvenating your skin but also nourishing your soul. Use products with natural ingredients and take your time, relishing each step as a form of self-love. It’s amazing how a simple skincare routine can become a mindful, meditative act. <\/p><p>Additionally, try developing your own daily self-care rituals that cater to your mind, body, and spirit. This could be a morning stretch routine, a moment of mindfulness before bed, or simply taking time for a warm bath. Consistency in self-care practices nurtures self-love.<\/p>"
+      }
+    },
+    "73749d49-06e3-49af-89cb-f8db0f9110e4": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "image-aspect-ratio": 80,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "bottom-left",
+        "text-width": "medium",
+        "overlap": true,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/holiday-blogjpg-05.jpg",
+        "overline": "",
+        "title": "Holiday Glass-Glow Kit",
+        "description": "",
+        "link-url": "shopify:\/\/products\/holiday-glass-glow-kit",
+        "link-text": "DISCOVER KIT"
+      }
+    },
+    "f8bbd545-45b8-498b-9699-6e9c6a4b252b": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "03",
+        "heading": "",
+        "text": "<p><strong>Digital Detox Hour:<\/strong><\/p><p>Designate a portion of your day as a ‘digital detox’ hour. Dedicated digital detox hour emerges as a sanctuary for mental rejuvenation and holistic well-being. Beyond the mere act of stepping away from screens, this intentional break fosters mental clarity, reduces stress, and sharpens focus, leading to enhanced productivity and creativity.<br\/><\/p><p>Disconnecting from the digital realm isn't just a pause; it's a deliberate choice to reclaim moments for introspection, deeper connections with loved ones, and mindfulness. Immerse yourself in simple pleasures—read a book, listen to mindful music, or simply sit in silence, enjoying the moment.<\/p>"
+      }
+    },
+    "55e24150-f985-4be4-8ea0-4591154fa994": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "04",
+        "heading": "",
+        "text": "<p><strong>Mindful Movement:<\/strong><\/p><p>Engage your body and mind with gentle movements—try yoga, stretching, or a serene walk in nature if you can. Pay close attention to every bend, every stretch, and every breath, anchoring yourself firmly in the here and now. Let each movement guide you into the present moment, embracing mindfulness through simple, deliberate actions. Whether it's the flow of a yoga pose, the extension of a stretch, or the rhythm of your steps in nature, allow yourself to be fully present, savoring the tranquility of each moment.<\/p>"
+      }
+    },
+    "6af28f76-3d95-4b5f-8661-3269b08fb343": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Cheers to a season filled with kindness, mindfulness, and an abundance of self-care!<\/p>"
+      }
+    },
+    "5fdea436-f9d3-4e90-8baf-46d722b058e6": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 50,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/holiday-blogjpg-03.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "navigation": {
@@ -92,6 +232,14 @@
     "5ae7f95d-135a-44d9-8554-8f9a31efb0af",
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd",
     "ad4169d8-b136-4e50-8859-0c1fbc7ff718",
+    "73046ece-d896-4f66-9fdf-e2945029dad8",
+    "b39c658c-061d-4e60-a334-6a24664b5666",
+    "d1a7fc67-3b76-4441-bd6c-d282abc424d9",
+    "73749d49-06e3-49af-89cb-f8db0f9110e4",
+    "f8bbd545-45b8-498b-9699-6e9c6a4b252b",
+    "55e24150-f985-4be4-8ea0-4591154fa994",
+    "6af28f76-3d95-4b5f-8661-3269b08fb343",
+    "5fdea436-f9d3-4e90-8baf-46d722b058e6",
     "navigation",
     "comments",
     "recents"
