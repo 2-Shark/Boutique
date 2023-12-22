@@ -128,9 +128,10 @@
         "text-width": "medium",
         "overlap": true,
         "box-around-text": false,
-        "mobile-overlay": false,
+        "mobile-overlay": true,
         "image": "shopify:\/\/shop_images\/holiday-blogjpg-05.jpg",
-        "overline": "",
+        "mobile-image": "shopify:\/\/shop_images\/holiday-blogjpg-05m.jpg",
+        "overline": "Mindful Holiday edition",
         "title": "Holiday Glass-Glow Kit",
         "description": "",
         "link-url": "shopify:\/\/products\/holiday-glass-glow-kit",
@@ -161,6 +162,19 @@
         "overline": "04",
         "heading": "",
         "text": "<p><strong>Mindful Movement:<\/strong><\/p><p>Engage your body and mind with gentle movements—try yoga, stretching, or a serene walk in nature if you can. Pay close attention to every bend, every stretch, and every breath, anchoring yourself firmly in the here and now. Let each movement guide you into the present moment, embracing mindfulness through simple, deliberate actions. Whether it's the flow of a yoga pose, the extension of a stretch, or the rhythm of your steps in nature, allow yourself to be fully present, savoring the tranquility of each moment.<\/p>"
+      }
+    },
+    "84930fc7-7d77-46cd-bc59-6a483aa6cb8c": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "05",
+        "heading": "",
+        "text": "<p><strong>Relaxing Tea Moments:<\/strong><\/p><p>Immerse yourself in the mindful ritual of a tea ceremony or simply indulge in the serene pleasure of a warm cup of herbal tea. <\/p><p>Allow the rich and soothing flavors to envelop you, transporting your senses to a state of tranquility. Let the experience of savoring the tea become a mindful journey, a moment of pause amid the rush of daily life. Embrace these moments as opportunities to find yourself and relaxation. Let each sip become a gentle reminder to slow down, breathe, and savor the quiet joy of the present moment.<\/p>"
       }
     },
     "6af28f76-3d95-4b5f-8661-3269b08fb343": {
@@ -240,6 +254,7 @@
     "73749d49-06e3-49af-89cb-f8db0f9110e4",
     "f8bbd545-45b8-498b-9699-6e9c6a4b252b",
     "55e24150-f985-4be4-8ea0-4591154fa994",
+    "84930fc7-7d77-46cd-bc59-6a483aa6cb8c",
     "6af28f76-3d95-4b5f-8661-3269b08fb343",
     "5fdea436-f9d3-4e90-8baf-46d722b058e6",
     "navigation",
