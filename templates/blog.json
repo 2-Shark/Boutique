@@ -41,8 +41,20 @@
     "d69da759-9852-4bc6-a3cd-7224bb99229e": {
       "type": "text-columns",
       "blocks": {
+        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify:\/\/shop_images\/holiday-blog.jpg",
+            "title": "How to Spend Mindful Holidays at Home",
+            "description": "<p>Amidst the hustle and bustle, finding moments of peace and self-care can feel like a mindful gift. <\/p>",
+            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/how-to-spend-mindful-holidays-at-home-embracing-tranquility-and-self-care",
+            "link-text": "READ more"
+          }
+        },
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "show-image": true,
             "image": "shopify:\/\/shop_images\/10_-06.jpg",
@@ -63,17 +75,6 @@
             "link-text": "Read more"
           }
         },
-        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "show-image": true,
-            "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
-            "link-url": "",
-            "link-text": "View more"
-          }
-        },
         "c520fd82-8005-4f0f-bad5-6a94d48413a0": {
           "type": "image",
           "disabled": true,
@@ -87,9 +88,9 @@
         }
       },
       "block_order": [
+        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c",
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3",
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1",
-        "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c",
         "c520fd82-8005-4f0f-bad5-6a94d48413a0"
       ],
       "settings": {
