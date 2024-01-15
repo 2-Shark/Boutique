@@ -214,7 +214,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool<\/p>",
+            "description": "<p><strong>X-LIFTING MASK<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Lotus Flower | Anemarrhena Asphodeloides Root | Tea Complex<br\/><strong>Ingredients<\/strong><br\/>Water\/Aqua, Glycerin, Dipropylene Glycol, Agar, Sodium Polyacrylate, Polyacrylic Acid, Hydroxyacetophenone, Disodium EDTA, Caprylyl Glycol, Tartaric Acid, Caprylyl\/Capryl Glucoside, Rosmarinus Officinalis (Rosemary) Leaf Oil, Adenosine, Lavandula Angustifolia (Lavender) Oil, Aluminum Glycinate, Butylene Glycol, Caffeine, Cetyl Ethylhexanoate, Ubiquinone, Hydrogenated Polyisobutene, Lavandula Angustifolia (Lavender) Extract, 1,2-Hexanediol, Dipotassium Glycyrrhizate, Xanthan Gum, Cellulose Gum, Nelumbo Nucifera Flower Extract, Sodium Hyaluronate, Aspalathus Linearis Leaf Extract, Camellia Sinensis Leaf Extract, Uuron-Cha Ekisu, Anemarrhena Asphodeloides Root Extract, Tocopherol, Linalool, Limonene<\/p><p>-<\/p><p><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -223,7 +223,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Lightweight | Dewy | Firming | Moisturizing<\/p>",
+            "description": "<p><strong>X-LIFTING MASK<\/strong><\/p><p>Cooling | Dewy | Lifting<\/p><p>-<\/p><p><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/p><p>Lightweight | Dewy | Firming | Moisturizing<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -232,7 +232,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Rosewood | Vanilla fruit<\/p>",
+            "description": "<p><strong>X-LIFTING MASK<\/strong><\/p><p>Rosemary | Lavender<\/p><p>-<\/p><p><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/p><p>Rosewood | Vanilla fruit<\/p>",
             "page-content": "",
             "default-open": false
           }
