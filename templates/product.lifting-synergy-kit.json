@@ -280,99 +280,6 @@
         "link-text": ""
       }
     },
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_PC_86b228c7-096d-4f71-8216-6f2e9f2f32b3.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_M_59ffbf20-03b7-4c30-9a03-92baaf857cef.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 44,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 138,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "slideshow_YTxexn": {
-      "type": "slideshow",
-      "blocks": {
-        "video_dHpBmf": {
-          "type": "video",
-          "settings": {
-            "light-text": true,
-            "play-button-style": "solid",
-            "darken-video": false,
-            "video-upload": "shopify:\/\/files\/videos\/shopify-xlifting.mp4",
-            "video-url": "",
-            "heading": "",
-            "sub-heading": "",
-            "button-text": "",
-            "button-url": ""
-          }
-        },
-        "video_wB8KFB": {
-          "type": "video",
-          "settings": {
-            "light-text": true,
-            "play-button-style": "solid",
-            "darken-video": true,
-            "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
-            "video-url": "",
-            "heading": "",
-            "sub-heading": "",
-            "button-text": "",
-            "button-url": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_dHpBmf",
-        "video_wB8KFB"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 38,
-        "darken-image": true,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
     "slideshow_U7RWaY": {
       "type": "slideshow",
       "blocks": {
@@ -430,13 +337,106 @@
         "spacing-above": false,
         "spacing-below": false,
         "spacing-around-blocks": false,
-        "image-aspect-ratio": 50,
+        "image-aspect-ratio": 42,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_PC_e1ee47ac-3b89-492f-aa83-266d4106ee3e.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_M_ee3b115b-68ab-4b85-a0a4-3fedec138c03.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 44,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 136,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "slideshow_YTxexn": {
+      "type": "slideshow",
+      "blocks": {
+        "video_dHpBmf": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": false,
+            "video-upload": "shopify:\/\/files\/videos\/shopify-xlifting.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        },
+        "video_wB8KFB": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": true,
+            "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_dHpBmf",
+        "video_wB8KFB"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 38,
+        "darken-image": true,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "fade",
         "mobile-image-aspect-ratio": 134,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
@@ -611,9 +611,9 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "slideshow_U7RWaY",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "slideshow_YTxexn",
-    "slideshow_U7RWaY",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
     "3f2e5a64-9305-4a9e-9635-5a882adb3967",
