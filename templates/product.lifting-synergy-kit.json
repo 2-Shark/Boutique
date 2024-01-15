@@ -6,7 +6,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "high-performance lifting serum with Light texture"
+            "text": "All-in-One Kit for Glow, Revitalize, and Lifting."
           }
         },
         "heading": {
@@ -86,7 +86,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>97.7% high-performance natural ingredients<\/li><li>Snow Lotus extract, along with naturally derived antioxidant and anti-inflammatory ingredients, helps maintain healthy elasticity.<\/li><li>Daily Clean Lifting Serum has a lightweight texture.<\/li><li>The clinical trial has confirmed improvements in skin elasticity, wrinkle reduction, and brightening.<\/li><\/ul>",
+            "description": "<ul><li>A quadruple face-lifting mask with a patented design that simultaneously lifts the jawline, double chin, cheeks, and smile lines.<\/li><li>Daily Clean Lifting Serum with 97.7% high-performance natural ingredients.<\/li><\/ul>",
             "page-content": "",
             "default-open": false
           }
@@ -179,6 +179,7 @@
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -204,7 +205,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Use day and night after cleansing and toning. Apply 3-4 drops directly on the face.<\/p>",
+            "description": "<ul><li><strong>X-LIFTING MASK<\/strong><\/li><\/ul><p>1. Apply toner on face, remove the film and place the center of the mask over the lips and align it with the face.<br\/>2. Gently stretch both ends of the upper half, labelled (A), and rest thoroughly over the philtrum and cheeks.<br\/>3. Gently stretch both ends of the lower half, labelled (B), and hang on each ear. Make sure (B) partially overlaps (A).<br\/>4. Apply the product for 30-40 minutes. It may be applied up to 2 hours (120 mins).<br\/>5. When finished gently massage the applied area.<br\/>*Apply cream or moisturizer (as needed) on the rest of the facial area.<\/p><p><\/p><ul><li><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/li><\/ul><p>Use day and night after cleansing and toning. Apply 3-4 drops directly on the face.<\/p>",
             "page-content": "",
             "default-open": false
           }
