@@ -205,7 +205,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<ul><li><strong>X-LIFTING MASK<\/strong><\/li><\/ul><p>1. Apply toner on face, remove the film and place the center of the mask over the lips and align it with the face.<br\/>2. Gently stretch both ends of the upper half, labelled (A), and rest thoroughly over the philtrum and cheeks.<br\/>3. Gently stretch both ends of the lower half, labelled (B), and hang on each ear. Make sure (B) partially overlaps (A).<br\/>4. Apply the product for 30-40 minutes. It may be applied up to 2 hours (120 mins).<br\/>5. When finished gently massage the applied area.<br\/>*Apply cream or moisturizer (as needed) on the rest of the facial area.<\/p><p><\/p><ul><li><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/li><\/ul><p>Use day and night after cleansing and toning. Apply 3-4 drops directly on the face.<\/p>",
+            "description": "<p><strong>X-LIFTING MASK<\/strong><\/p><p>1. Apply toner on face, remove the film and place the center of the mask over the lips and align it with the face.<br\/>2. Gently stretch both ends of the upper half, labelled (A), and rest thoroughly over the philtrum and cheeks.<br\/>3. Gently stretch both ends of the lower half, labelled (B), and hang on each ear. Make sure (B) partially overlaps (A).<br\/>4. Apply the product for 30-40 minutes. It may be applied up to 2 hours (120 mins).<br\/>5. When finished gently massage the applied area.<br\/>*Apply cream or moisturizer (as needed) on the rest of the facial area.<\/p><p><\/p><p><strong>SNOW LOTUS LIFTING SERUM<\/strong><\/p><p>Use day and night after cleansing and toning. Apply 3-4 drops directly on the face.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -254,26 +254,6 @@
         "spacing-below": false
       }
     },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 38,
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
-      }
-    },
     "5dc9f552-4580-4447-8abe-673add963394": {
       "type": "image-with-text",
       "settings": {
@@ -308,48 +288,18 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_6282a739-b564-4ba4-9af7-0e0fdddfbe72.png",
+            "image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_PC_86b228c7-096d-4f71-8216-6f2e9f2f32b3.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_1_ec2bc2a5-6224-4c0a-825b-275d6e950f2b.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_75e460ec-7429-4cb4-a1d8-fb528496211d.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_2_44f33644-af94-4a66-8901-2ffd9473b052.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_5c7fbe24-4069-47ed-b0aa-f85b968e3b41.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b2df9439-b754-4c29-9f14-465ce4533e21.png"
+            "mobile-image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_M_59ffbf20-03b7-4c30-9a03-92baaf857cef.png"
           }
         }
       },
       "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3"
       ],
       "settings": {
         "text-color": "auto",
@@ -357,8 +307,62 @@
         "spacing-above": false,
         "spacing-below": false,
         "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
+        "image-aspect-ratio": 44,
         "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 138,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "slideshow_YTxexn": {
+      "type": "slideshow",
+      "blocks": {
+        "video_dHpBmf": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": false,
+            "video-upload": "shopify:\/\/files\/videos\/shopify-xlifting.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        },
+        "video_wB8KFB": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": true,
+            "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_dHpBmf",
+        "video_wB8KFB"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 38,
+        "darken-image": true,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
@@ -369,8 +373,78 @@
         "mobile-overlay": true
       }
     },
+    "slideshow_U7RWaY": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xVgagL": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Lifting_Synergy_Kit-1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Lifting_Synergy_Kit-1.png"
+          }
+        },
+        "image_8dD499": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Lifting_Synergy_Kit-2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Lifting_Synergy_Kit-2.png"
+          }
+        },
+        "image_TXJxWV": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Lifting_Synergy_Kit_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Lifting_Synergy_Kit_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_xVgagL",
+        "image_8dD499",
+        "image_TXJxWV"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 50,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -530,75 +604,21 @@
         "spacing-above": true,
         "spacing-below": true
       }
-    },
-    "slideshow_YTxexn": {
-      "type": "slideshow",
-      "blocks": {
-        "video_dHpBmf": {
-          "type": "video",
-          "settings": {
-            "light-text": true,
-            "play-button-style": "solid",
-            "darken-video": false,
-            "video-upload": "shopify:\/\/files\/videos\/shopify-xlifting.mp4",
-            "video-url": "",
-            "heading": "",
-            "sub-heading": "",
-            "button-text": "",
-            "button-url": ""
-          }
-        },
-        "video_wB8KFB": {
-          "type": "video",
-          "settings": {
-            "light-text": true,
-            "play-button-style": "solid",
-            "darken-video": true,
-            "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
-            "video-url": "",
-            "heading": "",
-            "sub-heading": "",
-            "button-text": "",
-            "button-url": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_dHpBmf",
-        "video_wB8KFB"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 38,
-        "darken-image": true,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": true,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
     }
   },
   "order": [
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "5dc9f552-4580-4447-8abe-673add963394",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "slideshow_YTxexn",
+    "slideshow_U7RWaY",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
     "3f2e5a64-9305-4a9e-9635-5a882adb3967",
     "b8f597d5-408e-4e85-9e30-05801e242feb",
     "1da4187e-fe26-4969-8379-a32463d40d6f",
-    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5",
-    "slideshow_YTxexn"
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
