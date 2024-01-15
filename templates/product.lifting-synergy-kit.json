@@ -357,7 +357,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_PC_e1ee47ac-3b89-492f-aa83-266d4106ee3e.png",
+            "image": "shopify:\/\/shop_images\/Lifting_Synergy_Kit_PC_8781a25e-0103-42cd-9e95-95e23018abcc.png",
             "overline": "",
             "title": "",
             "description": "",
@@ -376,7 +376,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "spacing-around-blocks": false,
-        "image-aspect-ratio": 44,
+        "image-aspect-ratio": 40,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
