@@ -530,6 +530,60 @@
         "spacing-above": true,
         "spacing-below": true
       }
+    },
+    "slideshow_YTxexn": {
+      "type": "slideshow",
+      "blocks": {
+        "video_dHpBmf": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": false,
+            "video-upload": "shopify:\/\/files\/videos\/shopify-xlifting.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        },
+        "video_wB8KFB": {
+          "type": "video",
+          "settings": {
+            "light-text": true,
+            "play-button-style": "solid",
+            "darken-video": true,
+            "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
+            "video-url": "",
+            "heading": "",
+            "sub-heading": "",
+            "button-text": "",
+            "button-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_dHpBmf",
+        "video_wB8KFB"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 38,
+        "darken-image": true,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 7,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
     }
   },
   "order": [
@@ -544,6 +598,7 @@
     "3f2e5a64-9305-4a9e-9635-5a882adb3967",
     "b8f597d5-408e-4e85-9e30-05801e242feb",
     "1da4187e-fe26-4969-8379-a32463d40d6f",
-    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5",
+    "slideshow_YTxexn"
   ]
 }
