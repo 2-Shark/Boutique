@@ -84,6 +84,7 @@
         },
         "6d1e2c06-8a69-43de-be32-cf56d834e654": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "Lotus Melight Eye Patch",
             "description": "<p>Lotus Melight Eye Patch is infused with powerful botanical extracts to restore youthful appearance to the fatigued eye area. The hydrogel features Alpha-Melight, a patented formula derived from natural ingredients, helps suppress melanin production and brighten complexion.<\/p><p><\/p><p><em>Brightening, Rejuvenating, Nourishing<\/em><\/p>",
@@ -93,7 +94,6 @@
         },
         "79227bd3-1748-4e6d-b9c3-4963430b4948": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
             "heading": "Les Bois Rejuvenate Body Cream",
             "description": "<p>Rejuvenating cream for hands and body. Enriched with rosehip oil, avocado oil, narcissus flower, and jojoba seed oil, the cream helps moisturize dehydrated skin. A blend of woody and floral scents delivers gentle revitalization.<\/p>",
@@ -103,7 +103,6 @@
         },
         "collapsible_row_k6wtPq": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
             "heading": "Special 'Love Myself' Edition",
             "description": "<ul><li>Mini Portable Body Cream<\/li><\/ul><p>Special edition that can be carried around in everyday life and used as hand cream.<\/p><ul><li>Mini ‘Love Myself’ Pouch<\/li><\/ul><p>A special keyring for carrying a <br\/>portable mini body cream edition.<\/p>",
@@ -113,10 +112,9 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><ul><li>Soothes areas affected by sunlight and UV exposure.<\/li><li>Lotus extract, along with naturally derived whitening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps to suppress melanin production, which is the underlying cause of pigmentation.<\/li><li>You can observe a reduction in melanin concentration and area within just 4 weeks of use.<\/li><li>The clinical trial has confirmed the efficacy in reducing spots, brightening, and improving wrinkles.<\/li><\/ul><p><strong>Les Bois Body Cream<\/strong><\/p><ul><li>Blend of woody & floral scent delivers uplifting moment.<\/li><li>Anti-inflammation & Anti-oxidant<\/li><li>Boost collagen production<\/li><li>Moistturization & \bRevitalization<\/li><\/ul>",
+            "description": "<ul><li>Blend of woody & floral scent<br\/>delivers uplifting moment.<\/li><li>Anti-inflammation & Anti-oxidant<\/li><li>Boost collagen production<\/li><li>Moistturization & \bRevitalization<\/li><\/ul>",
             "page-content": "",
             "default-open": false
           }
@@ -357,7 +355,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p><p>+ These patches are effective not only for brightening but also for areas under the eyes and smile line. You can brighten your skin by applying eye patches to various areas.<\/p>",
+            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -366,7 +364,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>*Lotus Melight Eye Patch<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Rosehip Fruit Oil | Jojoba Seed Oil | Avocado Oil  |  Narcissus Flower<br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate, 2,3-Butanediol, 1,2-Hexanediol, CetearylAlcohol, Betaine, Niacinamide, Polyglyceryl-3 Stearate, CetearylOlivate, SimmondsiaChinensis(Jojoba) Seed Oil, Glyceryl Stearate, Sodium Acrylate\/ Sodium AcryloyldimethylTaurateCopolymer, Cucurbita Pepo(Pumpkin) Seed Oil, Polyisobutene, Ethylhexylglycerin, Rosa Canina Fruit Oil, Caprylyl\/Capryl Glucoside, SorbitanOleate, Adenosine, Malt Extract, Propanediol, Butylene Glycol, Fragrance, Camellia Japonica Flower Extract, Cucurbita Pepo(Pumpkin) Fruit Extract, Nelumbo Nucifera Flower Extract, Saussurea Involucrata Extract, Limonene, Benzyl Salicylate<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -375,7 +373,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Cooling  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -384,7 +382,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Bergamot       |       Lavender<\/p>",
+            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -447,6 +445,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 44,
         "container-width": 6,
