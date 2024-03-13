@@ -110,6 +110,7 @@
     },
     "18d8aeca-d55d-4c2a-b7df-656149cf7e48": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "special-winter-skincare-bundles",
         "max-products": 8,
