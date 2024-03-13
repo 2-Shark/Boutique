@@ -1,0 +1,637 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "special edition to extend our support to all women who possess talents and passion."
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "733cd013-8537-4721-9b43-8d35f46f82b7": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "complementary-products": {
+          "type": "complementary-products",
+          "settings": {
+            "title": "Pairs well with",
+            "max-products": 2,
+            "collapsible-row-enabled": false
+          }
+        },
+        "social-sharing": {
+          "type": "social-sharing",
+          "disabled": true,
+          "settings": {
+            "facebook-enabled": true,
+            "twitter-enabled": true,
+            "pinterest-enabled": true,
+            "email-enabled": true,
+            "url-enabled": true
+          }
+        },
+        "35fabdba-a7a1-4bc2-a122-5effa977b694": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "6d1e2c06-8a69-43de-be32-cf56d834e654": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Melight Eye Patch",
+            "description": "<p>Lotus Melight Eye Patch is infused with powerful botanical extracts to restore youthful appearance to the fatigued eye area. The hydrogel features Alpha-Melight, a patented formula derived from natural ingredients, helps suppress melanin production and brighten complexion.<\/p><p><\/p><p><em>Brightening, Rejuvenating, Nourishing<\/em><\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "79227bd3-1748-4e6d-b9c3-4963430b4948": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Les Bois Rejuvenate Body Cream",
+            "description": "<p>Rejuvenating cream for hands and body. Enriched with rosehip oil, avocado oil, narcissus flower, and jojoba seed oil, the cream helps moisturize dehydrated skin. A blend of woody and floral scents delivers gentle revitalization.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_k6wtPq": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Special 'Love Myself' Edition",
+            "description": "<ul><li>Mini Portable Body Cream<\/li><\/ul><p>Special edition that can be carried around in everyday life and used as hand cream.<\/p><ul><li>Mini ‘Love Myself’ Pouch<\/li><\/ul><p>A special keyring for carrying a <br\/>portable mini body cream edition.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "ef005e46-1092-400f-a562-311b51df9d9e": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "WHAT IT DOES",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><ul><li>Soothes areas affected by sunlight and UV exposure.<\/li><li>Lotus extract, along with naturally derived whitening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps to suppress melanin production, which is the underlying cause of pigmentation.<\/li><li>You can observe a reduction in melanin concentration and area within just 4 weeks of use.<\/li><li>The clinical trial has confirmed the efficacy in reducing spots, brightening, and improving wrinkles.<\/li><\/ul><p><strong>Les Bois Body Cream<\/strong><\/p><ul><li>Blend of woody & floral scent delivers uplifting moment.<\/li><li>Anti-inflammation & Anti-oxidant<\/li><li>Boost collagen production<\/li><li>Moistturization & \bRevitalization<\/li><\/ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
+        "heading",
+        "vendor",
+        "price",
+        "733cd013-8537-4721-9b43-8d35f46f82b7",
+        "options",
+        "buy-buttons",
+        "pickup",
+        "description",
+        "complementary-products",
+        "social-sharing",
+        "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "6d1e2c06-8a69-43de-be32-cf56d834e654",
+        "79227bd3-1748-4e6d-b9c3-4963430b4948",
+        "collapsible_row_k6wtPq",
+        "ef005e46-1092-400f-a562-311b51df9d9e"
+      ],
+      "settings": {
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": true,
+        "media-layout": "thumbnails",
+        "text-column-width": 44,
+        "media-gap": 9,
+        "column-spacing": "close",
+        "text-alignment": "left",
+        "thumbnail-width": 121,
+        "heading-enabled": false,
+        "heading-sizes-enabled": true,
+        "heading-size": 45,
+        "breadcrumbs-enabled": true,
+        "modal-enabled": true,
+        "variant-scroll-enabled": true,
+        "image-zoom-enabled": true,
+        "loop-enabled": true,
+        "mobile-media-layout": "slideshow"
+      }
+    },
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_ba187960-2b73-4db0-b977-4f2a6aeb9909.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/f39aa7ba1031cfcae89bb965df1bf6dc_c4a69dd9-880c-4bd4-957f-c47ec3583c94.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_1_70837e7b-9d06-4dc3-84fd-f5894d8c65b2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/1_98c43729-a42b-4160-8084-50500ffaa5ad.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_2_6b08cd87-ae5e-4471-93f3-853b9e2873a7.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/2_f03ff3ec-96f6-41d2-be0e-ac6573aad0b4.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 144,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-1_02f77497-a9c6-4b8d-8c4e-0e6418ba9f49.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-1_bc5f94d3-7cf5-4cff-a527-8d9544995fcb.jpg"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_f218ed1f-a18b-4536-b7c7-16f1d3bc1643.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-2_26280036-00c0-4d73-b594-936dd0112d50.jpg"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-3_9d84c5e7-2ac4-47e3-8490-f3ffbdf19d9f.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3_8d697435-bbcd-41e2-a5c7-82e6376496e0.jpg"
+          }
+        },
+        "955e1698-59d1-444e-8839-6fc0d9c2ce6b": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-4_36296fb2-4568-4cbe-87c1-18e345beed8b.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-4_7973e12d-8628-4a16-b7ad-5425e143d60f.jpg"
+          }
+        },
+        "b5dab675-d743-46be-91a5-c4ee5cfb9434": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_1_043d4b76-3444-44ae-8169-ac4d666ada8b.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-5_9f8acf0a-6785-46cb-a374-657c0c292ba9.jpg"
+          }
+        },
+        "image_mVGWBb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_2.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-6.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
+        "955e1698-59d1-444e-8839-6fc0d9c2ce6b",
+        "b5dab675-d743-46be-91a5-c4ee5cfb9434",
+        "image_mVGWBb"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 40,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "HOW TO USE",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p><p>+ These patches are effective not only for brightening but also for areas under the eyes and smile line. You can brighten your skin by applying eye patches to various areas.<\/p><p><\/p><p><strong>Les Bois Body Cream<\/strong><\/p><p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "INGREDIENTS",
+            "description": "<p><strong>*Lotus Melight Eye Patch<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p><p><strong>*Les Bois Rejuvenate Body Cream<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate,<br\/>Cetyl Ethylhexanoate, 1,2 Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia\/Tetraphylla Seed Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract,Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-y1-4Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "TEXTURE",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Cooling  |  Dewy  |  Hydrating<\/p><p><\/p><p><strong>Lotus Leaf Anti Pollution Repairing Toner<\/strong><\/p><p>Lightweight | Refreshing | Quick-absorbing<\/p><p><\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "AROMA",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Bergamot       |       Lavender<\/p><p><\/p><p><strong>Lotus Leaf Anti Pollution Repairing Toner<\/strong><\/p><p>Ylang ylang | Orange peel | Geranium<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "product details",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": false
+      }
+    },
+    "ef1491cf-0619-4d96-9da7-0b1a4d6e1a4d": {
+      "type": "slideshow",
+      "blocks": {
+        "31cb817f-ea40-4a80-9976-2e7ad970c43b": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-illustration_e2e281b6-71b4-4ed6-9856-c167295a3819.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-illustration.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "31cb817f-ea40-4a80-9976-2e7ad970c43b"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 38,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 15,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 44,
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify:\/\/files\/videos\/아이패치.mp4",
+        "video-url": "",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 134
+      }
+    },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 82,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "b8f597d5-408e-4e85-9e30-05801e242feb": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        },
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        },
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "icon": "10",
+            "author-role": "",
+            "author-name": "",
+            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
+        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "overline": "Overline text",
+        "heading": "Testimonials",
+        "image-shape": "square",
+        "background-color": "light",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "mobile-width": "2"
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 116,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
+        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
+      "type": "apps",
+      "blocks": {
+        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
+          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "ef1491cf-0619-4d96-9da7-0b1a4d6e1a4d",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "5dc9f552-4580-4447-8abe-673add963394",
+    "related-products",
+    "260d160b-2e45-4d0f-87aa-3259f69332e3",
+    "b8f597d5-408e-4e85-9e30-05801e242feb",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+  ]
+}
