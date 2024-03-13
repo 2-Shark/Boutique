@@ -100,6 +100,15 @@
             "default-open": false
           }
         },
+        "collapsible_row_k6wtPq": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Special 'Love Myself' Edition",
+            "description": "<ul><li>Mini Portable Body Cream<\/li><\/ul><p>Special edition that can be carried around in everyday life and used as hand cream.<\/p><ul><li>Mini ‘Love Myself’ Pouch<\/li><\/ul><p>A special keyring for carrying a <br\/>portable mini body cream edition.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -125,6 +134,7 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "6d1e2c06-8a69-43de-be32-cf56d834e654",
         "79227bd3-1748-4e6d-b9c3-4963430b4948",
+        "collapsible_row_k6wtPq",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
       "settings": {
