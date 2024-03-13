@@ -236,13 +236,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_021d03e6-6608-4a92-bcdf-72959a899625.png",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_1_872f77bd-5b2e-4e26-8e90-834da9effce2.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-1.jpg"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -250,13 +250,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_50123a10-f286-4bb8-a38a-a08ded192529.png",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_2_46e52f1d-9f03-4f44-b9e4-269358926688.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-2.jpg"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -264,13 +264,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_b4bd28d5-6ff4-4252-aae0-265044510d09.png",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-3.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_3_3adb2277-8195-488a-a41f-103812d3d4fe.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3.jpg"
           }
         },
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b": {
@@ -278,13 +278,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_4_285c8ea8-de08-468c-ac47-993dfff13b2b.png",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-4.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_4_2a620b9b-1082-4978-8cee-059bb2a7def1.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3.jpg"
           }
         },
         "b5dab675-d743-46be-91a5-c4ee5cfb9434": {
@@ -292,13 +292,27 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_6.png",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_6.png"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-5.jpg"
+          }
+        },
+        "image_mVGWBb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_2.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-6.jpg"
           }
         }
       },
@@ -307,7 +321,8 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b",
-        "b5dab675-d743-46be-91a5-c4ee5cfb9434"
+        "b5dab675-d743-46be-91a5-c4ee5cfb9434",
+        "image_mVGWBb"
       ],
       "settings": {
         "text-color": "auto",
