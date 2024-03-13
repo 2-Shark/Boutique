@@ -93,6 +93,7 @@
         },
         "79227bd3-1748-4e6d-b9c3-4963430b4948": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "Les Bois Rejuvenate Body Cream",
             "description": "<p>Rejuvenating cream for hands and body. Enriched with rosehip oil, avocado oil, narcissus flower, and jojoba seed oil, the cream helps moisturize dehydrated skin. A blend of woody and floral scents delivers gentle revitalization.<\/p>",
@@ -102,6 +103,7 @@
         },
         "collapsible_row_k6wtPq": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "Special 'Love Myself' Edition",
             "description": "<ul><li>Mini Portable Body Cream<\/li><\/ul><p>Special edition that can be carried around in everyday life and used as hand cream.<\/p><ul><li>Mini ‘Love Myself’ Pouch<\/li><\/ul><p>A special keyring for carrying a <br\/>portable mini body cream edition.<\/p>",
@@ -111,6 +113,7 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "WHAT IT DOES",
             "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><ul><li>Soothes areas affected by sunlight and UV exposure.<\/li><li>Lotus extract, along with naturally derived whitening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps to suppress melanin production, which is the underlying cause of pigmentation.<\/li><li>You can observe a reduction in melanin concentration and area within just 4 weeks of use.<\/li><li>The clinical trial has confirmed the efficacy in reducing spots, brightening, and improving wrinkles.<\/li><\/ul><p><strong>Les Bois Body Cream<\/strong><\/p><ul><li>Blend of woody & floral scent delivers uplifting moment.<\/li><li>Anti-inflammation & Anti-oxidant<\/li><li>Boost collagen production<\/li><li>Moistturization & \bRevitalization<\/li><\/ul>",
@@ -247,6 +250,7 @@
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -261,6 +265,7 @@
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -275,6 +280,7 @@
         },
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -289,6 +295,7 @@
         },
         "b5dab675-d743-46be-91a5-c4ee5cfb9434": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -303,6 +310,7 @@
         },
         "image_mVGWBb": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -349,7 +357,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p><p>+ These patches are effective not only for brightening but also for areas under the eyes and smile line. You can brighten your skin by applying eye patches to various areas.<\/p><p><\/p><p><strong>Les Bois Body Cream<\/strong><\/p><p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p><p>+ These patches are effective not only for brightening but also for areas under the eyes and smile line. You can brighten your skin by applying eye patches to various areas.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -358,7 +366,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>*Lotus Melight Eye Patch<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p><p><strong>*Les Bois Rejuvenate Body Cream<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate,<br\/>Cetyl Ethylhexanoate, 1,2 Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia\/Tetraphylla Seed Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract,Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-y1-4Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene<\/p>",
+            "description": "<p><strong>*Lotus Melight Eye Patch<\/strong><\/p><p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -367,7 +375,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Cooling  |  Dewy  |  Hydrating<\/p><p><\/p><p><strong>Lotus Leaf Anti Pollution Repairing Toner<\/strong><\/p><p>Lightweight | Refreshing | Quick-absorbing<\/p><p><\/p>",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Cooling  |  Dewy  |  Hydrating<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -376,7 +384,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Bergamot       |       Lavender<\/p><p><\/p><p><strong>Lotus Leaf Anti Pollution Repairing Toner<\/strong><\/p><p>Ylang ylang | Orange peel | Geranium<\/p>",
+            "description": "<p><strong>Lotus Melight Eye Patch<\/strong><\/p><p>Bergamot       |       Lavender<\/p>",
             "page-content": "",
             "default-open": false
           }
