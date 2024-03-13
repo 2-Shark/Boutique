@@ -236,27 +236,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-1.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-1_02f77497-a9c6-4b8d-8c4e-0e6418ba9f49.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-1.jpg"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-2.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-1_bc5f94d3-7cf5-4cff-a527-8d9544995fcb.jpg"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -264,13 +250,27 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-3_a2b731cf-3d95-4b73-9163-ec22fa570517.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_f218ed1f-a18b-4536-b7c7-16f1d3bc1643.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3_758c1579-373e-4ec6-899e-2207b016bf66.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-2_26280036-00c0-4d73-b594-936dd0112d50.jpg"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-3_9d84c5e7-2ac4-47e3-8490-f3ffbdf19d9f.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3_8d697435-bbcd-41e2-a5c7-82e6376496e0.jpg"
           }
         },
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b": {
@@ -278,13 +278,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-4.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-4_36296fb2-4568-4cbe-87c1-18e345beed8b.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-4_7973e12d-8628-4a16-b7ad-5425e143d60f.jpg"
           }
         },
         "b5dab675-d743-46be-91a5-c4ee5cfb9434": {
@@ -318,8 +318,8 @@
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b",
         "b5dab675-d743-46be-91a5-c4ee5cfb9434",
         "image_mVGWBb"
