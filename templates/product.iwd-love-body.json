@@ -248,62 +248,58 @@
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_f218ed1f-a18b-4536-b7c7-16f1d3bc1643.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_My_Body_Kit-1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-2_26280036-00c0-4d73-b594-936dd0112d50.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_My_Body_Kit-1.jpg"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-3_9d84c5e7-2ac4-47e3-8490-f3ffbdf19d9f.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_My_Body_Kit-2.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-3_8d697435-bbcd-41e2-a5c7-82e6376496e0.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_My_Body_Kit-2.jpg"
           }
         },
         "955e1698-59d1-444e-8839-6fc0d9c2ce6b": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-4_36296fb2-4568-4cbe-87c1-18e345beed8b.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_My_Body_Kit-2_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-4_7973e12d-8628-4a16-b7ad-5425e143d60f.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_My_Body_Kit-2_1.jpg"
           }
         },
         "b5dab675-d743-46be-91a5-c4ee5cfb9434": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_1_043d4b76-3444-44ae-8169-ac4d666ada8b.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Love_Myself_Kit-2_2.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-5_9f8acf0a-6785-46cb-a374-657c0c292ba9.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Love_Myself_Kit-6.jpg"
           }
         },
         "image_mVGWBb": {
