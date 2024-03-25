@@ -21,8 +21,8 @@
         "image_mobile": "shopify:\/\/shop_images\/24_Jan_M-2_6a7d8f98-5701-4da6-bd1e-b44bb6c39941.png",
         "image_desktop_right": "shopify:\/\/shop_images\/24_Jan_PC-3_f1baf8dd-6e0b-4e25-b055-43207ae78662.png",
         "image_mobile_right": "shopify:\/\/shop_images\/24_Jan_M-3_5c5abf52-0dfa-4211-a724-96ab80827d44.png",
-        "header": "Refresh Your<br>New Year<br>Routine.",
-        "body": "Embrace a fresh start<br>and a glowing complexion<br>in the New Year.",
+        "header": "WELL-AGING<br>LOTUS<br>SKINCARE",
+        "body": "HIGH PERFORMANCE<br>PLANT-BASED FORMULA",
         "cta": "SHOP",
         "link": "shopify:\/\/products\/holiday-glass-glow-kit"
       }
@@ -420,7 +420,7 @@
             "wide": false,
             "tall": false,
             "retain-ratio": false,
-            "title": "Let's become a Super Ager.",
+            "title": "Let's become a Super Well Ager.",
             "link-url": "",
             "link-text": "JOIN TO BECOME A SUPER AGER"
           }
@@ -520,7 +520,7 @@
             "wide": false,
             "tall": true,
             "retain-ratio": false,
-            "title": "Sun Care",
+            "title": "Sun Skincare",
             "link-url": "",
             "link-text": "View more"
           }
