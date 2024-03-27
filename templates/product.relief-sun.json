@@ -278,33 +278,13 @@
         "spacing-below": false
       }
     },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 38,
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
-      }
-    },
     "5dc9f552-4580-4447-8abe-673add963394": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
         "image-aspect-ratio": 24,
         "mobile-image-aspect-ratio": 82,
@@ -338,7 +318,7 @@
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2_17c96a02-5d1f-4340-bbb4-2d21dbfa0d36.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_1.jpg"
           }
         },
         "image_GMD3yN": {
@@ -447,30 +427,78 @@
         "mobile-overlay": true
       }
     },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
       "settings": {
-        "text-color": "auto",
-        "background-color": "none",
+        "aspect-ratio": 50,
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
+        "video-url": "",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 134
+      }
+    },
+    "slideshow_hminhJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Bmx93B": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
+          }
+        },
+        "image_nGAa49": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_4.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_4.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Bmx93B",
+        "image_nGAa49"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 42,
         "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
+        "blocks_per_slide": 1,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "related-products": {
@@ -614,11 +642,11 @@
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "5dc9f552-4580-4447-8abe-673add963394",
     "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "slideshow_hminhJ",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "b8f597d5-408e-4e85-9e30-05801e242feb",
