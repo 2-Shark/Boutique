@@ -324,6 +324,60 @@
         "link-text": ""
       }
     },
+    "slideshow_LHq7iP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7zCpJb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_1_1f8bc152-f389-4f11-8b3b-3d440fd056e5.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2_17c96a02-5d1f-4340-bbb4-2d21dbfa0d36.jpg"
+          }
+        },
+        "image_GMD3yN": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_7zCpJb",
+        "image_GMD3yN"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 42,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -562,6 +616,7 @@
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
