@@ -136,13 +136,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_ba187960-2b73-4db0-b977-4f2a6aeb9909.png",
+            "image": "shopify:\/\/shop_images\/PC_730c8347-7736-499b-bbbb-b1007b5b6617.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/f39aa7ba1031cfcae89bb965df1bf6dc_c4a69dd9-880c-4bd4-957f-c47ec3583c94.png"
+            "mobile-image": "shopify:\/\/shop_images\/de70e566eb63f142d5cf65abca62b287.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +150,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_70837e7b-9d06-4dc3-84fd-f5894d8c65b2.png",
+            "image": "shopify:\/\/shop_images\/PC-_1_e5ffca7c-54c9-43b3-8e59-197f5cb791aa.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_98c43729-a42b-4160-8084-50500ffaa5ad.png"
+            "mobile-image": "shopify:\/\/shop_images\/1_0132a9ed-dd69-4c8b-a4f3-12a3f3606894.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,20 +164,35 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_6b08cd87-ae5e-4471-93f3-853b9e2873a7.png",
+            "image": "shopify:\/\/shop_images\/PC-_3.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_f03ff3ec-96f6-41d2-be0e-ac6573aad0b4.png"
+            "mobile-image": "shopify:\/\/shop_images\/2_84b2d461-077a-45a9-b130-f26cb6a75775.jpg"
+          }
+        },
+        "image_YL7LAM": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_4.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/6_9b3c56b7-a5d8-4e6e-a4b9-84252c95a4aa.jpg"
           }
         }
       },
       "block_order": [
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "image_YL7LAM"
       ],
       "settings": {
         "text-color": "auto",
@@ -227,6 +242,15 @@
             "default-open": false
           }
         },
+        "collapsible_row_daHbYd": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Collapsible row",
+            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
           "type": "collapsible-row",
           "settings": {
@@ -241,6 +265,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "collapsible_row_daHbYd",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
       "settings": {
