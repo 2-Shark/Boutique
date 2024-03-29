@@ -86,7 +86,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Soothes areas affected by sunlight and UV exposure.<\/li><li>Lotus extract, along with naturally derived brightening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps suppress melanin production, the underlying cause of pigmentation.<\/li><li>You can observe a reduction in melanin concentration and area within just 4 weeks of use.<\/li><li>The clinical trial has confirmed the efficacy in reducing spots, brightening, and improving wrinkles.<\/li><\/ul>",
+            "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)<\/li><li>Effectively blocks both ultraviolet UVA and UVB rays.<\/li><li>Soothes areas affected by blue light and UV exposure & enhance natural radiance with glowing and natural tone-up finish.<\/li><li>Provides essential hydration and neutral coverage with a replenishing and natural glow.<\/li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.<\/li><\/ul>",
             "page-content": "",
             "default-open": false
           }
@@ -312,13 +312,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_1_1f8bc152-f389-4f11-8b3b-3d440fd056e5.jpg",
+            "image": "shopify:\/\/shop_images\/PC-skintint_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_1.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_1.jpg"
           }
         },
         "image_GMD3yN": {
@@ -326,13 +326,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.jpg",
+            "image": "shopify:\/\/shop_images\/PC-skintint_2_14e3ceb8-6154-4fdb-a591-298d4bee6ff6.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_2_3cb01d07-9f07-480b-a0ed-9a55c09c1652.jpg"
           }
         }
       },
@@ -409,6 +409,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -429,6 +430,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 50,
         "container-width": 6,
@@ -455,13 +457,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
+            "image": "shopify:\/\/shop_images\/PC-skintint_3_c7a46003-747a-415e-9aaf-633057fbbd87.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_3_4c958af9-d4a2-488a-8f6f-4a46fa1b45b1.jpg"
           }
         },
         "image_nGAa49": {
@@ -469,13 +471,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_4.jpg",
+            "image": "shopify:\/\/shop_images\/PC-skintint_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_4.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_4_bd5d672b-591a-4e0b-849b-4517464e505c.jpg"
           }
         }
       },
