@@ -438,7 +438,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
+        "video-upload": "shopify:\/\/files\/videos\/글로벌선크림_F.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -538,58 +538,6 @@
         "link-text": ""
       }
     },
-    "b8f597d5-408e-4e85-9e30-05801e242feb": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "overline": "Overline text",
-        "heading": "Testimonials",
-        "image-shape": "square",
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "mobile-width": "2"
-      }
-    },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
@@ -649,7 +597,6 @@
     "slideshow_hminhJ",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "b8f597d5-408e-4e85-9e30-05801e242feb",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
