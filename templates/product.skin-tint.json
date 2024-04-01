@@ -90,6 +90,15 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_w3Af7J": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free of",
+            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -105,7 +114,8 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_w3Af7J"
       ],
       "settings": {
         "container-width": 5,
