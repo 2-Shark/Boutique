@@ -28,7 +28,7 @@
     "product--show-new-label": true,
     "product--new-label-period": 19,
     "product--variant-style": "buttons",
-    "popup--enabled": true,
+    "popup--enabled": false,
     "popup--mode": "auto",
     "popup--days-range": 1,
     "popup--background-color": "none",
