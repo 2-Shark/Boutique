@@ -430,7 +430,6 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
-      "disabled": true,
       "settings": {
         "aspect-ratio": 50,
         "container-width": 6,
@@ -440,7 +439,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
+        "video-upload": "shopify:\/\/files\/videos\/글로벌스킨틴트_F.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
