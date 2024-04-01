@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Free of",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -263,6 +263,7 @@
         },
         "collapsible_row_4TRVwg": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "Free of",
             "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.<\/p>",
