@@ -250,13 +250,23 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_4TRVwg": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free of",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12",
+        "collapsible_row_4TRVwg"
       ],
       "settings": {
         "background-color": "none",
