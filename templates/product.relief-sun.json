@@ -237,16 +237,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "collapsible_row_daHbYd": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "description": "<p>Soothing  |  Dewy  |  Hydrating<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -255,7 +246,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot       |       Lavender<\/p>",
+            "description": "<p>Signature Damask Rose Scent<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -265,7 +256,6 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
-        "collapsible_row_daHbYd",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
       "settings": {
