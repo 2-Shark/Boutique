@@ -62,13 +62,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1_d6a4bd2d-131a-46dc-bd6d-d3ac90b6a775.png",
+            "image": "shopify:\/\/shop_images\/PC_e661382c-25a5-450a-8a20-a3a6a55eaad9.jpg",
             "overline": "",
-            "title": "Lotus Melight Eye Patch",
-            "description": "",
-            "link-url": "shopify:\/\/products\/lotus-melight-eyepatch",
+            "title": "Relief Sun Moisture",
+            "description": "<p>UV & Blue Light Protection (SPF 50+ ++++)<\/p>",
+            "link-url": "shopify:\/\/products\/relief-sun-moisture",
             "link-text": "SHOP",
-            "mobile-image": "shopify:\/\/shop_images\/Mobile_8153472c-c80a-488b-8312-cd3dcdb32d1f.png"
+            "mobile-image": "shopify:\/\/shop_images\/Mobile_4659e544-7558-464b-99c6-ca546569d3b8.jpg"
           }
         },
         "template--21349725929759__319315a2-1b95-4503-a3e3-d2481a024017-image-2": {
@@ -76,13 +76,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Most-polular-serum_pc.png",
+            "image": "shopify:\/\/shop_images\/PC_2da17878-7564-43cd-8ded-ba879886727e.jpg",
             "overline": "",
-            "title": "Snow Lotus Lifitng Serum",
-            "description": "",
+            "title": "Skin Tint Essence",
+            "description": "<p>UV & Blue Light Protection (SPF 50+ ++++)<\/p>",
             "link-url": "shopify:\/\/products\/super-aging-serum",
             "link-text": "SHOP",
-            "mobile-image": "shopify:\/\/shop_images\/Most-polular-serum_m_9a0dd1c4-b455-409c-b897-facecc2108fd.png"
+            "mobile-image": "shopify:\/\/shop_images\/Mobile_51b93f77-c40e-4b9d-9790-b133921b5be6.jpg"
           }
         }
       },
@@ -97,7 +97,7 @@
         "spacing-below": false,
         "spacing-around-blocks": false,
         "image-aspect-ratio": 42,
-        "darken-image": false,
+        "darken-image": true,
         "blocks_per_slide": 2,
         "box-around-text": false,
         "auto-rotate": false,

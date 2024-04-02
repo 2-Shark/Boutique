@@ -31,6 +31,25 @@
         "show-search-link": true
       }
     },
+    "featured_video_J3BtqF": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 42,
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify:\/\/files\/videos\/글로벌선크림_F.mp4",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 74
+      }
+    },
     "main": {
       "type": "collection--body",
       "settings": {
@@ -69,6 +88,7 @@
   "order": [
     "collection-header",
     "navigation",
+    "featured_video_J3BtqF",
     "main",
     "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18",
     "e30185d6-13c4-4327-948c-7db17782cb84"
