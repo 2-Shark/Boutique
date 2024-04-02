@@ -141,6 +141,22 @@
         "products-per-row--mobile": "2"
       }
     },
+    "featured_collection_BmkwEE": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "suncare",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1"
+      }
+    },
     "546b7cf3-fdb7-4680-a774-ba197ddc22b8": {
       "type": "featured-collection",
       "settings": {
@@ -197,6 +213,7 @@
     "319315a2-1b95-4503-a3e3-d2481a024017",
     "18d8aeca-d55d-4c2a-b7df-656149cf7e48",
     "5e1d0acd-f833-402f-8fb1-e286d1663b34",
+    "featured_collection_BmkwEE",
     "546b7cf3-fdb7-4680-a774-ba197ddc22b8",
     "28e7a175-b533-469d-ada1-4d02c9f68fc5",
     "82b7feb4-5672-4050-9558-3036af024c97"
