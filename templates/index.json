@@ -19,7 +19,8 @@
       "settings": {
         "image_desktop": "shopify:\/\/shop_images\/1ef215c4c54dc7cab050e62c17df4729.png",
         "image_mobile": "shopify:\/\/shop_images\/1ef215c4c54dc7cab050e62c17df4729.png",
-        "image_mobile_right": "shopify:\/\/shop_images\/24_Jan_M-3_5c5abf52-0dfa-4211-a724-96ab80827d44.png",
+        "image_desktop_right": "shopify:\/\/shop_images\/202307200353-1.jpg",
+        "image_mobile_right": "shopify:\/\/shop_images\/202307200353-1.jpg",
         "header": "FROM<br>SUNSCREEN TO<br>SUN SKINCARE",
         "body": "HIGH PERFORMANCE<br>PLANT-BASED FORMULA",
         "cta": "SHOP",
