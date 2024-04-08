@@ -19,7 +19,7 @@
         "spacing-below": false,
         "image-aspect-ratio": 110,
         "mobile-image-aspect-ratio": 106,
-        "darken-image": true,
+        "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
