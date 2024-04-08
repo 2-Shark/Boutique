@@ -176,6 +176,83 @@
         "text": "<p>A lightweight, invisible essence-textured daily sun<em>skincare<\/em>providing UV protection with hydrating and soothing benefits. Enriched with Blue Lotus Water, an antioxidant, and soothing calendula, it nourishes the skin, leaving a replenished and natural glow. The 'Relief Sun Moisture' is formulated to minimize allergy risks and promote healthy application on sensitive skin for individuals concerned about long-term exposure to chemical ingredients, ensuring daily use without compromise.<\/p>"
       }
     },
+    "featured_product_CVinEc": {
+      "type": "featured-product",
+      "blocks": {
+        "overline_gLBicU": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "text": "Overline text"
+          }
+        },
+        "heading_nMTfMf": {
+          "type": "heading",
+          "settings": {
+          }
+        },
+        "vendor_bnEwUp": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price_iUWxkF": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "options_LeLUxc": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy_buttons_H9mfbf": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        }
+      },
+      "block_order": [
+        "overline_gLBicU",
+        "heading_nMTfMf",
+        "vendor_bnEwUp",
+        "price_iUWxkF",
+        "options_LeLUxc",
+        "buy_buttons_H9mfbf"
+      ],
+      "settings": {
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "text-column-width": 30,
+        "text-alignment": "left",
+        "thumbnail-width": 80,
+        "media-gap": 8,
+        "featured_product": "relief-sun-moisture",
+        "loop-enabled": false
+      }
+    },
+    "featured_text_xGjffQ": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "Recommended routine",
+        "heading": "SKIN TINT ESSENCE (SPF 50+ PA++++)",
+        "text": "<p>A lightweight, essence-textured skin tint for UV protection with hydrating and soothing benefits. The essence layers for a neutral coverage with a natural glow. Enriched with Blue Lotus Water, known for their antioxidant properties, as well as pomegranate extract for anti-wrinkle and resilience, this well-aging formula helps repair skin damage caused by sun and blue light exposure. The 'Skin Tint Essence' is formulated to minimize allergy risks and promote healthy application on sensitive skin for individuals concerned about long-term exposure to chemical ingredients, ensuring daily use without compromise.<\/p>"
+      }
+    },
     "871adae9-94ef-4b2a-9a8d-bc8221924511": {
       "type": "featured-text",
       "settings": {
@@ -239,6 +316,8 @@
     "e83d7351-35bc-46d8-80fb-df1ad7c0dfbe",
     "featured_product_8hpePW",
     "featured_text_zXhiGE",
+    "featured_product_CVinEc",
+    "featured_text_xGjffQ",
     "871adae9-94ef-4b2a-9a8d-bc8221924511",
     "ac5ca2e4-d764-47cd-b804-771d6d7cb59e",
     "navigation",
