@@ -99,6 +99,83 @@
         "text": "<p>Our Sun Essential 'Lotus Melight Eye Patch' is an after-sun care hydrogel patch designed to prevent pigmentation and melasma in the delicate eye and cheek areas. Sunlight can stimulate melanin production in our skin, leading to hyperpigmentation (small brown spots around the cheeks and eyes).<\/p><p>We recommend lotus-infused skincare & sun patch products if you love the sun and doing outdoor activities. Let's keep our cheek and eye zone moisturized and rejuvenated as protecting it from melasma & skin aging with our lotus-infused eye patch.<\/p>"
       }
     },
+    "featured_product_8hpePW": {
+      "type": "featured-product",
+      "blocks": {
+        "overline_yLiJFD": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "text": "Overline text"
+          }
+        },
+        "heading_Km9RzX": {
+          "type": "heading",
+          "settings": {
+          }
+        },
+        "vendor_6e76RG": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price_9rjGmR": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "options_JjGQbj": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy_buttons_B79HMn": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        }
+      },
+      "block_order": [
+        "overline_yLiJFD",
+        "heading_Km9RzX",
+        "vendor_6e76RG",
+        "price_9rjGmR",
+        "options_JjGQbj",
+        "buy_buttons_B79HMn"
+      ],
+      "settings": {
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true,
+        "text-column-width": 30,
+        "text-alignment": "left",
+        "thumbnail-width": 49,
+        "media-gap": 8,
+        "featured_product": "lotus-melight-eyepatch",
+        "loop-enabled": false
+      }
+    },
+    "featured_text_zXhiGE": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "recommended routine",
+        "heading": "relief sun moisture (SPF50+ ++++)",
+        "text": "<p>A lightweight, invisible essence-textured daily sun<em>skincare<\/em>providing UV protection with hydrating and soothing benefits. Enriched with Blue Lotus Water, an antioxidant, and soothing calendula, it nourishes the skin, leaving a replenished and natural glow. The 'Relief Sun Moisture' is formulated to minimize allergy risks and promote healthy application on sensitive skin for individuals concerned about long-term exposure to chemical ingredients, ensuring daily use without compromise.<\/p>"
+      }
+    },
     "871adae9-94ef-4b2a-9a8d-bc8221924511": {
       "type": "featured-text",
       "settings": {
@@ -114,6 +191,7 @@
     },
     "ac5ca2e4-d764-47cd-b804-771d6d7cb59e": {
       "type": "featured-text",
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -159,6 +237,8 @@
     "ad4169d8-b136-4e50-8859-0c1fbc7ff718",
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd",
     "e83d7351-35bc-46d8-80fb-df1ad7c0dfbe",
+    "featured_product_8hpePW",
+    "featured_text_zXhiGE",
     "871adae9-94ef-4b2a-9a8d-bc8221924511",
     "ac5ca2e4-d764-47cd-b804-771d6d7cb59e",
     "navigation",
