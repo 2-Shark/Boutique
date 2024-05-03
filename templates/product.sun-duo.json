@@ -138,6 +138,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "image_with_text_8Gcbdf": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 116,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC-mother_s_day-banner_2af69d04-bb62-424c-9a1d-5cc4bc40febd.jpg",
+        "mobile-image": "shopify:\/\/shop_images\/MOBILE_mother_s_day-banner.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -183,6 +209,32 @@
             "mobile-image": "shopify:\/\/shop_images\/2_84b2d461-077a-45a9-b130-f26cb6a75775.jpg"
           }
         },
+        "image_hFaHXw": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_2_da9f2f5a-d2a7-4599-99e5-0534b05aa538.jpg",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
+        "image_wHM7bh": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-_3_5d8331b6-965a-4a93-a52a-709578040692.jpg",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
         "image_YL7LAM": {
           "type": "image",
           "settings": {
@@ -202,6 +254,8 @@
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "image_hFaHXw",
+        "image_wHM7bh",
         "image_YL7LAM"
       ],
       "settings": {
@@ -589,6 +643,7 @@
   },
   "order": [
     "main",
+    "image_with_text_8Gcbdf",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "5dc9f552-4580-4447-8abe-673add963394",
