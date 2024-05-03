@@ -366,13 +366,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_1_1f8bc152-f389-4f11-8b3b-3d440fd056e5.jpg",
+            "image": "shopify:\/\/shop_images\/PC-sun-duo.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_1.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_sun-duo.jpg"
           }
         },
         "image_GMD3yN": {
@@ -380,13 +380,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.jpg",
+            "image": "shopify:\/\/shop_images\/PC-sun-duo_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_sun-duo_1.jpg"
           }
         }
       },
@@ -510,7 +510,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
+            "image": "shopify:\/\/shop_images\/PC-skintint_2_14e3ceb8-6154-4fdb-a591-298d4bee6ff6.jpg",
             "overline": "",
             "title": "",
             "description": "",
@@ -524,7 +524,6 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
@@ -538,6 +537,7 @@
         "image_Bmx93B",
         "image_nGAa49"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
