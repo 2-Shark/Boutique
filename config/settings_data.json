@@ -55,17 +55,23 @@
 
     ],
     "blocks": {
-      "6289556993211952083": {
-        "type": "shopify:\/\/apps\/popup-sign-up-sales-banner\/blocks\/app-embed\/bf8cecc4-adc8-4a21-b131-1cdc35783b70",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "16017602894386113438": {
         "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-store-key\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
         "disabled": false,
         "settings": {
           "enablePreviewMode": true
+        }
+      },
+      "8702373454641979700": {
+        "type": "shopify:\/\/apps\/bevy-design-formerly-aiva\/blocks\/app-embed\/b8663794-257b-458b-bf0c-c04c11961de2",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6289556993211952083": {
+        "type": "shopify:\/\/apps\/popup-sign-up-sales-banner\/blocks\/app-embed\/bf8cecc4-adc8-4a21-b131-1cdc35783b70",
+        "disabled": true,
+        "settings": {
         }
       }
     }
