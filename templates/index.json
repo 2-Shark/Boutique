@@ -199,8 +199,8 @@
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/202307202311_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/202307202311_1.jpg",
+            "image_desktop": "shopify:\/\/shop_images\/detoxing-PC.png",
+            "image_mobile": "shopify:\/\/shop_images\/detoxing-M.png",
             "header": "DEPUFFING & DETOXING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "\/pages\/dipuffing-detoxing"
@@ -211,7 +211,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/202307202608_copy.jpg",
             "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
-            "header": "SCULPTING<br> & LIFTING",
+            "header": "SCULPTING & LIFTING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "\/pages\/lifting-sculting"
           }
