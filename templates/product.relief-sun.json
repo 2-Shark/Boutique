@@ -326,13 +326,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.jpg",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.png"
           }
         }
       },
