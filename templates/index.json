@@ -129,8 +129,8 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/Main-PC-04.png",
-        "image_mobile": "shopify:\/\/shop_images\/Main-M-04.png",
+        "image_desktop": "shopify:\/\/shop_images\/24-summer-main02.png",
+        "image_mobile": "shopify:\/\/shop_images\/24-summer-mainM02.png",
         "image_desktop_r": "shopify:\/\/shop_images\/24_Jan_PC-skintest.png",
         "image_mobile_r": "shopify:\/\/shop_images\/24_Jan_M-skintest.png"
       }
