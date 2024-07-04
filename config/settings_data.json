@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color--accent-1": "#3a7762",
@@ -65,12 +74,6 @@
       "8702373454641979700": {
         "type": "shopify:\/\/apps\/bevy-design-formerly-aiva\/blocks\/app-embed\/b8663794-257b-458b-bf0c-c04c11961de2",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "6289556993211952083": {
-        "type": "shopify:\/\/apps\/popup-sign-up-sales-banner\/blocks\/app-embed\/bf8cecc4-adc8-4a21-b131-1cdc35783b70",
-        "disabled": true,
         "settings": {
         }
       }
