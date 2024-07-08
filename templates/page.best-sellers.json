@@ -1,1 +1,128 @@
-{"sections":{"main":{"type":"page","disabled":true,"settings":{"show-title":true,"background-color":"none","light-text":false,"container-width":4,"spacing-above":true,"spacing-below":true}},"6487adbd-4456-423e-8ea9-3f49c3ab4791":{"type":"image-with-text","settings":{"text-color":"auto","background-color":"none","container-width":6,"spacing-above":false,"spacing-below":false,"image-aspect-ratio":24,"mobile-image-aspect-ratio":64,"darken-image":false,"parallax-enabled":false,"text-position":"center","text-width":"medium","overlap":false,"box-around-text":false,"mobile-overlay":true,"image":"shopify:\/\/shop_images\/Best_sellers_b236f422-70ba-41c7-85f3-c75b6de9327f.png","mobile-image":"shopify:\/\/shop_images\/Best_sellers_1_8b4c9c48-e3ae-493f-9d84-42f00fd9a1fe.png","overline":"","title":"","description":"","link-url":"","link-text":""}},"50263a98-bce6-4516-8b3e-fe9e34f677b4":{"type":"featured-collection","settings":{"collection":"best-sellers","max-products":8,"background-color":"none","light-text":false,"spacing-above":true,"spacing-below":true,"featured-collection--image--show":false,"featured-collection--description--show":false,"display-type":"grid","products-per-row--desktop":"3","products-per-row--mobile":"2"}},"f40d889f-9fbf-4ec2-b196-b2815b367a59":{"type":"slideshow","blocks":{"template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-1":{"type":"image","settings":{"text-position":"bottom-left","text-width":"medium","image":"shopify:\/\/shop_images\/PC_-_-_1_d6a4bd2d-131a-46dc-bd6d-d3ac90b6a775.png","overline":"","title":"Lotus Melight Eye Patch","description":"","link-url":"shopify:\/\/products\/lotus-melight-eyepatch","link-text":"SHOP NOW","mobile-image":"shopify:\/\/shop_images\/Mobile_8153472c-c80a-488b-8312-cd3dcdb32d1f.png"}},"template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-2":{"type":"image","settings":{"text-position":"bottom-left","text-width":"medium","image":"shopify:\/\/shop_images\/Most-polular-serum_pc.png","overline":"","title":"Snow Lotus Lifting Serum","description":"","link-url":"shopify:\/\/products\/super-aging-serum","link-text":"SHOP NOW","mobile-image":"shopify:\/\/shop_images\/Most-polular-serum_m_9a0dd1c4-b455-409c-b897-facecc2108fd.png"}}},"block_order":["template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-1","template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-2"],"settings":{"text-color":"auto","background-color":"none","spacing-above":false,"spacing-below":false,"spacing-around-blocks":false,"image-aspect-ratio":42,"darken-image":false,"blocks_per_slide":2,"box-around-text":false,"auto-rotate":false,"rotate-frequency":3,"transition_type":"fade","mobile-image-aspect-ratio":48,"blocks_per_slide_mobile":"1","mobile-overlay":true}}},"order":["main","6487adbd-4456-423e-8ea9-3f49c3ab4791","50263a98-bce6-4516-8b3e-fe9e34f677b4","f40d889f-9fbf-4ec2-b196-b2815b367a59"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "show-title": true,
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "6487adbd-4456-423e-8ea9-3f49c3ab4791": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 64,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/Best_sellers_b236f422-70ba-41c7-85f3-c75b6de9327f.png",
+        "mobile-image": "shopify:\/\/shop_images\/Best_sellers_1_8b4c9c48-e3ae-493f-9d84-42f00fd9a1fe.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "50263a98-bce6-4516-8b3e-fe9e34f677b4": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "grid",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "2"
+      }
+    },
+    "f40d889f-9fbf-4ec2-b196-b2815b367a59": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_-_-_1_d6a4bd2d-131a-46dc-bd6d-d3ac90b6a775.png",
+            "overline": "",
+            "title": "Lotus Melight Eye Patch",
+            "description": "",
+            "link-url": "shopify:\/\/products\/lotus-melight-eyepatch",
+            "link-text": "SHOP NOW",
+            "mobile-image": "shopify:\/\/shop_images\/Mobile_8153472c-c80a-488b-8312-cd3dcdb32d1f.png"
+          }
+        },
+        "template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/Most-polular-serum_pc.png",
+            "overline": "",
+            "title": "Snow Lotus Lifting Serum",
+            "description": "",
+            "link-url": "shopify:\/\/products\/super-aging-serum",
+            "link-text": "SHOP NOW",
+            "mobile-image": "shopify:\/\/shop_images\/Most-polular-serum_m_9a0dd1c4-b455-409c-b897-facecc2108fd.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-1",
+        "template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 42,
+        "darken-image": false,
+        "blocks_per_slide": 2,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 48,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6487adbd-4456-423e-8ea9-3f49c3ab4791",
+    "50263a98-bce6-4516-8b3e-fe9e34f677b4",
+    "f40d889f-9fbf-4ec2-b196-b2815b367a59"
+  ]
+}
