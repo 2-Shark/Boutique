@@ -460,20 +460,6 @@
     "slideshow_hminhJ": {
       "type": "slideshow",
       "blocks": {
-        "image_Bmx93B": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
-          }
-        },
         "image_nGAa49": {
           "type": "image",
           "settings": {
@@ -487,11 +473,25 @@
             "link-text": "",
             "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_4.jpg"
           }
+        },
+        "image_Bmx93B": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
+          }
         }
       },
       "block_order": [
-        "image_Bmx93B",
-        "image_nGAa49"
+        "image_nGAa49",
+        "image_Bmx93B"
       ],
       "settings": {
         "text-color": "auto",
