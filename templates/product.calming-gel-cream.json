@@ -140,20 +140,6 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_92a3bc58-330f-4dfa-a816-5b5b2b9a2648.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/7f0751f0d249f25f3728af4cb3ef0f80.png"
-          }
-        },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
           "type": "image",
           "settings": {
@@ -165,7 +151,20 @@
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d5c61013-b050-4ccd-a087-b816044843f0.png"
+            "mobile-image": "shopify:\/\/shop_images\/56b3cdebcd1079dc48760228fbdaa01f_2833b55c-5990-4c63-8a68-6a39efe992e0.png"
+          }
+        },
+        "image_6yVnGL": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/1_c9ee68f6-65f9-4e22-b780-f50507712ab7.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": ""
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -184,8 +183,8 @@
         }
       },
       "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "image_6yVnGL",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
       "settings": {
