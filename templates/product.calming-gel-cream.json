@@ -221,7 +221,7 @@
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 132,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
