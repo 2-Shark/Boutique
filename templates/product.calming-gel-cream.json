@@ -413,6 +413,20 @@
             "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_3.png"
           }
         },
+        "image_qrExmA": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/MOBILE_gelcream_4.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_4.png"
+          }
+        },
         "image_ekEWx7": {
           "type": "image",
           "settings": {
@@ -452,6 +466,7 @@
       },
       "block_order": [
         "image_pdhzhn",
+        "image_qrExmA",
         "image_ekEWx7",
         "image_Bahq74",
         "image_tmdLUj"
