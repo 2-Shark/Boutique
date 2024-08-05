@@ -137,7 +137,7 @@
         "collapsible_row_BpLm4L"
       ],
       "settings": {
-        "container-width": 5,
+        "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
         "media-layout": "thumbnails",
@@ -145,7 +145,7 @@
         "media-gap": 9,
         "column-spacing": "close",
         "text-alignment": "left",
-        "thumbnail-width": 121,
+        "thumbnail-width": 81,
         "heading-enabled": false,
         "heading-sizes-enabled": true,
         "heading-size": 45,
