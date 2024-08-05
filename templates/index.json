@@ -1,12 +1,21 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/24-summer-main01_6ff0afd4-7c6c-4ffd-b11c-64a3920e011f.png",
-        "image_tablet": "shopify:\/\/shop_images\/24-summer-mainM01.png",
-        "image_mobile": "shopify:\/\/shop_images\/24-summer-mainM01_78805c18-743e-48ca-9d4e-899033bb3867.png",
-        "eyebrow": "FROM ANTI-AGING TO WELL-AGING",
+        "image_desktop": "shopify:\/\/shop_images\/1_f30d56d1-ac64-4722-8ef9-069151dea891.png",
+        "image_tablet": "shopify:\/\/shop_images\/24_8_M1.png",
+        "image_mobile": "shopify:\/\/shop_images\/24_8_M1.png",
+        "eyebrow": "Discover our summer essentials",
         "header": "Well-aging Skincare",
         "cta": "SHOP NOW",
         "link": "shopify:\/\/pages\/shop-all",
@@ -17,12 +26,12 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/1ef215c4c54dc7cab050e62c17df4729.png",
-        "image_mobile": "shopify:\/\/shop_images\/1ef215c4c54dc7cab050e62c17df4729.png",
-        "image_desktop_right": "shopify:\/\/shop_images\/202307200353-1.jpg",
-        "image_mobile_right": "shopify:\/\/shop_images\/202307200353-1.jpg",
-        "header": "FROM<br>SUNSCREEN TO<br>SUN SKINCARE",
-        "body": "HIGH PERFORMANCE<br>PLANT-BASED FORMULA",
+        "image_desktop": "shopify:\/\/shop_images\/24_8_PC2.png",
+        "image_mobile": "shopify:\/\/shop_images\/24_8_M3.png",
+        "image_desktop_right": "shopify:\/\/shop_images\/24_8_PC3.png",
+        "image_mobile_right": "shopify:\/\/shop_images\/24_8_M2.png",
+        "header": "Glow Wherever You Go.",
+        "body": "advanced botanicalskincare formulaFor healthy radiance.",
         "cta": "SHOP",
         "link": "shopify:\/\/collections\/suncare"
       }
@@ -129,8 +138,8 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/24-summer-main02.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/24-summer-mainM02.png",
+        "image_desktop": "shopify:\/\/shop_images\/24_8_PC4.png",
+        "image_mobile": "shopify:\/\/shop_images\/24_8_M4.png",
         "image_desktop_r": "shopify:\/\/shop_images\/24_Jan_PC-skintest.png",
         "image_mobile_r": "shopify:\/\/shop_images\/24_Jan_M-skintest.png"
       }
@@ -138,10 +147,10 @@
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify:\/\/shop_images\/24_Jan_PC-4_a1513ecd-ce8f-49fe-a20e-7b54ac9db4df.png",
-        "image_mobile_l": "shopify:\/\/shop_images\/24_Jan_M-5_a1f12a8e-1f52-41f8-8519-659c693858ac.png",
-        "image_desktop_r": "shopify:\/\/shop_images\/24_Jan_PC-5_0de72fe5-f3a5-41ed-9149-baf720fa0f8a.png",
-        "image_mobile_r": "shopify:\/\/shop_images\/24_Jan_M-6_a57ef139-3acc-4409-bc10-23df40c2d488.png"
+        "image_desktop_l": "shopify:\/\/shop_images\/24_8_PC5.png",
+        "image_mobile_l": "shopify:\/\/shop_images\/24_8_M7.png",
+        "image_desktop_r": "shopify:\/\/shop_images\/24_8_PC6.png",
+        "image_mobile_r": "shopify:\/\/shop_images\/24_8_M5.png"
       }
     },
     "anti-aging-icon": {
@@ -199,8 +208,8 @@
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/detoxing-PC.png",
-            "image_mobile": "shopify:\/\/shop_images\/detoxing-M.png",
+            "image_desktop": "shopify:\/\/shop_images\/24_8_PC7.png",
+            "image_mobile": "shopify:\/\/shop_images\/24_8_M6.png",
             "header": "DEPUFFING & DETOXING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "\/pages\/dipuffing-detoxing"
