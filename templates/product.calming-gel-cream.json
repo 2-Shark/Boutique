@@ -239,6 +239,15 @@
             "default-open": false
           }
         },
+        "collapsible_row_nqhHEy": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Collapsible row",
+            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
           "type": "collapsible-row",
           "disabled": true,
@@ -270,6 +279,7 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "collapsible_row_nqhHEy",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
@@ -437,7 +447,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "All ingredients",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
+            "description": "<p>Water, Dipropylene Glycol, Erythritol, Butylene Glycol, Niacinamide, Propanediol, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Madecassoside, Asiaticoside, Ceramide NP, Ceramide NS, Phytosphin gosine, Centella Asiatica Extract, Ceramide AS, Ceramide AP, Ceramide EOP, Simmondsia Chinensis (Jojoba)Seed Oil, Panthenol, Adenosine, Hydrogenated Lecithin, Cetearyl Alcohol, Betaine, Xylitol , Citrus Aurantium Dulcis (Orange) Peel Oil, Mentha Viridis Leaf Oil, Carbomer, C12- 14 Alketh-12, Tromethamine, Ethylhexylglycerin, Ammo nium Acryloyldimethyl taurate\/Vp Copolymer, Xanthan Gum, Carthamus Tinctorius(Safflower) Flower Extract, Glycerin, Gardenia Florida Fruit Extract, Dextrin, Cholesterol, Pentylene Gly col, Caprylyl Glycol, Stearic Acid, Limonene, Linalool<\/p>",
             "page-content": "",
             "default-open": false
           }
