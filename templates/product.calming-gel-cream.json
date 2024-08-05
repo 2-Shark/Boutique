@@ -461,30 +461,10 @@
             "page-content": "",
             "default-open": false
           }
-        },
-        "collapsible_row_EpfPQj": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "collapsible_row_LaqRQp": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br\/>sizing information, <br\/>or other sales information.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
         }
       },
       "block_order": [
-        "collapsible_row_K8A8Dg",
-        "collapsible_row_EpfPQj",
-        "collapsible_row_LaqRQp"
+        "collapsible_row_K8A8Dg"
       ],
       "settings": {
         "background-color": "none",
@@ -493,7 +473,7 @@
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
-        "spacing-below": true
+        "spacing-below": false
       }
     },
     "image_with_text_MY3BxB": {
