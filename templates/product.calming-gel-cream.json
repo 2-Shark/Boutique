@@ -211,7 +211,7 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
+        "spacing-below": true,
         "spacing-around-blocks": false,
         "image-aspect-ratio": 46,
         "darken-image": false,
