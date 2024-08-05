@@ -299,7 +299,7 @@
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_1_6ade7725-8cd3-4629-bc36-9dbb9eec3c24.png"
+            "mobile-image": "shopify:\/\/shop_images\/566.png"
           }
         }
       },
@@ -319,7 +319,7 @@
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "fade",
-        "mobile-image-aspect-ratio": 190,
+        "mobile-image-aspect-ratio": 200,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -544,7 +544,7 @@
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": true,
-        "rotate-frequency": 3,
+        "rotate-frequency": 5,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 52,
         "blocks_per_slide_mobile": "1",
