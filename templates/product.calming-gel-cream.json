@@ -485,7 +485,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
+        "mobile-image-aspect-ratio": 146,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -494,12 +494,94 @@
         "box-around-text": false,
         "mobile-overlay": true,
         "image": "shopify:\/\/shop_images\/MOBILE_gelcream_5.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_5.png",
+        "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_5_67212e38-1443-45c5-9a8d-de3fc6bfac57.png",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "slideshow_Qjtx7D": {
+      "type": "slideshow",
+      "blocks": {
+        "image_YgzNdX": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/537.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/537.png"
+          }
+        },
+        "image_nCBgir": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/538.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/538.png"
+          }
+        },
+        "image_BDKTMk": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/539.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/539.png"
+          }
+        },
+        "image_aFxiEJ": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_YgzNdX",
+        "image_nCBgir",
+        "image_BDKTMk",
+        "image_aFxiEJ"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 56,
+        "darken-image": false,
+        "blocks_per_slide": 2,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 52,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -598,6 +680,7 @@
     "slideshow_cxAWXB",
     "collapsible_rows_8nkkGf",
     "image_with_text_MY3BxB",
+    "slideshow_Qjtx7D",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "related-products",
