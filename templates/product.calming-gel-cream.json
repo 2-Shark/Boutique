@@ -443,7 +443,7 @@
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": true,
-        "rotate-frequency": 3,
+        "rotate-frequency": 5,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 70,
         "blocks_per_slide_mobile": "1",
@@ -546,25 +546,12 @@
             "link-text": "",
             "mobile-image": "shopify:\/\/shop_images\/539.png"
           }
-        },
-        "image_aFxiEJ": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
         }
       },
       "block_order": [
         "image_YgzNdX",
         "image_nCBgir",
-        "image_BDKTMk",
-        "image_aFxiEJ"
+        "image_BDKTMk"
       ],
       "settings": {
         "text-color": "auto",
