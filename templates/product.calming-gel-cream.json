@@ -396,6 +396,83 @@
         "link-text": ""
       }
     },
+    "slideshow_cxAWXB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_pdhzhn": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/MOBILE_gelcream_3.png"
+          }
+        },
+        "image_ekEWx7": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
+        "image_Bahq74": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
+        "image_tmdLUj": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_pdhzhn",
+        "image_ekEWx7",
+        "image_Bahq74",
+        "image_tmdLUj"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 56,
+        "darken-image": true,
+        "blocks_per_slide": 2,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -489,6 +566,7 @@
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "slideshow_cxAWXB",
     "related-products",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
