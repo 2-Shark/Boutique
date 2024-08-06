@@ -26,12 +26,12 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/24_8_PC2.png",
-        "image_mobile": "shopify:\/\/shop_images\/24_8_M3_34533bf4-b3f9-468a-a9c2-b52dd7459e0b.png",
+        "image_desktop": "shopify:\/\/shop_images\/24_8_PC2_6d4cc5fa-6784-486d-afa3-7e35957f6a9f.png",
+        "image_mobile": "shopify:\/\/shop_images\/24_8_M3_09626e59-92fd-4b0b-b7b3-81febb7c86cd.png",
         "image_desktop_right": "shopify:\/\/shop_images\/24_8_PC3.png",
         "image_mobile_right": "shopify:\/\/shop_images\/24_8_M2.png",
-        "header": "Glow<br>Wherever<br>You Go.",
-        "body": "advanced botanical<br>skincare formula for<br>healthy radiance.",
+        "header": "GlowWhereverYou Go.",
+        "body": "advanced botanicalskincare formula forhealthy radiance.",
         "cta": "SHOP",
         "link": "shopify:\/\/collections\/suncare"
       }
