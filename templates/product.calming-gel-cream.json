@@ -113,7 +113,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Aroma",
-            "description": "<p>Ylang ylang | Orange peel | Peppermint<\/p>",
+            "description": "<p>Ylang ylang | Orange peel |<\/p>",
             "page-content": "",
             "default-open": false
           }
