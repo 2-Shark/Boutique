@@ -165,7 +165,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_f1232bc6-b2d6-49c9-b76d-712d8e205385.png",
+            "image": "shopify:\/\/shop_images\/PC-Lotus_Leaf.png",
             "overline": "",
             "title": "",
             "description": "",
@@ -179,7 +179,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/1_c9ee68f6-65f9-4e22-b780-f50507712ab7.jpg",
+            "image": "shopify:\/\/shop_images\/PC-CALENDULA_FLOWER.png",
             "overline": "",
             "title": "",
             "description": "",
@@ -199,7 +199,7 @@
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/CENTELLA_ASIATICA.png"
+            "mobile-image": "shopify:\/\/shop_images\/PC-CENTELLA_ASIATICA_EXTRACT.png"
           }
         }
       },
