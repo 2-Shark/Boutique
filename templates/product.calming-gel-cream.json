@@ -295,6 +295,32 @@
         "spacing-below": true
       }
     },
+    "collapsible_rows_8nkkGf": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "collapsible_row_K8A8Dg": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "All ingredients",
+            "description": "<p>Water, Dipropylene Glycol, Erythritol, Butylene Glycol, Niacinamide, Propanediol, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Madecassoside, Asiaticoside, Ceramide NP, Ceramide NS, Phytosphin gosine, Centella Asiatica Extract, Ceramide AS, Ceramide AP, Ceramide EOP, Simmondsia Chinensis (Jojoba)Seed Oil, Panthenol, Adenosine, Hydrogenated Lecithin, Cetearyl Alcohol, Betaine, Xylitol , Citrus Aurantium Dulcis (Orange) Peel Oil, Mentha Viridis Leaf Oil, Carbomer, C12- 14 Alketh-12, Tromethamine, Ethylhexylglycerin, Ammo nium Acryloyldimethyl taurate\/Vp Copolymer, Xanthan Gum, Carthamus Tinctorius(Safflower) Flower Extract, Glycerin, Gardenia Florida Fruit Extract, Dextrin, Cholesterol, Pentylene Gly col, Caprylyl Glycol, Stearic Acid, Limonene, Linalool<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_K8A8Dg"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -438,32 +464,6 @@
         "mobile-image-aspect-ratio": 76,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "collapsible_rows_8nkkGf": {
-      "type": "collapsible-rows",
-      "blocks": {
-        "collapsible_row_K8A8Dg": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "All ingredients",
-            "description": "<p>Water, Dipropylene Glycol, Erythritol, Butylene Glycol, Niacinamide, Propanediol, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Madecassoside, Asiaticoside, Ceramide NP, Ceramide NS, Phytosphin gosine, Centella Asiatica Extract, Ceramide AS, Ceramide AP, Ceramide EOP, Simmondsia Chinensis (Jojoba)Seed Oil, Panthenol, Adenosine, Hydrogenated Lecithin, Cetearyl Alcohol, Betaine, Xylitol , Citrus Aurantium Dulcis (Orange) Peel Oil, Mentha Viridis Leaf Oil, Carbomer, C12- 14 Alketh-12, Tromethamine, Ethylhexylglycerin, Ammo nium Acryloyldimethyl taurate\/Vp Copolymer, Xanthan Gum, Carthamus Tinctorius(Safflower) Flower Extract, Glycerin, Gardenia Florida Fruit Extract, Dextrin, Cholesterol, Pentylene Gly col, Caprylyl Glycol, Stearic Acid, Limonene, Linalool<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_K8A8Dg"
-      ],
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "heading": "",
-        "title-alignment": "left",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": false
       }
     },
     "image_with_text_kMDkVw": {
@@ -650,11 +650,11 @@
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "collapsible_rows_8nkkGf",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "slideshow_cxAWXB",
-    "collapsible_rows_8nkkGf",
     "image_with_text_kMDkVw",
     "image_with_text_MY3BxB",
     "slideshow_Qjtx7D",
