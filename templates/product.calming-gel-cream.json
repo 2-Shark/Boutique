@@ -201,12 +201,27 @@
             "link-text": "",
             "mobile-image": "shopify:\/\/shop_images\/CENTELLA_ASIATICA_b8525ae9-f48e-4f19-af81-a593a8a63281.png"
           }
+        },
+        "image_UPkcA7": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-CeracareAC-1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/CeracareAC-1.png"
+          }
         }
       },
       "block_order": [
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "image_6yVnGL",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "image_UPkcA7"
       ],
       "settings": {
         "text-color": "auto",
