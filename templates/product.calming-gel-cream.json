@@ -303,7 +303,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1.png",
+            "image": "shopify:\/\/shop_images\/PC-_-_1_0db19d76-3437-4153-b2ad-5ac1733ac149.png",
             "overline": "",
             "title": "",
             "description": "",
@@ -322,7 +322,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
+        "image-aspect-ratio": 54,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
