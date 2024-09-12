@@ -1,6 +1,96 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
+    "section_layout_cdDGGX": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "30",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_nWgUBP": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.<\/h1>"
+      }
+    },
+    "section_layout_GQqK9f": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "16324732604d3e7054": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 124,
+        "mobile-image-aspect-ratio": 142,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/boutijour_sep21834444444.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "16324732989269ca2c": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>BOUTIJOUR is a modern, high-performance well-aging skincare brand with a Korean heritage. Living a busy life, our founder Jillian Jiyeon Yoo noticed that the modern lifestyle accelerates both internal and external aging. She decided to create a new approach to skincare that would allow her to age gracefully.<\/p>"
+      }
+    },
+    "image_with_text_N9ARxX": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
@@ -9,190 +99,19 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 100,
-        "darken-image": false,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": true,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/202307201898-copy.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
+        "overline": "Overline text",
+        "title": "Image with text",
+        "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "7d113f35-28e4-40df-b112-7a3bac7c0ac7": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__7d113f35-28e4-40df-b112-7a3bac7c0ac7-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/1_c927f4db-0332-494c-b1b1-080b2e82158d.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_a43c2c3a-b1fc-4c2b-8ce1-45abfe290123.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__7d113f35-28e4-40df-b112-7a3bac7c0ac7-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 24,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 52,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "885ff4f1-3265-45e2-9c12-be0972117428": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__885ff4f1-3265-45e2-9c12-be0972117428-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/2_fe63aea2-60ab-48da-8610-80df596bbc63.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2-1_5bff29bc-ed29-41a7-ab54-978c2a472c4e.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__885ff4f1-3265-45e2-9c12-be0972117428-image-3"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "5c164ba0-9507-485a-88c2-694093e5273d": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__5c164ba0-9507-485a-88c2-694093e5273d-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/2-1_3582bb11-c04c-4e30-92f4-798959c27554.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2-2_c4778f87-118c-4def-b03c-35f8155b6482.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__5c164ba0-9507-485a-88c2-694093e5273d-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 64,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 180,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "b725118e-d9b1-44bb-8591-55e988a46962": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__b725118e-d9b1-44bb-8591-55e988a46962-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/2-2.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2-3_707ef8c9-0462-4171-889b-df2a0ae06cf3.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__b725118e-d9b1-44bb-8591-55e988a46962-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 100,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 200,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "16324732989269ca2c": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 1,
-        "spacing-above": false,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "Our Brand Story",
-        "text": "<p>Time and age-free, we embrace the journey and greet tomorrow as an opportunity to better ourselves, each in our own unique way.<\/p>"
       }
     },
     "163247330191cc65e8": {
@@ -418,12 +337,12 @@
     }
   },
   "order": [
+    "section_layout_cdDGGX",
+    "featured_text_nWgUBP",
+    "section_layout_GQqK9f",
     "16324732604d3e7054",
-    "7d113f35-28e4-40df-b112-7a3bac7c0ac7",
-    "885ff4f1-3265-45e2-9c12-be0972117428",
-    "5c164ba0-9507-485a-88c2-694093e5273d",
-    "b725118e-d9b1-44bb-8591-55e988a46962",
     "16324732989269ca2c",
+    "image_with_text_N9ARxX",
     "163247330191cc65e8",
     "1632473305029b8e81",
     "main",
