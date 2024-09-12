@@ -60,7 +60,7 @@
         "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 124,
+        "image-aspect-ratio": 102,
         "mobile-image-aspect-ratio": 142,
         "darken-image": false,
         "parallax-enabled": false,
@@ -77,12 +77,27 @@
         "link-text": ""
       }
     },
+    "section_layout_LxhFMP": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "16324732989269ca2c": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 1,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
@@ -90,41 +105,100 @@
         "text": "<p>BOUTIJOUR is a modern, high-performance well-aging skincare brand with a Korean heritage. Living a busy life, our founder Jillian Jiyeon Yoo noticed that the modern lifestyle accelerates both internal and external aging. She decided to create a new approach to skincare that would allow her to age gracefully.<\/p>"
       }
     },
+    "section_layout_GVGVVh": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "image_with_text_N9ARxX": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
+        "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": true,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "overline": "Overline text",
-        "title": "Image with text",
-        "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_8_9081a5f7-f9fb-4d9c-affc-e3b95647ff16.png",
+        "mobile-image": "shopify:\/\/shop_images\/iPad_Pro_12.9_9_db5f0b7d-5506-4830-a6fb-66381fb0db2a.png",
+        "overline": "",
+        "title": "",
+        "description": "",
         "link-url": "",
         "link-text": ""
       }
     },
+    "section_layout_Mc8dJx": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_diTEgn": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Redefining the concept of anti-aging to well-aging, BOUTIJOUR offers a holistic, effective, and indulgent experience that enhances and beautifies everyone's aging journey. The products are formulated with high performance botanical Korean ingredients.<\/p>"
+      }
+    },
+    "section_layout_8XGC8e": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "163247330191cc65e8": {
       "type": "image-with-text",
-      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
+        "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 60,
-        "mobile-image-aspect-ratio": 134,
+        "mobile-image-aspect-ratio": 106,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "left",
@@ -134,34 +208,129 @@
         "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/2f727e56baf815cafb7f9767c2dd5ce9.jpg",
         "overline": "",
-        "title": "Philosophy & Values",
-        "description": "<p>Seeking for an endless pursuit of a new journey.<br\/>Time and age-free, we embrace the adventure and greet tomorrow as an opportunity to better ourselves, each in our own unique way.<\/p>",
+        "title": "",
+        "description": "",
         "link-url": "",
         "link-text": ""
       }
     },
-    "1632473305029b8e81": {
+    "section_layout_jUfqPG": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_dWV6j6": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>In 2017, Jillian discovered the lotus flower, a symbol of birth and purification in Korea. She was inspired by its resilience and began researching its potential benefits. Lotus, which grows in challenging conditions but blooms beautifully, reminded her of the Korean people's resilience in the face of adversity.<\/p>"
+      }
+    },
+    "section_layout_7yftTk": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "image_with_text_bdwRkh": {
       "type": "image-with-text",
-      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
+        "container-width": 2,
         "spacing-above": false,
-        "spacing-below": true,
+        "spacing-below": false,
         "image-aspect-ratio": 60,
-        "mobile-image-aspect-ratio": 134,
+        "mobile-image-aspect-ratio": 106,
         "darken-image": false,
         "parallax-enabled": false,
-        "text-position": "right",
-        "text-width": "large",
+        "text-position": "center",
+        "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/202307201898-copy_e9055e95-11f3-4d95-ac45-b5d9a21374ec.jpg",
+        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_7.png",
         "overline": "",
-        "title": "Clean Commitment",
-        "description": "<p><strong>Well-aging & Wellness Skin & Body Care<\/strong><br\/>At BOUTIJOUR, we deliver high performance skin & body care productsof the finest quality. We pursue finding a balance for our skin, body and mind amid the constantly changing modern-day lifestyle to provide wellness and vitalizing journey. We only use ingredients with proven efficacy and safety sourced from nature-plants, flowers, herbs-to offer natural formulations suitable to all skin types.<br\/><strong>Wellness & Balance in Life<\/strong><br\/>We value pursuing wellness. Finding a harmonious balance physically, mentally and socially in our daily lifestyle.<\/p>",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "section_layout_hNxrcy": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_GqWqdX": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>In skincare, the lotus flower is an effective anti-aging ingredient that provides hydration, purification, and boosts skin resilience. Powered by lotus, our products rejuvenate both the mind and soul. Combining the most advanced technology with effective anti-aging formulas, and sensual aesthetics, BOUTIJOUR's\/vision is to inspire and support every woman on their aging journey.<\/p>"
+      }
+    },
+    "image_with_text_qxQrqh": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_4.png",
+        "overline": "",
+        "title": "",
+        "description": "",
         "link-url": "",
         "link-text": ""
       }
@@ -177,163 +346,6 @@
         "spacing-above": false,
         "spacing-below": true
       }
-    },
-    "1632473398c42b6136": {
-      "type": "featured-video",
-      "disabled": true,
-      "settings": {
-        "aspect-ratio": 56,
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
-      }
-    },
-    "c50dab2a-653d-4939-b218-9fb20be9682c": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 56,
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": false,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-routine.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
-      }
-    },
-    "b467dcc7-64b7-435a-b9e0-5d2770389e68": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__b467dcc7-64b7-435a-b9e0-5d2770389e68-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/3_5f328f11-2ee7-4765-aed9-9e103202b05c.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/3_22ccb197-10a0-4e76-b788-5a9af4cd35d3.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__b467dcc7-64b7-435a-b9e0-5d2770389e68-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 66,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "9320dde0-5609-466a-aafc-f89a612b40d1": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__9320dde0-5609-466a-aafc-f89a612b40d1-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/4_547c2404-5841-4396-918f-904a10fb5d16.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/4_c6ee8b9e-5a84-45b0-aaaf-0ec7ba024826.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__9320dde0-5609-466a-aafc-f89a612b40d1-image-2"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 38,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 60,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "098a502e-0b6c-4b4e-94d0-25d592154cba": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776196383__098a502e-0b6c-4b4e-94d0-25d592154cba-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/sunlover.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776196383__098a502e-0b6c-4b4e-94d0-25d592154cba-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 44,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 94,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
     }
   },
   "order": [
@@ -341,15 +353,21 @@
     "featured_text_nWgUBP",
     "section_layout_GQqK9f",
     "16324732604d3e7054",
+    "section_layout_LxhFMP",
     "16324732989269ca2c",
+    "section_layout_GVGVVh",
     "image_with_text_N9ARxX",
+    "section_layout_Mc8dJx",
+    "featured_text_diTEgn",
+    "section_layout_8XGC8e",
     "163247330191cc65e8",
-    "1632473305029b8e81",
-    "main",
-    "1632473398c42b6136",
-    "c50dab2a-653d-4939-b218-9fb20be9682c",
-    "b467dcc7-64b7-435a-b9e0-5d2770389e68",
-    "9320dde0-5609-466a-aafc-f89a612b40d1",
-    "098a502e-0b6c-4b4e-94d0-25d592154cba"
+    "section_layout_jUfqPG",
+    "featured_text_dWV6j6",
+    "section_layout_7yftTk",
+    "image_with_text_bdwRkh",
+    "section_layout_hNxrcy",
+    "featured_text_GqWqdX",
+    "image_with_text_qxQrqh",
+    "main"
   ]
 }
