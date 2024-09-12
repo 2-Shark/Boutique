@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/1_f30d56d1-ac64-4722-8ef9-069151dea891.png",
-        "image_tablet": "shopify:\/\/shop_images\/24_8_M1.png",
-        "image_mobile": "shopify:\/\/shop_images\/24_8_M1.png",
-        "eyebrow": "Discover our summer essentials",
-        "header": "Well-aging Skincare",
+        "image_desktop": "shopify:\/\/shop_images\/PC_Main-01.png",
+        "image_tablet": "shopify:\/\/shop_images\/M_Main-01.png",
+        "image_mobile": "shopify:\/\/shop_images\/M_Main-01.png",
+        "eyebrow": "Start your well-aging journey",
+        "header": "Well-aging Skincare From Korea",
         "cta": "SHOP NOW",
         "link": "shopify:\/\/pages\/shop-all",
         "inner_padding_left_right": "185",
@@ -26,12 +26,10 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/24_8_PC2_6d4cc5fa-6784-486d-afa3-7e35957f6a9f.png",
-        "image_mobile": "shopify:\/\/shop_images\/24_8_M3_09626e59-92fd-4b0b-b7b3-81febb7c86cd.png",
-        "image_desktop_right": "shopify:\/\/shop_images\/24_8_PC3.png",
-        "image_mobile_right": "shopify:\/\/shop_images\/24_8_M2.png",
-        "header": "Glow<br>Wherever<br>You Go.",
-        "body": "advanced botanical<br>skincare formula for<br>healthy radiance.",
+        "image_desktop": "shopify:\/\/shop_images\/M_Main-03.png",
+        "image_desktop_right": "shopify:\/\/shop_images\/M_Main-02.png",
+        "header": "Beautify your aging journey.",
+        "body": "The advanced technology With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify:\/\/collections\/suncare"
       }
@@ -138,8 +136,8 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/24_8_PC4.png",
-        "image_mobile": "shopify:\/\/shop_images\/24_8_M4.png",
+        "image_desktop": "shopify:\/\/shop_images\/PC_Main-04.png",
+        "image_mobile": "shopify:\/\/shop_images\/M_Main-04.png",
         "image_desktop_r": "shopify:\/\/shop_images\/24_Jan_PC-skintest.png",
         "image_mobile_r": "shopify:\/\/shop_images\/24_Jan_M-skintest.png"
       }
@@ -147,10 +145,10 @@
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify:\/\/shop_images\/24_8_PC5.png",
-        "image_mobile_l": "shopify:\/\/shop_images\/24_8_M7.png",
-        "image_desktop_r": "shopify:\/\/shop_images\/24_8_PC6.png",
-        "image_mobile_r": "shopify:\/\/shop_images\/24_8_M5.png"
+        "image_desktop_l": "shopify:\/\/shop_images\/PC_Main-05.png",
+        "image_mobile_l": "shopify:\/\/shop_images\/M_Main-05.png",
+        "image_desktop_r": "shopify:\/\/shop_images\/PC_Main-06.png",
+        "image_mobile_r": "shopify:\/\/shop_images\/M_Main-06.png"
       }
     },
     "anti-aging-icon": {
@@ -198,9 +196,9 @@
         "aae0c60c-b575-4278-b74a-806cba3e934a": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/202307201674_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/202307201674_1.jpg",
-            "header": "GLASS GLOW<br> SKINCARE",
+            "image_desktop": "shopify:\/\/shop_images\/PC_Main-07.png",
+            "image_mobile": "shopify:\/\/shop_images\/M_Main-07.png",
+            "header": "GLASS GLOW SKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "\/pages\/glass-glow-skincare"
           }
@@ -208,8 +206,8 @@
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/24_8_PC7.png",
-            "image_mobile": "shopify:\/\/shop_images\/24_8_M6.png",
+            "image_desktop": "shopify:\/\/shop_images\/M_Main-08.png",
+            "image_mobile": "shopify:\/\/shop_images\/M_Main-08.png",
             "header": "DEPUFFING & DETOXING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "\/pages\/dipuffing-detoxing"
@@ -228,9 +226,9 @@
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/202307202524_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/202307202524_1.jpg",
-            "header": "EXTREME<br> SUN LOVERS",
+            "image_desktop": "shopify:\/\/shop_images\/M_Main-10.png",
+            "image_mobile": "shopify:\/\/shop_images\/M_Main-10.png",
+            "header": "EXTREME SUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/collections\/suncare"
           }
