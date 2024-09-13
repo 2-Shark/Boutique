@@ -1,17 +1,26 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "product",
       "blocks": {
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
-          "type": "overline",
-          "settings": {
-            "text": "\u001dSustainable, high-performance melasma care"
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
+          }
+        },
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "MASK RITUAL FOR HYPER-PIGMENTATION"
           }
         },
         "vendor": {
@@ -41,12 +50,6 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
@@ -56,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -82,29 +91,39 @@
           "settings": {
           }
         },
+        "collapsible_row_gdjb8D": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Benefits",
+            "description": "<ul><li>Reduce hyperpigmentation + revitalize delicate under-eyes<\/li><li>Suppress melanin production<\/li><li>Clinically proven to diminish dark spots in 4 weeks.<\/li><\/ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>Soothes areas affected by sunlight and UV exposure.<\/li><li>Lotus extract, along with naturally derived brightening patent ingredients Alpha-Melight™ and WhiteTen™ formulas, helps suppress melanin production, the underlying cause of pigmentation.<\/li><li>You can observe a reduction in melanin concentration and area within just 4 weeks of use.<\/li><li>The clinical trial has confirmed the efficacy in reducing spots, brightening, and improving wrinkles.<\/li><\/ul>",
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
             "page-content": "",
             "default-open": false
           }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
-        "buy-buttons",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "collapsible_row_gdjb8D",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
       "settings": {
@@ -197,6 +216,26 @@
         "mobile-overlay": true
       }
     },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 38,
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
+        "video-url": "",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 134
+      }
+    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -211,6 +250,7 @@
         },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "INGREDIENTS",
             "description": "<p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
@@ -246,31 +286,11 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "heading": "product details",
+        "heading": "",
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
-        "spacing-below": false
-      }
-    },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 38,
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
+        "spacing-below": true
       }
     },
     "5dc9f552-4580-4447-8abe-673add963394": {
@@ -534,8 +554,8 @@
   "order": [
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "5dc9f552-4580-4447-8abe-673add963394",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
