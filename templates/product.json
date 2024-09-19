@@ -301,8 +301,8 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 70,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -312,6 +312,32 @@
         "mobile-overlay": false,
         "image": "shopify:\/\/shop_images\/PC_E.U._standards.png",
         "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_pFfj9M": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_finalimage.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -388,14 +414,14 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
         "spacing-around-blocks": true,
         "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
-        "auto-rotate": true,
+        "auto-rotate": false,
         "rotate-frequency": 4,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 130,
@@ -403,7 +429,61 @@
         "mobile-overlay": true
       }
     },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+    "slideshow_WLmCyJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j4EAJP": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_CONSUMER_SURVEY_RESULT_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_CONSUMER_SURVEY_RESULT_1.png"
+          }
+        },
+        "image_aMFcPB": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_CONSUMER_SURVEY_RESULT_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "View more",
+            "mobile-image": "shopify:\/\/shop_images\/M_CONSUMER_SURVEY_RESULT_2.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_j4EAJP",
+        "image_aMFcPB"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 90,
+        "darken-image": false,
+        "blocks_per_slide": 2,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
@@ -411,8 +491,8 @@
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -420,8 +500,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_Recycle.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -448,7 +528,7 @@
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 56,
+        "image-aspect-ratio": 46,
         "mobile-image-aspect-ratio": 200,
         "darken-image": false,
         "parallax-enabled": false,
@@ -459,84 +539,6 @@
         "mobile-overlay": true,
         "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
         "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "b8f597d5-408e-4e85-9e30-05801e242feb": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "overline": "Overline text",
-        "heading": "Testimonials",
-        "image-shape": "square",
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "mobile-width": "2"
-      }
-    },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 116,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -572,12 +574,12 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "image_with_text_pFfj9M",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "slideshow_WLmCyJ",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "b8f597d5-408e-4e85-9e30-05801e242feb",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
