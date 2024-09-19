@@ -219,21 +219,21 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
       "settings": {
-        "aspect-ratio": 38,
-        "container-width": 4,
+        "aspect-ratio": 116,
+        "container-width": 1,
         "spacing-above": true,
         "spacing-below": false,
         "background-color": "none",
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/eyepatch-productpage.mp4",
         "video-url": "",
+        "image": "shopify:\/\/shop_images\/626.png",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
         "button-url": "",
-        "mobile-aspect-ratio": 134
+        "mobile-aspect-ratio": 130
       }
     },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
@@ -298,20 +298,20 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
+        "container-width": 4,
+        "spacing-above": true,
         "spacing-below": false,
         "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 82,
+        "mobile-image-aspect-ratio": 70,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/PC_E.U._standards.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -327,13 +327,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_50bec53e-4534-4512-876a-7bbe10d6ea1c.png",
+            "image": "shopify:\/\/shop_images\/in_4_weeks_of_use_50ed4de4-acea-4289-8e0b-73f58d03f0c3.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_1_a806327b-8909-417c-b479-2dc5d6717598.png"
+            "mobile-image": "shopify:\/\/shop_images\/m_in_4_weeks_of_use.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -341,13 +341,27 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_4ea41633-9297-4b9c-b558-a5c2a7f50e7c.png",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_1_233d457a-9f62-4874-a9e3-ba4fd09256ef.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_2_c93aac59-56fb-401f-b7df-d89d951bf7c9.png"
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_1.png"
+          }
+        },
+        "image_83MPLr": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_2_d50e494c-58f8-4b9a-a45f-4807ef615eb5.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_2.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -355,19 +369,20 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_e2a89ff7-6c1b-43b4-b36d-bce9a5868e86.png",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_3_8dff734f-58ed-4d50-a59f-755d6d9272ab.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_33814640-641b-421f-82b7-4bcda15732e7.png"
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_3.png"
           }
         }
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
+        "image_83MPLr",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
       "settings": {
@@ -375,15 +390,15 @@
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
+        "auto-rotate": true,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
