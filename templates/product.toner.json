@@ -487,11 +487,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "\/",
-            "link-text": "View more"
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
           }
         },
         "image_VGHmq9": {
@@ -499,11 +501,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "\/",
-            "link-text": "View more"
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
           }
         },
         "image_L7BF9n": {
@@ -511,40 +515,29 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "image_WCUTb9": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
           }
         }
       },
       "block_order": [
         "image_YDWFfG",
         "image_VGHmq9",
-        "image_L7BF9n",
-        "image_WCUTb9"
+        "image_L7BF9n"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "spacing-around-blocks": true,
         "image-aspect-ratio": 106,
-        "darken-image": true,
+        "darken-image": false,
         "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": true,
