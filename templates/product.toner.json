@@ -1,17 +1,26 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "product",
       "blocks": {
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
-          "type": "overline",
-          "settings": {
-            "text": "98% NATURAL ORIGIN HYDRATING TONER"
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
+          }
+        },
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "HYDRATING First step for healthy radiance"
           }
         },
         "vendor": {
@@ -33,12 +42,6 @@
             "size-chart-enabled": true,
             "size-chart-option": "size",
             "size-chart-content": ""
-          }
-        },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
           }
         },
         "9e0b6caf-972d-4f87-9d92-de80721ff15b": {
@@ -77,6 +80,12 @@
             "url-enabled": true
           }
         },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
           "settings": {
@@ -85,27 +94,37 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "Benefits",
             "description": "<ul><li>Lotus leaf extract and naturally derived patented ingredients, such as B-Circadin™ and BioDtox®, help balance the skin's biological rhythm.<\/li><li>Clinically proven to provide protection against pollution and contaminants like fine dust.<\/li><li>A lightweight essence-like toner that immediately provides deep hydration to your skin.<\/li><\/ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_pNxt9c": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Leafresh | B-Circadin™ | BioDtox®<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate\/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf\/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene<\/p>",
             "page-content": "",
             "default-open": false
           }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "9e0b6caf-972d-4f87-9d92-de80721ff15b",
         "pickup",
         "description",
         "complementary-products",
         "social-sharing",
+        "buy-buttons",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_pNxt9c"
       ],
       "settings": {
         "container-width": 5,
