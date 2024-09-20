@@ -255,6 +255,7 @@
         "darken-video": false,
         "video-upload": "shopify:\/\/files\/videos\/toner-final.mp4",
         "video-url": "",
+        "image": "shopify:\/\/shop_images\/TOnerthumbnail.png",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
