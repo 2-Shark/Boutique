@@ -97,7 +97,7 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "Benefits",
             "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)<\/li><li>Effectively blocks both ultraviolet UVA and UVB rays.<\/li><li>Soothes areas affected by blue light and UV exposure & nourishes the skin with a replenishing and natural glow<\/li><li>Provides essential hydration and soothing benefits.<\/li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.<\/li><\/ul>",
             "page-content": "",
             "default-open": false
@@ -160,6 +160,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -168,13 +194,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_730c8347-7736-499b-bbbb-b1007b5b6617.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Blue_Lotus_Water.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/de70e566eb63f142d5cf65abca62b287.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/M_Blue_Lotus_Water.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -182,13 +208,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_e5ffca7c-54c9-43b3-8e59-197f5cb791aa.jpg",
+            "image": "shopify:\/\/shop_images\/PC_Calendula.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_0132a9ed-dd69-4c8b-a4f3-12a3f3606894.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/M_Calendula.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -196,13 +222,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_3.jpg",
+            "image": "shopify:\/\/shop_images\/PC_CENTELLA.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_84b2d461-077a-45a9-b130-f26cb6a75775.jpg"
+            "mobile-image": "shopify:\/\/shop_images\/M_CENTELLA.png"
           }
         },
         "image_YL7LAM": {
@@ -230,16 +256,16 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 46,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -252,15 +278,6 @@
           "settings": {
             "heading": "HOW TO USE",
             "description": "<p>Use 2-3 drops as the last step in your skincare routine.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic \/ Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla\/Jojoba\/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -286,7 +303,6 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
@@ -297,33 +313,20 @@
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
-        "spacing-below": false
+        "spacing-below": true
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
+    "featured_text_bP6yW4": {
+      "type": "featured-text",
       "settings": {
-        "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
+        "light-text": false,
+        "container-width": 4,
         "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 82,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "spacing-below": true,
         "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
+        "heading": "Discover our hydrating radiance SPF",
+        "text": ""
       }
     },
     "slideshow_LHq7iP": {
@@ -334,13 +337,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_1_1f3ce0f0-cb1f-4f4c-a2e0-c3138c66e209.png",
+            "image": "shopify:\/\/shop_images\/PC_-_Relief_in_4_weeks_of_use.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_1_0fe856f5-ace0-491f-ab2d-e1ff2bde478c.png"
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven.png"
           }
         },
         "image_GMD3yN": {
@@ -348,34 +351,64 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_2.png",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_1_fdea41a7-7947-4a2d-b866-edfa3c0b2734.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "\/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_2.png"
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_1_933979d0-2fe4-4a72-aa87-1f62468a0d12.png"
+          }
+        },
+        "image_zMUh9f": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_2_4e2e8bd0-2ddf-4fc8-921d-78ebb9fb8b48.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_2_9990b7bb-8f70-446d-9b07-915ca2df3507.png"
+          }
+        },
+        "image_N9MGET": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_3_92851636-e290-41a1-ab99-9d6c8f84635d.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_3_cc2692af-e5e1-4c6f-8c4f-54ef1cba8deb.png"
           }
         }
       },
       "block_order": [
         "image_7zCpJb",
-        "image_GMD3yN"
+        "image_GMD3yN",
+        "image_zMUh9f",
+        "image_N9MGET"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 42,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
-        "rotate-frequency": 3,
+        "rotate-frequency": 4,
         "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -611,9 +644,10 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "5dc9f552-4580-4447-8abe-673add963394",
+    "featured_text_bP6yW4",
     "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
