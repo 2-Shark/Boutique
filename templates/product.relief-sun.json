@@ -345,7 +345,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "Discover our hydrating radiance SPF",
+        "heading": "hydrating radiance with advanced protection",
         "text": ""
       }
     },
@@ -573,31 +573,20 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "image_ANnyem": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
           }
         }
       },
       "block_order": [
         "image_UDeKAf",
         "image_HTGjzE",
-        "image_wzzBGU",
-        "image_ANnyem"
+        "image_wzzBGU"
       ],
       "settings": {
         "text-color": "auto",
