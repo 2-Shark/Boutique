@@ -147,6 +147,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -417,25 +443,25 @@
         "link-text": ""
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 4,
+        "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 46,
-        "mobile-image-aspect-ratio": 76,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -469,16 +495,16 @@
         "link-text": ""
       }
     },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+    "image_with_text_daaMHm": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 80,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -486,13 +512,82 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "slideshow_c9Nxgg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XqcPTP": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_yABG9p": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_QNXBw7": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_XqcPTP",
+        "image_yABG9p",
+        "image_QNXBw7"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "related-products": {
@@ -508,6 +603,7 @@
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -556,15 +652,17 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_jVqdBb",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "image_with_text_EGtRTg",
-    "5dc9f552-4580-4447-8abe-673add963394",
-    "image_with_text_pFfj9M",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "image_with_text_pFfj9M",
+    "image_with_text_daaMHm",
+    "slideshow_c9Nxgg",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
