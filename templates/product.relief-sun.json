@@ -459,6 +459,164 @@
         "link-text": ""
       }
     },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_rwC4gT": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_finalimage_f42d80cf-3c5a-4917-a330-c7ade0d17a4b.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_finalimage_57a8d716-0902-4cf1-a067-1b169dece008.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_nNWUN4": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_6JBhA8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_UDeKAf": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_HTGjzE": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_wzzBGU": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        },
+        "image_ANnyem": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+            "link-url": "\/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_UDeKAf",
+        "image_HTGjzE",
+        "image_wzzBGU",
+        "image_ANnyem"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "slideshow_hminhJ": {
       "type": "slideshow",
       "blocks": {
@@ -495,6 +653,7 @@
         "image_nGAa49",
         "image_Bmx93B"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -522,58 +681,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 116,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
@@ -607,10 +714,12 @@
     "featured_text_bP6yW4",
     "slideshow_LHq7iP",
     "image_with_text_WKtJUP",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "image_with_text_rwC4gT",
+    "image_with_text_nNWUN4",
+    "slideshow_6JBhA8",
     "slideshow_hminhJ",
     "related-products",
-    "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
