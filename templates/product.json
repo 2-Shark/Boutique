@@ -176,20 +176,6 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-Lotus_Flower_Extract_ad8068ab-8d8d-4e17-a71a-05c24caf3464.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "\/",
-            "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/Lotus_Flower_Extract.png"
-          }
-        },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
           "type": "image",
           "settings": {
@@ -202,6 +188,20 @@
             "link-url": "\/",
             "link-text": "",
             "mobile-image": "shopify:\/\/shop_images\/AlphaMelight_de479d25-9d71-4c66-8257-e871a2a1c9cc.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify:\/\/shop_images\/PC-Lotus_Flower_Extract_ad8068ab-8d8d-4e17-a71a-05c24caf3464.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "\/",
+            "link-text": "",
+            "mobile-image": "shopify:\/\/shop_images\/Lotus_Flower_Extract.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -220,8 +220,8 @@
         }
       },
       "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
       "settings": {
