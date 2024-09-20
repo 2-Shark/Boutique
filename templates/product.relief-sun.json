@@ -12,15 +12,15 @@
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Lightweight, hydrating SPF with healthy glow"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -42,18 +42,13 @@
         },
         "options": {
           "type": "options",
+          "disabled": true,
           "settings": {
             "variant-style": "buttons",
             "swatches-enabled": true,
             "size-chart-enabled": true,
             "size-chart-option": "size",
             "size-chart-content": ""
-          }
-        },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
           }
         },
         "pickup": {
@@ -67,8 +62,15 @@
           "settings": {
           }
         },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
+          "disabled": true,
           "settings": {
             "title": "Pairs well with",
             "max-products": 2,
@@ -88,6 +90,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
+          "disabled": true,
           "settings": {
           }
         },
@@ -108,23 +111,33 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_e7JLyr": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic \/ Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla\/Jojoba\/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
-        "buy-buttons",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_Kqrn39"
+        "collapsible_row_Kqrn39",
+        "collapsible_row_e7JLyr"
       ],
       "settings": {
         "container-width": 5,
