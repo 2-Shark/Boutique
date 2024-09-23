@@ -119,7 +119,7 @@
         "header": "Best Sellers",
         "eyebrow": "WELL-AGING SKINCARE ESSENTIALS",
         "cta": "SHOP ALL",
-        "link": "\/pages\/shop-all",
+        "link": "shopify:\/\/collections\/best-sellers",
         "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
         "background-color": "none",
