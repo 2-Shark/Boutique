@@ -126,40 +126,14 @@
         "spacing-below": true
       }
     },
-    "8e901524-ea61-4ef8-a4ff-c159df6546e5": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 46,
-        "mobile-image-aspect-ratio": 74,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Glass_glow-3_b504a302-0a16-45bc-915f-7cf3f663d59b.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "775ff805-d865-4563-b436-de6a20b4671f": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
         "image-aspect-ratio": 46,
         "mobile-image-aspect-ratio": 74,
         "darken-image": false,
@@ -168,8 +142,8 @@
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Glass_glow-2.png",
+        "mobile-overlay": false,
+        "image": "shopify:\/\/shop_images\/boutijour11151434.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -195,7 +169,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "light",
-        "container-width": 6,
+        "container-width": 4,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 60,
@@ -233,7 +207,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "light",
-        "container-width": 6,
+        "container-width": 4,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 60,
@@ -271,7 +245,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "light",
-        "container-width": 6,
+        "container-width": 4,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 60,
@@ -309,7 +283,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "light",
-        "container-width": 6,
+        "container-width": 4,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 60,
@@ -327,84 +301,6 @@
         "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
         "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
         "link-text": "SHOP"
-      }
-    },
-    "945cf0f6-54c5-497c-aaab-ec5684513177": {
-      "type": "slideshow",
-      "blocks": {
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/slide-eyepatch.jpg",
-            "overline": "",
-            "title": "",
-            "description": "<h1>Lotus Melight Eye Patch<\/h1><p>Hydrogel Brightening & Glow Eye Patch<\/p>",
-            "link-url": "shopify:\/\/products\/lotus-melight-eyepatch",
-            "link-text": "SHOP NOW"
-          }
-        },
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        },
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-4": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
-            "link-text": "View more"
-          }
-        }
-      },
-      "block_order": [
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-1",
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-2",
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-3",
-        "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 42,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087": {
@@ -485,7 +381,6 @@
     "main",
     "section_layout_83gzbr",
     "fadd55d4-d641-4482-a274-002b6880c876",
-    "8e901524-ea61-4ef8-a4ff-c159df6546e5",
     "775ff805-d865-4563-b436-de6a20b4671f",
     "c287af90-52ef-4453-aac3-a5074e1e9d9b",
     "5b4a0ac9-2845-4194-97a6-428d94407615",
@@ -495,7 +390,6 @@
     "42c19ad0-7dff-4908-8333-9577c2aa91a9",
     "cda88602-1be1-404a-a738-a378a1ee6145",
     "201582d3-b1a4-4a65-b8a3-83d889c8fab7",
-    "945cf0f6-54c5-497c-aaab-ec5684513177",
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087"
   ]
 }
