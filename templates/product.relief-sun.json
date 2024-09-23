@@ -35,7 +35,7 @@
           }
         },
         "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -98,7 +98,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Hydrating, lightweight hybrid (mineral+chemical) sunscreen<\/li><li>SPF 50+ PA++++ protection (the highest rate for protection) & blue light protection<\/li><li>Formulated with the safest ingredients for gentle, advanced protection without irritation<\/li><li>Non-comedogenic, water-based essence with skincare benefits<\/li><\/ul>",
+            "description": "<ul><li>Hydrating, lightweight hybrid (mineral+chemical) sunscreen</li><li>SPF 50+ PA++++ protection (the highest rate for protection) & blue light protection</li><li>Formulated with the safest ingredients for gentle, advanced protection without irritation</li><li>Non-comedogenic, water-based essence with skincare benefits</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -107,7 +107,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate<\/p>",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate</p>",
             "page-content": "",
             "default-open": false
           }
@@ -116,7 +116,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic \/ Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla\/Jojoba\/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br/><br/><strong>Ingredients</strong><br/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic / Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance</p>",
             "page-content": "",
             "default-open": false
           }
@@ -177,8 +177,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -194,13 +194,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Blue_Lotus_Water.png",
+            "image": "shopify://shop_images/PC_Blue_Lotus_Water.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Blue_Lotus_Water.png"
+            "mobile-image": "shopify://shop_images/M_Blue_Lotus_Water.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -208,13 +208,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Calendula.png",
+            "image": "shopify://shop_images/PC_Calendula.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Calendula.png"
+            "mobile-image": "shopify://shop_images/M_Calendula.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -222,13 +222,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_CENTELLA.png",
+            "image": "shopify://shop_images/PC_CENTELLA.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_CENTELLA.png"
+            "mobile-image": "shopify://shop_images/M_CENTELLA.png"
           }
         },
         "image_YL7LAM": {
@@ -236,13 +236,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PANTHENOL_f44f3065-4736-4614-85f0-f7ab8811538e.png",
+            "image": "shopify://shop_images/PC_PANTHENOL_f44f3065-4736-4614-85f0-f7ab8811538e.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PANTHENOL_3d35cbf4-9a9d-4aab-abf1-692724fd42d3.png"
+            "mobile-image": "shopify://shop_images/M_PANTHENOL_3d35cbf4-9a9d-4aab-abf1-692724fd42d3.png"
           }
         }
       },
@@ -281,9 +281,9 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/릴리프선_01.mp4",
+        "video-upload": "shopify://files/videos/릴리프선-캡션O_5cecdd9a-096d-4052-a761-0d67c066af73.mp4",
         "video-url": "",
-        "image": "shopify:\/\/shop_images\/9819e13272354db095da63c0391d5537.png",
+        "image": "shopify://shop_images/9819e13272354db095da63c0391d5537.png",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
@@ -298,7 +298,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply evenly over your skin with the proper amount (a five-cent coin-sized dollop for face and neck) as the final step in your skincare routine. Gently tap to promote faster absorption.<\/p>",
+            "description": "<p>Apply evenly over your skin with the proper amount (a five-cent coin-sized dollop for face and neck) as the final step in your skincare routine. Gently tap to promote faster absorption.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -307,7 +307,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Soothing  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Soothing  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -316,7 +316,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Signature Damask Rose Scent<\/p>",
+            "description": "<p>Signature Damask Rose Scent</p>",
             "page-content": "",
             "default-open": false
           }
@@ -358,13 +358,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_Relief_in_4_weeks_of_use.png",
+            "image": "shopify://shop_images/PC_-_Relief_in_4_weeks_of_use.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven.png"
           }
         },
         "image_GMD3yN": {
@@ -372,13 +372,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_1_fdea41a7-7947-4a2d-b866-edfa3c0b2734.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_1_fdea41a7-7947-4a2d-b866-edfa3c0b2734.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_1_933979d0-2fe4-4a72-aa87-1f62468a0d12.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_933979d0-2fe4-4a72-aa87-1f62468a0d12.png"
           }
         },
         "image_zMUh9f": {
@@ -386,13 +386,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_2_4e2e8bd0-2ddf-4fc8-921d-78ebb9fb8b48.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_2_4e2e8bd0-2ddf-4fc8-921d-78ebb9fb8b48.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_2_9990b7bb-8f70-446d-9b07-915ca2df3507.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_2_9990b7bb-8f70-446d-9b07-915ca2df3507.png"
           }
         },
         "image_N9MGET": {
@@ -400,13 +400,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_3_92851636-e290-41a1-ab99-9d6c8f84635d.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_3_92851636-e290-41a1-ab99-9d6c8f84635d.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_3_cc2692af-e5e1-4c6f-8c4f-54ef1cba8deb.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_3_cc2692af-e5e1-4c6f-8c4f-54ef1cba8deb.png"
           }
         }
       },
@@ -451,8 +451,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_-_Relief_CONSUMER_SURVEY_RESULT.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_-_Relief_CONSUMER_SURVEY_RESULT.png",
+        "image": "shopify://shop_images/PC_-_Relief_CONSUMER_SURVEY_RESULT.png",
+        "mobile-image": "shopify://shop_images/M_-_Relief_CONSUMER_SURVEY_RESULT.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -477,8 +477,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -503,8 +503,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_finalimage_f42d80cf-3c5a-4917-a330-c7ade0d17a4b.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_finalimage_57a8d716-0902-4cf1-a067-1b169dece008.png",
+        "image": "shopify://shop_images/PC_finalimage_f42d80cf-3c5a-4917-a330-c7ade0d17a4b.png",
+        "mobile-image": "shopify://shop_images/M_finalimage_57a8d716-0902-4cf1-a067-1b169dece008.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -529,8 +529,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -546,13 +546,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
           }
         },
         "image_HTGjzE": {
@@ -560,13 +560,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
           }
         },
         "image_wzzBGU": {
@@ -574,13 +574,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
           }
         }
       },
@@ -615,13 +615,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_4.jpg",
+            "image": "shopify://shop_images/PC-reliefsun_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_4.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_reliefsun_4.jpg"
           }
         },
         "image_Bmx93B": {
@@ -629,13 +629,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-reliefsun_3.jpg",
+            "image": "shopify://shop_images/PC-reliefsun_3.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_reliefsun_3.jpg"
           }
         }
       },
@@ -677,7 +677,7 @@
       "type": "apps",
       "blocks": {
         "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
