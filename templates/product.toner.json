@@ -45,7 +45,7 @@
           }
         },
         "9e0b6caf-972d-4f87-9d92-de80721ff15b": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Helps calm skin irritated by external factors and improves skin's barrier function<\/li><li>Provides immediate refreshing, deep hydration<\/li><li>Quick absorption & replenishment for visibly plumper skin<\/li><li>Helps reduce the appearance of dullness and fine lines<\/li><\/ul>",
+            "description": "<ul><li>Helps calm skin irritated by external factors and improves skin's barrier function</li><li>Provides immediate refreshing, deep hydration</li><li>Quick absorption & replenishment for visibly plumper skin</li><li>Helps reduce the appearance of dullness and fine lines</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Leafresh | B-Circadin™ | BioDtox®<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate\/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf\/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -164,8 +164,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -181,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Leafresh.png",
+            "image": "shopify://shop_images/PC_Leafresh.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Leafresh.png"
+            "mobile-image": "shopify://shop_images/M_Leafresh.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -195,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_B-Circadin.png",
+            "image": "shopify://shop_images/PC_B-Circadin.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_B-Circadin.png"
+            "mobile-image": "shopify://shop_images/M_B-Circadin.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -209,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_BioDtox.png",
+            "image": "shopify://shop_images/PC_BioDtox.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_BioDtox.png"
+            "mobile-image": "shopify://shop_images/M_BioDtox.png"
           }
         }
       },
@@ -253,9 +253,9 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/토너01.mp4",
+        "video-upload": "shopify://files/videos/토너-캡션O_57ad4107-133b-4ccf-88c2-62718d8d8d56.mp4",
         "video-url": "",
-        "image": "shopify:\/\/shop_images\/TOnerthumbnail.png",
+        "image": "shopify://shop_images/TOnerthumbnail.png",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
@@ -270,7 +270,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Layer a generous amount of toner at the start of your skincare routine. Gently tap or massage for enhanced absorption.<\/p>",
+            "description": "<p>Layer a generous amount of toner at the start of your skincare routine. Gently tap or massage for enhanced absorption.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -279,7 +279,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Lightweight | Refreshing | Quick-absorbing<\/p>",
+            "description": "<p>Lightweight | Refreshing | Quick-absorbing</p>",
             "page-content": "",
             "default-open": false
           }
@@ -288,7 +288,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Ylang ylang | Orange peel | Geranium<\/p>",
+            "description": "<p>Ylang ylang | Orange peel | Geranium</p>",
             "page-content": "",
             "default-open": false
           }
@@ -330,13 +330,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-Clinically_proven.png",
+            "image": "shopify://shop_images/PC_-Clinically_proven.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_-Clinically_proven.png"
+            "mobile-image": "shopify://shop_images/M_-Clinically_proven.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -344,13 +344,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_1_74c067f0-69d2-4a48-b35a-9308ca840e69.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_1_74c067f0-69d2-4a48-b35a-9308ca840e69.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_1_b7d1e926-7493-408a-870a-2e31e90d06bf.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_b7d1e926-7493-408a-870a-2e31e90d06bf.png"
           }
         }
       },
@@ -393,8 +393,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_-_CONSUMER_SURVEY_RESULT.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_-_CONSUMER_SURVEY_RESULT.png",
+        "image": "shopify://shop_images/PC_-_CONSUMER_SURVEY_RESULT.png",
+        "mobile-image": "shopify://shop_images/M_-_CONSUMER_SURVEY_RESULT.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -419,8 +419,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -445,8 +445,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_finalimage_Toner_ba1e08b6-3569-4a90-9ac5-2cc61eedaa80.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_finalimage_97e928cd-7071-4f07-ab12-c5eb0bca21b6.png",
+        "image": "shopify://shop_images/PC_finalimage_Toner_ba1e08b6-3569-4a90-9ac5-2cc61eedaa80.png",
+        "mobile-image": "shopify://shop_images/M_finalimage_97e928cd-7071-4f07-ab12-c5eb0bca21b6.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -471,8 +471,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -488,13 +488,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
           }
         },
         "image_VGHmq9": {
@@ -502,13 +502,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
           }
         },
         "image_L7BF9n": {
@@ -516,13 +516,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
           }
         }
       },
@@ -577,8 +577,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -590,7 +590,7 @@
       "type": "apps",
       "blocks": {
         "a494c201-964f-4d1c-be00-a07db0d0e27a": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
