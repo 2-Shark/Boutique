@@ -305,7 +305,7 @@
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
-        "spacing-below": false
+        "spacing-below": true
       }
     },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
