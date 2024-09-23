@@ -12,15 +12,15 @@
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Radiance-boosting essence that visibly improves skin"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -44,12 +44,6 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "c9fbf394-110e-479a-89df-82c7b572dfab": {
           "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
@@ -65,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -99,22 +99,32 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_aYmCTe": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool<\/p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "c9fbf394-110e-479a-89df-82c7b572dfab",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_aYmCTe"
       ],
       "settings": {
         "container-width": 5,
