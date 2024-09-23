@@ -198,7 +198,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/PC_Main-07.png",
             "image_mobile": "shopify:\/\/shop_images\/M_Main-07.png",
-            "header": "GLASS GLOWSKINCARE",
+            "header": "GLASS GLOW<br>SKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/pages\/glass-glow-skincare"
           }
@@ -207,7 +207,7 @@
           "type": "image_text",
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/M_Main-08_db5d2b27-8e5b-4a81-b795-37e46f7bc153.png",
-            "header": "DEPUFFING & DETOXING",
+            "header": "DEPUFFING<br>& DETOXING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/pages\/dipuffing-detoxing"
           }
@@ -217,7 +217,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/202307202608_copy.jpg",
             "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
-            "header": "SCULPTING &LIFTING",
+            "header": "SCULPTING<br>& LIFTING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/pages\/lifting-sculting"
           }
@@ -227,7 +227,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/M_Main-10.png",
             "image_mobile": "shopify:\/\/shop_images\/M_Main-10.png",
-            "header": "EXTREMESUN LOVERS",
+            "header": "EXTREME<br>SUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/collections\/suncare"
           }
