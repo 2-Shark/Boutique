@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -85,8 +94,8 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>97.7% high-performance natural ingredients<\/li><li>Snow Lotus extract, along with naturally derived antioxidant and anti-inflammatory ingredients, helps maintain healthy elasticity.<\/li><li>Daily Clean Lifting Serum has a lightweight texture.<\/li><li>The clinical trial has confirmed improvements in skin elasticity, wrinkle reduction, and brightening.<\/li><\/ul>",
+            "heading": "Benefits",
+            "description": "<ul><li>Delivers deep nourishment & hydration<\/li><li>Enhances skin's radiance and barrier function<\/li><li>Helps minimize the appearance of pores, fine lines, and wrinkles<\/li><li>Improves skin discoloration and Smooths skin surface<\/li><\/ul>",
             "page-content": "",
             "default-open": false
           }
