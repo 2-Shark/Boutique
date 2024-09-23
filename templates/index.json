@@ -198,9 +198,9 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/PC_Main-07.png",
             "image_mobile": "shopify:\/\/shop_images\/M_Main-07.png",
-            "header": "GLASS GLOW<br>SKINCARE",
+            "header": "GLASS GLOWSKINCARE",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "\/pages\/glass-glow-skincare"
+            "cta_link": "shopify:\/\/pages\/glass-glow-skincare"
           }
         },
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
@@ -209,7 +209,7 @@
             "image_desktop": "shopify:\/\/shop_images\/M_Main-08_db5d2b27-8e5b-4a81-b795-37e46f7bc153.png",
             "header": "DEPUFFING & DETOXING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "\/pages\/dipuffing-detoxing"
+            "cta_link": "shopify:\/\/pages\/dipuffing-detoxing"
           }
         },
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e": {
