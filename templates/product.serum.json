@@ -45,7 +45,7 @@
           }
         },
         "c9fbf394-110e-479a-89df-82c7b572dfab": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Delivers deep nourishment & hydration<\/li><li>Enhances skin's radiance and barrier function<\/li><li>Helps minimize the appearance of pores, fine lines, and wrinkles<\/li><li>Improves skin discoloration and Smooths skin surface<\/li><\/ul>",
+            "description": "<ul><li>Delivers deep nourishment & hydration</li><li>Enhances skin's radiance and barrier function</li><li>Helps minimize the appearance of pores, fine lines, and wrinkles</li><li>Improves skin discoloration and Smooths skin surface</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br/><br/><strong>Ingredients</strong><br/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool</p>",
             "page-content": "",
             "default-open": false
           }
@@ -155,13 +155,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_5e2f5e27-cea1-4a47-8e86-cc87110e1035.png",
+            "image": "shopify://shop_images/PC_Snow_Lotus.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/b89ea3713f96cafe55aeef7f403529ed_a93f0c9e-6c64-49ff-91d1-02cf0be38d2d.png"
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -169,13 +169,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_69bf7d64-f3a6-4e9b-9d06-13264a976cde.png",
+            "image": "shopify://shop_images/PC_Camellia_Oil_Ex.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/PC-_1_69bf7d64-f3a6-4e9b-9d06-13264a976cde.png"
+            "mobile-image": "shopify://shop_images/M_Camellia_Oil_Ex.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -183,13 +183,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_49bb2e8a-7ca5-4978-938a-78671e033366.png",
+            "image": "shopify://shop_images/PC_BSAM.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_e58d0cfe-e3b0-403b-afdb-ecb8b2130e4b.png"
+            "mobile-image": "shopify://shop_images/M_BSAM.png"
           }
         }
       },
@@ -202,16 +202,16 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 46,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -223,7 +223,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply 4-5 drops of essence evenly over the skin. Gently tap or massage for enhanced absorption.<\/p>",
+            "description": "<p>Apply 4-5 drops of essence evenly over the skin. Gently tap or massage for enhanced absorption.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -232,7 +232,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Lightweight | Dewy | Firming | Moisturizing<\/p>",
+            "description": "<p>Lightweight | Dewy | Firming | Moisturizing</p>",
             "page-content": "",
             "default-open": false
           }
@@ -241,7 +241,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Rosewood | Vanilla fruit<\/p>",
+            "description": "<p>Rosewood | Vanilla fruit</p>",
             "page-content": "",
             "default-open": false
           }
@@ -273,7 +273,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
+        "video-upload": "shopify://files/videos/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -299,8 +299,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_ddbe7831-68f4-4422-8aa8-3835a278197d.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_ddbe7831-68f4-4422-8aa8-3835a278197d.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -316,13 +316,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_6282a739-b564-4ba4-9af7-0e0fdddfbe72.png",
+            "image": "shopify://shop_images/PC-_-_1_6282a739-b564-4ba4-9af7-0e0fdddfbe72.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_1_ec2bc2a5-6224-4c0a-825b-275d6e950f2b.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_1_ec2bc2a5-6224-4c0a-825b-275d6e950f2b.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -330,13 +330,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_75e460ec-7429-4cb4-a1d8-fb528496211d.png",
+            "image": "shopify://shop_images/PC-_-_2_75e460ec-7429-4cb4-a1d8-fb528496211d.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_2_44f33644-af94-4a66-8901-2ffd9473b052.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_2_44f33644-af94-4a66-8901-2ffd9473b052.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -344,13 +344,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_5c7fbe24-4069-47ed-b0aa-f85b968e3b41.png",
+            "image": "shopify://shop_images/PC-_-_3_5c7fbe24-4069-47ed-b0aa-f85b968e3b41.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b2df9439-b754-4c29-9f14-465ce4533e21.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b2df9439-b754-4c29-9f14-465ce4533e21.png"
           }
         }
       },
@@ -394,8 +394,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-_-_5.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_5.png",
+        "image": "shopify://shop_images/PC-_-_5.png",
+        "mobile-image": "shopify://shop_images/MOBILE-_-_5.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -431,8 +431,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -446,31 +446,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -509,8 +509,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -522,7 +522,7 @@
       "type": "apps",
       "blocks": {
         "f9b7f79e-d0da-4d60-bd8e-d5d696f729b2": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -542,10 +542,10 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
