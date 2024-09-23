@@ -223,16 +223,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Use day and night after cleansing and toning. Apply 3-4 drops directly on the face.<\/p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Snow Lotus | Camellia Flower | Safflower Seed Oil | Madecassoside | MultiEX BSASM®<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Pentylene Glycol, Glycerin, Niacinamide, Nelumbium Speciosum Flower Extract, Saussurea Involucrata Extract, Betaine, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Butylene Glycol, Panthenol, Polyglyceryl-10 Myristate, Citric Acid, 1,2-Hexanediol, Carthamus Tinctorius (Safflower) Seed Oil, Madecassoside, Bisabolol, Ethylhexylglycerin, Glycyrrhiza Glabra (Licorice) Root Extract, Hesperidin, Hordeum Vulgare Seed Extract, Naringin, Rutin, Caprylhydroxamic Acid, Camellia Japonica Flower Extract, Camellia Japonica Seed Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Polygonum Cuspidatum Root Extract, Scutellaria Baicalensis Root Extract, Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Camellia Japonica Seed Oil, Chamomilla Recutita (Matricaria) Leaf Extract, Sorbitan Caprylate, Levulinic Acid, Aniba Rosodora (Rosewood) Wood Oil, Vanilla Planifolia Fruit Oil, Linalool<\/p>",
+            "description": "<p>Use day and night after cleansing . Apply 3-4 drops directly on the face.<\/p>",
             "page-content": "",
             "default-open": false
           }
@@ -258,7 +249,6 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
