@@ -29,7 +29,7 @@
         "image_desktop": "shopify:\/\/shop_images\/M_Main-03.png",
         "image_desktop_right": "shopify:\/\/shop_images\/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
         "header": "Beautify youraging journey.",
-        "body": "The advanced technologyWith Korean heritage.",
+        "body": "The advanced technology<br>With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify:\/\/collections\/best-sellers"
       }
@@ -217,9 +217,9 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/202307202608_copy.jpg",
             "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
-            "header": "SCULPTING &<br>LIFTING",
+            "header": "SCULPTING &LIFTING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "\/pages\/lifting-sculting"
+            "cta_link": "shopify:\/\/pages\/lifting-sculting"
           }
         },
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
@@ -227,7 +227,7 @@
           "settings": {
             "image_desktop": "shopify:\/\/shop_images\/M_Main-10.png",
             "image_mobile": "shopify:\/\/shop_images\/M_Main-10.png",
-            "header": "EXTREME<br>SUN LOVERS",
+            "header": "EXTREMESUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify:\/\/collections\/suncare"
           }
