@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "35274381-df8e-4c59-8f99-661b7cb6f034": {
@@ -17,7 +26,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Glass_glow-1.png",
+        "image": "shopify:\/\/shop_images\/PC_finalimage_Toner_ba1e08b6-3569-4a90-9ac5-2cc61eedaa80.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -33,20 +42,22 @@
         "light-text": false,
         "container-width": 2,
         "spacing-above": true,
-        "spacing-below": false
+        "spacing-below": true
       }
     },
-    "597e6519-8ef6-4fb8-8141-532328fcdd0c": {
-      "type": "featured-text",
+    "section_layout_83gzbr": {
+      "type": "section-layout",
       "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": false,
-        "overline": "STEP 0.",
-        "heading": "Protect Your Skin: Avoiding Harmful Chemicals",
-        "text": "<p><\/p><p><em>\"Just like you carefully consider what you put in your mouth, it's equally important to be mindful of what you apply to your skin.\" <\/em>says Nava Greenfield, M.D. of Schweiger Dermatology Group in New York City.<\/p><p>In 2020, California set a precedent by implementing the first-ever statewide prohibition on 24 chemicals, such as methylene glycol and formaldehyde. However, many other states lack such regulations, putting the onus on consumers to decipher product labels independently. Understanding which substances may be harmful and which are prone to cause skin discomfort can empower you to make informed choices when selecting products.<\/p><p><\/p>"
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "30",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "30",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "fadd55d4-d641-4482-a274-002b6880c876": {
@@ -472,7 +483,7 @@
   "order": [
     "35274381-df8e-4c59-8f99-661b7cb6f034",
     "main",
-    "597e6519-8ef6-4fb8-8141-532328fcdd0c",
+    "section_layout_83gzbr",
     "fadd55d4-d641-4482-a274-002b6880c876",
     "8e901524-ea61-4ef8-a4ff-c159df6546e5",
     "775ff805-d865-4563-b436-de6a20b4671f",
