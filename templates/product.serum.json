@@ -329,13 +329,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_1_6282a739-b564-4ba4-9af7-0e0fdddfbe72.png",
+            "image": "shopify://shop_images/Serum-PC_-in_4_weeks_of_use.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE-_-_1_ec2bc2a5-6224-4c0a-825b-275d6e950f2b.png"
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -343,13 +343,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_2_75e460ec-7429-4cb4-a1d8-fb528496211d.png",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_2.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE-_-_2_44f33644-af94-4a66-8901-2ffd9473b052.png"
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_1.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -357,35 +357,50 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_3_5c7fbe24-4069-47ed-b0aa-f85b968e3b41.png",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b2df9439-b754-4c29-9f14-465ce4533e21.png"
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_2.png"
+          }
+        },
+        "image_eLaiDq": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_3.png"
           }
         }
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
+        "image_eLaiDq"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -395,47 +410,10 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-_-_5.png",
-        "mobile-image": "shopify://shop_images/MOBILE-_-_5.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "title": "You may also like",
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
+        "container-width": 5,
         "spacing-above": true,
-        "spacing-below": true
-      }
-    },
-    "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 56,
+        "image-aspect-ratio": 44,
         "mobile-image-aspect-ratio": 200,
         "darken-image": false,
         "parallax-enabled": false,
@@ -444,65 +422,13 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC_-_Relief_CONSUMER_SURVEY_RESULT_1.png",
+        "mobile-image": "shopify://shop_images/Serum-M_CONSUMER_SURVEY_RESULT.png",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "b8f597d5-408e-4e85-9e30-05801e242feb": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201862.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201724.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201734.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "overline": "Overline text",
-        "heading": "Testimonials",
-        "image-shape": "square",
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "mobile-width": "2"
       }
     },
     "1da4187e-fe26-4969-8379-a32463d40d6f": {
@@ -514,7 +440,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 116,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -522,13 +448,145 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-sustainable_beauty.png",
-        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_finalimage_3.png",
+        "mobile-image": "shopify://shop_images/M_finalimage_serum.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_T6T8eE": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_CcAp3w": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dmV4zx": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_a4eAfE": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_JgVar3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_dmV4zx",
+        "image_a4eAfE",
+        "image_JgVar3"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
@@ -562,10 +620,11 @@
     "featured_text_Ei8iT6",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
-    "related-products",
-    "3f2e5a64-9305-4a9e-9635-5a882adb3967",
-    "b8f597d5-408e-4e85-9e30-05801e242feb",
     "1da4187e-fe26-4969-8379-a32463d40d6f",
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967",
+    "image_with_text_T6T8eE",
+    "slideshow_CcAp3w",
+    "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
