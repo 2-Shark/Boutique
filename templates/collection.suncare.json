@@ -50,6 +50,7 @@
     },
     "featured_video_J3BtqF": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 42,
         "container-width": 6,
@@ -59,7 +60,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/글로벌릴리프선_F.mp4",
+        "video-upload": "shopify://files/videos/글로벌릴리프선_F.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
