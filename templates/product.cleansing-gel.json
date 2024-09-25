@@ -335,6 +335,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_GHkJyP": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Cleanse_-_PC_finalimage.png",
+        "mobile-image": "shopify://shop_images/Cleanser_-_M_finalimage.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
@@ -497,6 +523,7 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
+    "image_with_text_GHkJyP",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
