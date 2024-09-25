@@ -458,6 +458,86 @@
         "link-text": ""
       }
     },
+    "image_with_text_zEWVtU": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Skin_tint-_PC_finalimage.png",
+        "mobile-image": "shopify://shop_images/Skin_tint-_M_finalimage.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_hminhJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_nGAa49": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC-skintint_4.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_4_bd5d672b-591a-4e0b-849b-4517464e505c.jpg"
+          }
+        },
+        "image_Bmx93B": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC-skintint_3_c7a46003-747a-415e-9aaf-633057fbbd87.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_3_4c958af9-d4a2-488a-8f6f-4a46fa1b45b1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_nGAa49",
+        "image_Bmx93B"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": false,
+        "image-aspect-ratio": 42,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "fade",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -533,11 +613,11 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 5,
-        "spacing-above": true,
+        "container-width": 6,
+        "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 200,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -552,60 +632,6 @@
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "slideshow_hminhJ": {
-      "type": "slideshow",
-      "blocks": {
-        "image_nGAa49": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-skintint_4.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_skintint_4_bd5d672b-591a-4e0b-849b-4517464e505c.jpg"
-          }
-        },
-        "image_Bmx93B": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-skintint_3_c7a46003-747a-415e-9aaf-633057fbbd87.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_skintint_3_4c958af9-d4a2-488a-8f6f-4a46fa1b45b1.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_nGAa49",
-        "image_Bmx93B"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 42,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 3,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "related-products": {
@@ -676,9 +702,10 @@
     "featured_text_L4dccj",
     "slideshow_LHq7iP",
     "image_with_text_k6hEGU",
+    "image_with_text_zEWVtU",
+    "slideshow_hminhJ",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
-    "slideshow_hminhJ",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
