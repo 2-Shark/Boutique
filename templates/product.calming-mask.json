@@ -195,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_1_f1232bc6-b2d6-49c9-b76d-712d8e205385.png",
+            "image": "shopify://shop_images/PC_Lotus_Water.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/1_d5c61013-b050-4ccd-a087-b816044843f0.png"
+            "mobile-image": "shopify://shop_images/M_Lotus_Water.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -209,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_2_d7f66f64-a125-40fb-9374-117cfd7209f1.png",
+            "image": "shopify://shop_images/PC_CENTELLA.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/2_0562e079-9748-44c2-b006-8c2c1f030257.png"
+            "mobile-image": "shopify://shop_images/M_CENTELLA.png"
           }
         }
       },
@@ -237,9 +237,35 @@
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
+      }
+    },
+    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
@@ -284,35 +310,8 @@
         "heading": "",
         "title-alignment": "left",
         "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
-      }
-    },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
         "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify://shop_images/MOBILE.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
+        "spacing-below": true
       }
     },
     "related-products": {
@@ -324,84 +323,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "b8f597d5-408e-4e85-9e30-05801e242feb": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201862.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201724.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201734.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "overline": "Overline text",
-        "heading": "Testimonials",
-        "image-shape": "square",
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "mobile-width": "2"
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -457,10 +378,8 @@
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
-    "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "b8f597d5-408e-4e85-9e30-05801e242feb",
+    "related-products",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
