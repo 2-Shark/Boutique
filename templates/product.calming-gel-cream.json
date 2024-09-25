@@ -44,12 +44,6 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "2dd63f8a-d4f4-4a1b-959a-087781a94369": {
           "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
@@ -65,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -108,15 +108,6 @@
             "page-content": "",
             "default-open": false
           }
-        },
-        "collapsible_row_BpLm4L": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Aroma",
-            "description": "<p>Ylang ylang | Orange peel | Spear mint</p>",
-            "page-content": "",
-            "default-open": false
-          }
         }
       },
       "block_order": [
@@ -125,16 +116,15 @@
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "2dd63f8a-d4f4-4a1b-959a-087781a94369",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_AaVwfr",
-        "collapsible_row_BpLm4L"
+        "collapsible_row_AaVwfr"
       ],
       "settings": {
         "container-width": 6,
@@ -155,6 +145,32 @@
         "image-zoom-enabled": true,
         "loop-enabled": true,
         "mobile-media-layout": "slideshow"
+      }
+    },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_E.U._standards.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
@@ -337,32 +353,6 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 28,
-        "mobile-image-aspect-ratio": 62,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-commitment_19fb4f85-13db-4e75-9c01-00e40a82180f.png",
-        "mobile-image": "shopify://shop_images/553.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
@@ -627,11 +617,11 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_8wdhGj",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "slideshow_cxAWXB",
     "image_with_text_kMDkVw",
