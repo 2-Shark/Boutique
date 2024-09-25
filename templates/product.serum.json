@@ -244,6 +244,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 116,
         "container-width": 1,
