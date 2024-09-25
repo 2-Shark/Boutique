@@ -433,6 +433,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_MY3BxB": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "slideshow_cxAWXB": {
       "type": "slideshow",
       "blocks": {
@@ -441,13 +467,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_3-1_7651e4a8-c73f-42a4-bb95-a3ea77a780e6.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/PC-_-_3-2_388ef12b-ca8c-41d3-a6d4-4b686fe7f29e.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
           }
         },
         "image_pdhzhn": {
@@ -455,129 +481,49 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_3-2.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/554.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_nyzJpb": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
           }
         }
       },
       "block_order": [
         "image_qrExmA",
-        "image_pdhzhn"
+        "image_pdhzhn",
+        "image_nyzJpb"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 32,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": true,
         "rotate-frequency": 5,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 76,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "image_with_text_MY3BxB": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 146,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-_-_5_239bc896-cf75-4e76-91d8-1a58be96827a.png",
-        "mobile-image": "shopify://shop_images/MOBILE_gelcream_5_67212e38-1443-45c5-9a8d-de3fc6bfac57.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "slideshow_Qjtx7D": {
-      "type": "slideshow",
-      "blocks": {
-        "image_YgzNdX": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_6_1_f294bcd7-ca9e-481c-898b-2cb887004268.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/537.png"
-          }
-        },
-        "image_nCBgir": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_6_2.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/538.png"
-          }
-        },
-        "image_BDKTMk": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_6_3.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_Calming-gel-9.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_YgzNdX",
-        "image_nCBgir",
-        "image_BDKTMk"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 24,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": true,
-        "rotate-frequency": 5,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 52,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -625,9 +571,8 @@
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_xpLyAN",
-    "slideshow_cxAWXB",
     "image_with_text_MY3BxB",
-    "slideshow_Qjtx7D",
+    "slideshow_cxAWXB",
     "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
