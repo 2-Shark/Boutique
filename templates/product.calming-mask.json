@@ -1,17 +1,26 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Eco-friendly Purifying & soothing Mask"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -35,14 +44,8 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "2dd63f8a-d4f4-4a1b-959a-087781a94369": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -56,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -85,27 +94,37 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>Helps calm redness and irritated skin.<\/li><li>Biodegradable Eco Sheet extracted from 100% natural cotton seeds.<\/li><li>Micro-fiber mask sheet, which is 1\/4 thicker than regular microfiber, contains the active ingredients and relieves skin without irritation.<\/li><li>The Madecasoside ingredient contained in Centella Asiatica calms skin redness and helps soothe and prevent skin irritation.<\/li><\/ul>",
+            "heading": "benefits",
+            "description": "<ul><li>Helps calm redness and irritated skin.</li><li>Biodegradable Eco Sheet extracted from 100% natural cotton seeds.</li><li>Micro-fiber mask sheet, which is 1/4 thicker than regular microfiber, contains the active ingredients and relieves skin without irritation.</li><li>The Madecasoside ingredient contained in Centella Asiatica calms skin redness and helps soothe and prevent skin irritation.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_bBzJec": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "full Ingredients",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Centella Asiatica | Green Tea | Beta-Glucan</p><p><br/><strong>Ingredients</strong><br/>Water, Glycereth-26, Dipropylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyethyl Urea, Nelumbo Nucifera Flower Water, Sodium Carbomer, Allantoin, Hydroxyethylcellulose, Polygonum, Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Disodium EDTA, Dipotassium Glycyrrhizate, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Centella Asiatica Extract, Boswellia Serrata Gum, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Beta-Glucan, Caprylyl Glycol, Caprylhydroxamic Acid, Linalool, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "2dd63f8a-d4f4-4a1b-959a-087781a94369",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_bBzJec"
       ],
       "settings": {
         "container-width": 5,
@@ -136,13 +155,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_92a3bc58-330f-4dfa-a816-5b5b2b9a2648.png",
+            "image": "shopify://shop_images/PC_92a3bc58-330f-4dfa-a816-5b5b2b9a2648.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/7f0751f0d249f25f3728af4cb3ef0f80.png"
+            "mobile-image": "shopify://shop_images/7f0751f0d249f25f3728af4cb3ef0f80.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +169,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_f1232bc6-b2d6-49c9-b76d-712d8e205385.png",
+            "image": "shopify://shop_images/PC-_1_f1232bc6-b2d6-49c9-b76d-712d8e205385.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d5c61013-b050-4ccd-a087-b816044843f0.png"
+            "mobile-image": "shopify://shop_images/1_d5c61013-b050-4ccd-a087-b816044843f0.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,13 +183,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_d7f66f64-a125-40fb-9374-117cfd7209f1.png",
+            "image": "shopify://shop_images/PC-_2_d7f66f64-a125-40fb-9374-117cfd7209f1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_0562e079-9748-44c2-b006-8c2c1f030257.png"
+            "mobile-image": "shopify://shop_images/2_0562e079-9748-44c2-b006-8c2c1f030257.png"
           }
         }
       },
@@ -204,7 +223,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>After cleansing, place the microfiber sheet onto face for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p>",
+            "description": "<p>After cleansing, place the microfiber sheet onto face for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -213,7 +232,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Lotus Flower | Centella Asiatica | Green Tea | Beta-Glucan<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Glycereth-26, Dipropylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyethyl Urea, Nelumbo Nucifera Flower Water, Sodium Carbomer, Allantoin, Hydroxyethylcellulose, Polygonum, Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Disodium EDTA, Dipotassium Glycyrrhizate, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Centella Asiatica Extract, Boswellia Serrata Gum, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Beta-Glucan, Caprylyl Glycol, Caprylhydroxamic Acid, Linalool, Limonene<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Centella Asiatica | Green Tea | Beta-Glucan</p><p><br/><strong>Ingredients</strong><br/>Water, Glycereth-26, Dipropylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyethyl Urea, Nelumbo Nucifera Flower Water, Sodium Carbomer, Allantoin, Hydroxyethylcellulose, Polygonum, Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Disodium EDTA, Dipotassium Glycyrrhizate, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Centella Asiatica Extract, Boswellia Serrata Gum, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Beta-Glucan, Caprylyl Glycol, Caprylhydroxamic Acid, Linalool, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -222,7 +241,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Soothing  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Soothing  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -231,7 +250,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot | Lavender<\/p>",
+            "description": "<p>Bergamot | Lavender</p>",
             "page-content": "",
             "default-open": false
           }
@@ -265,7 +284,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -282,13 +301,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1.png",
+            "image": "shopify://shop_images/PC_-_-_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_c9e19359-7240-4612-9097-c9609742c2e1.png"
+            "mobile-image": "shopify://shop_images/MOBILE_c9e19359-7240-4612-9097-c9609742c2e1.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -297,13 +316,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_9179b1be-f859-4f86-aa3b-d6c549929a53.png",
+            "image": "shopify://shop_images/PC-_-_1_9179b1be-f859-4f86-aa3b-d6c549929a53.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_1_0ad88def-182c-4a32-98a1-a87f0af57e56.png"
+            "mobile-image": "shopify://shop_images/MOBILE_-_1_0ad88def-182c-4a32-98a1-a87f0af57e56.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -312,13 +331,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
+            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
           }
         }
       },
@@ -362,8 +381,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -389,8 +408,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify://shop_images/MOBILE.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -426,8 +445,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -441,31 +460,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -504,8 +523,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -517,7 +536,7 @@
       "type": "apps",
       "blocks": {
         "306223f6-64fc-478a-8013-ea4e698d4624": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
