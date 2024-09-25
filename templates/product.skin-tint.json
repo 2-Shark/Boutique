@@ -12,15 +12,15 @@
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Lightweight SPF offers UV & blue light protection with brightening finish"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -50,12 +50,6 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
@@ -67,8 +61,15 @@
           "settings": {
           }
         },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
+          "disabled": true,
           "settings": {
             "title": "Pairs well with",
             "max-products": 2,
@@ -94,7 +95,7 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "benefits",
             "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)</li><li>Effectively blocks both ultraviolet UVA and UVB rays.</li><li>Soothes areas affected by blue light and UV exposure & enhance natural radiance with glowing and natural tone-up finish.</li><li>Provides essential hydration and neutral coverage with a replenishing and natural glow.</li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.</li></ul>",
             "page-content": "",
             "default-open": false
@@ -108,23 +109,33 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_YDigLr": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br/><br/><strong>Ingredients</strong><br/>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate/Polyhydroxyst carate/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)</p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
-        "buy-buttons",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_w3Af7J"
+        "collapsible_row_w3Af7J",
+        "collapsible_row_YDigLr"
       ],
       "settings": {
         "container-width": 5,
@@ -269,15 +280,6 @@
             "default-open": false
           }
         },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br/><br/><strong>Ingredients</strong><br/>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate/Polyhydroxyst carate/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
           "type": "collapsible-row",
           "settings": {
@@ -295,24 +297,12 @@
             "page-content": "",
             "default-open": false
           }
-        },
-        "collapsible_row_4TRVwg": {
-          "type": "collapsible-row",
-          "disabled": true,
-          "settings": {
-            "heading": "Free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.</p>",
-            "page-content": "",
-            "default-open": false
-          }
         }
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12",
-        "collapsible_row_4TRVwg"
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
       "settings": {
         "background-color": "none",
