@@ -360,11 +360,37 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 188,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_-_Calming_cream_2.png",
+        "mobile-image": "shopify://shop_images/M_-_Calming_cream_2.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 120,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -372,8 +398,34 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-_-_2_6b289152-4732-4b1b-b8a7-0dd5a32c3739.png",
-        "mobile-image": "shopify://shop_images/MOBILE_gelcream_2.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_xpLyAN": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Calming_cream_-_PC_finalimage.png",
+        "mobile-image": "shopify://shop_images/Calming_cream_-_M_finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -433,32 +485,6 @@
         "mobile-image-aspect-ratio": 76,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "image_with_text_kMDkVw": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 42,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-_-_4_ede08a53-e57e-48ea-8665-1900696e69e9.png",
-        "mobile-image": "shopify://shop_images/MOBILE_Calming-gel-5.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "image_with_text_MY3BxB": {
@@ -556,32 +582,6 @@
         "mobile-overlay": true
       }
     },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 106,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-sustainable_beauty.png",
-        "mobile-image": "shopify://shop_images/552_56580f9e-c2c3-4d1b-be3f-8852ff8eabc8.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -623,11 +623,11 @@
     "featured_text_8wdhGj",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "image_with_text_xpLyAN",
     "slideshow_cxAWXB",
-    "image_with_text_kMDkVw",
     "image_with_text_MY3BxB",
     "slideshow_Qjtx7D",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
