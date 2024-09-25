@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -42,7 +51,7 @@
           }
         },
         "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -86,7 +95,16 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Blend of woody & floral scent<br\/>delivers uplifting moment.<\/li><li>Anti-inflammation & Anti-oxidant<\/li><li>Boost collagen production<\/li><li>Moistturization & \bRevitalization<\/li><\/ul>",
+            "description": "<ul><li>Blend of woody & floral scent<br/>delivers uplifting moment.</li><li>Anti-inflammation & Anti-oxidant</li><li>Boost collagen production</li><li>Moistturization & \bRevitalization</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_pWiVaT": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "full Ingredients",
+            "description": "<p><strong>Key Ingredients</strong><br/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil</p><p><br/><strong>Ingredients</strong><br/>Water, Propylene Glycol Dicaprylate/Dicaprate, Cetyl Ethylhexanoate, 1,2-Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia/ Tetraphylla Sced Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-yl-4 Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -105,7 +123,8 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_pWiVaT"
       ],
       "settings": {
         "container-width": 5,
@@ -128,6 +147,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 80,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -136,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_1.png",
+            "image": "shopify://shop_images/PC-_-_2_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
+            "mobile-image": "shopify://shop_images/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_1.png",
+            "image": "shopify://shop_images/PC-_-_1_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
+            "image": "shopify://shop_images/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/06264258e094b162de1c236add7e2afe.png"
+            "mobile-image": "shopify://shop_images/06264258e094b162de1c236add7e2afe.png"
           }
         }
       },
@@ -204,7 +249,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
+            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -213,7 +258,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate, Cetyl Ethylhexanoate, 1,2-Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia\/ Tetraphylla Sced Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-yl-4 Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil</p><p><br/><strong>Ingredients</strong><br/>Water, Propylene Glycol Dicaprylate/Dicaprate, Cetyl Ethylhexanoate, 1,2-Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia/ Tetraphylla Sced Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-yl-4 Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -222,7 +267,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing<\/p>",
+            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing</p>",
             "page-content": "",
             "default-open": false
           }
@@ -231,7 +276,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange<\/p>",
+            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange</p>",
             "page-content": "",
             "default-open": false
           }
@@ -265,7 +310,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -282,13 +327,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_505758a9-dadd-475e-8da3-c2f07134ee7c.png",
+            "image": "shopify://shop_images/PC_505758a9-dadd-475e-8da3-c2f07134ee7c.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_1d374135-dacc-44e2-8237-de3f2a66533d.png"
+            "mobile-image": "shopify://shop_images/MOBILE_1d374135-dacc-44e2-8237-de3f2a66533d.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
@@ -296,13 +341,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1_45cbad77-3df0-4703-a198-1b0683d79984.png",
+            "image": "shopify://shop_images/PC_-_-_1_45cbad77-3df0-4703-a198-1b0683d79984.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_1_5b75a3df-53cc-4012-a0d5-41e15260241e.png"
+            "mobile-image": "shopify://shop_images/MOBILE_-_1_5b75a3df-53cc-4012-a0d5-41e15260241e.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -311,13 +356,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
+            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
           }
         }
       },
@@ -344,32 +389,6 @@
         "mobile-overlay": true
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 82,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
       "disabled": true,
@@ -388,8 +407,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify://shop_images/MOBILE.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -425,8 +444,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -440,31 +459,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -503,8 +522,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -525,11 +544,11 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
