@@ -94,7 +94,7 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "benefits",
             "description": "<ul><li>The patented formula Soystem & Redsnow® help you achieve healthy and elastic skin.</li><li>Anti-oxidant, Anti-inflammation</li><li>Boost collagen production</li><li>Light texture, like a moisturizing cream.</li></ul>",
             "page-content": "",
             "default-open": false
@@ -228,15 +228,6 @@
             "default-open": false
           }
         },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients</strong><br/>Snow Lotus | MC-Resveratrol™ | SoyStem™ | Niacinamide | Adenosine<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Glyceryl Stearate, Niacinamide, Butyrospermum, Parkii (Shea) Butter, Cetearyl Alcohol, Ethylhexyl Palmitate, Saussurea Involucrata Extract, Nelumbo Nucifera Flower Extract, Glycine Soja (Soybean) Peptide, Camellia Japonica Flower Extract, Resveratrol, 1,2-Hexanediol, Propanediol, Cetearyl Glucoside, Arginine, Carbomer, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pelargonium Graveolens Flower Oil, Pogostemon Cablin Leaf Extract, Centella Asiatica Extract, Portulaca Oleracea Extract, Camellia Sinensis Leaf Extract, Camellia Sinensis Leaf Extract, Artemisia Capillaris Extract, Hexylene Glycol, Hydroxyacetophenone, Dipropylene Glycol, Ammonium, Acryloyldimethyltaurate/VP Copolymer, Sodium Hyaluronate, Adenosine, Disodium EDTA, Ethoxydiglycol, Poloxamer 338, Glucose, t-Butyl Alcohol, Ferulic Acid, Citric Acid, Ethylhexylglycerin, Citronellol, D-Limonene, Geraniol, Linalool</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
           "type": "collapsible-row",
           "settings": {
@@ -258,7 +249,6 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
@@ -301,89 +291,56 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_fad12277-82a2-44cf-bd38-dccd23d1260e.png",
+            "image": "shopify://shop_images/PC_-_cream_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_38b61a9f-09b5-47a8-bbd3-8199a0942aeb.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_1_9179b1be-f859-4f86-aa3b-d6c549929a53.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_-_1_0ad88def-182c-4a32-98a1-a87f0af57e56.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
+            "mobile-image": "shopify://shop_images/Cream-M_2.png"
           }
         }
       },
       "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
-      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
+        "container-width": 5,
+        "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 182,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify://shop_images/MOBILE.png",
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_-_cream_2.png",
+        "mobile-image": "shopify://shop_images/Cream-M_1.png",
         "overline": "",
         "title": "",
         "description": "",
