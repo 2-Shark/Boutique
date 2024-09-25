@@ -309,6 +309,19 @@
         "mobile-aspect-ratio": 134
       }
     },
+    "featured_text_taChND": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Antioxidant-rich, hydrating& nourishing illuminating cream",
+        "text": ""
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -560,6 +573,7 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "featured_text_taChND",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
