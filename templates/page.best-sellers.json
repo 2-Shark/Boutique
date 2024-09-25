@@ -30,16 +30,16 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 64,
+        "mobile-image-aspect-ratio": 48,
         "darken-image": false,
         "parallax-enabled": false,
-        "text-position": "center",
+        "text-position": "bottom-left",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Best_sellers_b236f422-70ba-41c7-85f3-c75b6de9327f.png",
-        "mobile-image": "shopify:\/\/shop_images\/Best_sellers_1_8b4c9c48-e3ae-493f-9d84-42f00fd9a1fe.png",
+        "image": "shopify://shop_images/Collection_bestseller_f104f6fe-7a3a-4ef7-80aa-fe8304b3e6b7.png",
+        "mobile-image": "shopify://shop_images/Collection_bestseller_f104f6fe-7a3a-4ef7-80aa-fe8304b3e6b7.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -71,13 +71,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1_d6a4bd2d-131a-46dc-bd6d-d3ac90b6a775.png",
+            "image": "shopify://shop_images/PC_-_-_1_d6a4bd2d-131a-46dc-bd6d-d3ac90b6a775.png",
             "overline": "",
             "title": "Lotus Melight Eye Patch",
             "description": "",
-            "link-url": "shopify:\/\/products\/lotus-melight-eyepatch",
+            "link-url": "shopify://products/lotus-melight-eyepatch",
             "link-text": "SHOP NOW",
-            "mobile-image": "shopify:\/\/shop_images\/Mobile_8153472c-c80a-488b-8312-cd3dcdb32d1f.png"
+            "mobile-image": "shopify://shop_images/Mobile_8153472c-c80a-488b-8312-cd3dcdb32d1f.png"
           }
         },
         "template--21349641978143__f40d889f-9fbf-4ec2-b196-b2815b367a59-image-2": {
@@ -85,13 +85,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Most-polular-serum_pc.png",
+            "image": "shopify://shop_images/Most-polular-serum_pc.png",
             "overline": "",
             "title": "Snow Lotus Lifting Serum",
             "description": "",
-            "link-url": "shopify:\/\/products\/super-aging-serum",
+            "link-url": "shopify://products/super-aging-serum",
             "link-text": "SHOP NOW",
-            "mobile-image": "shopify:\/\/shop_images\/Most-polular-serum_m_9a0dd1c4-b455-409c-b897-facecc2108fd.png"
+            "mobile-image": "shopify://shop_images/Most-polular-serum_m_9a0dd1c4-b455-409c-b897-facecc2108fd.png"
           }
         }
       },
