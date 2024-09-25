@@ -245,15 +245,6 @@
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "HOW TO USE",
-            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
           "type": "collapsible-row",
           "settings": {
@@ -283,7 +274,6 @@
         }
       },
       "block_order": [
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
@@ -291,7 +281,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "heading": "product details",
+        "heading": "",
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
@@ -371,6 +361,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
