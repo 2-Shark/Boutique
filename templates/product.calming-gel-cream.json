@@ -94,8 +94,17 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "benefits",
             "description": "<ul><li>Soothes and clams irritated skin from environmental stressors</li><li>Instant hydration & enhance skin barrier</li><li>Minimize pores, reduce the appearance of hyperpigmentation and dark spots for a brighter complexion.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_AaVwfr": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "full INGREDIENTS",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Centella Asiatica | Green Tea | Beta-Glucan</p><p><br/><strong>Ingredients</strong><br/>Water, Glycereth-26, Dipropylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyethyl Urea, Nelumbo Nucifera Flower Water, Sodium Carbomer, Allantoin, Hydroxyethylcellulose, Polygonum, Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Disodium EDTA, Dipotassium Glycyrrhizate, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Centella Asiatica Extract, Boswellia Serrata Gum, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Beta-Glucan, Caprylyl Glycol, Caprylhydroxamic Acid, Linalool, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -133,6 +142,7 @@
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_AaVwfr",
         "collapsible_row_yXDUVX",
         "collapsible_row_BpLm4L"
       ],
