@@ -176,6 +176,20 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
+        "image_UPkcA7": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Ceracare_AC-1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Ceracare_AC-1.png"
+          }
+        },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
           "type": "image",
           "settings": {
@@ -217,27 +231,13 @@
             "link-text": "",
             "mobile-image": "shopify://shop_images/M_CENTELLA.png"
           }
-        },
-        "image_UPkcA7": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Ceracare_AC-1.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Ceracare_AC-1.png"
-          }
         }
       },
       "block_order": [
+        "image_UPkcA7",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "image_6yVnGL",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
-        "image_UPkcA7"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
       "settings": {
         "text-color": "auto",
