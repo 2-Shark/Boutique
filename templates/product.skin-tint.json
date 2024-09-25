@@ -35,7 +35,7 @@
           }
         },
         "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)<\/li><li>Effectively blocks both ultraviolet UVA and UVB rays.<\/li><li>Soothes areas affected by blue light and UV exposure & enhance natural radiance with glowing and natural tone-up finish.<\/li><li>Provides essential hydration and neutral coverage with a replenishing and natural glow.<\/li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.<\/li><\/ul>",
+            "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)</li><li>Effectively blocks both ultraviolet UVA and UVB rays.</li><li>Soothes areas affected by blue light and UV exposure & enhance natural radiance with glowing and natural tone-up finish.</li><li>Provides essential hydration and neutral coverage with a replenishing and natural glow.</li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.<\/p>",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -147,6 +147,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -155,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_730c8347-7736-499b-bbbb-b1007b5b6617.jpg",
+            "image": "shopify://shop_images/PC_Blue_Lotus_Water.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/de70e566eb63f142d5cf65abca62b287.jpg"
+            "mobile-image": "shopify://shop_images/M_Blue_Lotus_Water.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -169,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_9087bb15-cc83-4d7c-bb0e-03ece9346d80.jpg",
+            "image": "shopify://shop_images/PC_pomegranate_extract.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_b4e336c8-22eb-4f25-8e51-efff1ff2358f.jpg"
+            "mobile-image": "shopify://shop_images/M_pomegranate_extract.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -183,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_3_5d8331b6-965a-4a93-a52a-709578040692.jpg",
+            "image": "shopify://shop_images/PC_BISABOLOL.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/3_b2a3aeea-5024-4e0b-b21a-70630c722994.jpg"
+            "mobile-image": "shopify://shop_images/M_BISABOLOL.png"
           }
         },
         "image_YL7LAM": {
@@ -197,13 +223,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_4.jpg",
+            "image": "shopify://shop_images/PC-_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/6_9b3c56b7-a5d8-4e6e-a4b9-84252c95a4aa.jpg"
+            "mobile-image": "shopify://shop_images/6_9b3c56b7-a5d8-4e6e-a4b9-84252c95a4aa.jpg"
           }
         }
       },
@@ -217,16 +243,16 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 46,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -238,7 +264,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Use 2-3 drops as the last step in your skincare routine. <\/p><p>+ Tip.<br\/>Use as a natural base makeup. After lightly applying the skin tint essence all over once, try using it for cover makeup as well. Its light tone-up color naturally covers uneven skin tone and blemishes.<\/p>",
+            "description": "<p>Use 2-3 drops as the last step in your skincare routine. </p><p>+ Tip.<br/>Use as a natural base makeup. After lightly applying the skin tint essence all over once, try using it for cover makeup as well. Its light tone-up color naturally covers uneven skin tone and blemishes.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -247,7 +273,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate\/Polyhydroxyst carate\/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br/><br/><strong>Ingredients</strong><br/>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate/Polyhydroxyst carate/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)</p>",
             "page-content": "",
             "default-open": false
           }
@@ -256,7 +282,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Lightweight  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Lightweight  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -265,7 +291,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Signature Damask Rose Scent<\/p>",
+            "description": "<p>Signature Damask Rose Scent</p>",
             "page-content": "",
             "default-open": false
           }
@@ -275,7 +301,7 @@
           "disabled": true,
           "settings": {
             "heading": "Free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.<\/p>",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -298,32 +324,6 @@
         "spacing-below": false
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 82,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "slideshow_LHq7iP": {
       "type": "slideshow",
       "blocks": {
@@ -332,13 +332,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-skintint_5.png",
+            "image": "shopify://shop_images/PC-skintint_5.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_5.png"
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_5.png"
           }
         },
         "image_7zCpJb": {
@@ -346,13 +346,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-skintint_1.jpg",
+            "image": "shopify://shop_images/PC-skintint_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_1.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_1.jpg"
           }
         }
       },
@@ -386,13 +386,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_50bec53e-4534-4512-876a-7bbe10d6ea1c.png",
+            "image": "shopify://shop_images/PC-_-_1_50bec53e-4534-4512-876a-7bbe10d6ea1c.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_1_a806327b-8909-417c-b479-2dc5d6717598.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_1_a806327b-8909-417c-b479-2dc5d6717598.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -400,13 +400,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_4ea41633-9297-4b9c-b558-a5c2a7f50e7c.png",
+            "image": "shopify://shop_images/PC-_-_2_4ea41633-9297-4b9c-b558-a5c2a7f50e7c.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_2_c93aac59-56fb-401f-b7df-d89d951bf7c9.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_2_c93aac59-56fb-401f-b7df-d89d951bf7c9.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -414,13 +414,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_e2a89ff7-6c1b-43b4-b36d-bce9a5868e86.png",
+            "image": "shopify://shop_images/PC-_-_3_e2a89ff7-6c1b-43b4-b36d-bce9a5868e86.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_33814640-641b-421f-82b7-4bcda15732e7.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_33814640-641b-421f-82b7-4bcda15732e7.png"
           }
         }
       },
@@ -459,7 +459,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/글로벌스킨틴트_F.mp4",
+        "video-upload": "shopify://files/videos/글로벌스킨틴트_F.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -476,13 +476,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-skintint_4.jpg",
+            "image": "shopify://shop_images/PC-skintint_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_4_bd5d672b-591a-4e0b-849b-4517464e505c.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_4_bd5d672b-591a-4e0b-849b-4517464e505c.jpg"
           }
         },
         "image_Bmx93B": {
@@ -490,13 +490,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-skintint_3_c7a46003-747a-415e-9aaf-633057fbbd87.jpg",
+            "image": "shopify://shop_images/PC-skintint_3_c7a46003-747a-415e-9aaf-633057fbbd87.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_skintint_3_4c958af9-d4a2-488a-8f6f-4a46fa1b45b1.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_skintint_3_4c958af9-d4a2-488a-8f6f-4a46fa1b45b1.jpg"
           }
         }
       },
@@ -550,8 +550,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -576,8 +576,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -589,7 +589,7 @@
       "type": "apps",
       "blocks": {
         "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -609,9 +609,9 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
