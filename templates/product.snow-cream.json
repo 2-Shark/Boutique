@@ -426,6 +426,114 @@
         "link-text": ""
       }
     },
+    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_xEwbjF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j8mkCC": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "View more",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_tayXfX": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_nMGFbK": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
+          }
+        },
+        "image_9KdypK": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_j8mkCC",
+        "image_tayXfX",
+        "image_nMGFbK",
+        "image_9KdypK"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -435,32 +543,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
@@ -495,8 +577,9 @@
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_7af7NU",
-    "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
+    "slideshow_xEwbjF",
+    "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
