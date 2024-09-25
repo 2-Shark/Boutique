@@ -12,15 +12,15 @@
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Nourishing body cream with 93% natural formula"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -44,12 +44,6 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
           "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
@@ -65,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -111,15 +111,15 @@
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
@@ -163,7 +163,7 @@
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
+        "mobile-overlay": false,
         "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
         "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
@@ -181,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_2_1.png",
+            "image": "shopify://shop_images/PC_Snow_Lotus_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus_1.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -195,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_1_1.png",
+            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -209,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
+            "image": "shopify://shop_images/PC_Rose_hip_Oil.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/06264258e094b162de1c236add7e2afe.png"
+            "mobile-image": "shopify://shop_images/M_Rose_hip_Oil.png"
           }
         }
       },
@@ -228,16 +228,16 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 46,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
