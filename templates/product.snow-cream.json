@@ -365,8 +365,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_-_cream_2_c8aedd23-5466-450d-8389-b9e453a1ff8e.png",
-        "mobile-image": "shopify://shop_images/Cream-M_1.png",
+        "image": "shopify://shop_images/PC_-_cream_2_18cc23c1-dd63-4f3e-9b73-14eca2a7da8a.png",
+        "mobile-image": "shopify://shop_images/Cream-M_1_83afade9-900d-42a1-bba6-6f59a057c090.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -496,25 +496,12 @@
             "link-text": "",
             "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
           }
-        },
-        "image_9KdypK": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
         }
       },
       "block_order": [
         "image_j8mkCC",
         "image_tayXfX",
-        "image_nMGFbK",
-        "image_9KdypK"
+        "image_nMGFbK"
       ],
       "settings": {
         "text-color": "auto",
