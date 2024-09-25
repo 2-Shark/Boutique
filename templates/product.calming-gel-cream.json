@@ -287,6 +287,19 @@
         "spacing-below": true
       }
     },
+    "featured_text_8wdhGj": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Refreshing hydration & skin's barrier restore",
+        "text": ""
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -295,13 +308,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_1_ec25ac1d-656a-4735-9f5f-e9c04cf8a7cc.png",
+            "image": "shopify://shop_images/PC_-_Calming_cream_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_Calming-gel-1.png"
+            "mobile-image": "shopify://shop_images/M_-_Calming_cream_1.png"
           }
         }
       },
@@ -313,15 +326,15 @@
         "background-color": "none",
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 54,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
         "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 200,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -616,6 +629,7 @@
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "featured_text_8wdhGj",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
