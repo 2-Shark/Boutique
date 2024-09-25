@@ -61,12 +61,6 @@
           "settings": {
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "complementary-products": {
           "type": "complementary-products",
           "disabled": true,
@@ -85,6 +79,12 @@
             "pinterest-enabled": true,
             "email-enabled": true,
             "url-enabled": true
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
@@ -129,9 +129,9 @@
         "options",
         "pickup",
         "description",
-        "buy-buttons",
         "complementary-products",
         "social-sharing",
+        "buy-buttons",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_w3Af7J",
@@ -307,11 +307,24 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "heading": "product details",
+        "heading": "",
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
-        "spacing-below": false
+        "spacing-below": true
+      }
+    },
+    "featured_text_L4dccj": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Brighter complexion with advanced protection",
+        "text": ""
       }
     },
     "slideshow_LHq7iP": {
@@ -602,6 +615,7 @@
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "featured_text_L4dccj",
     "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
