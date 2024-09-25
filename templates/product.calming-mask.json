@@ -327,6 +327,7 @@
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
