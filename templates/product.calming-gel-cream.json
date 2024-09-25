@@ -109,15 +109,6 @@
             "default-open": false
           }
         },
-        "collapsible_row_yXDUVX": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Texture",
-            "description": "<p>Lightweight | Dewy | Calming</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "collapsible_row_BpLm4L": {
           "type": "collapsible-row",
           "settings": {
@@ -143,7 +134,6 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_AaVwfr",
-        "collapsible_row_yXDUVX",
         "collapsible_row_BpLm4L"
       ],
       "settings": {
@@ -175,13 +165,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-Lotus_Leaf_cc53f8e6-ac41-4469-8b8a-924fb074e603.png",
+            "image": "shopify://shop_images/PC_Lotus_Leaf.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/562.png"
+            "mobile-image": "shopify://shop_images/M_Lotus_Leaf.png"
           }
         },
         "image_6yVnGL": {
@@ -189,13 +179,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-CALENDULA_FLOWER_04410f04-ae50-48dd-9aec-9a01d85952b0.png",
+            "image": "shopify://shop_images/PC_Calendula.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/CALENDULA_FLOWER.png"
+            "mobile-image": "shopify://shop_images/M_Calendula.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -203,13 +193,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-CENTELLA_ASIATICA_EXTRACT_12845a49-c834-4bed-ad72-2ce65efa1933.png",
+            "image": "shopify://shop_images/PC_CENTELLA.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/CENTELLA_ASIATICA_b8525ae9-f48e-4f19-af81-a593a8a63281.png"
+            "mobile-image": "shopify://shop_images/M_CENTELLA.png"
           }
         },
         "image_UPkcA7": {
@@ -217,13 +207,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-CeracareAC-1_f299f2c4-62f6-4b21-8f30-5c2d8016f279.png",
+            "image": "shopify://shop_images/PC_Ceracare_AC-1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/CeracareAC-1_18d925b3-de9e-4c95-a62a-5a161713278f.png"
+            "mobile-image": "shopify://shop_images/M_Ceracare_AC-1.png"
           }
         }
       },
@@ -238,15 +228,15 @@
         "background-color": "none",
         "spacing-above": true,
         "spacing-below": true,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 36,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
-        "auto-rotate": true,
-        "rotate-frequency": 5,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 132,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -256,7 +246,6 @@
       "blocks": {
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
             "heading": "HOW TO USE",
             "description": "<p>After cleansing, place the microfiber sheet onto face for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
@@ -264,30 +253,11 @@
             "default-open": false
           }
         },
-        "collapsible_row_nqhHEy": {
+        "collapsible_row_HiTkV7": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "Collapsible row",
-            "description": "<p>Use rows to highlight unique features, <br/>sizing information, <br/>or other sales information.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "disabled": true,
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Centella Asiatica | Green Tea | Beta-Glucan</p><p><br/><strong>Ingredients</strong><br/>Water, Glycereth-26, Dipropylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyethyl Urea, Nelumbo Nucifera Flower Water, Sodium Carbomer, Allantoin, Hydroxyethylcellulose, Polygonum, Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Zingiber Officinale (Ginger) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Japonica Root Extract, Ethylhexylglycerin, Disodium EDTA, Dipotassium Glycyrrhizate, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Centella Asiatica Extract, Boswellia Serrata Gum, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Beta-Glucan, Caprylyl Glycol, Caprylhydroxamic Acid, Linalool, Limonene</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "TEXTURE",
-            "description": "<p>Soothing  |  Dewy  |  Hydrating</p>",
+            "heading": "Texture",
+            "description": "<p>Lightweight | Dewy | Calming</p>",
             "page-content": "",
             "default-open": false
           }
@@ -296,7 +266,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot | Lavender</p>",
+            "description": "<p>Ylang ylang | Orange peel | Spear mint</p>",
             "page-content": "",
             "default-open": false
           }
@@ -304,37 +274,8 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "collapsible_row_nqhHEy",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "collapsible_row_HiTkV7",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
-      ],
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "heading": "product details",
-        "title-alignment": "left",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
-      }
-    },
-    "collapsible_rows_8nkkGf": {
-      "type": "collapsible-rows",
-      "blocks": {
-        "collapsible_row_K8A8Dg": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "All ingredients",
-            "description": "<p>Water, Dipropylene Glycol, Erythritol, Butylene Glycol, Niacinamide, Propanediol, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Madecassoside, Asiaticoside, Ceramide NP, Ceramide NS, Phytosphin gosine, Centella Asiatica Extract, Ceramide AS, Ceramide AP, Ceramide EOP, Simmondsia Chinensis (Jojoba)Seed Oil, Panthenol, Adenosine, Hydrogenated Lecithin, Cetearyl Alcohol, Betaine, Xylitol , Citrus Aurantium Dulcis (Orange) Peel Oil, Mentha Viridis Leaf Oil, Carbomer, C12- 14 Alketh-12, Tromethamine, Ethylhexylglycerin, Ammo nium Acryloyldimethyl taurate/Vp Copolymer, Xanthan Gum, Carthamus Tinctorius(Safflower) Flower Extract, Glycerin, Gardenia Florida Fruit Extract, Dextrin, Cholesterol, Pentylene Gly col, Caprylyl Glycol, Stearic Acid, Limonene, Linalool</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_K8A8Dg"
       ],
       "settings": {
         "background-color": "none",
@@ -342,7 +283,7 @@
         "heading": "",
         "title-alignment": "left",
         "container-width": 4,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": true
       }
     },
@@ -675,7 +616,6 @@
     "main",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "collapsible_rows_8nkkGf",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
