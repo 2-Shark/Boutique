@@ -244,7 +244,6 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
-      "disabled": true,
       "settings": {
         "aspect-ratio": 116,
         "container-width": 1,
@@ -254,7 +253,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify://files/videos/serum-productpage_11f23664-359e-4267-99cb-aabc19e859da.mp4",
+        "video-upload": "shopify://files/videos/세럼-캡션O.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
