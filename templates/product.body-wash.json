@@ -94,7 +94,7 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
+            "heading": "benefits",
             "description": "<ul><li>Blend of floral & refreshing<br/>citrus scent delivers subtle<br/>uplifting journey.</li><li>Boost collagen production</li><li>Anti-oxidant & Anti-inflammation & Anti-pollution</li><li>Revitalizing Multi-exfoliant wash for the hand & body</li></ul>",
             "page-content": "",
             "default-open": false
@@ -147,6 +147,32 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -155,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_3a0ea24f-0941-47e4-ae79-5e50d352e8af.png",
+            "image": "shopify://shop_images/PC_Lotus_Seed_Powder.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/7cc8924814ba42f863c4b9022bc275ea.png"
+            "mobile-image": "shopify://shop_images/M_Lotus_Seed_Powder.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -169,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_1_addd6f88-a940-4dd4-86f8-a420e7992487.png",
+            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -183,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_2_dcd871d3-2172-4e04-a74e-4127aa0f78a1.png",
+            "image": "shopify://shop_images/PC_Redsnow.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/2_4947709b-f391-4c12-b0c9-345aaf674a49.png"
+            "mobile-image": "shopify://shop_images/M_Redsnow.png"
           }
         }
       },
@@ -202,16 +228,16 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 46,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
         "transition_type": "slide",
-        "mobile-image-aspect-ratio": 144,
+        "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
@@ -224,15 +250,6 @@
           "settings": {
             "heading": "HOW TO USE",
             "description": "<p>Apply on hands or body. Rinse thoroughly after gently massaging.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Lotus Seed Power | Apricot Seed Power | Pumpkin Seed Oil | Jojoba Oil<br/><br/><strong>Ingredients</strong><br/>Water, Propanediol, Acrylates Copolymer, Potassium Cocoate, CocamidopropylHydroxysultaine, 1,2-Hexanediol, Tromethamine, Disodium LaurethSulfosuccinate, Potassium CocoylGlutamate, Potassium CocoylGlycinate, Erythritol, Prunus Armeniaca(Apricot) Seed Powder, Nelumbo Nucifera Flower Extract, Nelumbo Nucifera Seed Powder, Cucurbita Pepo(Pumpkin) Fruit Extract, Saussurea Involucrata Extract, Camellia Japonica Flower Extract, Fragrance, SimmondsiaChinensis(Jojoba) Seed Oil, PerseaGratissima(Avocado) Oil, Rosa Canina Fruit Oil, Cucurbita Pepo(Pumpkin) Seed Oil, Sodium Sweetalmondamphoacetate, Ethylhexylglycerin, Sodium cocoylglutamate, Sodium Chloride, Glyceryl caprylate, Butylene Glycol, Disodium EDTA, Limonene, Citronellol, Geraniol</p>",
             "page-content": "",
             "default-open": false
           }
@@ -258,14 +275,13 @@
       },
       "block_order": [
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "heading": "product details",
+        "heading": "",
         "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
@@ -345,6 +361,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -361,32 +378,6 @@
         "mobile-image-aspect-ratio": 134,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 82,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
@@ -555,11 +546,11 @@
   },
   "order": [
     "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
