@@ -12,13 +12,13 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/PC_Main-01.png",
-        "image_tablet": "shopify:\/\/shop_images\/M_Main-01.png",
-        "image_mobile": "shopify:\/\/shop_images\/M_Main-01.png",
+        "image_desktop": "shopify://shop_images/PC_Main-01.png",
+        "image_tablet": "shopify://shop_images/M_Main-01.png",
+        "image_mobile": "shopify://shop_images/M_Main-01.png",
         "eyebrow": "Start your well-aging journey",
         "header": "Well-aging Skincare From Korea",
         "cta": "SHOP NOW",
-        "link": "shopify:\/\/pages\/shop-all",
+        "link": "shopify://pages/shop-all",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
@@ -26,12 +26,12 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/M_Main-03.png",
-        "image_desktop_right": "shopify:\/\/shop_images\/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
-        "header": "Beautify youraging journey.",
-        "body": "The advanced technology<br>With Korean heritage.",
+        "image_desktop": "shopify://shop_images/M_Main-03.png",
+        "image_desktop_right": "shopify://shop_images/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
+        "header": "Beautify your aging journey.",
+        "body": "The advanced technology With Korean heritage.",
         "cta": "SHOP",
-        "link": "shopify:\/\/collections\/best-sellers"
+        "link": "shopify://collections/best-sellers"
       }
     },
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5": {
@@ -119,7 +119,7 @@
         "header": "Best Sellers",
         "eyebrow": "WELL-AGING SKINCARE ESSENTIALS",
         "cta": "SHOP ALL",
-        "link": "shopify:\/\/collections\/best-sellers",
+        "link": "shopify://collections/best-sellers",
         "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
         "background-color": "none",
@@ -136,19 +136,19 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/PC_Main-04.png",
-        "image_mobile": "shopify:\/\/shop_images\/M_Main-04.png",
-        "image_desktop_r": "shopify:\/\/shop_images\/24_Jan_PC-skintest.png",
-        "image_mobile_r": "shopify:\/\/shop_images\/24_Jan_M-skintest.png"
+        "image_desktop": "shopify://shop_images/PC_Main-04.png",
+        "image_mobile": "shopify://shop_images/M_Main-04.png",
+        "image_desktop_r": "shopify://shop_images/24_Jan_PC-skintest.png",
+        "image_mobile_r": "shopify://shop_images/24_Jan_M-skintest.png"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify:\/\/shop_images\/PC_Main-05.png",
-        "image_mobile_l": "shopify:\/\/shop_images\/M_Main-05.png",
-        "image_desktop_r": "shopify:\/\/shop_images\/PC_Main-06_60561d10-6ed6-4792-b6b6-addde7324e27.png",
-        "image_mobile_r": "shopify:\/\/shop_images\/M_Main-06_d5f750d7-847e-4899-8cd3-398871f5340c.png"
+        "image_desktop_l": "shopify://shop_images/PC_Main-05.png",
+        "image_mobile_l": "shopify://shop_images/M_Main-05.png",
+        "image_desktop_r": "shopify://shop_images/PC_Main-06_60561d10-6ed6-4792-b6b6-addde7324e27.png",
+        "image_mobile_r": "shopify://shop_images/M_Main-06_d5f750d7-847e-4899-8cd3-398871f5340c.png"
       }
     },
     "anti-aging-icon": {
@@ -157,25 +157,25 @@
         "icon-1": {
           "type": "icon",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_002.png"
+            "image": "shopify://shop_images/KakaoTalk_Photo_2023-10-12-07-56-17_002.png"
           }
         },
         "icon-2": {
           "type": "icon",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-16_001.png"
+            "image": "shopify://shop_images/KakaoTalk_Photo_2023-10-12-07-56-16_001.png"
           }
         },
         "icon-3": {
           "type": "icon",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_004.png"
+            "image": "shopify://shop_images/KakaoTalk_Photo_2023-10-12-07-56-17_004.png"
           }
         },
         "icon-4": {
           "type": "icon",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_Photo_2023-10-12-07-56-17_003.png"
+            "image": "shopify://shop_images/KakaoTalk_Photo_2023-10-12-07-56-17_003.png"
           }
         }
       },
@@ -196,40 +196,40 @@
         "aae0c60c-b575-4278-b74a-806cba3e934a": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/PC_Main-07.png",
-            "image_mobile": "shopify:\/\/shop_images\/M_Main-07.png",
+            "image_desktop": "shopify://shop_images/PC_Main-07.png",
+            "image_mobile": "shopify://shop_images/M_Main-07.png",
             "header": "GLASS GLOW<br>SKINCARE",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "shopify:\/\/pages\/glass-glow-skincare"
+            "cta_link": "shopify://pages/glass-glow-skincare"
           }
         },
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/M_Main-08_db5d2b27-8e5b-4a81-b795-37e46f7bc153.png",
+            "image_desktop": "shopify://shop_images/M_Main-08_db5d2b27-8e5b-4a81-b795-37e46f7bc153.png",
             "header": "DEPUFFING<br>& DETOXING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "shopify:\/\/pages\/dipuffing-detoxing"
+            "cta_link": "shopify://pages/dipuffing-detoxing"
           }
         },
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/202307202608_copy.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/202307202608_copy.jpg",
+            "image_desktop": "shopify://shop_images/202307202608_copy.jpg",
+            "image_mobile": "shopify://shop_images/202307202608_copy.jpg",
             "header": "SCULPTING<br>& LIFTING",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "shopify:\/\/pages\/lifting-sculting"
+            "cta_link": "shopify://pages/lifting-sculting"
           }
         },
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify:\/\/shop_images\/M_Main-10.png",
-            "image_mobile": "shopify:\/\/shop_images\/M_Main-10.png",
+            "image_desktop": "shopify://shop_images/M_Main-10.png",
+            "image_mobile": "shopify://shop_images/M_Main-10.png",
             "header": "EXTREME<br>SUN LOVERS",
             "cta": "DISCOVER RITUAL",
-            "cta_link": "shopify:\/\/collections\/suncare"
+            "cta_link": "shopify://collections/suncare"
           }
         }
       },
@@ -294,7 +294,7 @@
         "inner_padding_bottom_desktop": "76",
         "inner_padding_bottom_mobile": "47",
         "heading": "JOIN OUR WELL-AGER CLUB",
-        "newsletter--subheading": "<p>Join our email subscription for news letter<\/p>",
+        "newsletter--subheading": "<p>Join our email subscription for news letter</p>",
         "border_bottom": false
       }
     },
@@ -316,7 +316,7 @@
     "video-section": {
       "type": "section-layout",
       "settings": {
-        "snippet_name": "{% render 'video-snippet', mobile_url: 'https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/63736d8db0164371bce2f84fcb0ed00a.mp4' %}",
+        "snippet_name": "{% render 'video-snippet', mobile_url: 'https://cdn.shopify.com/videos/c/o/v/63736d8db0164371bce2f84fcb0ed00a.mp4' %}",
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
@@ -346,10 +346,10 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/2022-Q2-VITC-LP-HERO-1-CT10-200pc-MB_1.webp",
+        "image": "shopify://shop_images/2022-Q2-VITC-LP-HERO-1-CT10-200pc-MB_1.webp",
         "overline": "GIF IMAGE INCLUDE",
         "title": "GIF IMAGE INCLUDE",
-        "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
+        "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
         "link-url": "",
         "link-text": ""
       }
@@ -367,8 +367,8 @@
         "light-text": false,
         "theme": "grayscale",
         "heading": "Our store",
-        "address": "<p>391 Sunrise Blvd,<br\/>Los Angeles<br\/>CA 94108, USA<\/p>",
-        "hours": "<p>Monday - Friday<br\/>10am - 6pm<br\/><br\/>Saturday - Sunday<br\/>12pm - 5pm<\/p>"
+        "address": "<p>391 Sunrise Blvd,<br/>Los Angeles<br/>CA 94108, USA</p>",
+        "hours": "<p>Monday - Friday<br/>10am - 6pm<br/><br/>Saturday - Sunday<br/>12pm - 5pm</p>"
       }
     },
     "featured-collection-slider": {
