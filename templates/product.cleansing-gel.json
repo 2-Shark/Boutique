@@ -196,13 +196,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_1_0e219bea-84fc-4e98-a258-ed2e6e1659ff.png",
+            "image": "shopify://shop_images/PC_MultiEx_Phytrogen.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/1_76cc36f5-5b29-402f-80f6-7d4822f57334.png"
+            "mobile-image": "shopify://shop_images/M_MultiEx_Phytrogen.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -210,13 +210,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-_2_f93a23dc-a8a2-4a29-ab6f-a0e8c1087b93.png",
+            "image": "shopify://shop_images/PC_Calm_Green.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/2_85681217-fc17-4b1a-9600-e6fa2414be80.png"
+            "mobile-image": "shopify://shop_images/M_Calm_Green.png"
           }
         }
       },
