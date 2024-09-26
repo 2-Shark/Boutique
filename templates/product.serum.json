@@ -579,6 +579,21 @@
         "mobile-overlay": true
       }
     },
+    "section_layout_BNi7Jc": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -625,6 +640,7 @@
     "3f2e5a64-9305-4a9e-9635-5a882adb3967",
     "image_with_text_T6T8eE",
     "slideshow_CcAp3w",
+    "section_layout_BNi7Jc",
     "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
