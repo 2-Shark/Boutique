@@ -1,17 +1,26 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "product",
       "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
             "text": "Revitalizing Multi-exfoliant wash"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
           }
         },
         "vendor": {
@@ -35,14 +44,8 @@
             "size-chart-content": ""
           }
         },
-        "buy-buttons": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        },
         "b0614f42-6fa2-4642-bdf8-771d2230cf0b": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -56,6 +59,12 @@
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
           }
         },
         "complementary-products": {
@@ -86,26 +95,36 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Blend of floral & refreshing<br\/>citrus scent delivers subtle<br\/>uplifting journey.<\/li><li>Boost collagen production<\/li><li>Anti-oxidant & Anti-inflammation & Anti-pollution<\/li><li>Revitalizing Multi-exfoliant wash for the hand & body<\/li><\/ul>",
+            "description": "<ul><li>Blend of floral & refreshing<br/>citrus scent delivers subtle<br/>uplifting journey.</li><li>Boost collagen production</li><li>Anti-oxidant & Anti-inflammation & Anti-pollution</li><li>Revitalizing Multi-exfoliant wash for the hand & body</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_zYg6Uj": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "full Ingredients",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Lotus Seed Power | Apricot Seed Power | Pumpkin Seed Oil | Jojoba Oil<br/><br/><strong>Ingredients</strong><br/>Water, Propanediol, Acrylates Copolymer, Potassium Cocoate, CocamidopropylHydroxysultaine, 1,2-Hexanediol, Tromethamine, Disodium LaurethSulfosuccinate, Potassium CocoylGlutamate, Potassium CocoylGlycinate, Erythritol, Prunus Armeniaca(Apricot) Seed Powder, Nelumbo Nucifera Flower Extract, Nelumbo Nucifera Seed Powder, Cucurbita Pepo(Pumpkin) Fruit Extract, Saussurea Involucrata Extract, Camellia Japonica Flower Extract, Fragrance, SimmondsiaChinensis(Jojoba) Seed Oil, PerseaGratissima(Avocado) Oil, Rosa Canina Fruit Oil, Cucurbita Pepo(Pumpkin) Seed Oil, Sodium Sweetalmondamphoacetate, Ethylhexylglycerin, Sodium cocoylglutamate, Sodium Chloride, Glyceryl caprylate, Butylene Glycol, Disodium EDTA, Limonene, Citronellol, Geraniol</p>",
             "page-content": "",
             "default-open": false
           }
         }
       },
       "block_order": [
-        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
         "options",
-        "buy-buttons",
         "b0614f42-6fa2-4642-bdf8-771d2230cf0b",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_zYg6Uj"
       ],
       "settings": {
         "container-width": 5,
@@ -136,13 +155,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_3a0ea24f-0941-47e4-ae79-5e50d352e8af.png",
+            "image": "shopify://shop_images/PC_3a0ea24f-0941-47e4-ae79-5e50d352e8af.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/7cc8924814ba42f863c4b9022bc275ea.png"
+            "mobile-image": "shopify://shop_images/7cc8924814ba42f863c4b9022bc275ea.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +169,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_addd6f88-a940-4dd4-86f8-a420e7992487.png",
+            "image": "shopify://shop_images/PC-_-_1_addd6f88-a940-4dd4-86f8-a420e7992487.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,13 +183,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_dcd871d3-2172-4e04-a74e-4127aa0f78a1.png",
+            "image": "shopify://shop_images/PC-_-_2_dcd871d3-2172-4e04-a74e-4127aa0f78a1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_4947709b-f391-4c12-b0c9-345aaf674a49.png"
+            "mobile-image": "shopify://shop_images/2_4947709b-f391-4c12-b0c9-345aaf674a49.png"
           }
         }
       },
@@ -204,7 +223,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply on hands or body. Rinse thoroughly after gently massaging.<\/p>",
+            "description": "<p>Apply on hands or body. Rinse thoroughly after gently massaging.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -213,7 +232,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Lotus Flower | Lotus Seed Power | Apricot Seed Power | Pumpkin Seed Oil | Jojoba Oil<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Propanediol, Acrylates Copolymer, Potassium Cocoate, CocamidopropylHydroxysultaine, 1,2-Hexanediol, Tromethamine, Disodium LaurethSulfosuccinate, Potassium CocoylGlutamate, Potassium CocoylGlycinate, Erythritol, Prunus Armeniaca(Apricot) Seed Powder, Nelumbo Nucifera Flower Extract, Nelumbo Nucifera Seed Powder, Cucurbita Pepo(Pumpkin) Fruit Extract, Saussurea Involucrata Extract, Camellia Japonica Flower Extract, Fragrance, SimmondsiaChinensis(Jojoba) Seed Oil, PerseaGratissima(Avocado) Oil, Rosa Canina Fruit Oil, Cucurbita Pepo(Pumpkin) Seed Oil, Sodium Sweetalmondamphoacetate, Ethylhexylglycerin, Sodium cocoylglutamate, Sodium Chloride, Glyceryl caprylate, Butylene Glycol, Disodium EDTA, Limonene, Citronellol, Geraniol<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower | Lotus Seed Power | Apricot Seed Power | Pumpkin Seed Oil | Jojoba Oil<br/><br/><strong>Ingredients</strong><br/>Water, Propanediol, Acrylates Copolymer, Potassium Cocoate, CocamidopropylHydroxysultaine, 1,2-Hexanediol, Tromethamine, Disodium LaurethSulfosuccinate, Potassium CocoylGlutamate, Potassium CocoylGlycinate, Erythritol, Prunus Armeniaca(Apricot) Seed Powder, Nelumbo Nucifera Flower Extract, Nelumbo Nucifera Seed Powder, Cucurbita Pepo(Pumpkin) Fruit Extract, Saussurea Involucrata Extract, Camellia Japonica Flower Extract, Fragrance, SimmondsiaChinensis(Jojoba) Seed Oil, PerseaGratissima(Avocado) Oil, Rosa Canina Fruit Oil, Cucurbita Pepo(Pumpkin) Seed Oil, Sodium Sweetalmondamphoacetate, Ethylhexylglycerin, Sodium cocoylglutamate, Sodium Chloride, Glyceryl caprylate, Butylene Glycol, Disodium EDTA, Limonene, Citronellol, Geraniol</p>",
             "page-content": "",
             "default-open": false
           }
@@ -222,7 +241,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Hydrating | Exfoliating | Uplifting<\/p>",
+            "description": "<p>Hydrating | Exfoliating | Uplifting</p>",
             "page-content": "",
             "default-open": false
           }
@@ -231,7 +250,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Geranium | Magnolia | Bergamot | Mint<\/p>",
+            "description": "<p>Geranium | Magnolia | Bergamot | Mint</p>",
             "page-content": "",
             "default-open": false
           }
@@ -265,7 +284,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -282,13 +301,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_3fdae11a-006b-433c-956e-212370a14fe5.png",
+            "image": "shopify://shop_images/PC_3fdae11a-006b-433c-956e-212370a14fe5.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_9c7af963-d7c7-44a8-8ad4-8c9135f7589e.png"
+            "mobile-image": "shopify://shop_images/MOBILE_9c7af963-d7c7-44a8-8ad4-8c9135f7589e.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
@@ -296,13 +315,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_-1.png",
+            "image": "shopify://shop_images/PC_-_-_-1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_-1.png"
+            "mobile-image": "shopify://shop_images/MOBILE_-_-1.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -311,13 +330,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
+            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
           }
         }
       },
@@ -361,8 +380,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -388,8 +407,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify://shop_images/MOBILE.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -425,8 +444,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -440,31 +459,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -503,8 +522,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -516,7 +535,7 @@
       "type": "apps",
       "blocks": {
         "5b1d509f-03f1-4723-bfa3-7872f6500dd4": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
