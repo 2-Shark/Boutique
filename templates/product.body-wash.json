@@ -382,15 +382,14 @@
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
-      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -398,13 +397,28 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify://shop_images/MOBILE.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "section_layout_UkY34x": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "related-products": {
@@ -416,110 +430,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "b8f597d5-408e-4e85-9e30-05801e242feb": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201862.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201724.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        },
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/202307201734.jpg",
-            "icon": "10",
-            "author-role": "",
-            "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2",
-        "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "overline": "Overline text",
-        "heading": "Testimonials",
-        "image-shape": "square",
-        "background-color": "light",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "mobile-width": "2"
-      }
-    },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 116,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-sustainable_beauty.png",
-        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
@@ -552,10 +462,8 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "section_layout_UkY34x",
     "related-products",
-    "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "b8f597d5-408e-4e85-9e30-05801e242feb",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
