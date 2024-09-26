@@ -323,6 +323,32 @@
         "spacing-below": true
       }
     },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -509,32 +535,6 @@
         "mobile-width": "2"
       }
     },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 116,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC-sustainable_beauty.png",
-        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
       "blocks": {
@@ -564,12 +564,12 @@
     "featured_text_6CPaQE",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "b8f597d5-408e-4e85-9e30-05801e242feb",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
