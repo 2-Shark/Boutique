@@ -406,6 +406,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_EmPPQ4": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_finalimage_body_wash.png",
+        "mobile-image": "shopify://shop_images/M_finalimage_body_wash.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "section_layout_UkY34x": {
       "type": "section-layout",
       "settings": {
@@ -462,6 +488,7 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "image_with_text_EmPPQ4",
     "section_layout_UkY34x",
     "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
