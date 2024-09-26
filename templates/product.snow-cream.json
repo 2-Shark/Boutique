@@ -290,23 +290,22 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
-      "disabled": true,
       "settings": {
-        "aspect-ratio": 38,
-        "container-width": 6,
+        "aspect-ratio": 166,
+        "container-width": 1,
         "spacing-above": true,
         "spacing-below": false,
         "background-color": "none",
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/크림-캡션O.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
         "button-url": "",
-        "mobile-aspect-ratio": 134
+        "mobile-aspect-ratio": 130
       }
     },
     "featured_text_taChND": {
