@@ -268,6 +268,25 @@
         "mobile-overlay": true
       }
     },
+    "featured_video_4VQqLK": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 116,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify://files/videos/스킨틴트-캡션O.mp4",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 130
+      }
+    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -727,6 +746,7 @@
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "featured_video_4VQqLK",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "featured_text_L4dccj",
