@@ -35,7 +35,7 @@
           }
         },
         "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Reduce hyperpigmentation + revitalize delicate under-eyes<\/li><li>Suppress melanin production<\/li><li>Clinically proven to diminish dark spots in 4 weeks.<\/li><\/ul>",
+            "description": "<ul><li>Reduce hyperpigmentation + revitalize delicate under-eyes</li><li>Suppress melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
             "page-content": "",
             "default-open": false
           }
@@ -164,8 +164,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_E.U._standards.png",
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -181,13 +181,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-AlphaMelight_0693ff0b-2f18-42b2-be60-45f99db626a6.png",
+            "image": "shopify://shop_images/PC-AlphaMelight_0693ff0b-2f18-42b2-be60-45f99db626a6.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/AlphaMelight_de479d25-9d71-4c66-8257-e871a2a1c9cc.png"
+            "mobile-image": "shopify://shop_images/AlphaMelight_de479d25-9d71-4c66-8257-e871a2a1c9cc.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
@@ -195,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-Lotus_Flower_Extract_ad8068ab-8d8d-4e17-a71a-05c24caf3464.png",
+            "image": "shopify://shop_images/PC-Lotus_Flower_Extract_ad8068ab-8d8d-4e17-a71a-05c24caf3464.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/Lotus_Flower_Extract.png"
+            "mobile-image": "shopify://shop_images/Lotus_Flower_Extract.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -209,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-WhiteTen_2573c876-9ebe-41c2-9352-ff8aaa85d926.png",
+            "image": "shopify://shop_images/PC-WhiteTen_2573c876-9ebe-41c2-9352-ff8aaa85d926.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/WhiteTen.png"
+            "mobile-image": "shopify://shop_images/WhiteTen.png"
           }
         }
       },
@@ -253,9 +253,9 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/아이패치-캡션O_1.mp4",
+        "video-upload": "shopify://files/videos/아이패치-캡션O_1.mp4",
         "video-url": "",
-        "image": "shopify:\/\/shop_images\/626.png",
+        "image": "shopify://shop_images/626.png",
         "heading": "",
         "sub-heading": "",
         "button-text": "",
@@ -270,7 +270,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.<\/p><p>+ By applying these patches to various parts of your face, not only the eye and cheek areas, you can achieve an overall brighter complexion, including the smile lines<\/p>",
+            "description": "<p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p><p>+ By applying these patches to various parts of your face, not only the eye and cheek areas, you can achieve an overall brighter complexion, including the smile lines</p>",
             "page-content": "",
             "default-open": false
           }
@@ -280,7 +280,7 @@
           "disabled": true,
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
             "page-content": "",
             "default-open": false
           }
@@ -289,7 +289,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Cooling  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -298,7 +298,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot       |       Lavender<\/p>",
+            "description": "<p>Bergamot       |       Lavender</p>",
             "page-content": "",
             "default-open": false
           }
@@ -341,13 +341,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/in_4_weeks_of_use_1.png",
+            "image": "shopify://shop_images/in_4_weeks_of_use_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/m_in_4_weeks_of_use.png"
+            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -355,13 +355,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_1_233d457a-9f62-4874-a9e3-ba4fd09256ef.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_1_233d457a-9f62-4874-a9e3-ba4fd09256ef.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_1.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_1.png"
           }
         },
         "image_83MPLr": {
@@ -369,13 +369,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_2_d50e494c-58f8-4b9a-a45f-4807ef615eb5.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_2_d50e494c-58f8-4b9a-a45f-4807ef615eb5.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_2.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_2.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -383,13 +383,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_Clinically_proven_3_8dff734f-58ed-4d50-a59f-755d6d9272ab.png",
+            "image": "shopify://shop_images/PC_Clinically_proven_3_8dff734f-58ed-4d50-a59f-755d6d9272ab.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_Clinically_proven_3.png"
+            "mobile-image": "shopify://shop_images/M_Clinically_proven_3.png"
           }
         }
       },
@@ -434,8 +434,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/PC_CONSUMER_SURVEY_RESULT_22b18b15-bb5a-4c95-971e-48d3623eb265.png",
-        "mobile-image": "shopify:\/\/shop_images\/636_017ee38c-afbc-4ffb-8b34-1aa1c51e5251.png",
+        "image": "shopify://shop_images/PC_CONSUMER_SURVEY_RESULT_22b18b15-bb5a-4c95-971e-48d3623eb265.png",
+        "mobile-image": "shopify://shop_images/636_017ee38c-afbc-4ffb-8b34-1aa1c51e5251.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -460,8 +460,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -486,8 +486,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_finalimage.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_finalimage.png",
+        "image": "shopify://shop_images/PC_finalimage.png",
+        "mobile-image": "shopify://shop_images/M_finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -512,8 +512,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS.png",
-        "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -529,13 +529,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_1.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_1.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
           }
         },
         "image_yABG9p": {
@@ -543,13 +543,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_2.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_2.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
           }
         },
         "image_QNXBw7": {
@@ -557,13 +557,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_PRESS_REVIEWS_3.png",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/M_PRESS_REVIEWS_3.png"
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
           }
         }
       },
@@ -588,6 +588,21 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
+      }
+    },
+    "section_layout_hBkM3V": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "related-products": {
@@ -619,8 +634,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -632,7 +647,7 @@
       "type": "apps",
       "blocks": {
         "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
             "product": "{{product}}"
           }
@@ -663,6 +678,7 @@
     "image_with_text_pFfj9M",
     "image_with_text_daaMHm",
     "slideshow_c9Nxgg",
+    "section_layout_hBkM3V",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
