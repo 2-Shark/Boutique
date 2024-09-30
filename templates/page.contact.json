@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1632436597fbc1d0e4": {
@@ -17,8 +26,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/COMPANY.png",
-        "mobile-image": "shopify:\/\/shop_images\/COMPANY-mobile.png",
+        "image": "shopify://shop_images/COMPANY.png",
+        "mobile-image": "shopify://shop_images/COMPANY-mobile.png",
         "overline": "Contact us",
         "title": "Get in touch",
         "description": "",
@@ -63,12 +72,28 @@
         "store-hours": "",
         "show-social-sharing": false
       }
+    },
+    "newsletter_HnTd9C": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our newsletter",
+        "newsletter--subheading": "<p>A short sentence describing what someone will receive by subscribing</p>",
+        "border_bottom": false
+      }
     }
   },
   "order": [
     "1632436597fbc1d0e4",
     "main",
     "16324378141979f11c",
-    "1632180071f18cee62"
+    "1632180071f18cee62",
+    "newsletter_HnTd9C"
   ]
 }
