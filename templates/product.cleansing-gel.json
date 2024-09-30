@@ -95,8 +95,8 @@
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>An 81% naturally derived formula that contains the clean and purifying power of lotus leaves.</li><li>Includes 'Calm Green' to soothe and cleanse the skin, as well as the MultiEx® Phytrogen patent formula to enhance skin elasticity.</li><li>Patented anti-aging ingredients proven effective in skin elasticity and female hormone balance are used.</li></ul>",
+            "heading": "benefits",
+            "description": "<ul><li>Removes impurities, rinsing away without residue</li><li>Cleanses without stripping skin's natural oils</li><li>Boosts collagen production & reinforces skin's barrier</li><li>Leaves a clean and refreshing finish without dryness</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -271,7 +271,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply 2-3 pumps into clean, moistened hands. Gently cleanse the face and rinse thoroughly in circular motion. Use every morning and night.</p>",
+            "description": "<p>Apply 2-3 pumps into wet palms and add water to lather on skin as the foam forms. Gently massage over skin in circular motions. Rinse thoroughly with lukewarm water.</p>",
             "page-content": "",
             "default-open": false
           }
