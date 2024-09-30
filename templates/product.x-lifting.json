@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "benefits",
-            "description": "<ul><li>A quadruple face-lifting mask with a patented design that simultaneously lifts the jawline, double chin, cheeks, and smile lines.</li><li>Clinically proven for face lifting, jawline lifting, double chin reduction, and smile line improvement have been completed.</li><li>Elastic and resilient special fabric, coupled with an ergonomic design for added comfort and effectiveness.</li><li>It can be applied to your legs or forearms as a slimming patch</li></ul>",
+            "description": "<ul><li></li><li>Clinically proven for face lifting, jawline lifting, double chin reduction, and smile line improvement have been completed.</li><li>Elastic and resilient special fabric, coupled with an ergonomic design for added comfort and effectiveness.</li><li>It can be applied to your legs or forearms as a slimming patch</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -254,6 +254,7 @@
         "play-button-style": "solid",
         "darken-video": false,
         "video-upload": "shopify://files/videos/엑스리프팅-캡션O.mp4",
+        "video-url": "",
         "image": "shopify://shop_images/8b0625389fd4b140f8740813ba30654f.png",
         "heading": "",
         "sub-heading": "",
