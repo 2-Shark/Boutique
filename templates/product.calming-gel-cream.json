@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "benefits",
-            "description": "<ul><li>Soothes and clams irritated skin from environmental stressors</li><li>Instant hydration & enhance skin barrier</li><li>Minimize pores, reduce the appearance of hyperpigmentation and dark spots for a brighter complexion.</li></ul>",
+            "description": "<ul><li>Reinforces skin's barrier with 5-layer Ceramide Complex, CeracareAC-1</li><li>Instant hydration & long-lasting moisture</li><li>Soothes and clams irritated skin from environmental stressors</li><li>Minimize pores, reduce the appearance of hyperpigmentation / dark spots</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -269,6 +269,7 @@
         "play-button-style": "solid",
         "darken-video": false,
         "video-upload": "shopify://files/videos/젤크림-캡션O.mp4",
+        "video-url": "",
         "image": "shopify://shop_images/9fc4ac0b9a4b1ada2c57dd7507568ef8.png",
         "heading": "",
         "sub-heading": "",
