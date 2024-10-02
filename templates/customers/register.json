@@ -1,1 +1,55 @@
-{"sections":{"main":{"type":"register","settings":{}}},"order":["main"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "register",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1727838135a8483bdc": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_QALHxL": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "192255",
+            "text_color": "#13613e",
+            "button_background_color": "#13613e",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#719987",
+            "errors_color": "#d44b51",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 40,
+            "padding_bottom": 40,
+            "padding_right": 10,
+            "padding_left": 10
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_QALHxL"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1727838135a8483bdc"
+  ]
+}
