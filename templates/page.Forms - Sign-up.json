@@ -77,8 +77,8 @@
         "overline": "",
         "title": "",
         "description": "",
-        "link-url": "",
-        "link-text": ""
+        "link-url": "shopify://pages/about-us",
+        "link-text": "about us"
       }
     }
   },
