@@ -43,14 +43,14 @@
     "popup--background-color": "none",
     "popup--light-text": true,
     "popup--show-image": true,
-    "popup--image": "shopify:\/\/shop_images\/US_24_sunskincare_1.png",
+    "popup--image": "shopify://shop_images/US_24_sunskincare_1.png",
     "popup--newsletter-title--rt": "",
     "popup--social-title": "",
     "popup--social--enabled": false,
-    "favicon": "shopify:\/\/shop_images\/boutijour_favicon.png",
+    "favicon": "shopify://shop_images/boutijour_favicon.png",
     "cart--type": "drawer",
-    "social--instagram--url": "https:\/\/instagram.com\/boutijour.official",
-    "social--facebook--url": "https:\/\/facebook.com\/boutijour",
+    "social--instagram--url": "https://instagram.com/boutijour.official",
+    "social--facebook--url": "https://facebook.com/boutijour",
     "social--youtube--url": "",
     "social--vimeo--url": "",
     "social--pinterest--url": "",
@@ -65,14 +65,20 @@
     ],
     "blocks": {
       "16017602894386113438": {
-        "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-store-key\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+        "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-store-key/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
         "disabled": false,
         "settings": {
           "enablePreviewMode": true
         }
       },
       "8702373454641979700": {
-        "type": "shopify:\/\/apps\/bevy-design-formerly-aiva\/blocks\/app-embed\/b8663794-257b-458b-bf0c-c04c11961de2",
+        "type": "shopify://apps/bevy-design-formerly-aiva/blocks/app-embed/b8663794-257b-458b-bf0c-c04c11961de2",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {
         }
@@ -104,20 +110,20 @@
       "product--show-new-label": true,
       "product--new-label-period": 22,
       "product--variant-style": "buttons",
-      "social--instagram--url": "https:\/\/instagram.com\/shopify",
-      "social--facebook--url": "https:\/\/facebook.com\/shopify",
-      "social--youtube--url": "https:\/\/youtube.com\/user\/shopify",
-      "social--vimeo--url": "https:\/\/vimeo.com\/shopify",
-      "social--pinterest--url": "https:\/\/pinterest.com\/shopify",
-      "social--twitter--url": "https:\/\/twitter.com\/shopify",
-      "social--tiktok--url": "https:\/\/tiktok.com\/@shopify",
+      "social--instagram--url": "https://instagram.com/shopify",
+      "social--facebook--url": "https://facebook.com/shopify",
+      "social--youtube--url": "https://youtube.com/user/shopify",
+      "social--vimeo--url": "https://vimeo.com/shopify",
+      "social--pinterest--url": "https://pinterest.com/shopify",
+      "social--twitter--url": "https://twitter.com/shopify",
+      "social--tiktok--url": "https://tiktok.com/@shopify",
       "popup--enabled": true,
       "popup--mode": "auto",
       "popup--days-range": 1,
       "popup--background-color": "dark",
       "popup--light-text": true,
       "popup--show-image": true,
-      "popup--newsletter-title--rt": "<p>Be the first to receive updates on new arrivals, special promos and sales.<\/p>",
+      "popup--newsletter-title--rt": "<p>Be the first to receive updates on new arrivals, special promos and sales.</p>",
       "bdr-color--page": "#ffffff",
       "color--link-underline": "#212121"
     },
@@ -146,13 +152,13 @@
       "product--show-new-label": false,
       "product--new-label-period": 13,
       "product--variant-style": "buttons",
-      "social--instagram--url": "https:\/\/instagram.com\/shopify",
-      "social--facebook--url": "https:\/\/facebook.com\/shopify",
-      "social--youtube--url": "https:\/\/youtube.com\/user\/shopify",
-      "social--vimeo--url": "https:\/\/vimeo.com\/shopify",
-      "social--pinterest--url": "https:\/\/pinterest.com\/shopify",
-      "social--twitter--url": "https:\/\/twitter.com\/shopify",
-      "social--tiktok--url": "https:\/\/tiktok.com\/@shopify",
+      "social--instagram--url": "https://instagram.com/shopify",
+      "social--facebook--url": "https://facebook.com/shopify",
+      "social--youtube--url": "https://youtube.com/user/shopify",
+      "social--vimeo--url": "https://vimeo.com/shopify",
+      "social--pinterest--url": "https://pinterest.com/shopify",
+      "social--twitter--url": "https://twitter.com/shopify",
+      "social--tiktok--url": "https://tiktok.com/@shopify",
       "popup--enabled": true,
       "popup--mode": "auto",
       "popup--days-range": 5,
@@ -180,13 +186,13 @@
       "product--label-shape": "square",
       "product--label-color": "accent-2",
       "product--label-light-text": false,
-      "social--instagram--url": "https:\/\/instagram.com\/shopify",
-      "social--facebook--url": "https:\/\/facebook.com\/shopify",
-      "social--youtube--url": "https:\/\/youtube.com\/user\/shopify",
-      "social--vimeo--url": "https:\/\/vimeo.com\/shopify",
-      "social--pinterest--url": "https:\/\/pinterest.com\/shopify",
-      "social--twitter--url": "https:\/\/twitter.com\/shopify",
-      "social--tiktok--url": "https:\/\/tiktok.com\/@shopify"
+      "social--instagram--url": "https://instagram.com/shopify",
+      "social--facebook--url": "https://facebook.com/shopify",
+      "social--youtube--url": "https://youtube.com/user/shopify",
+      "social--vimeo--url": "https://vimeo.com/shopify",
+      "social--pinterest--url": "https://pinterest.com/shopify",
+      "social--twitter--url": "https://twitter.com/shopify",
+      "social--tiktok--url": "https://tiktok.com/@shopify"
     }
   }
 }
