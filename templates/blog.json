@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "e20f8c30-0c1e-481d-9b97-4e9c2e0598ae": {
@@ -8,11 +17,11 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "large",
-            "image": "shopify:\/\/shop_images\/gggggg_-07.jpg",
+            "image": "shopify://shop_images/Embrace_the_Fall_Glow_-_2.png",
             "overline": "",
             "title": "blog",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": ""
           }
         }
@@ -45,10 +54,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/1ef215c4c54dc7cab050e62c17df4729.png",
+            "image": "shopify://shop_images/1ef215c4c54dc7cab050e62c17df4729.png",
             "title": "From Sunscreen to 'Sun Skincare'",
-            "description": "<p>Discover our cleanest, safest well-aging SPF Essential<\/p>",
-            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/living-with-the-sun",
+            "description": "<p>Discover our cleanest, safest well-aging SPF Essential</p>",
+            "link-url": "shopify://blogs/well-aging-know-hows-glowing-skincare/living-with-the-sun",
             "link-text": "READ more"
           }
         },
@@ -57,10 +66,10 @@
           "disabled": true,
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/10_-06.jpg",
+            "image": "shopify://shop_images/10_-06.jpg",
             "title": "How To Well-age",
-            "description": "<p>Essential well-aging secrets that inspire and elevate our everyday habits for healthier and rejuvenating life. <\/p>",
-            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/how-to-well-age",
+            "description": "<p>Essential well-aging secrets that inspire and elevate our everyday habits for healthier and rejuvenating life. </p>",
+            "link-url": "shopify://blogs/well-aging-know-hows-glowing-skincare/how-to-well-age",
             "link-text": "View more"
           }
         },
@@ -68,10 +77,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/blog_1_-03_7e573cec-79c3-4b87-ad42-9110faa479fc.jpg",
+            "image": "shopify://shop_images/blog_1_-03_7e573cec-79c3-4b87-ad42-9110faa479fc.jpg",
             "title": "We're Well-aging Skincare",
-            "description": "<p>Hello. We're Well-aging Skincare embracing the beauty of aging and nurturing natural skincare rituals with high performance.<\/p>",
-            "link-url": "shopify:\/\/blogs\/well-aging-know-hows-glowing-skincare\/we-re-well-aging-skincare",
+            "description": "<p>Hello. We're Well-aging Skincare embracing the beauty of aging and nurturing natural skincare rituals with high performance.</p>",
+            "link-url": "shopify://blogs/well-aging-know-hows-glowing-skincare/we-re-well-aging-skincare",
             "link-text": "Read more"
           }
         },
@@ -81,7 +90,7 @@
           "settings": {
             "show-image": true,
             "title": "Add a title or tagline",
-            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.<\/p>",
+            "description": "<p>Explain a set of product features, add illustrations, infographics, logo lists, or link to pages.</p>",
             "link-url": "",
             "link-text": "View more"
           }
