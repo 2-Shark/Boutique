@@ -297,6 +297,7 @@
         "options_4yyhp6",
         "buy_buttons_KFpUXR"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "container-width": 4,
@@ -308,6 +309,20 @@
         "media-gap": 8,
         "featured_product": "x-lifting-mask-1",
         "loop-enabled": false
+      }
+    },
+    "newsletter_bfAyV7": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our well-aging club",
+        "newsletter--subheading": "<p>Join us on the BOUTIJOUR Well-aging Club for the healthiest glow.</p>",
+        "border_bottom": false
       }
     }
   },
@@ -328,6 +343,7 @@
     "navigation",
     "comments",
     "recents",
-    "featured_product_U3ntG3"
+    "featured_product_U3ntG3",
+    "newsletter_bfAyV7"
   ]
 }
