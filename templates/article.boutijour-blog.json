@@ -20,6 +20,7 @@
     },
     "01174489-935f-4c6b-b659-4c1205ea8a89": {
       "type": "featured-text",
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
