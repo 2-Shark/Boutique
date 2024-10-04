@@ -50,6 +50,17 @@
     "d69da759-9852-4bc6-a3cd-7224bb99229e": {
       "type": "text-columns",
       "blocks": {
+        "image_NAcDDe": {
+          "type": "image",
+          "settings": {
+            "show-image": true,
+            "image": "shopify://shop_images/Screenshot_2024-10-04_at_6.37.02_PM.png",
+            "title": "How we decided to Well-age",
+            "description": "<p>Discover our brand story, starting from founder Jillian's multi-cultural beauty background and aesthetics.</p>",
+            "link-url": "shopify://blogs/how-we-decided-to-well-age",
+            "link-text": "View more"
+          }
+        },
         "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c": {
           "type": "image",
           "settings": {
@@ -97,6 +108,7 @@
         }
       },
       "block_order": [
+        "image_NAcDDe",
         "ab80e0bf-ac6b-43e6-8b6a-9afffe82c73c",
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-3",
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1",
