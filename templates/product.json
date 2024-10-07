@@ -341,13 +341,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/in_4_weeks_of_use_1_c4ed2499-1871-4f73-9402-7be7910ff51e.png",
+            "image": "shopify://shop_images/in_4_weeks_of_use_1_b379ee50-1e0c-4b67-b789-cd4797e102c3.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_2b6f878a-58bc-4c97-9710-d9021037c843.png"
+            "mobile-image": "shopify://shop_images/723.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -434,8 +434,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/CONSUMER_SURVEY_RESULT_1.png",
-        "mobile-image": "shopify://shop_images/636_03e3de3b-67a4-46ec-a180-1949a82a1b20.png",
+        "image": "shopify://shop_images/CONSUMER_SURVEY_RESULT_1_77ccb1d5-75a6-4968-a4cd-b8adada589fd.png",
+        "mobile-image": "shopify://shop_images/722.png",
         "overline": "",
         "title": "",
         "description": "",
