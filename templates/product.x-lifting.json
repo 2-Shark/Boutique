@@ -351,13 +351,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Xlifting_-_PC_Clinically_proven.png",
+            "image": "shopify://shop_images/Xlifting_-_PC_Clinically_proven_0d21835b-deea-4ce6-9681-dca4baba3330.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Xlifting_-_M_Clinically_proven.png"
+            "mobile-image": "shopify://shop_images/Xlifting_-_M_Clinically_proven_aaafb1b9-1918-4319-9744-1a58d242a378.png"
           }
         },
         "image_czi6bb": {
@@ -444,8 +444,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_-_CONSUMER_SURVEY_RESULT_dfdcdc8e-1334-4fd5-9336-209349d2c1eb.png",
-        "mobile-image": "shopify://shop_images/M_-_CONSUMER_SURVEY_RESULT_05a6dbb7-bed3-433a-aa38-c364d66fd5f2.png",
+        "image": "shopify://shop_images/PC_-_CONSUMER_SURVEY_RESULT_7ddbeae0-f73b-4613-a46e-b24cbf63c40c.png",
+        "mobile-image": "shopify://shop_images/M_-_CONSUMER_SURVEY_RESULT_8bfe0efd-d0e1-4b90-860a-bab0770f0d55.png",
         "overline": "",
         "title": "",
         "description": "",
