@@ -280,6 +280,7 @@
         "play-button-style": "solid",
         "darken-video": false,
         "video-upload": "shopify://files/videos/스킨틴트-캡션O.mp4",
+        "video-url": "",
         "image": "shopify://shop_images/1d5f2d365233e02d99aab7ac88ba3726.png",
         "heading": "",
         "sub-heading": "",
@@ -376,7 +377,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Skin_tint-_PC_Clinically_proven.png",
+            "image": "shopify://shop_images/Skin_tint-_PC_Clinically_proven_c0e3cf12-31b7-4dcd-bcac-447df05c77a0.png",
             "overline": "",
             "title": "",
             "description": "",
