@@ -330,13 +330,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_-Clinically_proven_652979d7-72da-450a-b3a3-32f9cf30295f.png",
+            "image": "shopify://shop_images/PC_-Clinically_proven_9048e720-7589-4616-8a20-b6a556bd4f49.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_-Clinically_proven_2e122cda-bc9e-4ddd-8954-75bc64e91004.png"
+            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_2b6f878a-58bc-4c97-9710-d9021037c843.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -393,8 +393,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-_CONSUMER_SURVEY_RESULT_36ac67d1-7e84-44a8-b26a-69feacff3d72.png",
-        "mobile-image": "shopify://shop_images/M_-_CONSUMER_SURVEY_RESULT_815c7f84-8f3d-4aa7-8bf5-38e5d0709c10.png",
+        "image": "shopify://shop_images/PC_-_CONSUMER_SURVEY_RESULT_1193dc1e-e28a-4167-ac3a-c11d0bdda7ce.png",
+        "mobile-image": "shopify://shop_images/M_-_CONSUMER_SURVEY_RESULT_6bbd29d1-5e13-4a58-b63f-1e95d7fa1e09.png",
         "overline": "",
         "title": "",
         "description": "",
