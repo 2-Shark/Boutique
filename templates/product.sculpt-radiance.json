@@ -20,7 +20,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "Sculpting Concentrated Duo full of Nourishing Ingredients"
+            "text": "Sculpting Concentrated Bundle"
           }
         },
         "vendor": {
@@ -95,7 +95,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "benefits",
-            "description": "<ul><li>Delivers antioxidant-packed hydration + nourishment</li><li>Immediately improves skin's texture, elasticity, and complexion</li><li>Infused with patented formula, Soystem & Redsnow®, to boost collagen production</li><li>Protects skin against the effects of daily environmental stressors</li></ul>",
+            "description": "<ul><li>Visibly plumps and adds definition to facial contours </li><li>Boosts skin’s natural radiance</li><li>Reduces puffiness + provides immediate nourishment</li></ul>",
             "page-content": "",
             "default-open": false
           }
