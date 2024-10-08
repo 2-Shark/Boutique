@@ -1,0 +1,602 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+          }
+        },
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "Nourishing, glow-boosting layer"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "9388a392-c75b-4f68-8e84-62846c935f00": {
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
+        "complementary-products": {
+          "type": "complementary-products",
+          "settings": {
+            "title": "Pairs well with",
+            "max-products": 2,
+            "collapsible-row-enabled": false
+          }
+        },
+        "social-sharing": {
+          "type": "social-sharing",
+          "disabled": true,
+          "settings": {
+            "facebook-enabled": true,
+            "twitter-enabled": true,
+            "pinterest-enabled": true,
+            "email-enabled": true,
+            "url-enabled": true
+          }
+        },
+        "35fabdba-a7a1-4bc2-a122-5effa977b694": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "ef005e46-1092-400f-a562-311b51df9d9e": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "benefits",
+            "description": "<ul><li>Delivers antioxidant-packed hydration + nourishment</li><li>Immediately improves skin's texture, elasticity, and complexion</li><li>Infused with patented formula, Soystem & Redsnow®, to boost collagen production</li><li>Protects skin against the effects of daily environmental stressors</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_qPPgjg": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients</strong><br/>Snow Lotus | MC-Resveratrol™ | SoyStem™ | Niacinamide | Adenosine<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Glyceryl Stearate, Niacinamide, Butyrospermum, Parkii (Shea) Butter, Cetearyl Alcohol, Ethylhexyl Palmitate, Saussurea Involucrata Extract, Nelumbo Nucifera Flower Extract, Glycine Soja (Soybean) Peptide, Camellia Japonica Flower Extract, Resveratrol, 1,2-Hexanediol, Propanediol, Cetearyl Glucoside, Arginine, Carbomer, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pelargonium Graveolens Flower Oil, Pogostemon Cablin Leaf Extract, Centella Asiatica Extract, Portulaca Oleracea Extract, Camellia Sinensis Leaf Extract, Camellia Sinensis Leaf Extract, Artemisia Capillaris Extract, Hexylene Glycol, Hydroxyacetophenone, Dipropylene Glycol, Ammonium, Acryloyldimethyltaurate/VP Copolymer, Sodium Hyaluronate, Adenosine, Disodium EDTA, Ethoxydiglycol, Poloxamer 338, Glucose, t-Butyl Alcohol, Ferulic Acid, Citric Acid, Ethylhexylglycerin, Citronellol, D-Limonene, Geraniol, Linalool</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
+        "vendor",
+        "price",
+        "options",
+        "9388a392-c75b-4f68-8e84-62846c935f00",
+        "pickup",
+        "description",
+        "buy-buttons",
+        "complementary-products",
+        "social-sharing",
+        "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_qPPgjg"
+      ],
+      "settings": {
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": false,
+        "media-layout": "thumbnails",
+        "text-column-width": 44,
+        "media-gap": 9,
+        "column-spacing": "close",
+        "text-alignment": "left",
+        "thumbnail-width": 121,
+        "heading-enabled": false,
+        "heading-sizes-enabled": true,
+        "heading-size": 45,
+        "breadcrumbs-enabled": true,
+        "modal-enabled": true,
+        "variant-scroll-enabled": true,
+        "image-zoom-enabled": true,
+        "loop-enabled": true,
+        "mobile-media-layout": "slideshow"
+      }
+    },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Snow_Lotus_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus_1.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Soystem.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Soystem.png"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Redsnow.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Redsnow.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 114,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify://files/videos/크림-캡션O.mp4",
+        "video-url": "",
+        "image": "shopify://shop_images/426943be0d60ba3f13ba7c3f5f8178b4.png",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 130
+      }
+    },
+    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "HOW TO USE",
+            "description": "<p>Apply the cream after toner and serum. Use 3-4 scoops every morning and night.<br/>*For increased results, gently massage and sculpt the skin when applying.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "TEXTURE",
+            "description": "<p>Lightweight | Creamy | Moisturizing | Quick-absorbing</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "AROMA",
+            "description": "<p>Geranium | Orange peel</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "featured_text_taChND": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Antioxidant-rich, hydrating& nourishing illuminating cream",
+        "text": ""
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_-_cream_1_889634fa-af6f-43d4-97d0-12a9c175b60e.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Cream-M_2.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 188,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_-_cream_2_68a8b1c1-ef58-4df0-9dd4-c9f66408f4e8.png",
+        "mobile-image": "shopify://shop_images/Cream-M_1_83afade9-900d-42a1-bba6-6f59a057c090.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 80,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
+        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_7af7NU": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-finalimage-cream.jpg",
+        "mobile-image": "shopify://shop_images/M_-finalimage-_-cream.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "260d160b-2e45-4d0f-87aa-3259f69332e3": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_xEwbjF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j8mkCC": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "View more",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_tayXfX": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_nMGFbK": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_j8mkCC",
+        "image_tayXfX",
+        "image_nMGFbK"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "section_layout_pdkbHf": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
+      "type": "apps",
+      "blocks": {
+        "14ae7b12-28d9-491d-a290-4b2dba0c9de7": {
+          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "14ae7b12-28d9-491d-a290-4b2dba0c9de7"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "featured_text_taChND",
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "image_with_text_7af7NU",
+    "260d160b-2e45-4d0f-87aa-3259f69332e3",
+    "slideshow_xEwbjF",
+    "section_layout_pdkbHf",
+    "related-products",
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+  ]
+}
