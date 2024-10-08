@@ -20,7 +20,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "GEL TO FOAM CLEANSER WITH VEGAN COLLAGEN"
+            "text": "Skin Barrier Repairing Bundle"
           }
         },
         "vendor": {
@@ -96,7 +96,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "benefits",
-            "description": "<ul><li>Removes impurities, rinsing away without residue</li><li>Cleanses without stripping skin's natural oils</li><li>Boosts collagen production & reinforces skin's barrier</li><li>Leaves a clean and refreshing finish without dryness</li></ul>",
+            "description": "<ul><li>Supports skin barrier function</li><li>Provides refreshing hydration</li><li>Immediately comforts skin irritated by external factors</li><li>Supports skin barrier function</li><li>Helps prevent visible signs of aging</li></ul>",
             "page-content": "",
             "default-open": false
           }
