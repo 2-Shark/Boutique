@@ -173,76 +173,6 @@
         "link-text": ""
       }
     },
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Snow_Lotus_1.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Snow_Lotus_1.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Soystem.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Soystem.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Redsnow.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Redsnow.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": true,
-        "spacing-below": true,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 106,
-        "darken-image": false,
-        "blocks_per_slide": 3,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
     "featured_text_taChND": {
       "type": "featured-text",
       "settings": {
@@ -254,6 +184,75 @@
         "overline": "",
         "heading": "Sculpting maximizer duo for a visibly plumped complexion.",
         "text": ""
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Sculpt_Radiance_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Sculpt_Radiance_1.png"
+          }
+        },
+        "image_QXHGxg": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Sculpt_Radiance_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Sculpt_Radiance_3.png"
+          }
+        },
+        "image_3yfVpq": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Sculpt_Radiance_4_1afd284a-215c-47bc-85ab-47d2ebd42a66.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Sculpt_Radiance_4_e75e5ad5-681c-4f71-901f-89a16d951fc0.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
+        "image_QXHGxg",
+        "image_3yfVpq"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
@@ -299,103 +298,105 @@
         "heading": "",
         "title-alignment": "left",
         "container-width": 4,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": true
       }
     },
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+    "featured_text_t8QxU6": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": false,
+        "overline": "",
+        "heading": "X-Lifting Mask Step-by-Step Guide",
+        "text": ""
+      }
+    },
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
           "type": "image",
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Sculpt_Radiance_1.png",
+            "image": "shopify://shop_images/PC_X-LiftingGuide_1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Sculpt_Radiance_1.png"
+            "mobile-image": "shopify://shop_images/X-LiftingGuide_1.png"
           }
         },
-        "image_QXHGxg": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
           "type": "image",
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Sculpt_Radiance_2.png",
+            "image": "shopify://shop_images/PC_X-LiftingGuide_2.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Sculpt_Radiance_3.png"
+            "mobile-image": "shopify://shop_images/X-LiftingGuide_2.png"
           }
         },
-        "image_3yfVpq": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
           "type": "image",
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Sculpt_Radiance_4.png",
+            "image": "shopify://shop_images/PC_X-LiftingGuide_3.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Sculpt_Radiance_4.png"
+            "mobile-image": "shopify://shop_images/X-LiftingGuide_3.png"
+          }
+        },
+        "image_VBDt3D": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_X-LiftingGuide_4.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/X-LiftingGuide_4.png"
           }
         }
       },
       "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "image_QXHGxg",
-        "image_3yfVpq"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "image_VBDt3D"
       ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
+        "spacing-above": true,
+        "spacing-below": true,
         "spacing-around-blocks": true,
-        "image-aspect-ratio": 46,
+        "image-aspect-ratio": 106,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "blocks_per_slide": 4,
         "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 4,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 188,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_-_cream_2_68a8b1c1-ef58-4df0-9dd4-c9f66408f4e8.png",
-        "mobile-image": "shopify://shop_images/Cream-M_1_83afade9-900d-42a1-bba6-6f59a057c090.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -596,11 +597,11 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "featured_text_taChND",
-    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "featured_text_t8QxU6",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_7af7NU",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
