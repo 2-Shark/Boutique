@@ -105,7 +105,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "full Ingredients",
-            "description": "<p><strong>LOTUS LEAF CLEANSING GEL<br/><br/>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p><p></p><p></p><p><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong></p><p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
+            "description": "<p><strong>LOTUS LEAF CLEANSING GEL<br/><br/>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p><p></p><p><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong></p><p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
@@ -172,6 +172,65 @@
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "featured_text_hARKHh": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": false,
+        "overline": "",
+        "heading": "Essential daily duo for skin barrier and healthy complexion",
+        "text": ""
+      }
+    },
+    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "HOW TO USE",
+            "description": "<p><strong>LOTUS LEAF CLEANSING GEL</strong><br/>Apply 2-3 pumps into wet palms and add water to lather on skin as the foam forms. Gently massage over skin in circular motions. Rinse thoroughly with lukewarm water.<br/></p><p><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong><br/>Layer a generous amount of toner at the start of your skincare routine. Gently tap or massage for enhanced absorption.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "TEXTURE",
+            "description": "<p>Calming | Refreshing | Hydrating</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "AROMA",
+            "description": "<p><strong>LOTUS LEAF CLEANSING GEL</strong><br/>Rosemary | Bergamot | Eucalyptus</p><p><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong><br/>Ylang ylang | Orange peel | Geranium</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
@@ -241,73 +300,6 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 116,
-        "container-width": 1,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/shopify-cleansing_최종.mp4",
-        "video-url": "",
-        "image": "shopify://shop_images/7a43692f30a88d3af9e4ea04873ee5ac.png",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 130
-      }
-    },
-    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
-      "type": "collapsible-rows",
-      "blocks": {
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "HOW TO USE",
-            "description": "<p>Apply 2-3 pumps into wet palms and add water to lather on skin as the foam forms. Gently massage over skin in circular motions. Rinse thoroughly with lukewarm water.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "TEXTURE",
-            "description": "<p>Calming | Frothy | Silky</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "AROMA",
-            "description": "<p>Rosemary | Bergamot | Eucalyptus</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
-      ],
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "heading": "",
-        "title-alignment": "left",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
       }
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
@@ -535,9 +527,9 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "featured_text_hARKHh",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "image_with_text_GHkJyP",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
