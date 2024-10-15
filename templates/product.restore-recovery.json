@@ -292,6 +292,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -300,76 +301,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Lotus_Leaf.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Lotus_Leaf.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_MultiEx_Phytrogen.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_MultiEx_Phytrogen.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Calm_Green.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Calm_Green.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": true,
-        "spacing-below": true,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 106,
-        "darken-image": false,
-        "blocks_per_slide": 3,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
@@ -404,7 +335,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
@@ -519,33 +450,6 @@
         "mobile-overlay": true
       }
     },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 50,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify://shop_images/MOBILE.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "section_layout_7Kh9VE": {
       "type": "section-layout",
       "settings": {
@@ -600,12 +504,10 @@
     "featured_text_hARKHh",
     "slideshow_H9hYfz",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "image_with_text_GHkJyP",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "section_layout_7Kh9VE",
     "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
