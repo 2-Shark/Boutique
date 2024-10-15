@@ -325,6 +325,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -341,8 +342,8 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": true,
+        "spacing-above": true,
+        "spacing-below": false,
         "image-aspect-ratio": 40,
         "mobile-image-aspect-ratio": 80,
         "darken-image": false,
@@ -367,7 +368,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
