@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -105,7 +105,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "full Ingredients",
-            "description": "<p><strong>LOTUS LEAF CLEANSING GEL<br/><br/>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p><p></p><p><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong></p><p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
+            "description": "<h4>LOTUS LEAF CLEANSING GEL</h4><p><strong>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p><p>✽</p><h4>Lotus Leaf Anti-Pollution Repairing Toner</h4><p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
             "page-content": "",
             "default-open": false
           }
