@@ -91,11 +91,20 @@
           "settings": {
           }
         },
-        "ef005e46-1092-400f-a562-311b51df9d9e": {
+        "collapsible_row_VqybWy": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>Blend of woody & floral scent<br/>delivers uplifting moment.</li><li>Anti-inflammation & Anti-oxidant</li><li>Boost collagen production</li><li>Moistturization & \bRevitalization</li></ul>",
+            "heading": "WHAT’S INSIDE",
+            "description": "<ul><li>Lotus Melight Eye Patch</li><li>Skin Tint Essence</li><li>Snowball Eye Roller</li><li>Holiday Edition Pouch</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_ThixeK": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Benefits",
+            "description": "<p>Use rows to highlight unique features, <br/>sizing information, <br/>or other sales information.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -123,7 +132,8 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_VqybWy",
+        "collapsible_row_ThixeK",
         "collapsible_row_pWiVaT"
       ],
       "settings": {
@@ -187,7 +197,7 @@
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Cream-M_1_fb3c2a7e-394f-4c46-a53a-aae4eb6f5cd1.png"
+            "mobile-image": "shopify://shop_images/boutijour-sep0141-copy.png"
           }
         },
         "image_9Ey4dj": {
@@ -243,88 +253,50 @@
         "text-color": "auto",
         "background-color": "none",
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "spacing-around-blocks": true,
         "image-aspect-ratio": 46,
         "darken-image": false,
         "blocks_per_slide": 1,
         "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 4,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
       }
     },
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Snow_Lotus_1.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Snow_Lotus_1.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Rose_hip_Oil.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Rose_hip_Oil.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
-      ],
-      "disabled": true,
+    "featured_text_LhGfQi": {
+      "type": "featured-text",
       "settings": {
-        "text-color": "auto",
         "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
         "spacing-above": true,
         "spacing-below": true,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 106,
-        "darken-image": false,
-        "blocks_per_slide": 3,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
+        "overline": "",
+        "heading": "For Glowy Cheeks & Replenishing Complexion",
+        "text": ""
+      }
+    },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 58,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-url": "https://youtu.be/KlRu8egPFw0",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 58
       }
     },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
@@ -333,8 +305,8 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "TEXTURE",
-            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing</p>",
+            "heading": "how to use",
+            "description": "<ul><li></li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -361,66 +333,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "featured_text_LhGfQi": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "rich, nourishing hydration for hand & body",
-        "text": ""
-      }
-    },
-    "image_with_text_wnmqzn": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 188,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_-_body_cream-1.png",
-        "mobile-image": "shopify://shop_images/M_-_body_cream-1.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "disabled": true,
-      "settings": {
-        "aspect-ratio": 38,
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 134
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -466,8 +378,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage_body_cream.png",
-        "mobile-image": "shopify://shop_images/M_finalimage_body_cream.png",
+        "image": "shopify://shop_images/PC_finalimage_6.png",
+        "mobile-image": "shopify://shop_images/finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -488,77 +400,6 @@
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
-      }
-    },
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_505758a9-dadd-475e-8da3-c2f07134ee7c.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_1d374135-dacc-44e2-8237-de3f2a66533d.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_-_-_1_45cbad77-3df0-4703-a198-1b0683d79984.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE_-_1_5b75a3df-53cc-4012-a0d5-41e15260241e.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": false,
-        "image-aspect-ratio": 40,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "fade",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "related-products": {
@@ -614,15 +455,12 @@
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
     "slideshow_FTQcqC",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_LhGfQi",
-    "image_with_text_wnmqzn",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_ximmWX",
     "section_layout_X8kb9U",
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
