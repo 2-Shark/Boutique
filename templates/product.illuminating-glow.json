@@ -191,13 +191,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC1.png",
+            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/boutijour-sep0141-copy.png"
+            "mobile-image": "shopify://shop_images/boutijour-sep0076.png"
           }
         },
         "image_9Ey4dj": {
@@ -205,13 +205,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC2.png",
+            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC2.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_1.png"
+            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer.png"
           }
         },
         "image_ByUzPP": {
@@ -219,13 +219,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC3.png",
+            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC3.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_3.png"
+            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer_1.png"
           }
         },
         "image_BPCE3F": {
@@ -233,13 +233,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC4.png",
+            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC-1.png",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_2.png"
+            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer_2.png"
           }
         }
       },
@@ -276,7 +276,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "For Glowy Cheeks & Replenishing Complexion",
+        "heading": "Complete rejuvenation with Illuminating Glow",
         "text": ""
       }
     },
@@ -378,8 +378,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage_6.png",
-        "mobile-image": "shopify://shop_images/finalimage.png",
+        "image": "shopify://shop_images/PC_finalimage_5.png",
+        "mobile-image": "shopify://shop_images/boutijour-sep0390.png",
         "overline": "",
         "title": "",
         "description": "",
