@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section_layout_cdDGGX": {
@@ -34,7 +34,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.<\/h1>"
+        "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.</h1>"
       }
     },
     "section_layout_GQqK9f": {
@@ -69,7 +69,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/boutijour_sep21834444444.png",
+        "image": "shopify://shop_images/boutijour_sep21834444444.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -102,7 +102,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>BOUTIJOUR is a modern, high-performance well-aging skincare brand with a Korean heritage. Living a busy life, our founder Jillian Jiyeon Yoo noticed that the modern lifestyle accelerates both internal and external aging. She decided to create a new approach to skincare that would allow her to age gracefully.<\/p>"
+        "text": "<p>BOUTIJOUR is a modern, high-performance well-aging skincare brand with a Korean heritage. In today’s fast-paced world, the demands of modern life can accelerate both internal and external aging. BOUTIJOUR offers a sensual and high-performance approach to skincare, emphasizing natural ingredients that promote graceful aging and enhance overall skin vitality. Our products are formulated to address skin aging concerns in a delightful and effective rituals. By nourishing and protecting the skin, we help individuals embrace their aging journey with confidence and maintain a radiant complexion.</p>"
       }
     },
     "section_layout_GVGVVh": {
@@ -137,8 +137,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_8_9081a5f7-f9fb-4d9c-affc-e3b95647ff16.png",
-        "mobile-image": "shopify:\/\/shop_images\/iPad_Pro_12.9_9_db5f0b7d-5506-4830-a6fb-66381fb0db2a.png",
+        "image": "shopify://shop_images/iPad_Pro_12.9_8_9081a5f7-f9fb-4d9c-affc-e3b95647ff16.png",
+        "mobile-image": "shopify://shop_images/iPad_Pro_12.9_9_db5f0b7d-5506-4830-a6fb-66381fb0db2a.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -171,7 +171,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>Redefining the concept of anti-aging to well-aging, BOUTIJOUR offers a holistic, effective, and indulgent experience that enhances and beautifies everyone's aging journey. The products are formulated with high performance botanical Korean ingredients.<\/p>"
+        "text": "<p>Redefining the concept of anti-aging to well-aging, BOUTIJOUR offers a holistic, effective, and indulgent experience that enhances and beautifies everyone's aging journey. The products are formulated with high performance botanical Korean ingredients.</p>"
       }
     },
     "section_layout_8XGC8e": {
@@ -206,7 +206,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/2f727e56baf815cafb7f9767c2dd5ce9.jpg",
+        "image": "shopify://shop_images/2f727e56baf815cafb7f9767c2dd5ce9.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -239,7 +239,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>In 2017, Jillian discovered the lotus flower, a symbol of birth and purification in Korea. She was inspired by its resilience and began researching its potential benefits. Lotus, which grows in challenging conditions but blooms beautifully, reminded her of the Korean people's resilience in the face of adversity.<\/p>"
+        "text": "<p>In 2017, Jillian discovered the lotus flower, a symbol of birth and purification in Korea. She was inspired by its resilience and began researching its potential benefits. Lotus, which grows in challenging conditions but blooms beautifully, reminded her of the Korean people's resilience in the face of adversity.</p>"
       }
     },
     "section_layout_7yftTk": {
@@ -274,7 +274,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_7.png",
+        "image": "shopify://shop_images/iPad_Pro_12.9_7.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -307,7 +307,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>In skincare, the lotus flower is an effective anti-aging ingredient that provides hydration, purification, and boosts skin resilience. Powered by lotus, our products rejuvenate both the mind and soul. Combining the most advanced technology with effective anti-aging formulas, and sensual aesthetics, BOUTIJOUR's vision is to inspire and support every woman on their aging journey.<\/p>"
+        "text": "<p>In skincare, the lotus flower is an effective anti-aging ingredient that provides hydration, purification, and boosts skin resilience. Powered by lotus, our products rejuvenate both the mind and soul. Combining the most advanced technology with effective anti-aging formulas, and sensual aesthetics, BOUTIJOUR's vision is to inspire and support every woman on their aging journey.</p>"
       }
     },
     "image_with_text_qxQrqh": {
@@ -327,7 +327,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/iPad_Pro_12.9_4.png",
+        "image": "shopify://shop_images/iPad_Pro_12.9_4.png",
         "overline": "",
         "title": "",
         "description": "",
