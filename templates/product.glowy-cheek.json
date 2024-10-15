@@ -173,6 +173,90 @@
         "link-text": ""
       }
     },
+    "slideshow_FTQcqC": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PCLwkn": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Cream-M_1_fb3c2a7e-394f-4c46-a53a-aae4eb6f5cd1.png"
+          }
+        },
+        "image_9Ey4dj": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_1.png"
+          }
+        },
+        "image_ByUzPP": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_3.png"
+          }
+        },
+        "image_BPCE3F": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_PC4.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Glowy_Cheek_Skin_Tint_2.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_PCLwkn",
+        "image_9Ey4dj",
+        "image_ByUzPP",
+        "image_BPCE3F"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -224,6 +308,7 @@
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -289,45 +374,6 @@
         "overline": "",
         "heading": "rich, nourishing hydration for hand & body",
         "text": ""
-      }
-    },
-    "slideshow_FTQcqC": {
-      "type": "slideshow",
-      "blocks": {
-        "image_PCLwkn": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_-_body_cream.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_-_body_cream.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_PCLwkn"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 46,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 4,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "image_with_text_wnmqzn": {
@@ -567,10 +613,10 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "slideshow_FTQcqC",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_LhGfQi",
-    "slideshow_FTQcqC",
     "image_with_text_wnmqzn",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
