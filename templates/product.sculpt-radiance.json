@@ -432,7 +432,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
