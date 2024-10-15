@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<p><strong>Snow Lotus Lifting Cream</strong></p><ul><li>Delivers antioxidant-packed hydration + illuminating glow</li><li>Supports skin barrier function</li><li>Improves skin's texture, elasticity, and complexion</li><li>Non-comedogenic</li></ul><p></p><p><strong>Relief Sun Moisture</strong></p><ul><li>Clinically proven to improve skin hydration</li><li>Shields against UVA, UVB, and Blue Light</li><li>Gives ultimate hydration and silky glow</li><li>Non-comedogenic, non-stimulating</li></ul>",
+            "description": "<h4>Snow Lotus Lifting Cream</h4><ul><li>Delivers antioxidant-packed hydration + illuminating glow</li><li>Supports skin barrier function</li><li>Improves skin's texture, elasticity, and complexion</li><li>Non-comedogenic</li></ul><p><br/>✽</p><h4>Relief Sun Moisture</h4><ul><li>Clinically proven to improve skin hydration</li><li>Shields against UVA, UVB, and Blue Light</li><li>Gives ultimate hydration and silky glow</li><li>Non-comedogenic, non-stimulating</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -325,6 +325,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -342,7 +343,7 @@
         "background-color": "none",
         "container-width": 6,
         "spacing-above": false,
-        "spacing-below": true,
+        "spacing-below": false,
         "image-aspect-ratio": 40,
         "mobile-image-aspect-ratio": 80,
         "darken-image": false,
@@ -367,7 +368,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
