@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -378,8 +378,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_-_cream_2_68a8b1c1-ef58-4df0-9dd4-c9f66408f4e8.png",
-        "mobile-image": "shopify://shop_images/Cream-M_1_83afade9-900d-42a1-bba6-6f59a057c090.png",
+        "image": "shopify://shop_images/PC_-_cream_2_3c1316ac-6ec8-45a8-87f1-b81c0420217d.png",
+        "mobile-image": "shopify://shop_images/Cream-M_1_fb3c2a7e-394f-4c46-a53a-aae4eb6f5cd1.png",
         "overline": "",
         "title": "",
         "description": "",
