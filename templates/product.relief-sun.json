@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -281,8 +281,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify://files/videos/릴리프선-캡션O_5cecdd9a-096d-4052-a761-0d67c066af73.mp4",
-        "video-url": "",
+        "video-url": "https://youtube.com/watch?v=/Vfe5GTbwDAo?feature=share",
         "image": "shopify://shop_images/9819e13272354db095da63c0391d5537.png",
         "heading": "",
         "sub-heading": "",
