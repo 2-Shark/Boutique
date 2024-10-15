@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
@@ -29,7 +29,7 @@
         "image_desktop": "shopify://shop_images/M_Main-03.png",
         "image_desktop_right": "shopify://shop_images/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
         "header": "Beautify your<br>aging journey.",
-        "body": "The advanced technology<br>With Korean heritage.",
+        "body": "The advanced technologyWith Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://pages/best-sellers"
       }
