@@ -104,7 +104,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<p>Use rows to highlight unique features, <br/>sizing information, <br/>or other sales information.</p>",
+            "description": "<h4>Lotus Melight Eye Patch</h4><ul><li>Reduces hyperpigmentation + revitalizes delicate under-eye area</li><li>Suppresses melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks</li></ul><p>✽</p><h4>Skin Tint Essence</h4><ul><li>Clinically proven to improve skin hydration</li><li>Shields against UVA, UVB, and Blue Light</li><li>Provides ultimate hydration and sheer brightening coverage</li><li>Non-comedogenic, non-irritating</li></ul>",
             "page-content": "",
             "default-open": false
           }
