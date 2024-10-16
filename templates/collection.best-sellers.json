@@ -1,0 +1,85 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection--header",
+      "settings": {
+        "show-title": true,
+        "title-alignment": "left",
+        "show-description": true,
+        "description-alignment": "with-title",
+        "show-image": true,
+        "use-image-fallback": true,
+        "image-aspect-ratio": 30,
+        "mobile-image-aspect-ratio": 40,
+        "alt-color": true,
+        "apply-overlay": false,
+        "parallax-enabled": false
+      }
+    },
+    "navigation": {
+      "type": "collection--navigation",
+      "settings": {
+        "show-browse-button": true,
+        "show-sort-button": true,
+        "show-refine-button": true,
+        "show-layout-buttons": true,
+        "show-collections-list": false,
+        "custom-list-collections": "main-menu",
+        "show-sort-list": true,
+        "show-refine-list": true,
+        "swatches-enabled": false,
+        "show-search-link": true
+      }
+    },
+    "main": {
+      "type": "collection--body",
+      "settings": {
+        "products-per-row--desktop": 4,
+        "products-per-row--mobile": "1",
+        "number-of-rows": 4
+      }
+    },
+    "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "10",
+        "inner_padding_top_mobile": "10",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "e30185d6-13c4-4327-948c-7db17782cb84": {
+      "type": "recent-products",
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "heading": "Recently viewed",
+        "title-alignment": "center",
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "navigation",
+    "main",
+    "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18",
+    "e30185d6-13c4-4327-948c-7db17782cb84"
+  ]
+}
