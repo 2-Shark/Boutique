@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color--accent-1": "#3a7762",
@@ -55,7 +55,7 @@
     "social--vimeo--url": "",
     "social--pinterest--url": "",
     "social--twitter--url": "",
-    "social--tiktok--url": "",
+    "social--tiktok--url": "https://www.tiktok.com/@boutijour",
     "checkout_accent_color": "#13613e",
     "checkout_button_color": "#13613e",
     "bdr-color--page": "#ffffff",
