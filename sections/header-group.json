@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header Group",
@@ -20,8 +20,8 @@
         "home-page-only": false,
         "background-color": "light",
         "light-text": true,
-        "text": "FREE INTERNATIONAL USA & CANADA SHIPPING OVER $110 PURCHASE + AUTUMN GIFTS.",
-        "link": "shopify:\/\/collections\/best-sellers"
+        "text": "FREE INTERNATIONAL USA & CANADA SHIPPING OVER $110 PURCHASE + SKINCARE SAMPLES.",
+        "link": "shopify://collections/best-sellers"
       }
     },
     "header": {
@@ -29,7 +29,7 @@
       "settings": {
         "background-color": "light",
         "light-text": false,
-        "logo": "shopify:\/\/shop_images\/logo_website.png",
+        "logo": "shopify://shop_images/logo_website.png",
         "logo-position": "center",
         "logo-height": 40,
         "fix-enabled": true,
