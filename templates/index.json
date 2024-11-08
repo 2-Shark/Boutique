@@ -29,7 +29,7 @@
         "image_desktop": "shopify://shop_images/M_Main-03.png",
         "image_desktop_right": "shopify://shop_images/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
         "header": "Beautify your<br>aging journey.",
-        "body": "The advanced technology<br>With Korean heritage.",
+        "body": "The advanced technologyWith Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://pages/best-sellers"
       }
@@ -110,8 +110,7 @@
         "template--21214598922527__5a6473ff-b578-4d67-8ae9-23e0f4ea16e5-logo_addition-5",
         "92e1f10d-b878-43a0-beb4-fd2f3a7c2b52"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "c9b8c308-8b6a-40d1-9945-c181f1987811": {
       "type": "disrupt-block-aging",
