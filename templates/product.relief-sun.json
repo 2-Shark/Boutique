@@ -31,6 +31,10 @@
           "type": "price",
           "settings": {}
         },
+        "judge_me_reviews_preview_badge_ExMaYn": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "733cd013-8537-4721-9b43-8d35f46f82b7": {
           "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
           "settings": {
@@ -121,6 +125,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
+        "judge_me_reviews_preview_badge_ExMaYn",
         "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
         "pickup",
