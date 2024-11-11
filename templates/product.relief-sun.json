@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "733cd013-8537-4721-9b43-8d35f46f82b7": {
           "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
@@ -54,13 +51,11 @@
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -91,8 +86,7 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -688,18 +682,16 @@
         "spacing-below": true
       }
     },
-    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
+    "1731293312c66d00cd": {
       "type": "apps",
       "blocks": {
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
+        "judge_me_reviews_review_widget_f9cQLA": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0"
+        "judge_me_reviews_review_widget_f9cQLA"
       ],
       "settings": {
         "background-color": "none",
@@ -726,6 +718,6 @@
     "slideshow_hminhJ",
     "section_layout_pJX9fy",
     "related-products",
-    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+    "1731293312c66d00cd"
   ]
 }
