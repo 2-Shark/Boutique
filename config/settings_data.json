@@ -60,9 +60,7 @@
     "checkout_button_color": "#13613e",
     "bdr-color--page": "#ffffff",
     "color--link-underline": "#212121",
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "16017602894386113438": {
         "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-store-key/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
@@ -74,20 +72,22 @@
       "8702373454641979700": {
         "type": "shopify://apps/bevy-design-formerly-aiva/blocks/app-embed/b8663794-257b-458b-bf0c-c04c11961de2",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "13768625480086291342": {
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "11560147490181472608": {
         "type": "shopify://apps/rivo-loyalty-referrals/blocks/app-embed/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
