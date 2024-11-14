@@ -27,8 +27,8 @@
       "type": "disrupt-banner-double",
       "settings": {
         "image_desktop": "shopify://shop_images/M_Main-03.png",
-        "image_desktop_right": "shopify://shop_images/M_Main-02_ff2a9b60-c0f1-4bdc-802d-6ea4c01a10a7.png",
-        "header": "Beautify youraging journey.",
+        "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
+        "header": "Beautify your<br>aging journey.",
         "body": "The advanced technology<br>With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://pages/best-sellers"
@@ -144,8 +144,7 @@
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify://shop_images/PC_Main-05.png",
-        "image_mobile_l": "shopify://shop_images/M_Main-05.png",
+        "image_desktop_l": "shopify://shop_images/main-3-PC.jpg",
         "image_desktop_r": "shopify://shop_images/PC_Main-06_60561d10-6ed6-4792-b6b6-addde7324e27.png",
         "image_mobile_r": "shopify://shop_images/M_Main-06_d5f750d7-847e-4899-8cd3-398871f5340c.png"
       }
