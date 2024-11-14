@@ -13,14 +13,12 @@
   "sections": {
     "announcement": {
       "type": "announcement",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "home-page-only": false,
         "background-color": "light",
         "light-text": true,
-        "text": "FREE INTERNATIONAL USA & CANADA SHIPPING OVER $110 PURCHASE + SKINCARE SAMPLES.",
+        "text": "FREE INTERNATIONAL SHIPPING OVER $110 PURCHASE + WELL-AGING SKINCARE SAMPLES.",
         "link": "shopify://collections/best-sellers"
       }
     },
