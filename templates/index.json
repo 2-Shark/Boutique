@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/mainimage-pc.jpg",
-        "image_tablet": "shopify://shop_images/mainimage-m.jpg",
-        "image_mobile": "shopify://shop_images/mainimage-m.jpg",
+        "image_desktop": "shopify://shop_images/1_c072bbfa-de3d-49e1-aaff-d67b53c896c6.jpg",
+        "image_tablet": "shopify://shop_images/27.jpg",
+        "image_mobile": "shopify://shop_images/27.jpg",
         "eyebrow": "Start your well-aging journey",
         "header": "Well-aging Skincare From Korea",
         "cta": "SHOP NOW",
@@ -26,9 +26,10 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/M_Main-03.png",
+        "image_desktop": "shopify://shop_images/boutijour-sep2426.jpg",
+        "image_mobile": "shopify://shop_images/boutijour-sep2426_7860eb69-3ffb-4203-9fc2-d7f75ba094f4.jpg",
         "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
-        "header": "Beautify your<br>aging journey.",
+        "header": "Beautify youra<br>ging journey.",
         "body": "The advanced technology<br>With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://pages/best-sellers"
@@ -135,18 +136,17 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/PC_Main-04.png",
-        "image_mobile": "shopify://shop_images/M_Main-04.png",
-        "image_desktop_r": "shopify://shop_images/24_Jan_PC-skintest.png",
-        "image_mobile_r": "shopify://shop_images/24_Jan_M-skintest.png"
+        "image_desktop": "shopify://shop_images/P1010588_b84adef6-6adb-42d2-8df9-2492f23d6a80.jpg",
+        "image_mobile": "shopify://shop_images/P1010588.jpg",
+        "image_desktop_r": "shopify://shop_images/45282e1aa61f86b291444a999afe51fd.jpg",
+        "image_mobile_r": "shopify://shop_images/171f3c4047be3b825a5ffbb116257247.jpg"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify://shop_images/main-3-PC.jpg",
-        "image_desktop_r": "shopify://shop_images/PC_Main-06_60561d10-6ed6-4792-b6b6-addde7324e27.png",
-        "image_mobile_r": "shopify://shop_images/M_Main-06_d5f750d7-847e-4899-8cd3-398871f5340c.png"
+        "image_desktop_l": "shopify://shop_images/boutijour-sep0737.jpg",
+        "image_desktop_r": "shopify://shop_images/18.jpg"
       }
     },
     "anti-aging-icon": {
@@ -194,9 +194,9 @@
         "aae0c60c-b575-4278-b74a-806cba3e934a": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify://shop_images/PC_Main-07.png",
-            "image_mobile": "shopify://shop_images/M_Main-07.png",
-            "header": "GLASS GLOW<br>SKINCARE",
+            "image_desktop": "shopify://shop_images/24.jpg",
+            "image_mobile": "shopify://shop_images/24_c7459fdf-787a-4da1-bfd6-0ec29463f89a.jpg",
+            "header": "GLASS GLOWSKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/glass-glow-skincare"
           }
@@ -204,7 +204,7 @@
         "cb8656e2-1cf7-4f4e-a4cf-66a2c21c4c74": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify://shop_images/M_Main-08_db5d2b27-8e5b-4a81-b795-37e46f7bc153.png",
+            "image_desktop": "shopify://shop_images/25.jpg",
             "header": "DEPUFFING& DETOXING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/dipuffing-detoxing"
@@ -213,9 +213,8 @@
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify://shop_images/202307202608_copy.jpg",
-            "image_mobile": "shopify://shop_images/202307202608_copy.jpg",
-            "header": "SCULPTING<br>& LIFTING",
+            "image_desktop": "shopify://shop_images/boutijour-sep2654-copy.jpg",
+            "header": "SCULPTING& LIFTING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/lifting-sculting"
           }
@@ -223,9 +222,8 @@
         "bbb42d47-16aa-413a-8001-977a1105bf14": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify://shop_images/M_Main-10.png",
-            "image_mobile": "shopify://shop_images/M_Main-10.png",
-            "header": "EXTREME<br>SUN LOVERS",
+            "image_desktop": "shopify://shop_images/26.jpg",
+            "header": "EXTREMESUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://collections/suncare"
           }
