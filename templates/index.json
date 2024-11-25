@@ -29,7 +29,7 @@
         "image_desktop": "shopify://shop_images/boutijour-sep2426.jpg",
         "image_mobile": "shopify://shop_images/boutijour-sep2426_7860eb69-3ffb-4203-9fc2-d7f75ba094f4.jpg",
         "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
-        "header": "Beautify youra<br>ging journey.",
+        "header": "Beautify your<br>aging journey.",
         "body": "The advanced technology<br>With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://pages/best-sellers"
@@ -196,7 +196,7 @@
           "settings": {
             "image_desktop": "shopify://shop_images/24.jpg",
             "image_mobile": "shopify://shop_images/24_c7459fdf-787a-4da1-bfd6-0ec29463f89a.jpg",
-            "header": "GLASS GLOWSKINCARE",
+            "header": "GLASS GLOW<br>SKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/glass-glow-skincare"
           }
@@ -214,7 +214,7 @@
           "type": "image_text",
           "settings": {
             "image_desktop": "shopify://shop_images/boutijour-sep2654-copy.jpg",
-            "header": "SCULPTING& LIFTING",
+            "header": "SCULPTING<br>& LIFTING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/lifting-sculting"
           }
@@ -223,7 +223,7 @@
           "type": "image_text",
           "settings": {
             "image_desktop": "shopify://shop_images/26.jpg",
-            "header": "EXTREMESUN LOVERS",
+            "header": "EXTREME<br>SUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://collections/suncare"
           }
