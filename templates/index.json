@@ -29,10 +29,10 @@
         "image_desktop": "shopify://shop_images/boutijour-sep2426.jpg",
         "image_mobile": "shopify://shop_images/boutijour-sep2426_7860eb69-3ffb-4203-9fc2-d7f75ba094f4.jpg",
         "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
-        "header": "Beautify your<br>aging journey.",
-        "body": "The advanced technology<br>With Korean heritage.",
+        "header": "Beautify youraging journey.",
+        "body": "The advanced technologyWith Korean heritage.",
         "cta": "SHOP",
-        "link": "shopify://pages/best-sellers"
+        "link": "shopify://collections/best-sellers"
       }
     },
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5": {
@@ -196,7 +196,7 @@
           "settings": {
             "image_desktop": "shopify://shop_images/24.jpg",
             "image_mobile": "shopify://shop_images/24_c7459fdf-787a-4da1-bfd6-0ec29463f89a.jpg",
-            "header": "GLASS GLOW<br>SKINCARE",
+            "header": "GLASS GLOWSKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/glass-glow-skincare"
           }
