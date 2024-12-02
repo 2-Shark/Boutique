@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -20,25 +20,16 @@
         },
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
-        },
-        "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -50,21 +41,19 @@
             "size-chart-content": ""
           }
         },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
             "smart-payment-enabled": true
-          }
-        },
-        "pickup": {
-          "type": "pickup",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "complementary-products": {
@@ -88,14 +77,13 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)<\/li><li>Effectively blocks both ultraviolet UVA and UVB rays.<\/li><li>Soothes areas affected by blue light and UV exposure & nourishes the skin with a replenishing and natural glow<\/li><li>Provides essential hydration and soothing benefits.<\/li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.<\/li><\/ul>",
+            "description": "<ul><li>Vegan & well-aging formula to protect skin from UV rays and blue light. (SPF 50+ ++++)</li><li>Effectively blocks both ultraviolet UVA and UVB rays.</li><li>Soothes areas affected by blue light and UV exposure & nourishes the skin with a replenishing and natural glow</li><li>Provides essential hydration and soothing benefits.</li><li>Developed in partnership with various professionals and dermatologists, it expertly combines chemical and mineral sunscreens to create a formula that reduces irritation and avoids leaving a white film on the skin.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -104,7 +92,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate<\/p>",
+            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate</p>",
             "page-content": "",
             "default-open": false
           }
@@ -115,11 +103,10 @@
         "heading",
         "vendor",
         "price",
-        "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
-        "buy-buttons",
         "pickup",
         "description",
+        "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
@@ -165,8 +152,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-mother_s_day-banner_2af69d04-bb62-424c-9a1d-5cc4bc40febd.jpg",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE_mother_s_day-banner.jpg",
+        "image": "shopify://shop_images/PC-mother_s_day-banner_2af69d04-bb62-424c-9a1d-5cc4bc40febd.jpg",
+        "mobile-image": "shopify://shop_images/MOBILE_mother_s_day-banner.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -182,13 +169,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_730c8347-7736-499b-bbbb-b1007b5b6617.jpg",
+            "image": "shopify://shop_images/PC_730c8347-7736-499b-bbbb-b1007b5b6617.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/de70e566eb63f142d5cf65abca62b287.jpg"
+            "mobile-image": "shopify://shop_images/de70e566eb63f142d5cf65abca62b287.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -196,13 +183,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_e5ffca7c-54c9-43b3-8e59-197f5cb791aa.jpg",
+            "image": "shopify://shop_images/PC-_1_e5ffca7c-54c9-43b3-8e59-197f5cb791aa.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_0132a9ed-dd69-4c8b-a4f3-12a3f3606894.jpg"
+            "mobile-image": "shopify://shop_images/1_0132a9ed-dd69-4c8b-a4f3-12a3f3606894.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -210,13 +197,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_3.jpg",
+            "image": "shopify://shop_images/PC-_3.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_84b2d461-077a-45a9-b130-f26cb6a75775.jpg"
+            "mobile-image": "shopify://shop_images/2_84b2d461-077a-45a9-b130-f26cb6a75775.jpg"
           }
         },
         "image_hFaHXw": {
@@ -224,11 +211,11 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_2_da9f2f5a-d2a7-4599-99e5-0534b05aa538.jpg",
+            "image": "shopify://shop_images/PC-_2_da9f2f5a-d2a7-4599-99e5-0534b05aa538.jpg",
             "overline": "Overline text",
             "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
             "link-text": "View more"
           }
         },
@@ -237,11 +224,11 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_3_5d8331b6-965a-4a93-a52a-709578040692.jpg",
+            "image": "shopify://shop_images/PC-_3_5d8331b6-965a-4a93-a52a-709578040692.jpg",
             "overline": "Overline text",
             "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
             "link-text": "View more"
           }
         },
@@ -250,13 +237,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_4.jpg",
+            "image": "shopify://shop_images/PC-_4.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/6_9b3c56b7-a5d8-4e6e-a4b9-84252c95a4aa.jpg"
+            "mobile-image": "shopify://shop_images/6_9b3c56b7-a5d8-4e6e-a4b9-84252c95a4aa.jpg"
           }
         }
       },
@@ -293,7 +280,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Use 2-3 drops as the last step in your skincare routine.<\/p>",
+            "description": "<p>Use 2-3 drops as the last step in your skincare routine.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -302,7 +289,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br\/><br\/><strong>Ingredients<\/strong><br\/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic \/ Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla\/Jojoba\/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Calendula  Flower | Centella Asiatica<br/><br/><strong>Ingredients</strong><br/>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic / Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance</p>",
             "page-content": "",
             "default-open": false
           }
@@ -311,7 +298,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Soothing  |  Dewy  |  Hydrating<\/p>",
+            "description": "<p>Soothing  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -320,7 +307,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Signature Damask Rose Scent<\/p>",
+            "description": "<p>Signature Damask Rose Scent</p>",
             "page-content": "",
             "default-open": false
           }
@@ -359,8 +346,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -376,13 +363,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-sun-duo.jpg",
+            "image": "shopify://shop_images/PC-sun-duo.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_sun-duo.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_sun-duo.jpg"
           }
         },
         "image_GMD3yN": {
@@ -390,13 +377,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-sun-duo_1.jpg",
+            "image": "shopify://shop_images/PC-sun-duo_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_sun-duo_1.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_sun-duo_1.jpg"
           }
         }
       },
@@ -430,13 +417,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_50bec53e-4534-4512-876a-7bbe10d6ea1c.png",
+            "image": "shopify://shop_images/PC-_-_1_50bec53e-4534-4512-876a-7bbe10d6ea1c.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_1_a806327b-8909-417c-b479-2dc5d6717598.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_1_a806327b-8909-417c-b479-2dc5d6717598.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -444,13 +431,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_4ea41633-9297-4b9c-b558-a5c2a7f50e7c.png",
+            "image": "shopify://shop_images/PC-_-_2_4ea41633-9297-4b9c-b558-a5c2a7f50e7c.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_2_c93aac59-56fb-401f-b7df-d89d951bf7c9.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_2_c93aac59-56fb-401f-b7df-d89d951bf7c9.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -458,13 +445,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_e2a89ff7-6c1b-43b4-b36d-bce9a5868e86.png",
+            "image": "shopify://shop_images/PC-_-_3_e2a89ff7-6c1b-43b4-b36d-bce9a5868e86.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_33814640-641b-421f-82b7-4bcda15732e7.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_33814640-641b-421f-82b7-4bcda15732e7.png"
           }
         }
       },
@@ -503,7 +490,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/글로벌선크림_F.mp4",
+        "video-upload": "shopify://files/videos/글로벌선크림_F.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -520,13 +507,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-skintint_2_14e3ceb8-6154-4fdb-a591-298d4bee6ff6.jpg",
+            "image": "shopify://shop_images/PC-skintint_2_14e3ceb8-6154-4fdb-a591-298d4bee6ff6.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_3.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_reliefsun_3.jpg"
           }
         },
         "image_nGAa49": {
@@ -537,9 +524,9 @@
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_reliefsun_4.jpg"
+            "mobile-image": "shopify://shop_images/MOBILE_reliefsun_4.jpg"
           }
         }
       },
@@ -594,8 +581,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -620,8 +607,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -631,17 +618,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
