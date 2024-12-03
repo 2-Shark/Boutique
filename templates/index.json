@@ -30,9 +30,35 @@
         "image_mobile": "shopify://shop_images/2_8a7c77dd-2513-4bd5-91e0-d43277300548.jpg",
         "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
         "header": "Design Your Own Holiday Set",
-        "body": "The advanced technologyWith Korean heritage.",
+        "body": "The advanced technology<br>With Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://collections/best-sellers"
+      }
+    },
+    "image_with_text_mLnPBj": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 104,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/BOUTIJOUR-382.jpg",
+        "mobile-image": "shopify://shop_images/3_1a69543f-c654-4dab-9b26-37bf7b152e4c.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "shopify://collections/2024-holiday-home-spa-collection",
+        "link-text": "Holiday Home Spa Collection"
       }
     },
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5": {
@@ -388,6 +414,7 @@
   "order": [
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2",
     "71abef73-9e41-4268-855f-afba83392ef9",
+    "image_with_text_mLnPBj",
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5",
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
     "b69860be-717b-4156-b06f-e6dbbea974f2",
