@@ -161,96 +161,6 @@
         "link-text": ""
       }
     },
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Lotus_Leaf.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Lotus_Leaf.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_MultiEx_Phytrogen.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_MultiEx_Phytrogen.png"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Calm_Green.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Calm_Green.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": true,
-        "spacing-below": true,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 106,
-        "darken-image": false,
-        "blocks_per_slide": 3,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 116,
-        "container-width": 1,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/shopify-cleansing_최종.mp4",
-        "video-url": "",
-        "image": "shopify://shop_images/7a43692f30a88d3af9e4ea04873ee5ac.png",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 130
-      }
-    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -287,6 +197,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -295,6 +206,32 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
+      }
+    },
+    "image_with_text_GHkJyP": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/BOUTIJOUR-128.jpg",
+        "mobile-image": "shopify://shop_images/Set_-_M.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
@@ -316,32 +253,6 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
         "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "image_with_text_GHkJyP": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/Cleanse_-_PC_finalimage.png",
-        "mobile-image": "shopify://shop_images/Cleanser_-_M_finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -511,11 +422,9 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "image_with_text_GHkJyP",
+    "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
