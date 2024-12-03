@@ -13,10 +13,10 @@
       "type": "disrupt-main-banner",
       "settings": {
         "image_desktop": "shopify://shop_images/1_544ddefe-81f5-42f1-ba83-713c3cd89188.jpg",
-        "image_tablet": "shopify://shop_images/27.jpg",
-        "image_mobile": "shopify://shop_images/27.jpg",
-        "eyebrow": "Start your well-aging journey",
-        "header": "Well-aging Skincare From Korea",
+        "image_tablet": "shopify://shop_images/27_d1680670-c8c1-4daa-b401-4c21167becd7.jpg",
+        "image_mobile": "shopify://shop_images/27_71582dd3-895e-41f1-8864-7dfa4ad35d9b.jpg",
+        "eyebrow": "Experience our holiday home-spa rituals",
+        "header": "Embrace Self-Care & Radiant Glow",
         "cta": "SHOP NOW",
         "link": "shopify://pages/shop-all",
         "inner_padding_left_right": "185",
@@ -26,10 +26,10 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/boutijour-sep2426.jpg",
-        "image_mobile": "shopify://shop_images/boutijour-sep2426_7860eb69-3ffb-4203-9fc2-d7f75ba094f4.jpg",
+        "image_desktop": "shopify://shop_images/boutijour-sep2038.jpg",
+        "image_mobile": "shopify://shop_images/2_8a7c77dd-2513-4bd5-91e0-d43277300548.jpg",
         "image_desktop_right": "shopify://shop_images/main-2-PC.jpg",
-        "header": "Beautify your<br>aging journey.",
+        "header": "Design Your Own Holiday Set",
         "body": "The advanced technologyWith Korean heritage.",
         "cta": "SHOP",
         "link": "shopify://collections/best-sellers"
