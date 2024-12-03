@@ -43,7 +43,7 @@
     "main": {
       "type": "collection--body",
       "settings": {
-        "products-per-row--desktop": 4,
+        "products-per-row--desktop": 3,
         "products-per-row--mobile": "1",
         "number-of-rows": 4
       }
