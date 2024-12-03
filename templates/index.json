@@ -267,6 +267,7 @@
     },
     "106354e2-d471-4368-8771-3834b878d36e": {
       "type": "disrupt-block-essentials",
+      "disabled": true,
       "settings": {
         "header": "Holiday Home Spa Collection",
         "link": "shopify://collections/2024-holiday-home-spa-collection",
