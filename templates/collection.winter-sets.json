@@ -1,7 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-header": {
       "type": "collection--header",
+      "disabled": true,
       "settings": {
         "show-title": true,
         "title-alignment": "left",
@@ -41,6 +51,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_PVRiER": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/homespa-_PC.jpg",
+        "mobile-image": "shopify://shop_images/homespa-_M_166edea1-fe7d-4070-9486-b0735aad8200.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "navigation": {
       "type": "collection--navigation",
       "settings": {
@@ -59,9 +95,9 @@
     "main": {
       "type": "collection--body",
       "settings": {
-        "products-per-row--desktop": 4,
+        "products-per-row--desktop": 3,
         "products-per-row--mobile": "1",
-        "number-of-rows": 4
+        "number-of-rows": 3
       }
     },
     "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18": {
@@ -94,6 +130,7 @@
   "order": [
     "collection-header",
     "9b9b627e-7fd4-4939-8fea-c1309b5b0e5f",
+    "image_with_text_PVRiER",
     "navigation",
     "main",
     "e6c9e7c3-cbfc-439a-9aaa-f44cfb3a1b18",
