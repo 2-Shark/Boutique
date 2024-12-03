@@ -142,8 +142,8 @@
     "c9b8c308-8b6a-40d1-9945-c181f1987811": {
       "type": "disrupt-block-aging",
       "settings": {
-        "header": "Best Sellers",
-        "eyebrow": "WELL-AGING SKINCARE ESSENTIALS",
+        "header": "Mindful home-spa essentials",
+        "eyebrow": "Discover our winter best-selling items",
         "cta": "SHOP ALL",
         "link": "shopify://collections/best-sellers",
         "collection": "am-sun-protection-pm-rinse-off",
@@ -268,9 +268,9 @@
     "106354e2-d471-4368-8771-3834b878d36e": {
       "type": "disrupt-block-essentials",
       "settings": {
-        "header": "Autumn Radiance essentials",
-        "link": "",
-        "collection": "routine-for-dewy-glass-skin",
+        "header": "Holiday Home Spa Collection",
+        "link": "shopify://collections/2024-holiday-home-spa-collection",
+        "collection": "2024-holiday-home-spa-collection",
         "max-products": 8,
         "background-color": "none",
         "light-text": false,
