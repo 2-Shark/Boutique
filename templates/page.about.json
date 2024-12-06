@@ -9,49 +9,6 @@
  */
 {
   "sections": {
-    "section_layout_cdDGGX": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "30",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
-    "featured_text_nWgUBP": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.</h1>"
-      }
-    },
-    "section_layout_GQqK9f": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "0",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
     "16324732604d3e7054": {
       "type": "image-with-text",
       "settings": {
@@ -77,35 +34,20 @@
         "link-text": ""
       }
     },
-    "section_layout_LxhFMP": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "32",
-        "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_desktop": "32",
-        "inner_padding_bottom_mobile": "0",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
-    "16324732989269ca2c": {
+    "featured_text_nWgUBP": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 2,
+        "container-width": 4,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>BOUTIJOUR is a modern, high-performance well-aging skincare brand with a Korean heritage. In today’s fast-paced world, the demands of modern life can accelerate both internal and external aging. BOUTIJOUR offers a sensual and high-performance approach to skincare, emphasizing natural ingredients that promote graceful aging and enhance overall skin vitality. Our products are formulated to address skin aging concerns in a delightful and effective rituals. By nourishing and protecting the skin, we help individuals embrace their aging journey with confidence and maintain a radiant complexion.</p>"
+        "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.</h1>"
       }
     },
-    "section_layout_GVGVVh": {
+    "section_layout_LxhFMP": {
       "type": "section-layout",
       "settings": {
         "snippet_name": "",
@@ -125,23 +67,22 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 2,
+        "container-width": 3,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 76,
+        "image-aspect-ratio": 104,
+        "mobile-image-aspect-ratio": 106,
         "darken-image": false,
         "parallax-enabled": false,
-        "text-position": "center",
+        "text-position": "right",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/iPad_Pro_12.9_8_9081a5f7-f9fb-4d9c-affc-e3b95647ff16.png",
-        "mobile-image": "shopify://shop_images/iPad_Pro_12.9_9_db5f0b7d-5506-4830-a6fb-66381fb0db2a.png",
+        "image": "shopify://shop_images/About_us_1.jpg",
         "overline": "",
         "title": "",
-        "description": "",
+        "description": "<h6></h6><h6><strong>ABOUT US</strong></h6><h6></h6><p>BOUTIJOUR is a well-aging skincare brand rooted in Korean heritage, dedicated to helping individuals embrace the beauty of aging gracefully. In today’s fast-paced world, where both natural and external factors accelerate the aging process, BOUTIJOUR offers effective and indulgent skincare solutions designed to enhance vitality and celebrate the aging journey. Our products are crafted with high performance natural, cruelty-free ingredients, bringing mindfulness and sensorial care into daily self-care routines.</p>",
         "link-url": "",
         "link-text": ""
       }
@@ -161,43 +102,15 @@
         "page_width_mobile": "default"
       }
     },
-    "featured_text_diTEgn": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>BOUTIJOUR redefines anti-aging as \"well-aging,\" offering a holistic, effective, and indulgent experience that enhances and beautifies skin at every age. Our core botanical ingredient, the Lotus Flower, sourced from Korea, is renowned for its purifying and resilient properties, also promoting to find mindfulness and self-care, even amidst the demands of modern life.</p>"
-      }
-    },
-    "section_layout_8XGC8e": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "32",
-        "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_desktop": "32",
-        "inner_padding_bottom_mobile": "0",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
     "163247330191cc65e8": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 2,
+        "container-width": 3,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 60,
+        "image-aspect-ratio": 104,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
         "parallax-enabled": false,
@@ -206,10 +119,10 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/2f727e56baf815cafb7f9767c2dd5ce9.jpg",
+        "image": "shopify://shop_images/About_us_2.jpg",
         "overline": "",
         "title": "",
-        "description": "",
+        "description": "<h6></h6><h6><strong>OUR STORY</strong></h6><p></p><p>In 2017, Jillian Jiyeon Yoo, our founder and CEO, was inspired by the challenges of modern life. She recognized that people today face multiple types of aging—both the natural process and the effects of external stressors. Jillian envisioned a holistic skincare brand to help people age gracefully, focusing on safe, high-performance formulas. Drawing on the purification and resilience of the Lotus Flower—a symbol of vitality in Korean culture—she developed holistic products that nourish and protect the skin while embracing natural beauty.</p>",
         "link-url": "",
         "link-text": ""
       }
@@ -229,17 +142,29 @@
         "page_width_mobile": "default"
       }
     },
-    "featured_text_dWV6j6": {
-      "type": "featured-text",
+    "image_with_text_bdwRkh": {
+      "type": "image-with-text",
       "settings": {
+        "text-color": "auto",
         "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
+        "container-width": 3,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 106,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "bottom",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/iPad_Pro_12.9_7.png",
         "overline": "",
-        "heading": "",
-        "text": "<p>Jillian Jiyeon Yoo, our founder, embarked on her journey in 2017, rediscovering the Lotus Flower, a potent symbol of resilience and vitality in Korean culture. Inspired by its ability to flourish in challenging environments, she sought to create skincare products that prevent and slow down the signs of aging using safe, sustainable, and high-performance natural formulas. Driven by a desire to avoid harmful chemicals, Jillian focused on developing high-performance formulas using carefully selected and high quality ingredients. </p>"
+        "title": "",
+        "description": "<h6></h6><h6><strong>Our Hero Ingredient: The Lotus Flower</strong></h6><p></p><p>The Lotus Flower, the heart of BOUTIJOUR, symbolizes resilience and transformation. It thrives in challenging environments, emerging as the most purifying bloom rich in antioxidants and renowned for its purifying properties. Lotus revitalizes the skin, promoting hydration and radiance while serving as a reminder of the beauty in perseverance.</p>",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "section_layout_7yftTk": {
@@ -257,27 +182,52 @@
         "page_width_mobile": "default"
       }
     },
-    "image_with_text_bdwRkh": {
+    "image_with_text_qxQrqh": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 2,
+        "container-width": 3,
         "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 60,
+        "spacing-below": true,
+        "image-aspect-ratio": 104,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
         "parallax-enabled": false,
-        "text-position": "center",
+        "text-position": "right",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/iPad_Pro_12.9_7.png",
+        "image": "shopify://shop_images/iPad_Pro_12.9_4.png",
         "overline": "",
         "title": "",
-        "description": "",
+        "description": "<p></p><h6><strong>Our Purpose: Well-Aging</strong></h6><p><br/>At BOUTIJOUR, we redefine aging as a journey to be celebrated, not resisted. Well-aging is about embracing every phase of life with confidence, grace, and vitality. By addressing the challenges of both natural and external aging, we empower individuals to nurture their skin and enhance their natural beauty.</p>",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_fgRXBH": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 104,
+        "mobile-image-aspect-ratio": 106,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "left",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/About_us_3.jpg",
+        "overline": "",
+        "title": "",
+        "description": "<p></p><h6><strong>Our Promise</strong></h6><p><br/>BOUTIJOUR transforms everyday skincare into meaningful moments of self-care. Our products provide an indulgent yet practical experience, allowing you to enjoy even the briefest pauses in your routine. With natural, effective formulations, BOUTIJOUR helps you look and feel your best, one ritual at a time.</p><p>Let BOUTIJOUR inspire you to age gracefully and confidently, with radiant, healthy skin that reflects your inner beauty.</p>",
         "link-url": "",
         "link-text": ""
       }
@@ -297,44 +247,6 @@
         "page_width_mobile": "default"
       }
     },
-    "featured_text_GqWqdX": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>By combining cutting-edge technology with effective anti-aging formulas and a sensual aesthetic, BOUTIJOUR aims to inspire and support women on their aging journey.</p>"
-      }
-    },
-    "image_with_text_qxQrqh": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/iPad_Pro_12.9_4.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "main": {
       "type": "page",
       "disabled": true,
@@ -349,25 +261,18 @@
     }
   },
   "order": [
-    "section_layout_cdDGGX",
-    "featured_text_nWgUBP",
-    "section_layout_GQqK9f",
     "16324732604d3e7054",
+    "featured_text_nWgUBP",
     "section_layout_LxhFMP",
-    "16324732989269ca2c",
-    "section_layout_GVGVVh",
     "image_with_text_N9ARxX",
     "section_layout_Mc8dJx",
-    "featured_text_diTEgn",
-    "section_layout_8XGC8e",
     "163247330191cc65e8",
     "section_layout_jUfqPG",
-    "featured_text_dWV6j6",
-    "section_layout_7yftTk",
     "image_with_text_bdwRkh",
-    "section_layout_hNxrcy",
-    "featured_text_GqWqdX",
+    "section_layout_7yftTk",
     "image_with_text_qxQrqh",
+    "image_with_text_fgRXBH",
+    "section_layout_hNxrcy",
     "main"
   ]
 }
