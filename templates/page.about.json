@@ -17,7 +17,7 @@
         "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 102,
+        "image-aspect-ratio": 116,
         "mobile-image-aspect-ratio": 142,
         "darken-image": false,
         "parallax-enabled": false,
@@ -26,12 +26,27 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/boutijour_sep21834444444.png",
+        "image": "shopify://shop_images/About_us_5.jpg",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "section_layout_LxhFMP": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "32",
+        "inner_padding_top_mobile": "0",
+        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_mobile": "0",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "featured_text_nWgUBP": {
@@ -47,7 +62,7 @@
         "text": "<h1>Modern Well-aging Skincare with Korean heritage holistic wellness.</h1>"
       }
     },
-    "section_layout_LxhFMP": {
+    "section_layout_Mc8dJx": {
       "type": "section-layout",
       "settings": {
         "snippet_name": "",
@@ -69,7 +84,7 @@
         "background-color": "none",
         "container-width": 3,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 104,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
@@ -79,27 +94,12 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/About_us_1.jpg",
+        "image": "shopify://shop_images/About_us_1_db4a254e-a5a2-4b71-bc60-75920d399179.jpg",
         "overline": "",
         "title": "",
         "description": "<h6></h6><h6><strong>ABOUT US</strong></h6><h6></h6><p>BOUTIJOUR is a well-aging skincare brand rooted in Korean heritage, dedicated to helping individuals embrace the beauty of aging gracefully. In today’s fast-paced world, where both natural and external factors accelerate the aging process, BOUTIJOUR offers effective and indulgent skincare solutions designed to enhance vitality and celebrate the aging journey. Our products are crafted with high performance natural, cruelty-free ingredients, bringing mindfulness and sensorial care into daily self-care routines.</p>",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "section_layout_Mc8dJx": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "32",
-        "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_desktop": "32",
-        "inner_padding_bottom_mobile": "0",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
       }
     },
     "163247330191cc65e8": {
@@ -109,7 +109,7 @@
         "background-color": "none",
         "container-width": 3,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 104,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
@@ -149,7 +149,7 @@
         "background-color": "none",
         "container-width": 3,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 46,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
@@ -176,7 +176,7 @@
         "text_color": "",
         "inner_padding_top_desktop": "32",
         "inner_padding_top_mobile": "0",
-        "inner_padding_bottom_desktop": "32",
+        "inner_padding_bottom_desktop": "52",
         "inner_padding_bottom_mobile": "0",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
@@ -199,7 +199,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/iPad_Pro_12.9_4.png",
+        "image": "shopify://shop_images/About_us_4.jpg",
         "overline": "",
         "title": "",
         "description": "<p></p><h6><strong>Our Purpose: Well-Aging</strong></h6><p><br/>At BOUTIJOUR, we redefine aging as a journey to be celebrated, not resisted. Well-aging is about embracing every phase of life with confidence, grace, and vitality. By addressing the challenges of both natural and external aging, we empower individuals to nurture their skin and enhance their natural beauty.</p>",
@@ -214,7 +214,7 @@
         "background-color": "none",
         "container-width": 3,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 104,
         "mobile-image-aspect-ratio": 106,
         "darken-image": false,
@@ -262,10 +262,10 @@
   },
   "order": [
     "16324732604d3e7054",
-    "featured_text_nWgUBP",
     "section_layout_LxhFMP",
-    "image_with_text_N9ARxX",
+    "featured_text_nWgUBP",
     "section_layout_Mc8dJx",
+    "image_with_text_N9ARxX",
     "163247330191cc65e8",
     "section_layout_jUfqPG",
     "image_with_text_bdwRkh",
