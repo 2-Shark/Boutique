@@ -163,6 +163,83 @@
         "link-text": ""
       }
     },
+    "slideshow_CAPtat": {
+      "type": "slideshow",
+      "blocks": {
+        "image_cmhNh6": {
+          "type": "image",
+          "settings": {
+            "text-position": "center",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Toner_1_52b91faa-4aa2-463b-8d18-2b551113bc8b.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "STEP 01"
+          }
+        },
+        "image_MnKEce": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        },
+        "image_kqCDJU": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        },
+        "image_Nhg369": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_cmhNh6",
+        "image_MnKEce",
+        "image_kqCDJU",
+        "image_Nhg369"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 200,
+        "darken-image": false,
+        "blocks_per_slide": 4,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": false
+      }
+    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -170,13 +247,14 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply 2-3 pumps into wet palms and add water to lather on skin as the foam forms. Gently massage over skin in circular motions. Rinse thoroughly with lukewarm water.</p>",
+            "description": "<p><strong>After cleansing your skin, follow these steps:<br/></strong></p><ol><li><strong>Repairing Toner</strong>: A non-sticky, lightweight formula designed to repair and restore skin, soothing irritation caused by environmental factors.<br/></li><li><strong>Calming Gel Cream</strong>: Enriched with anti-inflammatory ingredients like Green Tea and Centella Asiatica, this cream hydrates and calms your skin.<br/></li><li><strong>Eye Patches</strong>: Nourish and brighten the under-eye area while helping to suppress melanin production for a more radiant look.<br/></li><li><strong>Lifting Cream</strong>: Seal in hydration with the power of Snow Lotus, revitalizing dull skin and delivering anti-aging ingredients that boost collagen production.<br/></li><li><strong>Sunscreen</strong>: Shield your skin from daily aging factors while leaving it with a natural, healthy glow.</li></ol>",
             "page-content": "",
             "default-open": false
           }
         },
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "TEXTURE",
             "description": "<p>Calming | Frothy | Silky</p>",
@@ -186,6 +264,7 @@
         },
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "AROMA",
             "description": "<p>Rosemary | Bergamot | Eucalyptus</p>",
@@ -199,7 +278,6 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
-      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -424,6 +502,7 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "slideshow_CAPtat",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "image_with_text_GHkJyP",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
