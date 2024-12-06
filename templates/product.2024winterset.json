@@ -163,83 +163,6 @@
         "link-text": ""
       }
     },
-    "slideshow_CAPtat": {
-      "type": "slideshow",
-      "blocks": {
-        "image_cmhNh6": {
-          "type": "image",
-          "settings": {
-            "text-position": "center",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Toner_1_52b91faa-4aa2-463b-8d18-2b551113bc8b.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "STEP 01"
-          }
-        },
-        "image_MnKEce": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        },
-        "image_kqCDJU": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        },
-        "image_Nhg369": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        }
-      },
-      "block_order": [
-        "image_cmhNh6",
-        "image_MnKEce",
-        "image_kqCDJU",
-        "image_Nhg369"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 200,
-        "darken-image": false,
-        "blocks_per_slide": 4,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 134,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": false
-      }
-    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -502,7 +425,6 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "slideshow_CAPtat",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "image_with_text_GHkJyP",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
