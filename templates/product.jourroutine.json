@@ -160,6 +160,19 @@
         "link-text": ""
       }
     },
+    "featured_text_LhGfQi": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h6>If You Need a deep hydration</h6>"
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -167,14 +180,14 @@
           "type": "image",
           "settings": {
             "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Snow_Lotus_1.png",
+            "text-width": "small",
+            "image": "shopify://shop_images/PC_Lotus_Leaf_Cleansing_Gel.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "/",
+            "link-url": "shopify://products/lotus-leaf-cleansing-gel",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Snow_Lotus_1.png"
+            "mobile-image": "shopify://shop_images/M_Cleansing_Gel.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -182,13 +195,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.png",
+            "image": "shopify://shop_images/PC_g_Toner.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "/",
+            "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.png"
+            "mobile-image": "shopify://shop_images/M_Lotus_Leaf_Anti_PollutionReparing_Toner.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -196,13 +209,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Rose_hip_Oil.png",
+            "image": "shopify://shop_images/PC_Gel_Cream.jpg",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "/",
+            "link-url": "shopify://products/lotus-leaf-calming-gel-cream",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Rose_hip_Oil.png"
+            "mobile-image": "shopify://shop_images/M_Lotus_Leaf_Calming_Gel_Cream.jpg"
           }
         }
       },
@@ -214,7 +227,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": true,
         "spacing-around-blocks": true,
         "image-aspect-ratio": 106,
@@ -222,7 +235,171 @@
         "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
-        "rotate-frequency": 7,
+        "rotate-frequency": 3,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "featured_text_9jPdGf": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h6>If you need a daily rejuvenation</h6>"
+      }
+    },
+    "slideshow_EgyNBH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Gj4peP": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Lifting_Cream.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/snow-lotus-lifting-cream",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus_Lifting_Cream.jpg"
+          }
+        },
+        "image_itgHfJ": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Eye_Patch.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/lotus-melight-eyepatch",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Lotus_Melight_Eye_Patch.jpg"
+          }
+        },
+        "image_wQHjzg": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Relief_Sun_Moisture.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/relief-sun-moisture",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Relief_Sun_Moisture.jpg"
+          }
+        },
+        "image_WBmLh6": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Relief_Sun_Moisture_1.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/les-bois-rejuvenate-body-cream",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus_Lifting_Cream_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Gj4peP",
+        "image_itgHfJ",
+        "image_wQHjzg",
+        "image_WBmLh6"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "featured_text_GKME4D": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h6>If you need an advanced treatment</h6>"
+      }
+    },
+    "slideshow_CPJCp9": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XzaBhU": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_M_Skin_Tint_Essence_1.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/x-lifting-mask-1",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_X-Lifting_Mask.jpg"
+          }
+        },
+        "image_UwyMeG": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Ceramic_Bouti_Guasha.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "shopify://products/ceramic-bouti-guasha",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_guasha.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_XzaBhU",
+        "image_UwyMeG"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 3,
         "transition_type": "slide",
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
@@ -255,6 +432,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -263,19 +441,6 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
-      }
-    },
-    "featured_text_LhGfQi": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "rich, nourishing hydration for hand & body",
-        "text": ""
       }
     },
     "slideshow_FTQcqC": {
@@ -299,6 +464,7 @@
       "block_order": [
         "image_PCLwkn"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -319,6 +485,7 @@
     },
     "image_with_text_wnmqzn": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -392,6 +559,7 @@
     },
     "image_with_text_ximmWX": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -554,9 +722,13 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_LhGfQi",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "featured_text_9jPdGf",
+    "slideshow_EgyNBH",
+    "featured_text_GKME4D",
+    "slideshow_CPJCp9",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "slideshow_FTQcqC",
     "image_with_text_wnmqzn",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
