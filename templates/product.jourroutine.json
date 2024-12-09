@@ -19,7 +19,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "Nourishing body cream with 93% natural formula"
+            "text": "For your mindful holiday home-spa moment"
           }
         },
         "vendor": {
@@ -50,6 +50,10 @@
           "type": "description",
           "settings": {}
         },
+        "globo_product_option_app_block_9g9Jj7": {
+          "type": "shopify://apps/globo-product-option/blocks/app-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+          "settings": {}
+        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
@@ -78,24 +82,6 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
           "settings": {}
-        },
-        "ef005e46-1092-400f-a562-311b51df9d9e": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "WHAT IT DOES",
-            "description": "<ul><li>Blend of woody & floral scent<br/>delivers uplifting moment.</li><li>Anti-inflammation & Anti-oxidant</li><li>Boost collagen production</li><li>Moistturization & \bRevitalization</li></ul>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "collapsible_row_pWiVaT": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "full Ingredients",
-            "description": "<p><strong>Key Ingredients</strong><br/>Avocado Oil | Narcissus Flower | Jojoba Seed Oil</p><p><br/><strong>Ingredients</strong><br/>Water, Propylene Glycol Dicaprylate/Dicaprate, Cetyl Ethylhexanoate, 1,2-Hexanediol, Glycerin, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, 2,3-Butanediol, Dipropylene Glycol, Persea Gratissima (Avocado) Oil, Macadamia Integrifolia/ Tetraphylla Sced Oil, Narcissus Tazetta Extract, Betaine, Glyceryl Stearate, Malt Extract, Simmondsia Chinensis (Jojoba) Seed Oil, Ethylhex-yl Olivate, Butylene Glycol, Sodium Acrylates Copolymer, Glyceryl Stearate Citrate, Polyglycer-yl-4 Oleate, Ethylhexylglycerin, Fragrance, Linalool, Limonene</p>",
-            "page-content": "",
-            "default-open": false
-          }
         }
       },
       "block_order": [
@@ -106,12 +92,11 @@
         "options",
         "pickup",
         "description",
+        "globo_product_option_app_block_9g9Jj7",
         "buy-buttons",
         "complementary-products",
         "social-sharing",
-        "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_pWiVaT"
+        "35fabdba-a7a1-4bc2-a122-5effa977b694"
       ],
       "settings": {
         "container-width": 5,
@@ -132,6 +117,32 @@
         "image-zoom-enabled": true,
         "loop-enabled": true,
         "mobile-media-layout": "slideshow"
+      }
+    },
+    "image_with_text_ximmWX": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_Holiday_Routine_cdad0370-1a7e-4f67-8739-1d66466a0024.jpg",
+        "mobile-image": "shopify://shop_images/PC_Holiday_Routine_cdad0370-1a7e-4f67-8739-1d66466a0024.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "5dc9f552-4580-4447-8abe-673add963394": {
@@ -557,33 +568,6 @@
         "link-text": ""
       }
     },
-    "image_with_text_ximmWX": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage_body_cream.png",
-        "mobile-image": "shopify://shop_images/M_finalimage_body_cream.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "section_layout_X8kb9U": {
       "type": "section-layout",
       "settings": {
@@ -721,6 +705,7 @@
   },
   "order": [
     "main",
+    "image_with_text_ximmWX",
     "5dc9f552-4580-4447-8abe-673add963394",
     "featured_text_LhGfQi",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
@@ -733,7 +718,6 @@
     "image_with_text_wnmqzn",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
-    "image_with_text_ximmWX",
     "section_layout_X8kb9U",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "related-products",
