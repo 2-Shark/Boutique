@@ -81,7 +81,9 @@
 
         {%- if property_size > 0 -%}
           {%- for property in item.properties -%}
-            {%- unless property.last == blank -%}
+           {% assign first_character_in_key = property.first | truncate: 1, '' %}
+        {% unless property.last == blank or first_character_in_key == '_' %}
+
               <br>
               {{ property.first }}:
               {% comment %} Check if there was an uploaded file associated {% endcomment %}
