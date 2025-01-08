@@ -93,7 +93,8 @@ setTimeout(function(){s();},to)};
     </noscript>
 
     {{ content_for_header }}
-  </head>
+  {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+</head>
 
   <body
     class="template--{{ template | split: '.' | first | remove: '_' | replace: '/', '--' }} page--{{ page_title | handle }}{% if customer %} customer-logged-in{% endif %}"

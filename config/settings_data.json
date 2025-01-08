@@ -86,6 +86,11 @@
         "type": "shopify://apps/globo-product-option/blocks/app-embed-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
         "disabled": false,
         "settings": {}
+      },
+      "7555218208816688692": {
+        "type": "shopify://apps/rivo-popups-email-pop-ups/blocks/app-embed/48a5a3ef-b6ff-431f-842f-6f17862c4a63",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
