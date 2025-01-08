@@ -86,11 +86,6 @@
         "type": "shopify://apps/globo-product-option/blocks/app-embed-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
         "disabled": false,
         "settings": {}
-      },
-      "13375938897875554821": {
-        "type": "shopify://apps/qikify-sales-pop-up/blocks/app-embed/688dd516-1cdc-4008-8329-23089a1c4e24",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
