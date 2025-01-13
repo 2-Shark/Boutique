@@ -289,7 +289,6 @@
     },
     "featured-blog": {
       "type": "featured-blog",
-      "disabled": true,
       "settings": {
         "aspect-ratio": "landscape",
         "container-width": 4,
