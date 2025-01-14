@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "blog": {
     "all": "Everything",
@@ -269,7 +278,7 @@
       "login_title": "Enter store using password",
       "login_button": "enter",
       "login_cancel": "Go Back",
-      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}",
+      "powered_by_shopify_html": " ",
       "shopify_info": "Create your own online store with Shopify",
       "sub_title": "This is a message for your visitors, you edit this in your admin",
       "title": "Opening Soon"
@@ -364,6 +373,11 @@
       "price": "34.99",
       "product_title": "Product title",
       "vendor": "Vendor"
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
