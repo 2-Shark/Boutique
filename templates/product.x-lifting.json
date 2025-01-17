@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "cfad2fcd-4772-46b2-937b-769c4794fb7b": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -88,14 +77,13 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
             "heading": "benefits",
-            "description": "<ul><li>Immadiate depuffing and hydration for dry, dull-looking skin.</li><li>Instant improvement of skin's texture, elasticity, and complexion</li><li>Clinically proven for face lifting, jawline lifting, double chin reduction, and smile line improvement have been completed.</li></ul>",
+            "description": "<ul><li>Immediate depuffing and hydration for dry, dull-looking skin.</li><li>Instant improvement of skin's texture, elasticity, and complexion</li><li>Clinically proven for face lifting, jawline lifting, double chin reduction, and smile line improvement have been completed.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -116,7 +104,6 @@
         "vendor",
         "price",
         "options",
-        "cfad2fcd-4772-46b2-937b-769c4794fb7b",
         "pickup",
         "description",
         "buy-buttons",
@@ -654,17 +641,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "e411c03f-fc0a-41df-a483-5a205d19b0f2": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "e411c03f-fc0a-41df-a483-5a205d19b0f2"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
