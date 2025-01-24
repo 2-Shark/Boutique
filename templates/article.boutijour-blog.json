@@ -87,20 +87,6 @@
         "text": "<p><strong>Prioritize Nutritious Eating</strong></p><p>A well-balanced diet plays a crucial role in well-aging. Consuming a variety of nutrient-rich foods can provide the body with the vitamins, minerals, and antioxidants it needs to function optimally. Focus on a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. Adequate hydration is also vital for maintaining skin elasticity and overall health.</p>"
       }
     },
-    "ffd2f915-28cd-4bcf-8711-8f6c4332823a": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "03",
-        "heading": "",
-        "text": "<p><strong>Stay Physically Active</strong></p><p>Regular physical activity is a cornerstone of well-aging. Exercise not only helps to maintain a healthy weight but also keeps muscles strong, bones dense, and joints flexible. Engaging in activities such as walking, swimming, yoga, or strength training can improve cardiovascular health, balance, and overall mobility.</p><p></p>"
-      }
-    },
     "e30a8f30-a16e-4215-b305-31a4550d167a": {
       "type": "image-with-text",
       "disabled": true,
@@ -143,6 +129,45 @@
       }
     },
     "f62c2563-f9d5-48b0-9324-3f770a6f5cc4": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 92,
+        "mobile-image-aspect-ratio": 110,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "bottom",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/boutijour0925.jpg",
+        "mobile-image": "shopify://shop_images/boutijour0925.jpg",
+        "overline": "Our Approach to",
+        "title": " Aging Gracefully",
+        "description": "<p>Aging is a natural process, but with mindful habits and effective skincare, you can embrace it beautifully. By protecting your skin, nourishing your body, and fostering a calm and balanced mind, you can maintain a youthful glow and confidence at every stage of life. Incorporate these practices into your daily routine for long-term benefits, and remember, beauty is not just skin deep—it's a reflection of your overall well-being.</p>",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "ffd2f915-28cd-4bcf-8711-8f6c4332823a": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "anti-aging",
+        "heading": "Recommended Skin Care Routine",
+        "text": ""
+      }
+    },
+    "image_with_text_UL9G7y": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
@@ -201,7 +226,7 @@
         "background-color": "none",
         "container-width": 2,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 98,
         "mobile-image-aspect-ratio": 110,
         "darken-image": false,
@@ -218,6 +243,44 @@
         "description": "<p>Prevent photo aging, hydrate and smooth the skin with SPF 50+ PA++++</p>",
         "link-url": "shopify://products/relief-sun-moisture",
         "link-text": "Relief Sun Moisture (SPF 50+ PA++++) $36"
+      }
+    },
+    "featured_collection_cbbmTf": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1"
+      }
+    },
+    "featured_blog_EbUKnP": {
+      "type": "featured-blog",
+      "settings": {
+        "aspect-ratio": "landscape",
+        "container-width": 4,
+        "blog-heading": "BLOG",
+        "blog": "well-aging-know-hows-glowing-skincare",
+        "tag-select": "pinned",
+        "show-date": true,
+        "show-excerpt": true,
+        "view-more-text": "View more",
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "border_bottom": false,
+        "page_width_desktop": "full",
+        "page_width_mobile": "full"
       }
     },
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
@@ -285,7 +348,7 @@
     "recents": {
       "type": "article-recents",
       "settings": {
-        "enable": true,
+        "enable": false,
         "aspect-ratio": "landscape"
       }
     },
@@ -365,12 +428,15 @@
     "c144a42c-baf1-4229-ab29-1cebd32bdb16",
     "d7d70280-fed4-4379-9f34-8dd6abc15010",
     "abc0869b-0fc7-4eb7-a205-abe115314046",
-    "ffd2f915-28cd-4bcf-8711-8f6c4332823a",
     "e30a8f30-a16e-4215-b305-31a4550d167a",
     "9b12fec8-c4be-4d4b-967d-af20db91c876",
     "f62c2563-f9d5-48b0-9324-3f770a6f5cc4",
+    "ffd2f915-28cd-4bcf-8711-8f6c4332823a",
+    "image_with_text_UL9G7y",
     "image_with_text_NR8ctp",
     "image_with_text_Kqhfwn",
+    "featured_collection_cbbmTf",
+    "featured_blog_EbUKnP",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
     "9c7e19eb-4fab-4759-8e30-c2dac7432a53",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
