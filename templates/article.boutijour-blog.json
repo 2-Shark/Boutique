@@ -59,34 +59,6 @@
         "link-text": ""
       }
     },
-    "d7d70280-fed4-4379-9f34-8dd6abc15010": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "01",
-        "heading": "",
-        "text": "<p><strong>Embrace a Positive Mindset</strong></p><p>Well-aging begins with a positive mindset. Embracing the aging process as a natural part of life can significantly impact how we experience it. Cultivating a positive attitude can reduce stress, boost mental health, and increase resilience in the face of challenges. Instead of fearing wrinkles or gray hair, consider them as badges of experience and wisdom earned over the years.</p>"
-      }
-    },
-    "abc0869b-0fc7-4eb7-a205-abe115314046": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "02",
-        "heading": "",
-        "text": "<p><strong>Prioritize Nutritious Eating</strong></p><p>A well-balanced diet plays a crucial role in well-aging. Consuming a variety of nutrient-rich foods can provide the body with the vitamins, minerals, and antioxidants it needs to function optimally. Focus on a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. Adequate hydration is also vital for maintaining skin elasticity and overall health.</p>"
-      }
-    },
     "e30a8f30-a16e-4215-b305-31a4550d167a": {
       "type": "image-with-text",
       "disabled": true,
@@ -114,20 +86,6 @@
         "link-text": ""
       }
     },
-    "9b12fec8-c4be-4d4b-967d-af20db91c876": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "05",
-        "heading": "",
-        "text": "<p><strong>Manage Stress Effectively</strong></p><p>Chronic stress can accelerate the aging process and increase the risk of various health issues. Learning to manage stress through techniques like meditation, deep breathing exercises, or mindfulness can be transformative. Reducing stress not only benefits mental well-being but also has a positive impact on physical health.</p>"
-      }
-    },
     "f62c2563-f9d5-48b0-9324-3f770a6f5cc4": {
       "type": "image-with-text",
       "settings": {
@@ -144,14 +102,51 @@
         "text-width": "large",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/boutijour0925.jpg",
-        "mobile-image": "shopify://shop_images/boutijour0925.jpg",
-        "overline": "Our Approach to",
-        "title": " Aging Gracefully",
-        "description": "<p>Aging is a natural process, but with mindful habits and effective skincare, you can embrace it beautifully. By protecting your skin, nourishing your body, and fostering a calm and balanced mind, you can maintain a youthful glow and confidence at every stage of life. Incorporate these practices into your daily routine for long-term benefits, and remember, beauty is not just skin deep—it's a reflection of your overall well-being.</p>",
+        "mobile-overlay": false,
+        "overline": "The main causes of",
+        "title": "Hyperpigmentation",
+        "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "01.",
+        "heading": "",
+        "text": "<p><strong>Sun Exposure</strong></p><p>One of the most common causes of hyperpigmentation is prolonged exposure to UV rays. When your skin is exposed to the sun, it triggers the overproduction of melanin—the pigment responsible for skin color—as a natural defense mechanism to protect against UV damage. Over time, this can lead to dark spots, also known as sunspots or age spots, and an uneven skin tone. Wearing broad-spectrum sunscreen (SPF 30 or higher) daily, reapplying every two hours, and incorporating antioxidants like Vitamin C into your routine can help prevent and minimize sun-induced hyperpigmentation.</p>"
+      }
+    },
+    "featured_text_nGFx8X": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "02.",
+        "heading": "",
+        "text": "<p><strong>Hormonal Changes</strong></p><p>Hormonal fluctuations, especially during pregnancy, menopause, or while using oral contraceptives, can stimulate melanocyte activity (the cells that produce melanin). This condition, often referred to as melasma or \"pregnancy mask,\" typically presents as larger patches of discoloration, especially on the face. To manage hormone-induced hyperpigmentation, use gentle products with ingredients like niacinamide, azelaic acid, and tranexamic acid, which can help regulate melanin production. Always pair these with proper sun protection, as UV exposure can exacerbate melasma.</p><p><br/></p>"
+      }
+    },
+    "featured_text_pALiB8": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "03.",
+        "heading": "",
+        "text": "<p><strong>Inappropriate Cleansing or Physical Damage</strong></p><p>Improper cleansing routines or physical trauma to the skin, such as aggressive scrubbing, picking at acne, or using harsh exfoliants, can lead to post-inflammatory hyperpigmentation (PIH). This occurs when the skin produces excess melanin as part of the healing process after inflammation or injury.</p>"
       }
     },
     "ffd2f915-28cd-4bcf-8711-8f6c4332823a": {
@@ -162,8 +157,73 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "anti-aging",
-        "heading": "Recommended Skin Care Routine",
+        "overline": "how to",
+        "heading": "prevent hyperpigmentation",
+        "text": ""
+      }
+    },
+    "featured_text_mgN3Tw": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Use SPF 50+ PA++++ sun protection can prevent 98% of UVB and up to 98% of UVA radiation, which causes overproduction of melanin and leads to hyperpigmentation and melasma. Use  broad-spectrum UVA and UVB sun protection coverage.</p><p>Avoid harsh physical exfoliants or tools that can irritate the skin. Instead, opt for chemical exfoliants like AHAs (glycolic or lactic acid) or BHAs (salicylic acid) to gently renew the skin.</p><p>Incorporate targeted treatments with ingredients like Niacinamide (Vitamin B3), Vitamin C, and Bisabolol.</p>"
+      }
+    },
+    "featured_text_zUzWMR": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "CHOOSE",
+        "heading": "THE RIGHT INGREDIENTS",
+        "text": ""
+      }
+    },
+    "featured_text_rXC93N": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "01.",
+        "heading": "Alpha-Bisabolol",
+        "text": "<p><strong>(Alpha Melight™ Formula)</strong></p><p><strong>Reduces melanin production:</strong> Known to inhibit melanin formation, helping to prevent dark spots.</p><p><strong>Reduces inflammation:</strong> Soothes irritated skin, preventing post-inflammatory hyperpigmentation (PIH).</p><p><strong>Brightens skin:</strong> Enhances the penetration of other active ingredients, helping to even out skin tone.</p><p><strong>Speeds up healing:</strong> Promotes faster recovery, reducing the risk of pigmentation after skin damage.</p>"
+      }
+    },
+    "featured_text_XJgDrd": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "02.",
+        "heading": "Niacinamide",
+        "text": "<p><strong>(Vitamin B3)</strong></p><p><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</p><p><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</p><p><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</p><p><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</p><p></p>"
+      }
+    },
+    "9c7e19eb-4fab-4759-8e30-c2dac7432a53": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "Find",
+        "heading": "the right routine",
         "text": ""
       }
     },
@@ -184,13 +244,13 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/toner.jpg",
-        "mobile-image": "shopify://shop_images/toner.jpg",
-        "overline": "01.",
-        "title": "Restore",
-        "description": "<p>Repair your skin from environmental stressing factors with a highly hydrating and repairing toner. </p>",
-        "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
-        "link-text": "Anti Pollution Repairing Toner $38"
+        "image": "shopify://shop_images/NEW__CleansingGel_e5ebdfe9-e7b8-4c20-858a-772c232c61c5.jpg",
+        "mobile-image": "shopify://shop_images/NEW__CleansingGel_e5ebdfe9-e7b8-4c20-858a-772c232c61c5.jpg",
+        "overline": "Step 1",
+        "title": "Clean",
+        "description": "<p>Low pH gel-to-foam cleanser with vegan collagen, infused with Lotus Leaf Extract and Calm Green, its potent formula soothes skin from daily stressors while rinsing away impurities without stripping skin's natural oils.</p>",
+        "link-url": "shopify://products/lotus-leaf-cleansing-gel",
+        "link-text": "Lotus Leaf Cleansing Gel $36"
       }
     },
     "image_with_text_NR8ctp": {
@@ -210,13 +270,13 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/NEW__SnowCream_8d343398-4d99-415a-b21a-42102d1b30c1.jpg",
-        "mobile-image": "shopify://shop_images/NEW__SnowCream_8d343398-4d99-415a-b21a-42102d1b30c1.jpg",
-        "overline": "02.",
-        "title": "Hydrate",
-        "description": "<p>Deeply replenishes, lock-in moisture and revitalizes the tired dull-looking skin with potent age-defying agents while strengthen the skin barrier. </p>",
-        "link-url": "shopify://products/snow-lotus-lifting-cream",
-        "link-text": "Snow Lotus Lifting Cream $48"
+        "image": "shopify://shop_images/image-swatches-4_5_1733815662410-1733815667.jpg",
+        "mobile-image": "shopify://shop_images/image-swatches-4_5_1733815662410-1733815667.jpg",
+        "overline": "step 2",
+        "title": "treat",
+        "description": "<p>With its key ingredient Alpha-Bisabolol (Alpha Melight™ Formula), these eye patches deliver soothing care and brightness to the skin, significantly reducing hyperpigmentation.</p>",
+        "link-url": "shopify://products/lotus-melight-eyepatch",
+        "link-text": "Lotus Melight Eye Patch $50"
       }
     },
     "image_with_text_Kqhfwn": {
@@ -238,9 +298,9 @@
         "mobile-overlay": false,
         "image": "shopify://shop_images/NEW__ReliefSun_6b742419-3fe7-4e28-a7a9-15e1450b12a5.jpg",
         "mobile-image": "shopify://shop_images/NEW__ReliefSun_6b742419-3fe7-4e28-a7a9-15e1450b12a5.jpg",
-        "overline": "03.",
+        "overline": "step 3",
         "title": "Protect",
-        "description": "<p>Prevent photo aging, hydrate and smooth the skin with SPF 50+ PA++++</p>",
+        "description": "<p>Prevent the appearance of hyperpigmentation while hydrate and smooth the skin with a complete sunscreen.</p>",
         "link-url": "shopify://products/relief-sun-moisture",
         "link-text": "Relief Sun Moisture (SPF 50+ PA++++) $36"
       }
@@ -281,34 +341,6 @@
         "border_bottom": false,
         "page_width_desktop": "full",
         "page_width_mobile": "full"
-      }
-    },
-    "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "06",
-        "heading": "",
-        "text": "<p><strong>Maintain Social Connections</strong></p><p>Loneliness and isolation can take a toll on mental and emotional health, which can, in turn, affect physical health. Maintaining social connections with friends and family is crucial for well-aging. Engaging in social activities, volunteering, or joining clubs can help foster a sense of community and belonging.</p>"
-      }
-    },
-    "9c7e19eb-4fab-4759-8e30-c2dac7432a53": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "07",
-        "heading": "",
-        "text": "<p><strong>Protect Your Skin</strong></p><p>While well-aging focuses on overall well-being, it's essential to care for your skin as well. Sun protection is key in preventing premature aging and reducing the risk of skin cancer. Use sunscreen, wear protective clothing, and avoid excessive sun exposure.</p>"
       }
     },
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
@@ -426,19 +458,22 @@
     "main",
     "01174489-935f-4c6b-b659-4c1205ea8a89",
     "c144a42c-baf1-4229-ab29-1cebd32bdb16",
-    "d7d70280-fed4-4379-9f34-8dd6abc15010",
-    "abc0869b-0fc7-4eb7-a205-abe115314046",
     "e30a8f30-a16e-4215-b305-31a4550d167a",
-    "9b12fec8-c4be-4d4b-967d-af20db91c876",
     "f62c2563-f9d5-48b0-9324-3f770a6f5cc4",
+    "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
+    "featured_text_nGFx8X",
+    "featured_text_pALiB8",
     "ffd2f915-28cd-4bcf-8711-8f6c4332823a",
+    "featured_text_mgN3Tw",
+    "featured_text_zUzWMR",
+    "featured_text_rXC93N",
+    "featured_text_XJgDrd",
+    "9c7e19eb-4fab-4759-8e30-c2dac7432a53",
     "image_with_text_UL9G7y",
     "image_with_text_NR8ctp",
     "image_with_text_Kqhfwn",
     "featured_collection_cbbmTf",
     "featured_blog_EbUKnP",
-    "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
-    "9c7e19eb-4fab-4759-8e30-c2dac7432a53",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
     "comments",
