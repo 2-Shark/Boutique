@@ -79,6 +79,15 @@
           "type": "rating",
           "settings": {}
         },
+        "collapsible_row_wTUpzM": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "what's inside",
+            "description": "<ul><li>Lotus Melight Eye Patch</li><li>Relief Sun Moisture</li><li>Snowball Eye Roller</li><li>Blue Signature Corduroy Pouch</li><li>Well-aging Headband</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "collapsible_row_gdjb8D": {
           "type": "collapsible-row",
           "settings": {
@@ -110,6 +119,7 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "collapsible_row_wTUpzM",
         "collapsible_row_gdjb8D",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
