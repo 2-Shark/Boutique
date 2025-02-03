@@ -82,9 +82,10 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p><strong>Lotus Leaf Calming Gel Cream</strong></p><ul><li>Reinforces skin's barrier with 5-layer Ceramide Complex, CeracareAC-1</li><li>Instant hydration & long-lasting moisture</li><li>Soothes and clams irritated skin from environmental stressors</li><li>Diminishes pores, reducing the appearance of hyperpigmentation / dark spots</li></ul><p></p><p><strong>Glow Enhancer Stick</strong></p><ul><li>Enhances absorption + cools skin temperature</li><li>Increase blood circulation</li><li>Reduces swelling and puffiness</li></ul>",
+            "description": "",
             "page-content": "",
             "default-open": false
           }
