@@ -144,32 +144,6 @@
         "mobile-media-layout": "slideshow"
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 4,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 46,
-        "mobile-image-aspect-ratio": 76,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "image_with_text_EGtRTg": {
       "type": "image-with-text",
       "settings": {
@@ -196,8 +170,35 @@
         "link-text": ""
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "section_layout_aUACUA": {
       "type": "section-layout",
+      "disabled": true,
       "settings": {
         "snippet_name": "",
         "border_bottom": false,
@@ -601,8 +602,8 @@
   },
   "order": [
     "main",
-    "5dc9f552-4580-4447-8abe-673add963394",
     "image_with_text_EGtRTg",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "section_layout_aUACUA",
     "featured_text_jVqdBb",
     "featured_video_acxhb6",
