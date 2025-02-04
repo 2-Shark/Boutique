@@ -19,7 +19,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "the essentials for aging in a healthy way"
+            "text": "valentine's day collection"
           }
         },
         "vendor": {
@@ -144,16 +144,44 @@
         "mobile-media-layout": "slideshow"
       }
     },
+    "section_layout_bFCfUm": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_jVqdBb": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": false,
+        "overline": "",
+        "heading": "Love begins within",
+        "text": "<p></p><p></p><p>You deserve a moment of luxurious self-care. Each thoughtfully curated set comes beautifully wrapped with our exclusive gift, Signature Corduroy Pouch and Wellness Headband.</p>"
+      }
+    },
     "image_with_text_EGtRTg": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 5,
+        "container-width": 4,
         "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 184,
+        "image-aspect-ratio": 62,
+        "mobile-image-aspect-ratio": 130,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -161,8 +189,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/Well-aging_Kit_2025_51977987-3c72-4f4e-b8eb-26f2a726b466.png",
-        "mobile-image": "shopify://shop_images/757.png",
+        "image": "shopify://shop_images/IMG_0259-PC_a49fd491-b5f6-4058-abd5-0ffd0a041faf.jpg",
+        "mobile-image": "shopify://shop_images/Valentine-mobile.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -212,17 +240,83 @@
         "page_width_mobile": "default"
       }
     },
-    "featured_text_jVqdBb": {
-      "type": "featured-text",
+    "slideshow_MTpUNV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yWdqex": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/IMG_0259-PC_a49fd491-b5f6-4058-abd5-0ffd0a041faf.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Valentine-mobile.jpg"
+          }
+        },
+        "image_8XywnN": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        },
+        "image_y6AKHk": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        },
+        "image_nLzfnR": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "overline": "Overline text",
+            "title": "Slide heading",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
+            "link-text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "image_yWdqex",
+        "image_8XywnN",
+        "image_y6AKHk",
+        "image_nLzfnR"
+      ],
+      "disabled": true,
       "settings": {
+        "text-color": "auto",
         "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
         "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "Gentle Care, Visible Results - The Perfect Match",
-        "text": ""
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 98,
+        "darken-image": false,
+        "blocks_per_slide": 2,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "featured_video_acxhb6": {
@@ -236,7 +330,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify://files/videos/video.mp4",
+        "video-upload": "shopify://files/videos/아이패치-캡션O_1.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -252,7 +346,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<h4>Lotus Melight Eye Patch</h4><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p><p>✽</p><h4>Relief Sun Moisture</h4><p>Apply evenly over your skin with the proper amount (a five-cent coin-sized dollop for face and neck) as the final step in your skincare routine. Gently tap to promote faster absorption.</p>",
+            "description": "<h4>Lotus Melight Eye Patch</h4><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -602,10 +696,12 @@
   },
   "order": [
     "main",
+    "section_layout_bFCfUm",
+    "featured_text_jVqdBb",
     "image_with_text_EGtRTg",
     "5dc9f552-4580-4447-8abe-673add963394",
     "section_layout_aUACUA",
-    "featured_text_jVqdBb",
+    "slideshow_MTpUNV",
     "featured_video_acxhb6",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
