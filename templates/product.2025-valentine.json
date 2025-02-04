@@ -83,7 +83,16 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "what's inside",
-            "description": "<ul><li>Lotus Melight Eye Patch</li><li>Relief Sun Moisture</li><li>Snowball Eye Roller</li><li>Blue Signature Corduroy Pouch</li></ul>",
+            "description": "<ul><li>Lotus Melight Eye Patch</li><li>Snowball Eye Roller</li><li>Signature Corduroy Pouch</li><li>Wellness Headband</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_eK8hQd": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "How to use",
+            "description": "<p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -92,7 +101,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<h4>Lotus Melight Eye Patch</h4><ul><li>Reduces hyperpigmentation + revitalizes delicate under-eye area</li><li>Suppresses melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks</li></ul><p>✽</p><h4>Relief Sun Moisture</h4><ul><li>Clinically proven to improve skin hydration</li><li>Shields against UVA, UVB, and Blue Light</li><li>Gives ultimate hydration and silky glow</li><li>Non-comedogenic, non-stimulating</li></ul>",
+            "description": "<h4>Lotus Melight Eye Patch</h4><ul><li>Reduces hyperpigmentation + revitalizes delicate under-eye area</li><li>Suppresses melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -101,7 +110,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<h4>Lotus Melight Eye Patch</h4><p><strong>Key Ingredients<br/></strong>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients<br/></strong>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p><p>✽</p><h4>Relief Sun Moisture</h4><p><strong>Key Ingredients<br/></strong>Blue Lotus Flower Water | Calendula Flower | Centella Asiatica<br/><br/><strong>Ingredients<br/></strong>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic / Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance</p>",
+            "description": "<h4>Lotus Melight Eye Patch</h4><p><strong>Key Ingredients<br/></strong>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients<br/></strong>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
             "page-content": "",
             "default-open": false
           }
@@ -120,6 +129,7 @@
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "collapsible_row_wTUpzM",
+        "collapsible_row_eK8hQd",
         "collapsible_row_gdjb8D",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
@@ -321,6 +331,7 @@
     },
     "featured_video_acxhb6": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 114,
         "container-width": 1,
