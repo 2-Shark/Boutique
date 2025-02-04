@@ -234,27 +234,6 @@
         "link-text": ""
       }
     },
-    "featured_video_acxhb6": {
-      "type": "featured-video",
-      "disabled": true,
-      "settings": {
-        "aspect-ratio": 114,
-        "container-width": 1,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/아이패치-캡션O_1.mp4",
-        "video-url": "",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 130
-      }
-    },
     "section_layout_aUACUA": {
       "type": "section-layout",
       "settings": {
@@ -297,12 +276,57 @@
         "link-text": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "featured_video_acxhb6": {
+      "type": "featured-video",
       "settings": {
-        "title": "You may also like",
+        "aspect-ratio": 114,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify://files/videos/아이패치-캡션O_1.mp4",
+        "video-url": "",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 130
+      }
+    },
+    "collapsible_rows_egUqRX": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "collapsible_row_cce4Ge": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Leaf Cleansing Gel",
+            "description": "<p>Apply 2-3 pumps into wet palms and add water to lather on skin as the foam forms. Gently massage over skin in circular motions. Rinse thoroughly with lukewarm water.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_gQRWkB": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Leaf Anti Pollution Repairing Toner",
+            "description": "<p>Layer a generous amount of toner at the start of your skincare routine. Gently tap or massage for enhanced absorption.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cce4Ge",
+        "collapsible_row_gQRWkB"
+      ],
+      "settings": {
         "background-color": "none",
         "light-text": false,
+        "heading": "how to use",
+        "title-alignment": "left",
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
@@ -359,6 +383,17 @@
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "slideshow_c9Nxgg": {
@@ -490,12 +525,13 @@
     "featured_text_jVqdBb",
     "image_with_text_EGtRTg",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "featured_video_acxhb6",
     "section_layout_aUACUA",
     "image_with_text_pFfj9M",
-    "related-products",
+    "featured_video_acxhb6",
+    "collapsible_rows_egUqRX",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_daaMHm",
+    "related-products",
     "slideshow_c9Nxgg",
     "section_layout_hBkM3V",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
