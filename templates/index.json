@@ -140,15 +140,14 @@
       ],
       "settings": {}
     },
-    "disrupt_block_aging_ejcgjr": {
+    "c9b8c308-8b6a-40d1-9945-c181f1987811": {
       "type": "disrupt-block-aging",
-      "disabled": true,
       "settings": {
-        "header": "WELL-AGING ESSENTIALS",
-        "eyebrow": "OUR BEST SELLING MUST HAVES",
+        "header": "Well-aging essentials",
+        "eyebrow": "DISCOVER OUR WINTER BEST-SELLING ITEMS",
         "cta": "SHOP ALL",
-        "link": "",
-        "collection": "",
+        "link": "shopify://collections/best-sellers",
+        "collection": "am-sun-protection-pm-rinse-off",
         "max-products": 8,
         "background-color": "none",
         "light-text": false,
@@ -161,14 +160,11 @@
         "products-per-row--mobile": "1"
       }
     },
-    "c9b8c308-8b6a-40d1-9945-c181f1987811": {
-      "type": "disrupt-block-aging",
+    "featured_collection_VFHbpb": {
+      "type": "featured-collection",
+      "disabled": true,
       "settings": {
-        "header": "Well-aging essentials",
-        "eyebrow": "DISCOVER OUR WINTER BEST-SELLING ITEMS",
-        "cta": "SHOP ALL",
-        "link": "shopify://collections/best-sellers",
-        "collection": "am-sun-protection-pm-rinse-off",
+        "collection": "",
         "max-products": 8,
         "background-color": "none",
         "light-text": false,
@@ -439,8 +435,8 @@
     "71abef73-9e41-4268-855f-afba83392ef9",
     "image_with_text_nGpBeh",
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5",
-    "disrupt_block_aging_ejcgjr",
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
+    "featured_collection_VFHbpb",
     "b69860be-717b-4156-b06f-e6dbbea974f2",
     "64199d9c-7934-497b-ab6f-34c84f1dcb50",
     "anti-aging-icon",
