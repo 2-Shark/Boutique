@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/1_46c6f097-bdc8-43da-9e88-f3acdcc3dd0a.jpg",
-        "image_tablet": "shopify://shop_images/31.jpg",
-        "image_mobile": "shopify://shop_images/31.jpg",
+        "image_desktop": "shopify://shop_images/PC_FEB_2025-1.jpg",
+        "image_tablet": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
+        "image_mobile": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
         "eyebrow": "Simple Ways to Start Mindful New Year",
-        "header": "Beyond Skincare, Beyond Time",
+        "header": "Love Begins Within",
         "cta": "discover more",
         "link": "shopify://collections/2024-holiday-home-spa-collection",
         "inner_padding_left_right": "185",
@@ -26,12 +26,11 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/33.jpg",
-        "image_mobile": "shopify://shop_images/34.jpg",
-        "image_desktop_right": "shopify://shop_images/20.jpg",
-        "image_mobile_right": "shopify://shop_images/32.jpg",
-        "header": "New Year, Healthier<br>Routine",
-        "body": "The Advanced Thechnology<br>With Korean heritage",
+        "image_desktop": "shopify://shop_images/63.jpg",
+        "image_desktop_right": "shopify://shop_images/60.jpg",
+        "image_mobile_right": "shopify://shop_images/65.jpg",
+        "header": "New Year, HealthierRoutine",
+        "body": "The Advanced ThechnologyWith Korean heritage",
         "cta": "Shop",
         "link": "shopify://collections/2024-holiday-home-spa-collection"
       }
@@ -140,6 +139,27 @@
         "92e1f10d-b878-43a0-beb4-fd2f3a7c2b52"
       ],
       "settings": {}
+    },
+    "disrupt_block_aging_ejcgjr": {
+      "type": "disrupt-block-aging",
+      "disabled": true,
+      "settings": {
+        "header": "WELL-AGING ESSENTIALS",
+        "eyebrow": "OUR BEST SELLING MUST HAVES",
+        "cta": "SHOP ALL",
+        "link": "",
+        "collection": "",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1"
+      }
     },
     "c9b8c308-8b6a-40d1-9945-c181f1987811": {
       "type": "disrupt-block-aging",
@@ -419,6 +439,7 @@
     "71abef73-9e41-4268-855f-afba83392ef9",
     "image_with_text_nGpBeh",
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5",
+    "disrupt_block_aging_ejcgjr",
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
     "b69860be-717b-4156-b06f-e6dbbea974f2",
     "64199d9c-7934-497b-ab6f-34c84f1dcb50",
