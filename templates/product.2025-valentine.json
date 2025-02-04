@@ -187,10 +187,10 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 4,
+        "container-width": 5,
         "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 62,
+        "image-aspect-ratio": 46,
         "mobile-image-aspect-ratio": 130,
         "darken-image": false,
         "parallax-enabled": false,
@@ -199,7 +199,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/IMG_0259-PC_a49fd491-b5f6-4058-abd5-0ffd0a041faf.jpg",
+        "image": "shopify://shop_images/IMG_0259-PC_4cbbe545-0c83-40bd-90bc-7e34ddf59e02.jpg",
         "mobile-image": "shopify://shop_images/Valentine-mobile.jpg",
         "overline": "",
         "title": "",
@@ -234,101 +234,6 @@
         "link-text": ""
       }
     },
-    "section_layout_aUACUA": {
-      "type": "section-layout",
-      "disabled": true,
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
-    "slideshow_MTpUNV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_yWdqex": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/IMG_0259-PC_a49fd491-b5f6-4058-abd5-0ffd0a041faf.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Valentine-mobile.jpg"
-          }
-        },
-        "image_8XywnN": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        },
-        "image_y6AKHk": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        },
-        "image_nLzfnR": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
-            "link-url": "/",
-            "link-text": "View more"
-          }
-        }
-      },
-      "block_order": [
-        "image_yWdqex",
-        "image_8XywnN",
-        "image_y6AKHk",
-        "image_nLzfnR"
-      ],
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": true,
-        "spacing-below": false,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 98,
-        "darken-image": false,
-        "blocks_per_slide": 2,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 4,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
     "featured_video_acxhb6": {
       "type": "featured-video",
       "disabled": true,
@@ -350,148 +255,57 @@
         "mobile-aspect-ratio": 130
       }
     },
-    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
-      "type": "collapsible-rows",
-      "blocks": {
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "HOW TO USE",
-            "description": "<h4>Lotus Melight Eye Patch</h4><p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2": {
-          "type": "collapsible-row",
-          "disabled": true,
-          "settings": {
-            "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients</strong><br/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
-          "type": "collapsible-row",
-          "disabled": true,
-          "settings": {
-            "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
-          "type": "collapsible-row",
-          "disabled": true,
-          "settings": {
-            "heading": "AROMA",
-            "description": "<p>Bergamot       |       Lavender</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-2",
-        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
-        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
-      ],
+    "section_layout_aUACUA": {
+      "type": "section-layout",
       "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "heading": "",
-        "title-alignment": "left",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/CONSUMER_SURVEY_RESULT_1_2b4e25c1-5b47-4790-8d41-e9659faed1e7.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_da371527-9f91-4e29-9462-47ddb5323512.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_1_3a8db606-f96a-447c-bcce-75ef222011bb.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_da5f9546-ea13-4b07-bba8-2a1d463a3195.png"
-          }
-        },
-        "image_83MPLr": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_2_d50e494c-58f8-4b9a-a45f-4807ef615eb5.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_2.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_3_f8f819ea-63a2-4728-8b42-1101f2006d65.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/729.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "image_83MPLr",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
-      ],
+    "image_with_text_pFfj9M": {
+      "type": "image-with-text",
       "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
+        "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 46,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
         "darken-image": false,
-        "blocks_per_slide": 1,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
         "box-around-text": false,
-        "auto-rotate": true,
-        "rotate-frequency": 5,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC2.jpg",
+        "mobile-image": "shopify://shop_images/M_finalimage.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -520,34 +334,9 @@
         "link-text": ""
       }
     },
-    "image_with_text_pFfj9M": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage.png",
-        "mobile-image": "shopify://shop_images/M_finalimage.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "image_with_text_daaMHm": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -623,6 +412,7 @@
         "image_yABG9p",
         "image_QNXBw7"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -654,17 +444,6 @@
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "title": "You may also like",
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
       }
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
@@ -711,17 +490,14 @@
     "featured_text_jVqdBb",
     "image_with_text_EGtRTg",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "section_layout_aUACUA",
-    "slideshow_MTpUNV",
     "featured_video_acxhb6",
-    "b6733570-f064-45cf-a1e6-b865d317d0a8",
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "section_layout_aUACUA",
     "image_with_text_pFfj9M",
+    "related-products",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_daaMHm",
     "slideshow_c9Nxgg",
     "section_layout_hBkM3V",
-    "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
