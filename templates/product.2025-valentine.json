@@ -97,15 +97,6 @@
             "default-open": false
           }
         },
-        "collapsible_row_eK8hQd": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "How to use",
-            "description": "<p>Place 1 pair of hydrogels under the eyes or on dark spots for 20 minutes. Remove and gently massage the remaining essence into skin.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -130,7 +121,6 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "collapsible_row_wTUpzM",
         "collapsible_row_gdjb8D",
-        "collapsible_row_eK8hQd",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
       "settings": {
