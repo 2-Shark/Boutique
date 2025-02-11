@@ -18,6 +18,19 @@
         "show-author": false
       }
     },
+    "01174489-935f-4c6b-b659-4c1205ea8a89": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h3><strong>The Foundations of Self-Love</strong></h3><h3></h3><h3></h3><p>In a world that often measures worth through achievements, appearances, or external validation, self-love can feel elusive. But the truth is, love starts within. Self-love isn’t just about treating yourself to spa days or indulging in temporary comforts—it’s a profound, ongoing relationship with yourself rooted in acceptance, kindness, and care. Here’s how to build a strong foundation for lasting self-love:</p>"
+      }
+    },
     "image_with_text_V7XA7C": {
       "type": "image-with-text",
       "settings": {
@@ -42,20 +55,6 @@
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "01174489-935f-4c6b-b659-4c1205ea8a89": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>Aging is an inevitable part of life. As we grow older, our bodies undergo various changes, both internal and external. While we cannot stop the clock or reverse time, we can certainly take steps to ensure that we age gracefully and maintain our overall well-being. This shift from the concept of 'anti-aging' to 'well-aging' emphasizes the importance of embracing the aging process while prioritizing health and vitality. In this article, we will explore the key principles and practices that can help us transition from anti-aging to well-aging.</p>"
       }
     },
     "c144a42c-baf1-4229-ab29-1cebd32bdb16": {
@@ -340,8 +339,8 @@
   },
   "order": [
     "main",
-    "image_with_text_V7XA7C",
     "01174489-935f-4c6b-b659-4c1205ea8a89",
+    "image_with_text_V7XA7C",
     "c144a42c-baf1-4229-ab29-1cebd32bdb16",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
     "featured_text_qEGbxX",
