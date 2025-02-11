@@ -47,6 +47,25 @@
         "mobile-overlay": true
       }
     },
+    "main": {
+      "type": "blog",
+      "settings": {
+        "show-title": true,
+        "show-date": false,
+        "show-tag-filter": true,
+        "show-author": false,
+        "show-excerpt": false,
+        "columns": 2,
+        "image-aspect-ratio": 116,
+        "mobile-image-aspect-ratio": 134,
+        "show-rss": false,
+        "show-featured": true,
+        "tag": "featured",
+        "alt-color": true,
+        "parallax-enabled": false,
+        "apply-overlay": false
+      }
+    },
     "d69da759-9852-4bc6-a3cd-7224bb99229e": {
       "type": "text-columns",
       "blocks": {
@@ -113,6 +132,7 @@
         "template--20216775934239__d69da759-9852-4bc6-a3cd-7224bb99229e-image-1",
         "c520fd82-8005-4f0f-bad5-6a94d48413a0"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "light",
         "light-text": false,
@@ -130,44 +150,11 @@
         "link-url": "",
         "link-text": ""
       }
-    },
-    "435fe506-73f8-4992-acc8-b0fbb4ae98ed": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "All Posts",
-        "text": ""
-      }
-    },
-    "main": {
-      "type": "blog",
-      "settings": {
-        "show-title": false,
-        "show-date": false,
-        "show-tag-filter": true,
-        "show-author": false,
-        "show-excerpt": true,
-        "columns": 2,
-        "image-aspect-ratio": 80,
-        "mobile-image-aspect-ratio": 134,
-        "show-rss": false,
-        "show-featured": false,
-        "tag": "featured",
-        "alt-color": true,
-        "parallax-enabled": false,
-        "apply-overlay": false
-      }
     }
   },
   "order": [
     "e20f8c30-0c1e-481d-9b97-4e9c2e0598ae",
-    "d69da759-9852-4bc6-a3cd-7224bb99229e",
-    "435fe506-73f8-4992-acc8-b0fbb4ae98ed",
-    "main"
+    "main",
+    "d69da759-9852-4bc6-a3cd-7224bb99229e"
   ]
 }
