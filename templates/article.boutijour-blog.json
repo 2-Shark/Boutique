@@ -159,8 +159,8 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "05.",
-        "heading": "Embracing Growth with Self-Compassion",
-        "text": "<p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p><em>The goal isn’t to be perfect; it’s to be real, to be you.</em></p><p></p><p></p><p></p><p></p>"
+        "heading": "",
+        "text": "<p></p><h1>Embracing Growth with Self-Compassion</h1><p></p><p></p><p></p><p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p></p><p></p><p><em>The goal isn’t to be perfect; <br/>it’s to be real, to be you.</em></p><p></p><p></p><p></p><p></p>"
       }
     },
     "image_with_text_be9QPD": {
@@ -182,9 +182,9 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/179.jpg",
         "mobile-image": "shopify://shop_images/179.jpg",
-        "overline": "Final Thoughts",
+        "overline": "",
         "title": "",
-        "description": "<p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p>",
+        "description": "<h1></h1><h1>Final Thoughts</h1><h1></h1><p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p>",
         "link-url": "shopify://collections/2025-valentines-day-collection",
         "link-text": ""
       }
@@ -194,7 +194,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
