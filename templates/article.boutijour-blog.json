@@ -189,6 +189,21 @@
         "text": "<p><em>Ready to embrace self-love? Start with small, mindful practices today. Your heart will thank you.</em></p><p></p>"
       }
     },
+    "section_layout_dGKVKB": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "featured_collection_wxNaB3": {
       "type": "featured-collection",
       "settings": {
@@ -203,28 +218,6 @@
         "display-type": "slideshow",
         "products-per-row--desktop": "3",
         "products-per-row--mobile": "1"
-      }
-    },
-    "featured_blog_EbUKnP": {
-      "type": "featured-blog",
-      "settings": {
-        "aspect-ratio": "landscape",
-        "container-width": 4,
-        "blog-heading": "BLOG",
-        "blog": "well-aging-know-hows-glowing-skincare",
-        "tag-select": "pinned",
-        "show-date": true,
-        "show-excerpt": true,
-        "view-more-text": "View more",
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "border_bottom": false,
-        "page_width_desktop": "full",
-        "page_width_mobile": "full"
       }
     },
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
@@ -322,20 +315,6 @@
         "featured_product": "x-lifting-mask-1",
         "loop-enabled": false
       }
-    },
-    "newsletter_bfAyV7": {
-      "type": "newsletter",
-      "settings": {
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "heading": "Subscribe to our well-aging club",
-        "newsletter--subheading": "<p>Join us on the BOUTIJOUR Well-aging Club for the healthiest glow.</p>",
-        "border_bottom": false
-      }
     }
   },
   "order": [
@@ -351,13 +330,12 @@
     "featured_text_iVBEA3",
     "image_with_text_be9QPD",
     "featured_text_BQiPAq",
+    "section_layout_dGKVKB",
     "featured_collection_wxNaB3",
-    "featured_blog_EbUKnP",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
     "comments",
     "recents",
-    "featured_product_U3ntG3",
-    "newsletter_bfAyV7"
+    "featured_product_U3ntG3"
   ]
 }
