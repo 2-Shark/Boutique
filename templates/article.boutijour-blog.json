@@ -57,6 +57,19 @@
         "link-text": ""
       }
     },
+    "featured_text_wPPAMA": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Here’s how to build a strong foundation for lasting self-love:</p>"
+      }
+    },
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
       "type": "featured-text",
       "settings": {
@@ -88,7 +101,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
@@ -124,6 +137,21 @@
         "text": "<h1></h1><h1>The Connection Between Self-Love and Mental Well-Being</h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>1. Reduce Anxiety and Stress<br/></strong>By quieting the inner critic and replacing self-judgment with understanding.</p><p></p><p><strong>2. Build Resilience<br/></strong>Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p></p><p><strong>3. Enhance Relationships<br/></strong>When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p><p></p>"
       }
     },
+    "section_layout_4an7TV": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "featured_text_bxzPyV": {
       "type": "featured-text",
       "settings": {
@@ -137,6 +165,21 @@
         "text": "<h1></h1><h1>The Role of Boundaries in Self-Love</h1><h1></h1><h1></h1><h1></h1><h1></h1><p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. <br/><br/><strong>Setting boundaries might look like:</strong></p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><p></p><p></p><p><em>Boundaries aren't walls; <br/>they're bridges to healthier, more authentic connections.</em></p>"
       }
     },
+    "section_layout_mDPPhM": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
     "featured_text_GaY8jm": {
       "type": "featured-text",
       "settings": {
@@ -148,6 +191,21 @@
         "overline": "04.",
         "heading": "",
         "text": "<h1></h1><h1>Practicing Self-Love Daily</h1><p></p><p></p><p></p><p></p><p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p></p><p><strong>1. Mindful Mornings<br/></strong>Start your day with affirmations that reinforce your worth.</p><p></p><p><strong>2. Skincare as a Ritual<br/></strong>Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p></p><p><strong>3. Gratitude Journaling<br/></strong>Write down things you appreciate about yourself and your life.</p><p></p><p><strong>4. Positive Self-Talk<br/></strong>Catch negative self-talk and gently reframe it with kindness.</p><p></p><p></p><p></p>"
+      }
+    },
+    "section_layout_iYmQxy": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "featured_text_iVBEA3": {
@@ -168,7 +226,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
@@ -334,13 +392,17 @@
     "main",
     "featured_text_PcF79Q",
     "image_with_text_V7XA7C",
+    "featured_text_wPPAMA",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
     "featured_text_EY7BxQ",
     "featured_text_yi3zaE",
     "section_layout_tRwNLE",
     "featured_text_qEGbxX",
+    "section_layout_4an7TV",
     "featured_text_bxzPyV",
+    "section_layout_mDPPhM",
     "featured_text_GaY8jm",
+    "section_layout_iYmQxy",
     "featured_text_iVBEA3",
     "image_with_text_be9QPD",
     "featured_text_BQiPAq",
