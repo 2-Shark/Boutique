@@ -18,6 +18,32 @@
         "show-author": false
       }
     },
+    "image_with_text_V7XA7C": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": true,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": true,
+        "box-around-text": true,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/149.jpg",
+        "mobile-image": "shopify://shop_images/149.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "01174489-935f-4c6b-b659-4c1205ea8a89": {
       "type": "featured-text",
       "disabled": true,
@@ -59,31 +85,6 @@
         "link-text": ""
       }
     },
-    "f62c2563-f9d5-48b0-9324-3f770a6f5cc4": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": true,
-        "image-aspect-ratio": 92,
-        "mobile-image-aspect-ratio": 110,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "bottom",
-        "text-width": "large",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/Hyperpigmentation_blog.webp",
-        "overline": "The main causes of",
-        "title": "Hyperpigmentation",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
       "type": "featured-text",
       "settings": {
@@ -93,11 +94,11 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "01.",
-        "heading": "",
-        "text": "<p><strong>Sun Exposure</strong></p><p>One of the most common causes of hyperpigmentation is prolonged exposure to UV rays. When your skin is exposed to the sun, it triggers the overproduction of melanin—the pigment responsible for skin color—as a natural defense mechanism to protect against UV damage. Over time, this can lead to dark spots, also known as sunspots or age spots, and an uneven skin tone. Wearing broad-spectrum sunscreen (SPF 30 or higher) daily, reapplying every two hours, and incorporating antioxidants like Vitamin C into your routine can help prevent and minimize sun-induced hyperpigmentation.</p>"
+        "heading": "Understanding What Self-Love Truly Means",
+        "text": "<h3></h3><p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p><strong>Self-Acceptance:</strong> Embracing who you are—flaws, strengths, and everything in between. This means acknowledging imperfections without judgment.</p><p><strong>Self-Respect:</strong> Setting boundaries that honor your values and emotional needs.</p><p><strong>Self-Compassion:</strong> Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p><h5></h5><h5></h5><h5><em><strong>Self-love is not about being perfect; it's about being authentic.</strong></em></h5><p></p><p></p>"
       }
     },
-    "featured_text_nGFx8X": {
+    "featured_text_qEGbxX": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -106,11 +107,11 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "02.",
-        "heading": "",
-        "text": "<p><strong>Hormonal Changes</strong></p><p>Hormonal fluctuations, especially during pregnancy, menopause, or while using oral contraceptives, can stimulate melanocyte activity (the cells that produce melanin). This condition, often referred to as melasma or \"pregnancy mask,\" typically presents as larger patches of discoloration, especially on the face. To manage hormone-induced hyperpigmentation, use gentle products with ingredients like niacinamide, azelaic acid, and tranexamic acid, which can help regulate melanin production. Always pair these with proper sun protection, as UV exposure can exacerbate melasma.</p>"
+        "heading": "The Connection Between Self-Love and Mental Well-Being",
+        "text": "<p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>Reduce Anxiety and Stress:</strong> By quieting the inner critic and replacing self-judgment with understanding.</p><p><strong>Build Resilience:</strong> Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p><strong>Enhance Relationships:</strong> When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p>"
       }
     },
-    "featured_text_pALiB8": {
+    "featured_text_bxzPyV": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -119,11 +120,11 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "03.",
-        "heading": "",
-        "text": "<p><strong>Inappropriate Cleansing or Physical Damage</strong></p><p>Improper cleansing routines or physical trauma to the skin, such as aggressive scrubbing, picking at acne, or using harsh exfoliants, can lead to post-inflammatory hyperpigmentation (PIH). This occurs when the skin produces excess melanin as part of the healing process after inflammation or injury.</p><p></p><p></p>"
+        "heading": "The Role of Boundaries in Self-Love",
+        "text": "<p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. Setting boundaries might look like:</p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><h5><em><strong>Boundaries aren't walls; they're bridges to healthier, more authentic connections.</strong></em></h5>"
       }
     },
-    "ffd2f915-28cd-4bcf-8711-8f6c4332823a": {
+    "featured_text_GaY8jm": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -131,12 +132,12 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "how to",
-        "heading": "prevent hyperpigmentation",
-        "text": ""
+        "overline": "04.",
+        "heading": "Practicing Self-Love Daily",
+        "text": "<p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p><strong>Mindful Mornings:</strong> Start your day with affirmations that reinforce your worth.</p><p><strong>Skincare as a Ritual:</strong> Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p><strong>Gratitude Journaling:</strong> Write down things you appreciate about yourself and your life.</p><p><strong>Positive Self-Talk:</strong> Catch negative self-talk and gently reframe it with kindness.</p>"
       }
     },
-    "featured_text_mgN3Tw": {
+    "featured_text_iVBEA3": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -144,171 +145,54 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>Use SPF 50+ PA++++ sun protection can prevent 98% of UVB and up to 98% of UVA radiation, which causes overproduction of melanin and leads to hyperpigmentation and melasma. Use  broad-spectrum UVA and UVB sun protection coverage.</p><p>Avoid harsh physical exfoliants or tools that can irritate the skin. Instead, opt for chemical exfoliants like AHAs (glycolic or lactic acid) or BHAs (salicylic acid) to gently renew the skin.</p><p>Incorporate targeted treatments with ingredients like Niacinamide (Vitamin B3), Vitamin C, and Bisabolol.</p><p></p><p></p><p></p>"
+        "overline": "05.",
+        "heading": "Embracing Growth with Self-Compassion",
+        "text": "<p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. <strong>The goal isn’t to be perfect; it’s to be real, to be you.</strong></p>"
       }
     },
-    "featured_text_zUzWMR": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "CHOOSE",
-        "heading": "THE RIGHT INGREDIENTS",
-        "text": ""
-      }
-    },
-    "e30a8f30-a16e-4215-b305-31a4550d167a": {
+    "image_with_text_be9QPD": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 2,
+        "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 100,
-        "mobile-image-aspect-ratio": 110,
-        "darken-image": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": true,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/Serum_2.jpg",
-        "mobile-image": "shopify://shop_images/Serum_2.jpg",
-        "overline": "",
+        "image": "shopify://shop_images/179.jpg",
+        "mobile-image": "shopify://shop_images/179.jpg",
+        "overline": "Final Thoughts",
         "title": "",
-        "description": "",
-        "link-url": "",
+        "description": "<p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p>",
+        "link-url": "shopify://collections/2025-valentines-day-collection",
         "link-text": ""
       }
     },
-    "featured_text_rXC93N": {
+    "featured_text_BQiPAq": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 2,
+        "container-width": 4,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "01.",
-        "heading": "Alpha-Bisabolol",
-        "text": "<p><strong>(Alpha Melight™ Formula)</strong></p><p><strong>Reduces melanin production:</strong> Known to inhibit melanin formation, helping to prevent dark spots.</p><p><strong>Reduces inflammation:</strong> Soothes irritated skin, preventing post-inflammatory hyperpigmentation (PIH).</p><p><strong>Brightens skin:</strong> Enhances the penetration of other active ingredients, helping to even out skin tone.</p><p><strong>Speeds up healing:</strong> Promotes faster recovery, reducing the risk of pigmentation after skin damage.</p>"
+        "overline": "",
+        "heading": "",
+        "text": "<p><em>Ready to embrace self-love? Start with small, mindful practices today. Your heart will thank you.</em></p>"
       }
     },
-    "featured_text_XJgDrd": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "02.",
-        "heading": "Niacinamide",
-        "text": "<p><strong>(Vitamin B3)</strong></p><p><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</p><p><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</p><p><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</p><p><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</p><p></p><p></p>"
-      }
-    },
-    "9c7e19eb-4fab-4759-8e30-c2dac7432a53": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "Find",
-        "heading": "the right routine",
-        "text": ""
-      }
-    },
-    "image_with_text_UL9G7y": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 100,
-        "mobile-image-aspect-ratio": 110,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "left",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/NEW__CleansingGel_e5ebdfe9-e7b8-4c20-858a-772c232c61c5.jpg",
-        "mobile-image": "shopify://shop_images/NEW__CleansingGel_e5ebdfe9-e7b8-4c20-858a-772c232c61c5.jpg",
-        "overline": "Step 1",
-        "title": "Clean",
-        "description": "<p>Low pH gel-to-foam cleanser with vegan collagen, infused with Lotus Leaf Extract and Calm Green, its potent formula soothes skin from daily stressors while rinsing away impurities without stripping skin's natural oils.</p>",
-        "link-url": "shopify://products/lotus-leaf-cleansing-gel",
-        "link-text": "Lotus Leaf Cleansing Gel $36"
-      }
-    },
-    "image_with_text_NR8ctp": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "image-aspect-ratio": 100,
-        "mobile-image-aspect-ratio": 104,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "right",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/image-swatches-4_5_1733815662410-1733815667.jpg",
-        "mobile-image": "shopify://shop_images/image-swatches-4_5_1733815662410-1733815667.jpg",
-        "overline": "step 2",
-        "title": "treat",
-        "description": "<p>With its key ingredient Alpha-Bisabolol (Alpha Melight™ Formula), these eye patches deliver soothing care and brightness to the skin, significantly reducing hyperpigmentation.</p>",
-        "link-url": "shopify://products/lotus-melight-eyepatch",
-        "link-text": "Lotus Melight Eye Patch $50"
-      }
-    },
-    "image_with_text_Kqhfwn": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": true,
-        "image-aspect-ratio": 100,
-        "mobile-image-aspect-ratio": 110,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "left",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/NEW__ReliefSun_6b742419-3fe7-4e28-a7a9-15e1450b12a5.jpg",
-        "mobile-image": "shopify://shop_images/NEW__ReliefSun_6b742419-3fe7-4e28-a7a9-15e1450b12a5.jpg",
-        "overline": "step 3",
-        "title": "Protect",
-        "description": "<p>Prevent the appearance of hyperpigmentation while hydrate and smooth the skin with a complete sunscreen.</p>",
-        "link-url": "shopify://products/relief-sun-moisture",
-        "link-text": "Relief Sun Moisture (SPF 50+ PA++++) $36"
-      }
-    },
-    "featured_collection_cbbmTf": {
+    "featured_collection_wxNaB3": {
       "type": "featured-collection",
       "settings": {
-        "collection": "best-sellers",
+        "collection": "2025-valentines-day-collection",
         "max-products": 8,
         "background-color": "none",
         "light-text": false,
@@ -456,23 +340,17 @@
   },
   "order": [
     "main",
+    "image_with_text_V7XA7C",
     "01174489-935f-4c6b-b659-4c1205ea8a89",
     "c144a42c-baf1-4229-ab29-1cebd32bdb16",
-    "f62c2563-f9d5-48b0-9324-3f770a6f5cc4",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
-    "featured_text_nGFx8X",
-    "featured_text_pALiB8",
-    "ffd2f915-28cd-4bcf-8711-8f6c4332823a",
-    "featured_text_mgN3Tw",
-    "featured_text_zUzWMR",
-    "e30a8f30-a16e-4215-b305-31a4550d167a",
-    "featured_text_rXC93N",
-    "featured_text_XJgDrd",
-    "9c7e19eb-4fab-4759-8e30-c2dac7432a53",
-    "image_with_text_UL9G7y",
-    "image_with_text_NR8ctp",
-    "image_with_text_Kqhfwn",
-    "featured_collection_cbbmTf",
+    "featured_text_qEGbxX",
+    "featured_text_bxzPyV",
+    "featured_text_GaY8jm",
+    "featured_text_iVBEA3",
+    "image_with_text_be9QPD",
+    "featured_text_BQiPAq",
+    "featured_collection_wxNaB3",
     "featured_blog_EbUKnP",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
