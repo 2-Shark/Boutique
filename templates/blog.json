@@ -59,7 +59,7 @@
         "image-aspect-ratio": 116,
         "mobile-image-aspect-ratio": 134,
         "show-rss": false,
-        "show-featured": true,
+        "show-featured": false,
         "tag": "featured",
         "alt-color": true,
         "parallax-enabled": false,
