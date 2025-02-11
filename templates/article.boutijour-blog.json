@@ -18,6 +18,19 @@
         "show-author": false
       }
     },
+    "featured_text_YtxB6q": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h1></h1><h1><strong>The Foundations of Self-Love</strong></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>In a world that often measures worth through achievements, appearances, or external validation, self-love can feel elusive. But the truth is, love starts within. Self-love isn’t just about treating yourself to spa days or indulging in temporary comforts—it’s a profound, ongoing relationship with yourself rooted in acceptance, kindness, and care. <br/></p>"
+      }
+    },
     "image_with_text_V7XA7C": {
       "type": "image-with-text",
       "settings": {
@@ -44,6 +57,19 @@
         "link-text": ""
       }
     },
+    "featured_text_QWkg4E": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Here’s how to build a strong foundation for lasting self-love:</p>"
+      }
+    },
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
       "type": "featured-text",
       "settings": {
@@ -67,7 +93,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p></p><p></p><p><strong>1. Self-Acceptance<br/></strong>Embracing who you are—flaws, strengths, and everything in between.This means acknowledging imperfections without judgment.</p><p></p><p><strong>2. Self-Respect<br/></strong>Setting boundaries that honor your values and emotional needs.</p><p></p><p><strong>3. Self-Compassion<br/></strong>Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p>"
+        "text": "<p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p></p><p><strong>1. Self-Acceptance<br/></strong>Embracing who you are—flaws, strengths, and everything in between.This means acknowledging imperfections without judgment.</p><p></p><p><strong>2. Self-Respect<br/></strong>Setting boundaries that honor your values and emotional needs.</p><p></p><p><strong>3. Self-Compassion<br/></strong>Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p>"
       }
     },
     "featured_text_yi3zaE": {
@@ -98,7 +124,7 @@
         "page_width_mobile": "default"
       }
     },
-    "featured_text_qEGbxX": {
+    "featured_text_ABYPwy": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -108,10 +134,38 @@
         "spacing-below": true,
         "overline": "02.",
         "heading": "The Connection Between Self-Love and Mental Well-Being",
-        "text": "<p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>Reduce Anxiety and Stress:</strong> By quieting the inner critic and replacing self-judgment with understanding.</p><p><strong>Build Resilience:</strong> Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p><strong>Enhance Relationships:</strong> When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p>"
+        "text": ""
       }
     },
-    "featured_text_bxzPyV": {
+    "featured_text_qEGbxX": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>1. Reduce Anxiety and Stress <br/></strong>By quieting the inner critic and replacing self-judgment with understanding.</p><p><strong>2. Build Resilience<br/></strong>Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p><strong>2. Enhance Relationships<br/></strong>When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p>"
+      }
+    },
+    "section_layout_jRtyCi": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_XUPFmW": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -120,8 +174,36 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "03.",
-        "heading": "The Role of Boundaries in Self-Love",
-        "text": "<p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. Setting boundaries might look like:</p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><h5><em><strong>Boundaries aren't walls; they're bridges to healthier, more authentic connections.</strong></em></h5>"
+        "heading": "",
+        "text": "<h1></h1><h1>The Role of Boundaries in Self-Love</h1><p></p><p></p><p></p><p></p><p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space.<br/><br/><strong>Setting boundaries might look like:</strong></p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><p></p><p></p><p><em>Boundaries aren't walls;<br/>they're bridges to healthier, more authentic connections.</em></p>"
+      }
+    },
+    "section_layout_KNbHnh": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_UiywrT": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "04.",
+        "heading": "Practicing Self-Love Daily",
+        "text": ""
       }
     },
     "featured_text_GaY8jm": {
@@ -132,9 +214,24 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "04.",
-        "heading": "Practicing Self-Love Daily",
-        "text": "<p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p><strong>Mindful Mornings:</strong> Start your day with affirmations that reinforce your worth.</p><p><strong>Skincare as a Ritual:</strong> Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p><strong>Gratitude Journaling:</strong> Write down things you appreciate about yourself and your life.</p><p><strong>Positive Self-Talk:</strong> Catch negative self-talk and gently reframe it with kindness.</p><p></p>"
+        "overline": "",
+        "heading": "",
+        "text": "<p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p></p><p><strong>1. Mindful Mornings<br/></strong>Start your day with affirmations that reinforce your worth.</p><p></p><p><strong>2. Skincare as a Ritual<br/></strong>Treat your skincare routine as an act of self-care, not just maintenance.<br/>Feel every texture, breathe in natural scents, and be present.</p><p></p><p><strong>3. Gratitude Journaling<br/></strong>Write down things you appreciate about yourself and your life.</p><p></p><p><strong>4. Positive Self-Talk<br/></strong>Catch negative self-talk and gently reframe it with kindness.</p><p></p>"
+      }
+    },
+    "section_layout_KVGzzk": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "featured_text_iVBEA3": {
@@ -146,8 +243,8 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "05.",
-        "heading": "Embracing Growth with Self-Compassion",
-        "text": "<p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p><strong>The goal isn’t to be perfect; it’s to be real, to be you.</strong></p><p></p><p></p><p></p><p></p>"
+        "heading": "",
+        "text": "<h1></h1><h1>Embracing Growth with Self-Compassion</h1><p></p><p></p><p></p><p></p><p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p></p><p></p><p><em>The goal isn’t to be perfect; <br/>it’s to be real, to be you.</em></p><p></p><p></p><p></p><p></p>"
       }
     },
     "image_with_text_be9QPD": {
@@ -169,9 +266,9 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/179.jpg",
         "mobile-image": "shopify://shop_images/179.jpg",
-        "overline": "Final Thoughts",
+        "overline": "",
         "title": "",
-        "description": "<p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p>",
+        "description": "<h1>Final Thoughts</h1><p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p><p></p>",
         "link-url": "shopify://collections/2025-valentines-day-collection",
         "link-text": ""
       }
@@ -225,20 +322,6 @@
         "border_bottom": false,
         "page_width_desktop": "full",
         "page_width_mobile": "full"
-      }
-    },
-    "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
-      "type": "featured-text",
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>Transitioning from anti-aging to well-aging is about adopting a holistic approach to aging gracefully. Embrace the journey of growing older with a positive mindset and focus on nurturing your physical, mental, and emotional well-being. By incorporating these principles into your life, you can increase your chances of aging in a way that allows you to lead a fulfilling and vibrant life well into your later years. Remember, well-aging starts now, and it's never too late to make positive changes for a healthier, happier future.</p>"
       }
     },
     "navigation": {
@@ -322,42 +405,33 @@
         "featured_product": "x-lifting-mask-1",
         "loop-enabled": false
       }
-    },
-    "newsletter_bfAyV7": {
-      "type": "newsletter",
-      "settings": {
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "heading": "Subscribe to our well-aging club",
-        "newsletter--subheading": "<p>Join us on the BOUTIJOUR Well-aging Club for the healthiest glow.</p>",
-        "border_bottom": false
-      }
     }
   },
   "order": [
     "main",
+    "featured_text_YtxB6q",
     "image_with_text_V7XA7C",
+    "featured_text_QWkg4E",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
     "featured_text_EY7BxQ",
     "featured_text_yi3zaE",
     "section_layout_tRwNLE",
+    "featured_text_ABYPwy",
     "featured_text_qEGbxX",
-    "featured_text_bxzPyV",
+    "section_layout_jRtyCi",
+    "featured_text_XUPFmW",
+    "section_layout_KNbHnh",
+    "featured_text_UiywrT",
     "featured_text_GaY8jm",
+    "section_layout_KVGzzk",
     "featured_text_iVBEA3",
     "image_with_text_be9QPD",
     "featured_text_BQiPAq",
     "featured_collection_wxNaB3",
     "featured_blog_EbUKnP",
-    "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
     "comments",
     "recents",
-    "featured_product_U3ntG3",
-    "newsletter_bfAyV7"
+    "featured_product_U3ntG3"
   ]
 }
