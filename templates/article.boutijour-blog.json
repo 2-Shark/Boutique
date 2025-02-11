@@ -18,29 +18,16 @@
         "show-author": false
       }
     },
-    "01174489-935f-4c6b-b659-4c1205ea8a89": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<h3><strong>The Foundations of Self-Love</strong></h3><h3></h3><h3></h3><p>In a world that often measures worth through achievements, appearances, or external validation, self-love can feel elusive. But the truth is, love starts within. Self-love isn’t just about treating yourself to spa days or indulging in temporary comforts—it’s a profound, ongoing relationship with yourself rooted in acceptance, kindness, and care. Here’s how to build a strong foundation for lasting self-love:</p>"
-      }
-    },
     "image_with_text_V7XA7C": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
+        "image-aspect-ratio": 76,
+        "mobile-image-aspect-ratio": 112,
         "darken-image": true,
         "parallax-enabled": false,
         "text-position": "center",
@@ -50,33 +37,6 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/149.jpg",
         "mobile-image": "shopify://shop_images/149.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "c144a42c-baf1-4229-ab29-1cebd32bdb16": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 48,
-        "mobile-image-aspect-ratio": 110,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_how_to_well-age.png",
-        "mobile-image": "shopify://shop_images/How_to_well-age.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -94,7 +54,48 @@
         "spacing-below": true,
         "overline": "01.",
         "heading": "Understanding What Self-Love Truly Means",
-        "text": "<h3></h3><p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p><strong>Self-Acceptance:</strong> Embracing who you are—flaws, strengths, and everything in between. This means acknowledging imperfections without judgment.</p><p><strong>Self-Respect:</strong> Setting boundaries that honor your values and emotional needs.</p><p><strong>Self-Compassion:</strong> Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p><h5></h5><h5></h5><h5><em><strong>Self-love is not about being perfect; it's about being authentic.</strong></em></h5>"
+        "text": ""
+      }
+    },
+    "featured_text_EY7BxQ": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p></p><p></p><p><strong>1. Self-Acceptance<br/></strong>Embracing who you are—flaws, strengths, and everything in between.This means acknowledging imperfections without judgment.</p><p></p><p><strong>2. Self-Respect<br/></strong>Setting boundaries that honor your values and emotional needs.</p><p></p><p><strong>3. Self-Compassion<br/></strong>Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p>"
+      }
+    },
+    "featured_text_yi3zaE": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p><em>Self-love is not about being perfect; <br/>it's about being authentic.</em></p>"
+      }
+    },
+    "section_layout_tRwNLE": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "featured_text_qEGbxX": {
@@ -339,10 +340,11 @@
   },
   "order": [
     "main",
-    "01174489-935f-4c6b-b659-4c1205ea8a89",
     "image_with_text_V7XA7C",
-    "c144a42c-baf1-4229-ab29-1cebd32bdb16",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
+    "featured_text_EY7BxQ",
+    "featured_text_yi3zaE",
+    "section_layout_tRwNLE",
     "featured_text_qEGbxX",
     "featured_text_bxzPyV",
     "featured_text_GaY8jm",
