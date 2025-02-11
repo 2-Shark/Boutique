@@ -18,6 +18,19 @@
         "show-author": false
       }
     },
+    "featured_text_PcF79Q": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<h1></h1><h1><strong>The Foundations of Self-Love</strong></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>In a world that often measures worth through achievements, appearances, or external validation, self-love can feel elusive. But the truth is, love starts within. Self-love isn’t just about treating yourself to spa days or indulging in temporary comforts—it’s a profound, ongoing relationship with yourself rooted in acceptance, kindness, and care.</p>"
+      }
+    },
     "image_with_text_V7XA7C": {
       "type": "image-with-text",
       "settings": {
@@ -107,8 +120,8 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "02.",
-        "heading": "The Connection Between Self-Love and Mental Well-Being",
-        "text": "<p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>Reduce Anxiety and Stress:</strong> By quieting the inner critic and replacing self-judgment with understanding.</p><p><strong>Build Resilience:</strong> Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p><strong>Enhance Relationships:</strong> When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p>"
+        "heading": "",
+        "text": "<h1></h1><h1>The Connection Between Self-Love and Mental Well-Being</h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>1. Reduce Anxiety and Stress<br/></strong>By quieting the inner critic and replacing self-judgment with understanding.</p><p></p><p><strong>2. Build Resilience<br/></strong>Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p></p><p><strong>3. Enhance Relationships<br/></strong>When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p><p></p>"
       }
     },
     "featured_text_bxzPyV": {
@@ -120,8 +133,8 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "03.",
-        "heading": "The Role of Boundaries in Self-Love",
-        "text": "<p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. Setting boundaries might look like:</p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><h5><em><strong>Boundaries aren't walls; they're bridges to healthier, more authentic connections.</strong></em></h5>"
+        "heading": "",
+        "text": "<h1></h1><h1>The Role of Boundaries in Self-Love</h1><h1></h1><h1></h1><h1></h1><h1></h1><p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. <br/><br/><strong>Setting boundaries might look like:</strong></p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><p></p><p></p><p><em>Boundaries aren't walls; <br/>they're bridges to healthier, more authentic connections.</em></p>"
       }
     },
     "featured_text_GaY8jm": {
@@ -133,8 +146,8 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "04.",
-        "heading": "Practicing Self-Love Daily",
-        "text": "<p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p><strong>Mindful Mornings:</strong> Start your day with affirmations that reinforce your worth.</p><p><strong>Skincare as a Ritual:</strong> Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p><strong>Gratitude Journaling:</strong> Write down things you appreciate about yourself and your life.</p><p><strong>Positive Self-Talk:</strong> Catch negative self-talk and gently reframe it with kindness.</p><p></p>"
+        "heading": "",
+        "text": "<h1></h1><h1>Practicing Self-Love Daily</h1><p></p><p></p><p></p><p></p><p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p></p><p><strong>1. Mindful Mornings<br/></strong>Start your day with affirmations that reinforce your worth.</p><p></p><p><strong>2. Skincare as a Ritual<br/></strong>Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p></p><p><strong>3. Gratitude Journaling<br/></strong>Write down things you appreciate about yourself and your life.</p><p></p><p><strong>4. Positive Self-Talk<br/></strong>Catch negative self-talk and gently reframe it with kindness.</p><p></p><p></p><p></p>"
       }
     },
     "featured_text_iVBEA3": {
@@ -147,7 +160,7 @@
         "spacing-below": true,
         "overline": "05.",
         "heading": "Embracing Growth with Self-Compassion",
-        "text": "<p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p><strong>The goal isn’t to be perfect; it’s to be real, to be you.</strong></p><p></p><p></p><p></p><p></p>"
+        "text": "<p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p><em>The goal isn’t to be perfect; it’s to be real, to be you.</em></p><p></p><p></p><p></p><p></p>"
       }
     },
     "image_with_text_be9QPD": {
@@ -319,6 +332,7 @@
   },
   "order": [
     "main",
+    "featured_text_PcF79Q",
     "image_with_text_V7XA7C",
     "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
     "featured_text_EY7BxQ",
