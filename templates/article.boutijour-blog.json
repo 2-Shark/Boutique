@@ -28,7 +28,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<h1></h1><h1><strong>The Foundations of Self-Love</strong></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>In a world that often measures worth through achievements, appearances, or external validation, self-love can feel elusive. But the truth is, love starts within. Self-love isn’t just about treating yourself to spa days or indulging in temporary comforts—it’s a profound, ongoing relationship with yourself rooted in acceptance, kindness, and care.</p>"
+        "text": "<p>Self-love is more than a concept—it’s a practice. We sat down with our Founder, Jillian, to discuss the small yet meaningful ways she nurtures herself daily. From mindfulness to skincare, here’s how she embraces self-love in every aspect of her life.</p>"
       }
     },
     "image_with_text_V7XA7C": {
@@ -48,52 +48,11 @@
         "overlap": true,
         "box-around-text": true,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/149.jpg",
-        "mobile-image": "shopify://shop_images/149.jpg",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "featured_text_wPPAMA": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>Here’s how to build a strong foundation for lasting self-love:</p>"
-      }
-    },
-    "a9ea6c71-72b3-4543-b1da-c87ec74449f2": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "01.",
-        "heading": "Understanding What Self-Love Truly Means",
-        "text": ""
-      }
-    },
-    "featured_text_EY7BxQ": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p>Self-love is more than just a feel-good buzzword. It’s the practice of recognizing your inherent worth, independent of your accomplishments or the opinions of others. It involves:</p><p></p><p></p><p><strong>1. Self-Acceptance<br/></strong>Embracing who you are—flaws, strengths, and everything in between.This means acknowledging imperfections without judgment.</p><p></p><p><strong>2. Self-Respect<br/></strong>Setting boundaries that honor your values and emotional needs.</p><p></p><p><strong>3. Self-Compassion<br/></strong>Offering yourself the same kindness you'd give to a friend, especially during difficult times.</p>"
       }
     },
     "featured_text_yi3zaE": {
@@ -104,9 +63,9 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "",
+        "overline": "01.",
         "heading": "",
-        "text": "<p><em>Self-love is not about being perfect; <br/>it's about being authentic.</em></p>"
+        "text": "<p><strong>Q: What does self-love mean to you, and how do you incorporate it into your daily life?</strong></p><p><strong>Jillian:</strong> Self-love starts with embracing my whole self—strengths, imperfections, and everything in between. It’s about showing up for myself every day, making time for the things that bring me joy, and being kind to myself. Finding what you love and making it part of your daily routine can make a huge difference.</p>"
       }
     },
     "section_layout_tRwNLE": {
@@ -116,15 +75,15 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
     },
-    "featured_text_qEGbxX": {
+    "featured_text_6ynUVD": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -134,7 +93,7 @@
         "spacing-below": true,
         "overline": "02.",
         "heading": "",
-        "text": "<h1></h1><h1>The Connection Between Self-Love and Mental Well-Being</h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><p>When you cultivate self-love, you create a strong emotional foundation that supports mental health. It helps:</p><p><strong>1. Reduce Anxiety and Stress<br/></strong>By quieting the inner critic and replacing self-judgment with understanding.</p><p></p><p><strong>2. Build Resilience<br/></strong>Loving yourself provides the emotional strength to navigate life’s challenges with grace.</p><p></p><p><strong>3. Enhance Relationships<br/></strong>When you love yourself, you set healthier boundaries and attract relationships rooted in mutual respect.</p><p></p>"
+        "text": "<p><strong>Q: What are some self-love practices that help you maintain a positive mindset?</strong></p><p><strong>Jillian:</strong> I cultivate gratitude through prayer and self-affirmations in the mirror. Whether I’m speaking kind words to myself or reflecting on the things I appreciate, these moments help me nurture confidence and inner peace.</p>"
       }
     },
     "section_layout_4an7TV": {
@@ -144,15 +103,15 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
     },
-    "featured_text_bxzPyV": {
+    "featured_text_UihaNH": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -162,7 +121,7 @@
         "spacing-below": true,
         "overline": "03.",
         "heading": "",
-        "text": "<h1></h1><h1>The Role of Boundaries in Self-Love</h1><h1></h1><h1></h1><h1></h1><h1></h1><p>Boundaries are essential to self-love. They define what you will and won’t accept in your life, safeguarding your mental and emotional space. <br/><br/><strong>Setting boundaries might look like:</strong></p><p>- Saying “no” without guilt when something doesn’t align with your well-being.</p><p>- Prioritizing your needs without feeling selfish.</p><p>- Recognizing when relationships drain you rather than nourish you.</p><p></p><p></p><p></p><p><em>Boundaries aren't walls; <br/>they're bridges to healthier, more authentic connections.</em></p>"
+        "text": "<p><strong>Q: What are some self-love practices that help you maintain a positive mindset?</strong></p><p><strong>Jillian:</strong> I cultivate gratitude through prayer and self-affirmations in the mirror. Whether I’m speaking kind words to myself or reflecting on the things I appreciate, these moments help me nurture confidence and inner peace.</p>"
       }
     },
     "section_layout_mDPPhM": {
@@ -172,15 +131,15 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
     },
-    "featured_text_GaY8jm": {
+    "featured_text_g6xpqL": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -190,7 +149,7 @@
         "spacing-below": true,
         "overline": "04.",
         "heading": "",
-        "text": "<h1></h1><h1>Practicing Self-Love Daily</h1><p></p><p></p><p></p><p></p><p>Self-love is not a destination; it’s a daily practice. Here are small, impactful ways to integrate it into your life:</p><p></p><p><strong>1. Mindful Mornings<br/></strong>Start your day with affirmations that reinforce your worth.</p><p></p><p><strong>2. Skincare as a Ritual<br/></strong>Treat your skincare routine as an act of self-care, not just maintenance. Feel every texture, breathe in natural scents, and be present.</p><p></p><p><strong>3. Gratitude Journaling<br/></strong>Write down things you appreciate about yourself and your life.</p><p></p><p><strong>4. Positive Self-Talk<br/></strong>Catch negative self-talk and gently reframe it with kindness.</p><p></p><p></p><p></p>"
+        "text": "<p><strong>Q: How do you find joy in everyday life?</strong></p><p><strong>Jillian:</strong> I cherish little things I love. Whether it’s a little walk, the morning sunlight, a cup of tea... anything that makes me happy and is easy to find in daily basis.  These small moments ground me and bring a sense of calm to my day.</p>"
       }
     },
     "section_layout_iYmQxy": {
@@ -200,15 +159,15 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
     },
-    "featured_text_iVBEA3": {
+    "featured_text_x7xmQE": {
       "type": "featured-text",
       "settings": {
         "background-color": "none",
@@ -218,46 +177,7 @@
         "spacing-below": true,
         "overline": "05.",
         "heading": "",
-        "text": "<p></p><h1>Embracing Growth with Self-Compassion</h1><p></p><p></p><p></p><p>Loving yourself doesn’t mean complacency. It means embracing growth with compassion. Understand that mistakes are part of learning, and setbacks don’t define your worth. </p><p></p><p></p><p><em>The goal isn’t to be perfect; <br/>it’s to be real, to be you.</em></p><p></p><p></p><p></p><p></p>"
-      }
-    },
-    "image_with_text_be9QPD": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 3,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": true,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "large",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/179.jpg",
-        "mobile-image": "shopify://shop_images/179.jpg",
-        "overline": "",
-        "title": "",
-        "description": "<h1></h1><h1>Final Thoughts</h1><h1></h1><p>Self-love is the foundation upon which all other love is built. It’s a journey of nurturing, understanding, and showing up for yourself every day. So, pause, breathe, and remind yourself: You are enough, exactly as you are.</p>",
-        "link-url": "shopify://collections/2025-valentines-day-collection",
-        "link-text": ""
-      }
-    },
-    "featured_text_BQiPAq": {
-      "type": "featured-text",
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "",
-        "heading": "",
-        "text": "<p><em>Ready to embrace self-love? Start with small, mindful practices today. Your heart will thank you.</em></p><p></p>"
+        "text": "<p><strong>Q: How does skincare fit into your self-care routine?</strong></p><p><strong>Jillian:</strong> Skincare, to me, is more than just a routine—it’s a ritual. It’s my time to pause, reflect, and reconnect with myself. Beyond nourishing my skin, it gives me a sense of renewal and balance amid a busy day.</p>"
       }
     },
     "section_layout_dGKVKB": {
@@ -267,28 +187,94 @@
         "border_bottom": false,
         "background_color": "",
         "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
         "inner_padding_bottom_desktop": "72",
         "inner_padding_bottom_mobile": "32",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
       }
     },
-    "featured_collection_wxNaB3": {
-      "type": "featured-collection",
+    "featured_text_W4Ufrp": {
+      "type": "featured-text",
       "settings": {
-        "collection": "2025-valentines-day-collection",
-        "max-products": 8,
         "background-color": "none",
         "light-text": false,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "featured-collection--image--show": false,
-        "featured-collection--description--show": false,
-        "display-type": "slideshow",
-        "products-per-row--desktop": "3",
-        "products-per-row--mobile": "1"
+        "overline": "06.",
+        "heading": "",
+        "text": "<p><strong>Q: Nutrition plays a key role in self-care. What’s your approach to mindful eating?</strong></p><p><strong>Jillian:</strong> I believe in balance. Staying hydrated, incorporating healthy fats, and choosing nutrient-rich foods help support both my well-being and my skin’s vitality. It’s not about perfection but about making mindful choices that fuel my body and mind.</p>"
+      }
+    },
+    "section_layout_fW4TzY": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_FzyVnw": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Jillian’s Skincare Favorites",
+        "text": ""
+      }
+    },
+    "featured_text_6fpiq9": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p><strong>Lotus Leaf Anti-Pollution Repairing Toner<br/></strong>“Whenever my skin feels overburdened by environmental stressors, I turn to this restorative toner. Layering it twice enhances hydration, strengthens my skin’s barrier, and leaves my complexion with a refined, healthy glow.”</p>"
+      }
+    },
+    "section_layout_pmGGqa": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "40",
+        "inner_padding_top_mobile": "20",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "featured_text_QCKBbA": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "",
+        "text": "<p><strong>Lotus Melight Eye Patch<br/></strong>“These eye patches are my go-to for self-care moments. Whether refreshing my eyes in the morning or enhancing relaxation during meditation, they help revive and illuminate the delicate under-eye area.”</p>"
       }
     },
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
@@ -392,22 +378,22 @@
     "main",
     "featured_text_PcF79Q",
     "image_with_text_V7XA7C",
-    "featured_text_wPPAMA",
-    "a9ea6c71-72b3-4543-b1da-c87ec74449f2",
-    "featured_text_EY7BxQ",
     "featured_text_yi3zaE",
     "section_layout_tRwNLE",
-    "featured_text_qEGbxX",
+    "featured_text_6ynUVD",
     "section_layout_4an7TV",
-    "featured_text_bxzPyV",
+    "featured_text_UihaNH",
     "section_layout_mDPPhM",
-    "featured_text_GaY8jm",
+    "featured_text_g6xpqL",
     "section_layout_iYmQxy",
-    "featured_text_iVBEA3",
-    "image_with_text_be9QPD",
-    "featured_text_BQiPAq",
+    "featured_text_x7xmQE",
     "section_layout_dGKVKB",
-    "featured_collection_wxNaB3",
+    "featured_text_W4Ufrp",
+    "section_layout_fW4TzY",
+    "featured_text_FzyVnw",
+    "featured_text_6fpiq9",
+    "section_layout_pmGGqa",
+    "featured_text_QCKBbA",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
     "comments",
