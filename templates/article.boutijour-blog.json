@@ -246,22 +246,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p><strong>Lotus Leaf Anti-Pollution Repairing Toner<br/></strong>“Whenever my skin feels overburdened by environmental stressors, I turn to this restorative toner. Layering it twice enhances hydration, strengthens my skin’s barrier, and leaves my complexion with a refined, healthy glow.”</p>"
-      }
-    },
-    "section_layout_pmGGqa": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "40",
-        "inner_padding_top_mobile": "20",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
+        "text": "<p><strong>Lotus Leaf Anti-Pollution Repairing Toner<br/></strong><em>“Whenever my skin feels overburdened by environmental stressors, I turn to this restorative toner. Layering it twice enhances hydration, strengthens my skin’s barrier, and leaves my complexion with a refined, healthy glow.”</em></p>"
       }
     },
     "featured_text_QCKBbA": {
@@ -274,7 +259,144 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p><strong>Lotus Melight Eye Patch<br/></strong>“These eye patches are my go-to for self-care moments. Whether refreshing my eyes in the morning or enhancing relaxation during meditation, they help revive and illuminate the delicate under-eye area.”</p>"
+        "text": "<p><strong>Lotus Melight Eye Patch<br/></strong><em>“These eye patches are my go-to for self-care moments. Whether refreshing my eyes in the morning or enhancing relaxation during meditation, they help revive and illuminate the delicate under-eye area.”</em></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+      }
+    },
+    "featured_text_pFFkr9": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "Shop",
+        "heading": "Jillian's Skincare Favorites",
+        "text": ""
+      }
+    },
+    "featured_product_eg4nr8": {
+      "type": "featured-product",
+      "blocks": {
+        "overline_Ypwexy": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "text": "Overline text"
+          }
+        },
+        "heading_6AmfcU": {
+          "type": "heading",
+          "settings": {}
+        },
+        "vendor_TWtLGJ": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "price_httwaC": {
+          "type": "price",
+          "settings": {}
+        },
+        "options_xebVYF": {
+          "type": "options",
+          "disabled": true,
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy_buttons_rTEWVr": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "overline_Ypwexy",
+        "heading_6AmfcU",
+        "vendor_TWtLGJ",
+        "price_httwaC",
+        "options_xebVYF",
+        "buy_buttons_rTEWVr"
+      ],
+      "settings": {
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "text-column-width": 30,
+        "text-alignment": "left",
+        "thumbnail-width": 80,
+        "media-gap": 8,
+        "featured_product": "lotus-leaf-anti-pollution-repairing-toner",
+        "loop-enabled": false
+      }
+    },
+    "featured_product_bAtTQw": {
+      "type": "featured-product",
+      "blocks": {
+        "overline_wLRxqy": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "text": "Overline text"
+          }
+        },
+        "heading_wWbFer": {
+          "type": "heading",
+          "settings": {}
+        },
+        "vendor_zMPD3J": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "price_7DfUnm": {
+          "type": "price",
+          "settings": {}
+        },
+        "options_g8iPpY": {
+          "type": "options",
+          "disabled": true,
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy_buttons_aHnArW": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "overline_wLRxqy",
+        "heading_wWbFer",
+        "vendor_zMPD3J",
+        "price_7DfUnm",
+        "options_g8iPpY",
+        "buy_buttons_aHnArW"
+      ],
+      "settings": {
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "text-column-width": 30,
+        "text-alignment": "left",
+        "thumbnail-width": 80,
+        "media-gap": 8,
+        "featured_product": "lotus-melight-eyepatch",
+        "loop-enabled": false
       }
     },
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
@@ -317,61 +439,6 @@
         "enable": false,
         "aspect-ratio": "landscape"
       }
-    },
-    "featured_product_U3ntG3": {
-      "type": "featured-product",
-      "blocks": {
-        "overline_fNaffD": {
-          "type": "overline",
-          "settings": {
-            "text": "Overline text"
-          }
-        },
-        "heading_MpdkKK": {
-          "type": "heading",
-          "settings": {}
-        },
-        "vendor_HQqQtc": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "options_4yyhp6": {
-          "type": "options",
-          "settings": {
-            "variant-style": "buttons",
-            "swatches-enabled": true,
-            "size-chart-enabled": true,
-            "size-chart-option": "size",
-            "size-chart-content": ""
-          }
-        },
-        "buy_buttons_KFpUXR": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": true
-          }
-        }
-      },
-      "block_order": [
-        "overline_fNaffD",
-        "heading_MpdkKK",
-        "vendor_HQqQtc",
-        "options_4yyhp6",
-        "buy_buttons_KFpUXR"
-      ],
-      "disabled": true,
-      "settings": {
-        "background-color": "none",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "text-column-width": 30,
-        "text-alignment": "left",
-        "thumbnail-width": 80,
-        "media-gap": 8,
-        "featured_product": "x-lifting-mask-1",
-        "loop-enabled": false
-      }
     }
   },
   "order": [
@@ -392,12 +459,13 @@
     "section_layout_fW4TzY",
     "featured_text_FzyVnw",
     "featured_text_6fpiq9",
-    "section_layout_pmGGqa",
     "featured_text_QCKBbA",
+    "featured_text_pFFkr9",
+    "featured_product_eg4nr8",
+    "featured_product_bAtTQw",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
     "comments",
-    "recents",
-    "featured_product_U3ntG3"
+    "recents"
   ]
 }
