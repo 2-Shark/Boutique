@@ -233,170 +233,96 @@
         "spacing-below": true,
         "overline": "",
         "heading": "Jillian’s Skincare Favorites",
-        "text": ""
+        "text": "<p></p><p></p><p></p><p></p>"
       }
     },
-    "featured_text_6fpiq9": {
-      "type": "featured-text",
+    "image_with_text_ikyfyN": {
+      "type": "image-with-text",
       "settings": {
+        "text-color": "auto",
         "background-color": "none",
-        "light-text": false,
         "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 100,
+        "mobile-image-aspect-ratio": 128,
+        "darken-image": true,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/toner_a7ce94b2-a4ba-4714-9097-efffadf62043.jpg",
+        "mobile-image": "shopify://shop_images/toner_a7ce94b2-a4ba-4714-9097-efffadf62043.jpg",
         "overline": "",
-        "heading": "",
-        "text": "<p><strong>Lotus Leaf Anti-Pollution Repairing Toner<br/></strong><em>“Whenever my skin feels overburdened by environmental stressors, I turn to this restorative toner. Layering it twice enhances hydration, strengthens my skin’s barrier, and leaves my complexion with a refined, healthy glow.”</em></p>"
+        "title": "",
+        "description": "<h2><strong>Lotus Leaf Anti-Pollution Repairing Toner</strong></h2><h2></h2><h2></h2><h2></h2><h2></h2><p>“Whenever my skin feels overburdened by environmental stressors, I turn to this restorative toner. Layering it twice enhances hydration, strengthens my skin’s barrier, and leaves my complexion with a refined, healthy glow.”</p>",
+        "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
+        "link-text": ""
       }
     },
-    "featured_text_QCKBbA": {
-      "type": "featured-text",
+    "section_layout_rHr8Yr": {
+      "type": "section-layout",
       "settings": {
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "1",
+        "inner_padding_top_mobile": "1",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "image_with_text_rntjUy": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
         "background-color": "none",
-        "light-text": false,
         "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 116,
+        "mobile-image-aspect-ratio": 122,
+        "darken-image": true,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Eyepatch_3_a16da2ec-159a-4953-b1f3-4ebaf8be9944.jpg",
+        "mobile-image": "shopify://shop_images/Eyepatch_3.jpg",
         "overline": "",
-        "heading": "",
-        "text": "<p><strong>Lotus Melight Eye Patch<br/></strong><em>“These eye patches are my go-to for self-care moments. Whether refreshing my eyes in the morning or enhancing relaxation during meditation, they help revive and illuminate the delicate under-eye area.”</em></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+        "title": "",
+        "description": "<h2><strong>Lotus Melight Eye Patch</strong></h2><h2></h2><h2></h2><h2></h2><h2></h2><p>“These eye patches are my go-to for self-care moments. Whether refreshing my eyes in the morning or enhancing relaxation during meditation, they help revive and illuminate the delicate under-eye area.”</p>",
+        "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
+        "link-text": ""
       }
     },
-    "featured_text_pFFkr9": {
-      "type": "featured-text",
+    "section_layout_xJPAQP": {
+      "type": "section-layout",
       "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "overline": "Shop",
-        "heading": "Jillian's Skincare Favorites",
-        "text": ""
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
-    "featured_product_eg4nr8": {
-      "type": "featured-product",
-      "blocks": {
-        "overline_Ypwexy": {
-          "type": "overline",
-          "disabled": true,
-          "settings": {
-            "text": "Overline text"
-          }
-        },
-        "heading_6AmfcU": {
-          "type": "heading",
-          "settings": {}
-        },
-        "vendor_TWtLGJ": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "price_httwaC": {
-          "type": "price",
-          "settings": {}
-        },
-        "options_xebVYF": {
-          "type": "options",
-          "disabled": true,
-          "settings": {
-            "variant-style": "buttons",
-            "swatches-enabled": true,
-            "size-chart-enabled": true,
-            "size-chart-option": "size",
-            "size-chart-content": ""
-          }
-        },
-        "buy_buttons_rTEWVr": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": false
-          }
-        }
-      },
-      "block_order": [
-        "overline_Ypwexy",
-        "heading_6AmfcU",
-        "vendor_TWtLGJ",
-        "price_httwaC",
-        "options_xebVYF",
-        "buy_buttons_rTEWVr"
-      ],
+    "recents": {
+      "type": "article-recents",
       "settings": {
-        "background-color": "none",
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true,
-        "text-column-width": 30,
-        "text-alignment": "left",
-        "thumbnail-width": 80,
-        "media-gap": 8,
-        "featured_product": "lotus-leaf-anti-pollution-repairing-toner",
-        "loop-enabled": false
-      }
-    },
-    "featured_product_bAtTQw": {
-      "type": "featured-product",
-      "blocks": {
-        "overline_wLRxqy": {
-          "type": "overline",
-          "disabled": true,
-          "settings": {
-            "text": "Overline text"
-          }
-        },
-        "heading_wWbFer": {
-          "type": "heading",
-          "settings": {}
-        },
-        "vendor_zMPD3J": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "price_7DfUnm": {
-          "type": "price",
-          "settings": {}
-        },
-        "options_g8iPpY": {
-          "type": "options",
-          "disabled": true,
-          "settings": {
-            "variant-style": "buttons",
-            "swatches-enabled": true,
-            "size-chart-enabled": true,
-            "size-chart-option": "size",
-            "size-chart-content": ""
-          }
-        },
-        "buy_buttons_aHnArW": {
-          "type": "buy-buttons",
-          "settings": {
-            "smart-payment-enabled": false
-          }
-        }
-      },
-      "block_order": [
-        "overline_wLRxqy",
-        "heading_wWbFer",
-        "vendor_zMPD3J",
-        "price_7DfUnm",
-        "options_g8iPpY",
-        "buy_buttons_aHnArW"
-      ],
-      "settings": {
-        "background-color": "none",
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
-        "text-column-width": 30,
-        "text-alignment": "left",
-        "thumbnail-width": 80,
-        "media-gap": 8,
-        "featured_product": "lotus-melight-eyepatch",
-        "loop-enabled": false
+        "enable": true,
+        "aspect-ratio": "natural"
       }
     },
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce": {
@@ -432,13 +358,6 @@
         "disqus-enabled": false,
         "disqus-shortname": ""
       }
-    },
-    "recents": {
-      "type": "article-recents",
-      "settings": {
-        "enable": false,
-        "aspect-ratio": "landscape"
-      }
     }
   },
   "order": [
@@ -458,14 +377,13 @@
     "featured_text_W4Ufrp",
     "section_layout_fW4TzY",
     "featured_text_FzyVnw",
-    "featured_text_6fpiq9",
-    "featured_text_QCKBbA",
-    "featured_text_pFFkr9",
-    "featured_product_eg4nr8",
-    "featured_product_bAtTQw",
+    "image_with_text_ikyfyN",
+    "section_layout_rHr8Yr",
+    "image_with_text_rntjUy",
+    "section_layout_xJPAQP",
+    "recents",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
     "navigation",
-    "comments",
-    "recents"
+    "comments"
   ]
 }
