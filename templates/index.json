@@ -15,7 +15,7 @@
         "image_desktop": "shopify://shop_images/PC_FEB_2025-1.jpg",
         "image_tablet": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
         "image_mobile": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
-        "eyebrow": "Valentine’s Day collection",
+        "eyebrow": "",
         "header": "Love Begins Within",
         "cta": "discover more",
         "link": "shopify://collections/2025-valentines-day-collection",
@@ -37,6 +37,7 @@
     },
     "image_with_text_nGpBeh": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
