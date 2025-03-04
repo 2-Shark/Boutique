@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/PC_FEB_2025-1.jpg",
-        "image_tablet": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
-        "image_mobile": "shopify://shop_images/MOBILE_FEB_2025-1.jpg",
-        "eyebrow": "",
-        "header": "Love Begins Within",
+        "image_desktop": "shopify://shop_images/54.jpg",
+        "image_tablet": "shopify://shop_images/54M.jpg",
+        "image_mobile": "shopify://shop_images/54M.jpg",
+        "eyebrow": "Beyond Skincare, Beyond Time",
+        "header": "For the Timeless Glow",
         "cta": "discover more",
         "link": "shopify://collections/best-sellers",
         "inner_padding_left_right": "185",
@@ -26,11 +26,10 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/63.jpg",
-        "image_desktop_right": "shopify://shop_images/60.jpg",
-        "image_mobile_right": "shopify://shop_images/65.jpg",
-        "header": "Pamper yourself with self-love",
-        "body": "The Advanced ThechnologyWith Korean heritage",
+        "image_desktop": "shopify://shop_images/63_09d52151-baaf-43e7-8cb3-df8fe0024154.jpg",
+        "image_desktop_right": "shopify://shop_images/240_a4342e5d-6d16-4b6b-92a6-4ee5747bafd9.jpg",
+        "header": "Awakening Senses of Spring",
+        "body": "",
         "cta": "Shop",
         "link": "shopify://products/lotus-melight-eyepatch"
       }
