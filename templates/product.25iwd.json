@@ -82,20 +82,27 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
-            "heading": "HOW TO USE",
-            "description": "",
+            "heading": "Lotus Leaf Anti-Pollution Repairing Toner",
+            "description": "<p>Smooths and hydrates the skin with a lightweight, fast-absorbing formula that strengthens, repairs, and protects against environmental stressors like pollution.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_kFbLRQ": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Lotus Leaf Calming Gel Cream:",
+            "description": "<p>Calms irritation, deeply hydrates, and locks in moisture while leaving the skin with a healthy glow.</p>",
             "page-content": "",
             "default-open": false
           }
         },
         "collapsible_row_B4FEic": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
-            "heading": "full Ingredients",
-            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p>",
+            "heading": "Skin Tint Essence",
+            "description": "<p>An everyday essential that extends your skincare routine, offering light coverage enriched with Lotus Flower properties to protect the skin while delivering an effortless glow.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -114,6 +121,7 @@
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_kFbLRQ",
         "collapsible_row_B4FEic"
       ],
       "settings": {
