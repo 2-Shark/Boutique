@@ -254,7 +254,7 @@
         "spacing-around-blocks": true,
         "image-aspect-ratio": 136,
         "darken-image": false,
-        "blocks_per_slide": 2,
+        "blocks_per_slide": 3,
         "box-around-text": false,
         "auto-rotate": false,
         "rotate-frequency": 7,
