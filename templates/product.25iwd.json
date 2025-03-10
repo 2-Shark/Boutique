@@ -145,30 +145,19 @@
         "mobile-media-layout": "slideshow"
       }
     },
-    "5dc9f552-4580-4447-8abe-673add963394": {
-      "type": "image-with-text",
+    "section_layout_QQJLLH": {
+      "type": "section-layout",
       "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 4,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 46,
-        "mobile-image-aspect-ratio": 76,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
+        "snippet_name": "",
+        "border_bottom": false,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
       }
     },
     "featured_text_g6w879": {
@@ -180,7 +169,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "Her Timeless Radiance Set — Make Your Glow Endless Starting Today",
+        "heading": "Make Your Glow Endless Starting Today",
         "text": ""
       }
     },
@@ -264,6 +253,32 @@
         "mobile-overlay": true
       }
     },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 46,
+        "mobile-image-aspect-ratio": 76,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
+        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -325,6 +340,7 @@
     },
     "image_with_text_GHkJyP": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -378,6 +394,19 @@
             "link-text": ""
           }
         },
+        "image_cc6enV": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/boutijour_sep2385.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": ""
+          }
+        },
         "image_TiPzCy": {
           "type": "image",
           "settings": {
@@ -421,6 +450,7 @@
       "block_order": [
         "image_XmBaGg",
         "image_bYcaU8",
+        "image_cc6enV",
         "image_TiPzCy",
         "image_BVpbqH",
         "image_pVfBBr"
@@ -449,7 +479,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 6,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
         "image-aspect-ratio": 40,
         "mobile-image-aspect-ratio": 80,
@@ -462,32 +492,6 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
         "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 24,
-        "mobile-image-aspect-ratio": 70,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
-        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -546,6 +550,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -562,6 +567,33 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
+      }
+    },
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
@@ -630,15 +662,16 @@
   },
   "order": [
     "main",
-    "5dc9f552-4580-4447-8abe-673add963394",
+    "section_layout_QQJLLH",
     "featured_text_g6w879",
     "slideshow_BmGC9N",
+    "5dc9f552-4580-4447-8abe-673add963394",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "image_with_text_GHkJyP",
     "slideshow_YKVe7n",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
-    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "section_layout_7Kh9VE",
     "related-products",
