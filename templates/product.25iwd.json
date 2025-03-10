@@ -217,15 +217,15 @@
         },
         "image_B8Hac3": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "overline": "Overline text",
-            "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "image": "shopify://shop_images/IWD_-1_a96da8f5-7483-473d-af63-feba462e5770.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
             "link-url": "/",
-            "link-text": "View more"
+            "link-text": ""
           }
         }
       },
