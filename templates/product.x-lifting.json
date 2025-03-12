@@ -56,6 +56,21 @@
             "smart-payment-enabled": true
           }
         },
+        "loox_reviews_loox_rating_6HhheK": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
           "settings": {
@@ -107,6 +122,7 @@
         "pickup",
         "description",
         "buy-buttons",
+        "loox_reviews_loox_rating_6HhheK",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
@@ -440,6 +456,32 @@
         "link-text": ""
       }
     },
+    "1741750409f0f5e196": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_nTQpEe": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_nTQpEe"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
@@ -660,6 +702,7 @@
     "featured_text_Kn7tnm",
     "slideshow_iTwFNX",
     "image_with_text_GHh39y",
+    "1741750409f0f5e196",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_9i6Hpg",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
