@@ -391,7 +391,7 @@
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
-        "mobile-overlay": false,
+        "mobile-overlay": true,
         "image": "shopify://shop_images/PC_-_cream_2_3c1316ac-6ec8-45a8-87f1-b81c0420217d.png",
         "mobile-image": "shopify://shop_images/Cream-M_1_fb3c2a7e-394f-4c46-a53a-aae4eb6f5cd1.png",
         "overline": "",
