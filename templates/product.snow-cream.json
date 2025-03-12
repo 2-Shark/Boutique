@@ -75,9 +75,20 @@
             "url-enabled": true
           }
         },
-        "35fabdba-a7a1-4bc2-a122-5effa977b694": {
-          "type": "rating",
-          "settings": {}
+        "loox_reviews_loox_rating_gd6dzg": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -109,7 +120,7 @@
         "buy-buttons",
         "complementary-products",
         "social-sharing",
-        "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "loox_reviews_loox_rating_gd6dzg",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_qPPgjg"
       ],
@@ -453,6 +464,32 @@
         "link-text": ""
       }
     },
+    "1741751058607c6eee": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_K8FtA7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_K8FtA7"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
       "type": "image-with-text",
       "settings": {
@@ -597,6 +634,7 @@
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_7af7NU",
+    "1741751058607c6eee",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "slideshow_xEwbjF",
     "section_layout_pdkbHf",
