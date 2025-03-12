@@ -75,9 +75,20 @@
             "url-enabled": true
           }
         },
-        "35fabdba-a7a1-4bc2-a122-5effa977b694": {
-          "type": "rating",
-          "settings": {}
+        "loox_reviews_loox_rating_KxmaTb": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
         },
         "collapsible_row_gdjb8D": {
           "type": "collapsible-row",
@@ -109,7 +120,7 @@
         "buy-buttons",
         "complementary-products",
         "social-sharing",
-        "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "loox_reviews_loox_rating_KxmaTb",
         "collapsible_row_gdjb8D",
         "ef005e46-1092-400f-a562-311b51df9d9e"
       ],
@@ -482,6 +493,32 @@
         "link-text": ""
       }
     },
+    "1741750975e37b9694": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_diYKYg": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_diYKYg"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "image_with_text_daaMHm": {
       "type": "image-with-text",
       "settings": {
@@ -652,6 +689,7 @@
     "image_with_text_EGtRTg",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_pFfj9M",
+    "1741750975e37b9694",
     "image_with_text_daaMHm",
     "slideshow_c9Nxgg",
     "section_layout_hBkM3V",
