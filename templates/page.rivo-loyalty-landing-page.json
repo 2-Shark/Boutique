@@ -95,31 +95,32 @@
         "rivo_loyalty_rewards_referrals_lp_header_X4tFEm": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-header/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
+            "rivo_hero_image": "shopify://shop_images/240_a4342e5d-6d16-4b6b-92a6-4ee5747bafd9.jpg",
             "rivo_hero_background_color_enabled": false,
-            "background_color": "",
+            "background_color": "linear-gradient(180deg, rgba(19, 97, 62, 1), rgba(247, 246, 240, 1) 100%)",
             "rivo_banner_desktop_height": 400,
             "rivo_banner_text_container_desktop_padding_top": 100,
             "rivo_banner_text_container_desktop_max_width": 100,
             "rivo_banner_text_container_desktop_button_gap": 10,
             "rivo_hero_banner_text_padding": 15,
-            "rivo_banner_image_desktop_brightness": 100,
+            "rivo_banner_image_desktop_brightness": 95,
             "rivo_banner_text_container_desktop_background_color": "#ffffff",
-            "rivo_banner_text_container_desktop_font_color": "#000000",
+            "rivo_banner_text_container_desktop_font_color": "#13613e",
             "rivo_banner_title_desktop_font_size": 32,
             "rivo_banner_subtitle_desktop_font_size": 16,
-            "rivo_banner_card_desktop_position": "left",
-            "rivo_banner_desktop_text_align": "left",
+            "rivo_banner_card_desktop_position": "center",
+            "rivo_banner_desktop_text_align": "center",
             "rivo_banner_mobile_height": 400,
             "rivo_banner_text_container_mobile_padding_top": 50,
             "rivo_banner_image_mobile_brightness": 100,
             "rivo_banner_mobile_text_container_position": "stacked",
             "rivo_banner_text_container_mobile_background_color": "#ffffff",
-            "rivo_banner_text_container_mobile_font_color": "#000000",
+            "rivo_banner_text_container_mobile_font_color": "#13613e",
             "rivo_banner_text_container_mobile_button_gap": 10,
             "rivo_banner_title_mobile_font_size": 32,
             "rivo_banner_subtitle_mobile_font_size": 16,
-            "rivo_banner_card_mobile_position": "left",
-            "rivo_banner_mobile_text_align": "left"
+            "rivo_banner_card_mobile_position": "center",
+            "rivo_banner_mobile_text_align": "center"
           }
         }
       },
@@ -129,7 +130,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true
       }
