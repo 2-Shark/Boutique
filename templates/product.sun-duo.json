@@ -56,6 +56,21 @@
             "smart-payment-enabled": true
           }
         },
+        "loox_reviews_loox_rating_7YUncL": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
           "settings": {
@@ -107,6 +122,7 @@
         "pickup",
         "description",
         "buy-buttons",
+        "loox_reviews_loox_rating_7YUncL",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
@@ -499,6 +515,32 @@
         "mobile-aspect-ratio": 134
       }
     },
+    "1741751612d0774967": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_qMVhgP": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_qMVhgP"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "slideshow_hminhJ": {
       "type": "slideshow",
       "blocks": {
@@ -636,6 +678,7 @@
     "slideshow_LHq7iP",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "1741751612d0774967",
     "slideshow_hminhJ",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
