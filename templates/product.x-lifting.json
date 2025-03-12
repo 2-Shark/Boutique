@@ -456,32 +456,6 @@
         "link-text": ""
       }
     },
-    "1741750409f0f5e196": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_nTQpEe": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_nTQpEe"
-      ],
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
-      }
-    },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
       "settings": {
@@ -506,6 +480,32 @@
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "1741750409f0f5e196": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_nTQpEe": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_nTQpEe"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "image_with_text_9i6Hpg": {
@@ -702,9 +702,9 @@
     "featured_text_Kn7tnm",
     "slideshow_iTwFNX",
     "image_with_text_GHh39y",
-    "1741750409f0f5e196",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_9i6Hpg",
+    "1741750409f0f5e196",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "section_layout_rJxRMP",
