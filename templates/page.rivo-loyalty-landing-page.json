@@ -13,7 +13,7 @@
       "type": "rivo-loyalty-landing-page",
       "settings": {
         "primary_color": "#000000",
-        "secondary_color": "#FFFFFF",
+        "secondary_color": "#ffffff",
         "page_background_color": "",
         "rivo_icon_color": "#000000",
         "title_font_style": "inherit",
@@ -27,7 +27,7 @@
         "section_subtitle_font_size": 18,
         "section_subtitle_font_weight": 400,
         "section_padding": 40,
-        "card_background_color": "#FFFFFF",
+        "card_background_color": "#ffffff",
         "card_font_color": "#000000",
         "card_title_font_size": 18,
         "card_title_font_weight": 600,
@@ -37,7 +37,7 @@
         "card_container_max_width": 960,
         "card_order": "stacked",
         "corner_type": "rounded",
-        "modal_background_color": "#FFFFFF",
+        "modal_background_color": "#ffffff",
         "modal_font_color": "#000000",
         "modal_icon_color": "#000000",
         "modal_icon_position_top": 15,
@@ -96,10 +96,39 @@
         "spacing-above": true,
         "spacing-below": true
       }
+    },
+    "17417650016aacc3ea": {
+      "type": "apps",
+      "blocks": {
+        "rivo_loyalty_rewards_referrals_lp_how_it_works_irKBVb": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "background_color": "",
+            "section_title_font_color": "",
+            "section_subtitle_font_color": "",
+            "step_number_title_font_size": 26,
+            "step_number_subtitle_font_size": 16,
+            "step_font_color": "",
+            "step_number_type": "border",
+            "step_image_height": 200
+          }
+        }
+      },
+      "block_order": [
+        "rivo_loyalty_rewards_referrals_lp_how_it_works_irKBVb"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
     }
   },
   "order": [
     "rivo-loyalty-landing-page",
-    "1741764946e00b1d7d"
+    "1741764946e00b1d7d",
+    "17417650016aacc3ea"
   ]
 }
