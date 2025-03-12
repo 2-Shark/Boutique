@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,19 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
-        },
-        "733cd013-8537-4721-9b43-8d35f46f82b7": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -53,13 +44,11 @@
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "complementary-products": {
           "type": "complementary-products",
@@ -87,10 +76,24 @@
             "smart-payment-enabled": true
           }
         },
+        "loox_reviews_loox_rating_H8xW8G": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -125,13 +128,13 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
         "vendor",
         "price",
-        "733cd013-8537-4721-9b43-8d35f46f82b7",
         "options",
         "pickup",
         "description",
         "complementary-products",
         "social-sharing",
         "buy-buttons",
+        "loox_reviews_loox_rating_H8xW8G",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_w3Af7J",
@@ -531,6 +534,32 @@
         "link-text": ""
       }
     },
+    "17417514537f2880a8": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_Ag6xaN": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_Ag6xaN"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "image_with_text_Rktinr": {
       "type": "image-with-text",
       "settings": {
@@ -724,17 +753,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "8fc33ec8-f623-4000-b6c9-7c3f248d36e0"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -756,6 +774,7 @@
     "image_with_text_k6hEGU",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_zEWVtU",
+    "17417514537f2880a8",
     "image_with_text_Rktinr",
     "slideshow_hminhJ",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
