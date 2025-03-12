@@ -52,6 +52,43 @@
         "custom_css": ""
       }
     },
+    "17417651238a13f883": {
+      "type": "apps",
+      "blocks": {
+        "rivo_loyalty_rewards_referrals_lp_customer_account_XminYi": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-customer-account/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "account_card_enabled": true,
+            "account_card_background_color": "",
+            "account_card_font_color": "",
+            "referral_block_enabled": false,
+            "referral_block_background_color": "",
+            "referral_block_font_color": "",
+            "activity_block_enabled": false,
+            "activity_block_background_color": "",
+            "activity_block_font_color": "",
+            "activity_header_background_color": "",
+            "activity_header_font_color": "",
+            "rewards_block_enabled": false,
+            "rewards_progress_enabled": true,
+            "unused_rewards_enabled": true,
+            "rewards_arrow_icon_enabled": false,
+            "rewards_progress_bar_color": "#000000",
+            "vip_tier_block_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "rivo_loyalty_rewards_referrals_lp_customer_account_XminYi"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "1741764946e00b1d7d": {
       "type": "apps",
       "blocks": {
@@ -171,34 +208,41 @@
         "spacing-below": true
       }
     },
-    "17417651238a13f883": {
+    "1741766187943764be": {
       "type": "apps",
       "blocks": {
-        "rivo_loyalty_rewards_referrals_lp_customer_account_XminYi": {
-          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-customer-account/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+        "rivo_loyalty_rewards_referrals_lp_vip_tiers_eh3dXz": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-vip-tiers/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "account_card_enabled": true,
-            "account_card_background_color": "",
-            "account_card_font_color": "",
-            "referral_block_enabled": false,
-            "referral_block_background_color": "",
-            "referral_block_font_color": "",
-            "activity_block_enabled": false,
-            "activity_block_background_color": "",
-            "activity_block_font_color": "",
-            "activity_header_background_color": "",
-            "activity_header_font_color": "",
-            "rewards_block_enabled": false,
-            "rewards_progress_enabled": true,
-            "unused_rewards_enabled": true,
-            "rewards_arrow_icon_enabled": false,
-            "rewards_progress_bar_color": "#000000",
-            "vip_tier_block_enabled": false
+            "background_color": "",
+            "section_title_font_color": "",
+            "section_subtitle_font_color": "",
+            "progress_bar_enabled": false,
+            "progress_bar_style": "multi_column",
+            "progress_bar_label_style": "below",
+            "vip_table_perk_background_color": "",
+            "vip_table_perk_font_color": "",
+            "vip_table_first_tier_column_background_color": "",
+            "vip_table_second_tier_column_background_color": "",
+            "vip_table_third_tier_column_background_color": "",
+            "vip_table_active_tier_column_background_color": "",
+            "vip_table_th_background_color_enabled": false,
+            "vip_table_active_tier_background_color_enabled": true,
+            "vip_table_tier_icon_size": 50,
+            "vip_table_tier_name_font_size": 22,
+            "vip_table_tier_threshold_font_size": 14,
+            "vip_table_tier_body_font_size": 14,
+            "vip_table_body_padding": 15,
+            "vip_table_padding_top": 60,
+            "vip_table_tier_thead_padding_top": 20,
+            "vip_table_tier_thead_padding_bottom": 20,
+            "vip_table_tier_name_padding": 10,
+            "vip_table_tier_td_border_bottom": "1px solid #000000"
           }
         }
       },
       "block_order": [
-        "rivo_loyalty_rewards_referrals_lp_customer_account_XminYi"
+        "rivo_loyalty_rewards_referrals_lp_vip_tiers_eh3dXz"
       ],
       "settings": {
         "background-color": "none",
@@ -215,6 +259,7 @@
     "1741764946e00b1d7d",
     "17417650016aacc3ea",
     "1741765036f3d4c6bd",
-    "17417651213675a70d"
+    "17417651213675a70d",
+    "1741766187943764be"
   ]
 }
