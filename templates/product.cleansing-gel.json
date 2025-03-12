@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "612a7306-5b85-4c60-8a4c-425a75bcfffe": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -89,8 +78,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -117,7 +105,6 @@
         "vendor",
         "price",
         "options",
-        "612a7306-5b85-4c60-8a4c-425a75bcfffe",
         "pickup",
         "description",
         "buy-buttons",
@@ -308,6 +295,32 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
+      }
+    },
+    "image_with_text_ypXCci": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_LOTUS.LEAF.jpg",
+        "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "260d160b-2e45-4d0f-87aa-3259f69332e3": {
@@ -512,17 +525,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "5811c630-ddd2-419c-a67a-087e8bcf6745": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "5811c630-ddd2-419c-a67a-087e8bcf6745"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -538,6 +540,7 @@
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "image_with_text_ypXCci",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
     "image_with_text_GHkJyP",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
