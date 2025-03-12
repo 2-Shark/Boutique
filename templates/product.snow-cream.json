@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "9388a392-c75b-4f68-8e84-62846c935f00": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -88,8 +77,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -116,7 +104,6 @@
         "vendor",
         "price",
         "options",
-        "9388a392-c75b-4f68-8e84-62846c935f00",
         "pickup",
         "description",
         "buy-buttons",
@@ -318,7 +305,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "Antioxidant-rich, hydrating& nourishing illuminating cream",
+        "heading": "Antioxidant-rich illuminating moisturizer",
         "text": ""
       }
     },
@@ -562,17 +549,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "14ae7b12-28d9-491d-a290-4b2dba0c9de7": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "14ae7b12-28d9-491d-a290-4b2dba0c9de7"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
