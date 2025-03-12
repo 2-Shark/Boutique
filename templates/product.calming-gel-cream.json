@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "2dd63f8a-d4f4-4a1b-959a-087781a94369": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -88,8 +77,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -116,7 +104,6 @@
         "vendor",
         "price",
         "options",
-        "2dd63f8a-d4f4-4a1b-959a-087781a94369",
         "pickup",
         "description",
         "buy-buttons",
@@ -345,13 +332,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_-_Calming_cream_1.png",
+            "image": "shopify://shop_images/PC_-_LOTUS.LEAF.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_-_Calming_cream_1.png"
+            "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF.jpg"
           }
         }
       },
@@ -562,17 +549,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "306223f6-64fc-478a-8013-ea4e698d4624": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "306223f6-64fc-478a-8013-ea4e698d4624"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
