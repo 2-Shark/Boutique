@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,27 +41,34 @@
             "size-chart-content": ""
           }
         },
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
             "smart-payment-enabled": true
+          }
+        },
+        "loox_reviews_loox_rating_enprcg": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
           }
         },
         "complementary-products": {
@@ -88,8 +92,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -116,10 +119,10 @@
         "vendor",
         "price",
         "options",
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
         "pickup",
         "description",
         "buy-buttons",
+        "loox_reviews_loox_rating_enprcg",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
@@ -429,6 +432,32 @@
         "link-text": ""
       }
     },
+    "174175172416c4b71a": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_UiWy3L": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_UiWy3L"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "section_layout_X8kb9U": {
       "type": "section-layout",
       "settings": {
@@ -575,6 +604,7 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_ximmWX",
+    "174175172416c4b71a",
     "section_layout_X8kb9U",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "related-products",
