@@ -124,11 +124,35 @@
         "spacing-above": true,
         "spacing-below": true
       }
+    },
+    "1741765036f3d4c6bd": {
+      "type": "apps",
+      "blocks": {
+        "rivo_loyalty_rewards_referrals_lp_ways_to_earn_TEKgwe": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-ways-to-earn/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "background_color": "",
+            "section_title_font_color": "",
+            "section_subtitle_font_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "rivo_loyalty_rewards_referrals_lp_ways_to_earn_TEKgwe"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
     }
   },
   "order": [
     "rivo-loyalty-landing-page",
     "1741764946e00b1d7d",
-    "17417650016aacc3ea"
+    "17417650016aacc3ea",
+    "1741765036f3d4c6bd"
   ]
 }
