@@ -50,6 +50,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_row_w3Af7J": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, PEGs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, Harsh Preservatives, and Ocean-Harming Chemicals</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
           "disabled": true,
@@ -104,15 +113,6 @@
             "default-open": false
           }
         },
-        "collapsible_row_w3Af7J": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free of",
-            "description": "<p>PEG, sulfates, parabens, mineral oil, fragrance, alcohol, phthalates, synthetic colorants, talc, phenoxyethanol, silicon, sodium lauryl sulfate, triethanolamine, dimethicone, cyclotetrasiloxane, phenoxyethanol, oxybenzone, triclosan, methylparaben, propylparaben, octinoxate.</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "collapsible_row_YDigLr": {
           "type": "collapsible-row",
           "settings": {
@@ -131,13 +131,13 @@
         "options",
         "pickup",
         "description",
+        "collapsible_row_w3Af7J",
         "complementary-products",
         "social-sharing",
         "buy-buttons",
         "loox_reviews_loox_rating_H8xW8G",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_w3Af7J",
         "collapsible_row_YDigLr"
       ],
       "settings": {
