@@ -50,6 +50,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_row_mzaWVM": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, PEG, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
@@ -111,6 +120,15 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_UrjYj9": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Shipping Policy",
+            "description": "<ul><li>International Shipping $20 </li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -121,13 +139,15 @@
         "options",
         "pickup",
         "description",
+        "collapsible_row_mzaWVM",
         "buy-buttons",
         "loox_reviews_loox_rating_6HhheK",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_Y4DG7i"
+        "collapsible_row_Y4DG7i",
+        "collapsible_row_UrjYj9"
       ],
       "settings": {
         "container-width": 5,
@@ -482,32 +502,6 @@
         "link-text": ""
       }
     },
-    "1741750409f0f5e196": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_nTQpEe": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_nTQpEe"
-      ],
-      "settings": {
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
-      }
-    },
     "image_with_text_9i6Hpg": {
       "type": "image-with-text",
       "settings": {
@@ -532,6 +526,32 @@
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "1741750409f0f5e196": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_nTQpEe": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_nTQpEe"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {

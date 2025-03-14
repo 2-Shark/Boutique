@@ -121,6 +121,15 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_hQCMic": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": " Shipping Policy",
+            "description": "<ul><li>International Shipping $20 </li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -138,7 +147,8 @@
         "loox_reviews_loox_rating_H8xW8G",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_YDigLr"
+        "collapsible_row_YDigLr",
+        "collapsible_row_hQCMic"
       ],
       "settings": {
         "container-width": 5,
