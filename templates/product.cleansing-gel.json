@@ -95,6 +95,15 @@
           "type": "rating",
           "settings": {}
         },
+        "collapsible_row_bg9BaU": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -109,6 +118,15 @@
           "settings": {
             "heading": "full Ingredients",
             "description": "<p><strong>Key Ingredients</strong><br/>Lotus Leaf | MultiEx Phytrogen®| Calm Green<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Decyl Glucoside, Acrylates Copolymer, Cocamidopropyl Hydroxysultaine, Potassium Cocoate, Potassium Cocoyl Glycinate, Butylene Glycol, 1,2-Hexanediol, Coco-Betaine, Nelumbo Nucifera Leaf Extract, Calendula Officinalis Flower Extract, Melissa Officinalis Leaf Extract, Houttuynia Cordata Extract, Mentha Rotundifolia Leaf Extract, Camellia Sinensis Leaf Extract, Thymus Vulgaris (Thyme) Leaf Extract, Betaine, Soy Isoflavones, Pueraria Lobata Root Extract, Polygonum Cuspidatum Root Extract, Pueraria Mirifica Root Extract, Cimicifuga Racemosa Root Extract, Angelica Polymorpha Sinensis Root Extract, Punica Granatum Fruit Extract, Trifolium Pratense (Clover) Flower Extract, Allantoin, Trehalose, Erythritol, Carthamus Tinctorius (Safflower) Flower Extract, Arginine, Gardenia Florida Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Eucalyptus Globulus Leaf Oil, Dextrin, Sodium Chloride, Pentylene Glycol, Caprylyl Glycol, Citric Acid, Ethylhexylglycerin, Limonene</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_zkEwdm": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": " Shipping Policy",
+            "description": "<ul><li>International Shipping $20 </li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -127,8 +145,10 @@
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "collapsible_row_bg9BaU",
         "ef005e46-1092-400f-a562-311b51df9d9e",
-        "collapsible_row_B4FEic"
+        "collapsible_row_B4FEic",
+        "collapsible_row_zkEwdm"
       ],
       "settings": {
         "container-width": 5,
