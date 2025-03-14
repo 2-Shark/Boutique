@@ -50,6 +50,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_row_6EbeH6": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, PEG, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
@@ -82,10 +91,9 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
-          "disabled": true,
           "settings": {
-            "heading": "HOW TO USE",
-            "description": "",
+            "heading": "Shipping Policy",
+            "description": "<ul><li>International Shipping $20 </li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -109,6 +117,7 @@
         "options",
         "pickup",
         "description",
+        "collapsible_row_6EbeH6",
         "buy-buttons",
         "complementary-products",
         "social-sharing",
