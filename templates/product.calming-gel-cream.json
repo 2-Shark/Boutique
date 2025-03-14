@@ -90,15 +90,6 @@
             "emptyRatingWidget": false
           }
         },
-        "collapsible_row_MGTH4d": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -125,6 +116,15 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_MGTH4d": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -139,10 +139,10 @@
         "complementary-products",
         "social-sharing",
         "loox_reviews_loox_rating_WfQPdc",
-        "collapsible_row_MGTH4d",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_AaVwfr",
-        "collapsible_row_zjwXLt"
+        "collapsible_row_zjwXLt",
+        "collapsible_row_MGTH4d"
       ],
       "settings": {
         "container-width": 6,

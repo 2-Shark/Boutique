@@ -50,6 +50,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_row_zT8Aac": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
           "settings": {
@@ -90,15 +99,6 @@
             "emptyRatingWidget": false
           }
         },
-        "collapsible_row_yHzdYE": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -125,6 +125,16 @@
             "page-content": "",
             "default-open": false
           }
+        },
+        "collapsible_row_yHzdYE": {
+          "type": "collapsible-row",
+          "disabled": true,
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
         }
       },
       "block_order": [
@@ -135,14 +145,15 @@
         "options",
         "pickup",
         "description",
+        "collapsible_row_zT8Aac",
         "complementary-products",
         "social-sharing",
         "buy-buttons",
         "loox_reviews_loox_rating_9HRUkF",
-        "collapsible_row_yHzdYE",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_pNxt9c",
-        "collapsible_row_f7mmGN"
+        "collapsible_row_f7mmGN",
+        "collapsible_row_yHzdYE"
       ],
       "settings": {
         "container-width": 5,
