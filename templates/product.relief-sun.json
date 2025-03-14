@@ -55,7 +55,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Free from",
-            "description": "<p>Silicones, GMOs, PEG, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "description": "<p>Silicones, GMOs, PEGs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, Harsh Preservatives, and Ocean-Harming Chemicals</p>",
             "page-content": "",
             "default-open": false
           }
