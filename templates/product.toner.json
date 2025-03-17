@@ -103,7 +103,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li><strong>Pollution Shield: </strong>Forms an invisible barrier to protect against environmental aggressors.<br/></li><li><strong>Deep Hydration: </strong>Replenishes moisture to combat dryness caused<br/>by pollutants.<br/></li><li><strong>Soothing Relief: </strong>Calms irritated skin, reducing redness and<br/>discomfort.<br/></li></ul>",
+            "description": "<ul><li><strong>Pollution Shield: </strong>Forms an invisible barrier to protect against environmental aggressors.<br/></li><li><strong>Deep Hydration: </strong>Replenishes moisture to combat dryness caused by pollutants.<br/></li><li><strong>Soothing Relief: </strong>Calms irritated skin, reducing redness and discomfort.<br/></li></ul>",
             "page-content": "",
             "default-open": false
           }
