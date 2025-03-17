@@ -19,7 +19,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "HYDRATING First step for healthy radiance"
+            "text": "Your Daily Shield Against Urban Life"
           }
         },
         "vendor": {
@@ -53,8 +53,8 @@
         "collapsible_row_zT8Aac": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "heading": "Clean Beauty",
+            "description": "<p>Free from silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
             "page-content": "",
             "default-open": false
           }
@@ -103,7 +103,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Helps calm skin irritated by external factors and improves skin's barrier function</li><li>Provides immediate refreshing, deep hydration</li><li>Quick absorption & replenishment for visibly plumper skin</li><li>Helps reduce the appearance of dullness and fine lines</li></ul>",
+            "description": "<ul><li><strong>Pollution Shield: </strong>Forms an invisible barrier to protect against environmental aggressors.<br/></li><li><strong>Deep Hydration: </strong>Replenishes moisture to combat dryness caused<br/>by pollutants.<br/></li><li><strong>Soothing Relief: </strong>Calms irritated skin, reducing redness and<br/>discomfort.<br/></li></ul>",
             "page-content": "",
             "default-open": false
           }
