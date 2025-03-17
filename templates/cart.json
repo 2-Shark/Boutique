@@ -1,28 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "cart",
+      "settings": {}
+    },
+    "featured_products_U7FqPx": {
+      "type": "featured-products",
       "settings": {
+        "product-list": [
+          "relief-sun-moisture",
+          "lotus-leaf-cleansing-gel",
+          "lotus-leaf-calming-gel-cream",
+          "x-lifting-mask",
+          "sun-skincare-duo"
+        ],
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1",
+        "heading": "You Might Also Like",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "newsletter_pqXHKy": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our newsletter",
+        "newsletter--subheading": "<p>Receive 10% Off Your First Order</p>",
+        "border_bottom": false
       }
     },
     "alireviews-section-24bce732-0451-4013-841b-1bfcf80b30e0": {
       "type": "apps",
-      "blocks": {
-        "862a54b7-f026-4f76-9d36-99108be32d47": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box-in-cart\/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "862a54b7-f026-4f76-9d36-99108be32d47"
-      ],
       "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
       }
     }
   },
   "order": [
     "main",
+    "featured_products_U7FqPx",
+    "newsletter_pqXHKy",
     "alireviews-section-24bce732-0451-4013-841b-1bfcf80b30e0"
   ]
 }
