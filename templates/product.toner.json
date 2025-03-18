@@ -380,10 +380,10 @@
         "text-width": "large",
         "overlap": true,
         "box-around-text": false,
-        "mobile-overlay": false,
+        "mobile-overlay": true,
         "image": "shopify://shop_images/PC_lotus.jpg",
         "overline": "",
-        "title": "Protective Properties of Lotus Leaf",
+        "title": "Protective Benefits of Lotus Leaf",
         "description": "",
         "link-url": "",
         "link-text": ""
