@@ -182,10 +182,10 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 4,
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 46,
-        "mobile-image-aspect-ratio": 76,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 62,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -193,8 +193,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify://shop_images/PC_E.U._standards_6be4a0e8-00ce-41b2-9223-6cfb11514b41.png",
-        "mobile-image": "shopify://shop_images/M_E.U._standards.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD_1.jpg",
+        "mobile-image": "shopify://shop_images/763.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -210,13 +210,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Leafresh.png",
+            "image": "shopify://shop_images/PC_Leafresh.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Leafresh.png"
+            "mobile-image": "shopify://shop_images/M_Leafresh.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -269,6 +269,32 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
+      }
+    },
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_LOTUS.LEAF_ba48984c-ad1d-4dc0-91f1-cf716c52981a.jpg",
+        "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF_8d513d49-aac9-42e7-b822-31ad5bf1cfb5.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
@@ -338,8 +364,90 @@
         "spacing-below": true
       }
     },
+    "image_with_text_qAJKLR": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "light",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "image-aspect-ratio": 34,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "large",
+        "overlap": true,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_lotus.jpg",
+        "overline": "",
+        "title": "Protective Properties of Lotus Leaf",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "collapsible_rows_Qne3X6": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "collapsible_row_4CUJEk": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Self-Cleaning Property",
+            "description": "<p>The lotus leaves repels water and dirts, maintaining their surface purity even in polluted environments. In skincare, lotus extract forms a biomimetic protective barrier that defends the skin against pollutants and impurities.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_WfcCbr": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Rich in Antioxidants",
+            "description": "<p>Lotus leaf is packed with flavonoids and polyphenols, which neutralize free radicals caused by pollution and UV exposure. This prevents oxidative stress, which leads to premature aging, dullness, and inflammation.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_9hA7wK": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Detoxifying & Purifying",
+            "description": "<p>The natural compounds in lotus leaf helps purify the skin by drawing out impurities and toxins, reducing congestion, and minimizing environmental damage.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_njaX8t": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Strengthens Skin Barrier",
+            "description": "<p>natural defense by reinforcing the lipid barrier, preventing pollutants from penetrating deep into the skin.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_4CUJEk",
+        "collapsible_row_WfcCbr",
+        "collapsible_row_9hA7wK",
+        "collapsible_row_njaX8t"
+      ],
+      "settings": {
+        "background-color": "light",
+        "light-text": false,
+        "heading": "",
+        "title-alignment": "center",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": true
+      }
+    },
     "featured_text_xHQYkW": {
       "type": "featured-text",
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -351,96 +459,16 @@
         "text": ""
       }
     },
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_-Clinically_proven_9048e720-7589-4616-8a20-b6a556bd4f49.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_2b6f878a-58bc-4c97-9710-d9021037c843.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_1_74c067f0-69d2-4a48-b35a-9308ca840e69.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_b7d1e926-7493-408a-870a-2e31e90d06bf.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": false,
-        "spacing-below": false,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 46,
-        "darken-image": false,
-        "blocks_per_slide": 1,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 4,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
-      }
-    },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-_LOTUS.LEAF.jpg",
-        "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
     "image_with_text_faww8V": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
+        "container-width": 3,
+        "spacing-above": true,
+        "spacing-below": true,
         "image-aspect-ratio": 40,
-        "mobile-image-aspect-ratio": 80,
+        "mobile-image-aspect-ratio": 58,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -448,8 +476,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
-        "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
+        "mobile-image": "shopify://shop_images/M_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -465,8 +493,8 @@
         "container-width": 6,
         "spacing-above": true,
         "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
+        "image-aspect-ratio": 34,
+        "mobile-image-aspect-ratio": 78,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -645,11 +673,12 @@
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "image_with_text_qAJKLR",
+    "collapsible_rows_Qne3X6",
     "featured_text_xHQYkW",
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "image_with_text_faww8V",
     "image_with_text_6xRjqf",
     "1741750541e9d5de49",
