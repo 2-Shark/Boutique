@@ -17,11 +17,13 @@
       "type": "featured-products",
       "settings": {
         "product-list": [
-          "relief-sun-moisture",
-          "lotus-leaf-cleansing-gel",
-          "lotus-leaf-calming-gel-cream",
-          "x-lifting-mask",
-          "sun-skincare-duo"
+          "mindful-recovery-set",
+          "sun-skincare-duo",
+          "well-aging-kit-2025",
+          "restore-recovery-essential-duo",
+          "x-lifting-mask-1",
+          "lotus-melight-eyepatch",
+          "glow-into-spring-her-timeless-radiance-set"
         ],
         "background-color": "none",
         "light-text": false,
