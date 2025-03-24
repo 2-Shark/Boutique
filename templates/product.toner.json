@@ -271,30 +271,58 @@
         "mobile-overlay": true
       }
     },
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
-      "type": "image-with-text",
+    "slideshow_tBzRwh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_LpRRiT": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_-toner-Clinically_proven_98afe804-86c7-436c-a57f-5f6af3429741.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/toner-m2_a860b11b-ea91-44fb-99b3-7326db0e6527.jpg"
+          }
+        },
+        "image_VHFz6h": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_-toner-Clinically_proven_1_a536ce75-2368-47af-821d-526a42fa42db.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/toner-m.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_LpRRiT",
+        "image_VHFz6h"
+      ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 5,
         "spacing-above": false,
-        "spacing-below": true,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 200,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 48,
         "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
+        "blocks_per_slide": 1,
         "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-_LOTUS.LEAF_ba48984c-ad1d-4dc0-91f1-cf716c52981a.jpg",
-        "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF_8d513d49-aac9-42e7-b822-31ad5bf1cfb5.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 134,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
       }
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
@@ -362,6 +390,32 @@
         "container-width": 4,
         "spacing-above": true,
         "spacing-below": true
+      }
+    },
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_LOTUS.LEAF_ba48984c-ad1d-4dc0-91f1-cf716c52981a.jpg",
+        "mobile-image": "shopify://shop_images/M_-_LOTUS.LEAF_8d513d49-aac9-42e7-b822-31ad5bf1cfb5.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
       }
     },
     "image_with_text_qAJKLR": {
@@ -673,9 +727,10 @@
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "slideshow_tBzRwh",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "image_with_text_qAJKLR",
     "collapsible_rows_Qne3X6",
     "featured_text_xHQYkW",
