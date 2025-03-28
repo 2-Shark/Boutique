@@ -163,18 +163,18 @@
     "featured_product_Nzm398": {
       "type": "featured-product",
       "blocks": {
-        "overline_NqLjqD": {
-          "type": "overline",
-          "settings": {
-            "text": "Overline text"
-          }
-        },
         "heading_hkLf6T": {
           "type": "heading",
           "settings": {}
         },
-        "vendor_xzCnXX": {
-          "type": "vendor",
+        "overline_fG3zh9": {
+          "type": "overline",
+          "settings": {
+            "text": "Hydrates | Shields | Revives"
+          }
+        },
+        "rating_nj9UCX": {
+          "type": "rating",
           "settings": {}
         },
         "price_zPUah4": {
@@ -199,9 +199,9 @@
         }
       },
       "block_order": [
-        "overline_NqLjqD",
         "heading_hkLf6T",
-        "vendor_xzCnXX",
+        "overline_fG3zh9",
+        "rating_nj9UCX",
         "price_zPUah4",
         "options_Bpg7jE",
         "buy_buttons_NV8RgM"
