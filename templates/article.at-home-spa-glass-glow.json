@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -19,7 +28,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>‘Glass skin’ refers to a Korean beauty trend that aims to achieve a clear, translucent, and dewy complexion that resembles the smooth surface of glass. Rooted from Korea, in years of research in healthy balanced skin and skin aging, BOUTIJOUR developed 3 steps of lotus skincare products that aim to deeply moisturize the skin and rejuvenate with natural plant-based extracts and oils, and patent active formulas proven to safely improve dryness, signs of aging, and most importantly ‘skin’s healthy glow’.<\/p><p>We define 'glass glow' as achieving deep skin hydration for a healthy and radiant complexion. Not just as it looks, our goal is to deliver proper skincare rituals and solutions to achieve the healthiest and radiant glow.<br\/><br\/>We’ve asked frequent questions regarding ‘Korean Glass Glow’ and how to achieve damped, hydrated, fully moisturized skin look.<\/p><p>We believe that Achieving a glass glow isn't just about external skincare routines; it also involves maintaining good overall health and well-being ; eating balanced nutrition, staying hydrated with an adequate amount of water, managing stress, good sleep, regular exercise, limiting too much sugar and artificial food, and most importantly healthy & clean skincare.<br\/><br\/>Let’s elevate our glow to a whole new level, and glass glow with this simple skincare routines.<\/p>"
+        "text": "<p>‘Glass skin’ refers to a Korean beauty trend that aims to achieve a clear, translucent, and dewy complexion that resembles the smooth surface of glass. Rooted from Korea, in years of research in healthy balanced skin and skin aging, BOUTIJOUR developed 3 steps of lotus skincare products that aim to deeply moisturize the skin and rejuvenate with natural plant-based extracts and oils, and patent active formulas proven to safely improve dryness, signs of aging, and most importantly ‘skin’s healthy glow’.</p><p>We define 'glass glow' as achieving deep skin hydration for a healthy and radiant complexion. Not just as it looks, our goal is to deliver proper skincare rituals and solutions to achieve the healthiest and radiant glow.<br/><br/>We’ve asked frequent questions regarding ‘Korean Glass Glow’ and how to achieve damped, hydrated, fully moisturized skin look.</p><p>We believe that Achieving a glass glow isn't just about external skincare routines; it also involves maintaining good overall health and well-being ; eating balanced nutrition, staying hydrated with an adequate amount of water, managing stress, good sleep, regular exercise, limiting too much sugar and artificial food, and most importantly healthy & clean skincare.<br/><br/>Let’s elevate our glow to a whole new level, and glass glow with this simple skincare routines.</p>"
       }
     },
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd": {
@@ -27,11 +36,11 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 3,
+        "container-width": 2,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 110,
-        "mobile-image-aspect-ratio": 134,
+        "image-aspect-ratio": 82,
+        "mobile-image-aspect-ratio": 96,
         "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
@@ -39,7 +48,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/gggggg_-07.jpg",
+        "image": "shopify://shop_images/gggggg_-07.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -57,7 +66,23 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p><strong>Double Cleanse with Oil Cleanser :<\/strong> Double cleansing involves using an oil-based cleanser followed by a water-based cleanser. Oil cleansers are known for their ability to remove makeup and impurities while maintaining the skin's natural oils. This method ensures a thorough clean and can contribute to a clearer complexion.Some people find that incorporating oil cleansing into their routine helps achieve a healthy, radiant glow.<\/p><p><strong>Use a Gentle Cleanser : <\/strong>After cleansing makeup or sunscreen with Oil cleanser, choose gentle low PH level, soothing cleanser that does not strip the skin of its natural oils, leading to dryness and dullness. Our Lotus Leaf Cleanser helps purify and cleanse pollutants with low PH6 Level, as maintaining the moisture of the skin.  <\/p><p><strong>Deeply Moisturizing Toner : <\/strong>Look for toners that are specifically formulated with hydrating ingredients, such as hyaluronic acid, glycerin, or ceramides. Also soothing and repairing ingredients such as : Lotus Leaf and Calming natural ingredients help to attract and retain moisture, giving your skin a plump and dewy appearance. <\/p><p><strong>Double Layering Toner : <\/strong>Consider a Korean toner layering technique that involves applying multiple layers of a hydrating toner. This can enhance hydration levels, giving your skin a luminous and glass-like quality.<\/p><p><strong>Hydrating & Anti oxidant Rich Serum to Boost Glass Glow : <\/strong>Look for serums that contain hydrating ingredients like hyaluronic acid, panthenol, ceramides, peptides, as well as antioxidant rich ingredients. We recommend Snow Lotus Lifting Serum is enriched with panthenol, madecassoside from centella extracts, plant-based peptides and oils.  <\/p><p><strong>Hydrating & Anti oxidant Rich Cream to Complete Glass Glow : <\/strong>Choose moisturizers with light texture that provides sufficient amount of hydration without feeling too heavy on the skin. Hydrating Creams with antioxidants, such as vitamin E or high-potent flowers and plants, can help protect your skin from free radicals and environmental damage, promoting a healthier glow and natural, radiant finish.<\/p>"
+        "text": "<p><strong>Double Cleanse with Oil Cleanser :</strong> Double cleansing involves using an oil-based cleanser followed by a water-based cleanser. Oil cleansers are known for their ability to remove makeup and impurities while maintaining the skin's natural oils. This method ensures a thorough clean and can contribute to a clearer complexion.Some people find that incorporating oil cleansing into their routine helps achieve a healthy, radiant glow.</p><p><strong>Use a Gentle Cleanser : </strong>After cleansing makeup or sunscreen with Oil cleanser, choose gentle low PH level, soothing cleanser that does not strip the skin of its natural oils, leading to dryness and dullness. Our Lotus Leaf Cleanser helps purify and cleanse pollutants with low PH6 Level, as maintaining the moisture of the skin.  </p><p><strong>Deeply Moisturizing Toner : </strong>Look for toners that are specifically formulated with hydrating ingredients, such as hyaluronic acid, glycerin, or ceramides. Also soothing and repairing ingredients such as : Lotus Leaf and Calming natural ingredients help to attract and retain moisture, giving your skin a plump and dewy appearance. </p><p><strong>Double Layering Toner : </strong>Consider a Korean toner layering technique that involves applying multiple layers of a hydrating toner. This can enhance hydration levels, giving your skin a luminous and glass-like quality.</p><p><strong>Hydrating & Anti oxidant Rich Serum to Boost Glass Glow : </strong>Look for serums that contain hydrating ingredients like hyaluronic acid, panthenol, ceramides, peptides, as well as antioxidant rich ingredients. We recommend Snow Lotus Lifting Serum is enriched with panthenol, madecassoside from centella extracts, plant-based peptides and oils.  </p><p><strong>Hydrating & Anti oxidant Rich Cream to Complete Glass Glow : </strong>Choose moisturizers with light texture that provides sufficient amount of hydration without feeling too heavy on the skin. Hydrating Creams with antioxidants, such as vitamin E or high-potent flowers and plants, can help protect your skin from free radicals and environmental damage, promoting a healthier glow and natural, radiant finish.</p>"
+      }
+    },
+    "featured_collection_yUBMWg": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "max-products": 8,
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "featured-collection--image--show": false,
+        "featured-collection--description--show": false,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "1"
       }
     },
     "navigation": {
@@ -92,6 +117,7 @@
     "5ae7f95d-135a-44d9-8554-8f9a31efb0af",
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd",
     "ad4169d8-b136-4e50-8859-0c1fbc7ff718",
+    "featured_collection_yUBMWg",
     "navigation",
     "comments",
     "recents"
