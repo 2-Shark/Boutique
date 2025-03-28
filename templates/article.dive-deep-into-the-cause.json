@@ -123,7 +123,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<h1><strong>  Must know ingredients: </strong></h1><p></p><p></p><p></p><p></p><p>Treating any skin concern requires consistency and the use of the right ingredients. Being mindful of what you apply to your face is essential for maintaining a radiant complexion and, most importantly, ensuring your satisfaction.</p>"
+        "text": "<h1><strong>  Must know ingredients: </strong></h1><p></p><p>Treating any skin concern requires consistency and the use of the right ingredients. Being mindful of what you apply to your face is essential for maintaining a radiant complexion and, most importantly, ensuring your satisfaction.</p>"
       }
     },
     "featured_text_x7xmQE": {
@@ -149,7 +149,7 @@
         "spacing-below": true,
         "overline": "02.",
         "heading": "",
-        "text": "<h3><strong>Niacinamide (Vitamin B3)</strong></h3><h2></h2><h2></h2><h2></h2><h2></h2><p><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</p><p><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</p><p><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</p><p><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</p>"
+        "text": "<h3><strong>Niacinamide (Vitamin B3)</strong></h3><h2></h2><h2></h2><h2></h2><h2></h2><p><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</p><p><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</p><p><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</p><p><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</p><p></p><p></p><p></p><p></p>"
       }
     },
     "featured_text_FzyVnw": {
@@ -157,7 +157,7 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
