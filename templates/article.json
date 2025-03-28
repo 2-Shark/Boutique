@@ -24,8 +24,8 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true,
+        "spacing-above": false,
+        "spacing-below": false,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
         "darken-image": true,
@@ -54,7 +54,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>Living in a city means exposure to invisible yet harmful pollutants every day. Fine dust, heavy metals, and gaseous toxins don’t just linger in the air; they settle onto your skin, accelerating aging, causing irritation, and disrupting your skin’s natural balance. That’s why we created the <strong>Anti-Pollution Toner</strong>—a skincare essential designed to shield your skin before the damage begins.</p>"
+        "text": "<p></p><p></p><p></p><p>Living in a city means exposure to invisible yet harmful pollutants every day. Fine dust, heavy metals, and gaseous toxins don’t just linger in the air; they settle onto your skin, accelerating aging, causing irritation, and disrupting your skin’s natural balance. That’s why we created the <strong>Anti-Pollution Toner</strong>—a skincare essential designed to shield your skin before the damage begins.</p>"
       }
     },
     "ad4169d8-b136-4e50-8859-0c1fbc7ff718": {
@@ -77,19 +77,21 @@
         "background-color": "none",
         "container-width": 2,
         "spacing-above": false,
-        "spacing-below": false,
+        "spacing-below": true,
         "image-aspect-ratio": 56,
         "mobile-image-aspect-ratio": 134,
-        "darken-image": true,
+        "darken-image": false,
         "parallax-enabled": false,
         "text-position": "center",
         "text-width": "medium",
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "overline": "Overline text",
-        "title": "Image with text",
-        "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+        "image": "shopify://shop_images/PC_lotus.jpg",
+        "mobile-image": "shopify://shop_images/PC_lotus.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
         "link-url": "",
         "link-text": ""
       }
@@ -102,9 +104,119 @@
         "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
-        "overline": "recommended routine",
-        "heading": "Lotus Leaf Cleansing Gel",
-        "text": "<p>Living in the city demands essential<br/>skincare practices to shield your skin from the harmful effects of free<br/>radicals, pollution, and UV exposure, both outdoors and indoors. Our daily<br/>well-aging Cleanser, Lotus Leaf Cleansing Gel, is a Lotus leaf infused cleanser<br/>helps remove impurities and pollution build-up on the skin leaving a hydrating<br/>and refreshing finish. The light green gel cleanser creates a rich frothy<br/>texture that deeply cleanses the skin and pores for a rejuvenating cleansing<br/>therapy. Establish a daily purifying ritual to<br/>fortify your skin barrier within the bustling cityscape.</p>"
+        "overline": "",
+        "heading": "Why Your Skin Needs This in an Urban Environment",
+        "text": "<p><strong><br/>Clinically Proven Protection: </strong><br/>Blocks 60.4% of fine dust particles from adhering to your skin, preventing premature aging and irritation.<br/><br/></p><p><strong>Lotus Leaf Power:<br/></strong>A natural shield that repels pollutants and helps detoxify the skin, keeping it clear and resilient.<br/></p><p></p><p><strong>Barrier Against City Pollutants:</strong><br/>Protects against micro-dust, gaseous pollutants, and heavy metals that contribute to dullness, breakouts, and sensitivity.</p><p></p><p></p><p></p>"
+      }
+    },
+    "image_with_text_478rbn": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "light",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-toner-Clinically_proven_1.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "featured_text_gCX4wc": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "More Than Just a Toner—It’s City Skin Defense",
+        "text": "<p></p><p>In today’s world, skincare isn’t just about hydration or soothing irritation—it’s about <em>proactive protection</em>. Pollution may be an unavoidable part of urban life, but with the right skincare, its effects don’t have to be. Our <strong>Anti-Pollution Toner</strong> is your first line of defense, ensuring your skin stays radiant, healthy, and resilient—no matter where city life takes you.</p>"
+      }
+    },
+    "featured_text_MBXAHU": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": false,
+        "overline": "Shield your skin today with",
+        "heading": "Lotus Leaf Anti-Pollution Repairing Toner",
+        "text": ""
+      }
+    },
+    "featured_product_Nzm398": {
+      "type": "featured-product",
+      "blocks": {
+        "overline_NqLjqD": {
+          "type": "overline",
+          "settings": {
+            "text": "Overline text"
+          }
+        },
+        "heading_hkLf6T": {
+          "type": "heading",
+          "settings": {}
+        },
+        "vendor_xzCnXX": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "price_zPUah4": {
+          "type": "price",
+          "settings": {}
+        },
+        "options_Bpg7jE": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "buy_buttons_NV8RgM": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        }
+      },
+      "block_order": [
+        "overline_NqLjqD",
+        "heading_hkLf6T",
+        "vendor_xzCnXX",
+        "price_zPUah4",
+        "options_Bpg7jE",
+        "buy_buttons_NV8RgM"
+      ],
+      "settings": {
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "text-column-width": 30,
+        "text-alignment": "left",
+        "thumbnail-width": 69,
+        "media-gap": 8,
+        "featured_product": "lotus-leaf-anti-pollution-repairing-toner",
+        "loop-enabled": false
       }
     },
     "comments": {
@@ -141,6 +253,10 @@
     "ad4169d8-b136-4e50-8859-0c1fbc7ff718",
     "image_with_text_CEeNAR",
     "7ac727e9-4dd6-4520-9193-f18e050071e3",
+    "image_with_text_478rbn",
+    "featured_text_gCX4wc",
+    "featured_text_MBXAHU",
+    "featured_product_Nzm398",
     "comments",
     "recents",
     "navigation"
