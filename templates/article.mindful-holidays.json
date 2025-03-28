@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -19,7 +28,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>The holiday season—a time for warmth, joy, and the gentle embrace of tranquility. Amidst the hustle and bustle, finding moments of peace and self-care can feel like a mindful gift. This year, let’s center our holidays around serenity, bringing mindfulness into our homes.<\/p>"
+        "text": "<p>The holiday season—a time for warmth, joy, and the gentle embrace of tranquility. Amidst the hustle and bustle, finding moments of peace and self-care can feel like a mindful gift. This year, let’s center our holidays around serenity, bringing mindfulness into our homes.</p>"
       }
     },
     "1b026b88-b4fa-4b82-8dad-94c4f01bddfd": {
@@ -39,8 +48,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/holiday-blogjpg-02.jpg",
-        "mobile-image": "shopify:\/\/shop_images\/holiday-blog-mobile-06.jpg",
+        "image": "shopify://shop_images/holiday-blogjpg-02.jpg",
+        "mobile-image": "shopify://shop_images/holiday-blog-mobile-06.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -58,7 +67,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p><em>Here are a few simple yet profound activities to infuse your holidays with mindfulness and self-care, all within the comfort of your own space:<\/em><\/p>"
+        "text": "<p><em>Here are a few simple yet profound activities to infuse your holidays with mindfulness and self-care, all within the comfort of your own space:</em></p>"
       }
     },
     "73046ece-d896-4f66-9fdf-e2945029dad8": {
@@ -66,12 +75,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "01",
         "heading": "",
-        "text": "<p><strong>Morning Meditation and Self-Reflection:<\/strong><\/p><p>Start your day with a few minutes of meditation. Find a quiet corner, light a candle, and focus on your breath. Follow it up with a gratitude practice, reflecting on things you're thankful for that enrich your life.<\/p><p>Take some time to reflect on your journey this year. Celebrate your achievements, no matter how small. Acknowledge your growth and resilience in the face of challenges. Self-reflection is a powerful tool for self-love. Remind yourself of your worth, your strengths, and the beauty within you. Express gratitude to yourself for all the effort and love you’ve invested in your journey.<\/p>"
+        "text": "<p><strong>Morning Meditation and Self-Reflection:</strong></p><p>Start your day with a few minutes of meditation. Find a quiet corner, light a candle, and focus on your breath. Follow it up with a gratitude practice, reflecting on things you're thankful for that enrich your life.</p><p>Take some time to reflect on your journey this year. Celebrate your achievements, no matter how small. Acknowledge your growth and resilience in the face of challenges. Self-reflection is a powerful tool for self-love. Remind yourself of your worth, your strengths, and the beauty within you. Express gratitude to yourself for all the effort and love you’ve invested in your journey.</p>"
       }
     },
     "b39c658c-061d-4e60-a334-6a24664b5666": {
@@ -91,7 +100,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/holiday-blogjpg-04.jpg",
+        "image": "shopify://shop_images/holiday-blogjpg-04.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -104,12 +113,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "02",
         "heading": "",
-        "text": "<p><strong>Nourish Your Skin and Soul [Self-Care Rituals]:<\/strong><\/p><p>Indulge in a skincare ritual that’s not only about rejuvenating your skin but also nourishing your soul. Use products with natural ingredients and take your time, relishing each step as a form of self-love. It’s amazing how a simple skincare routine can become a mindful, meditative act. <\/p><p>Additionally, try developing your own daily self-care rituals that cater to your mind, body, and spirit. This could be a morning stretch routine, a moment of mindfulness before bed, or simply taking time for a warm bath. Consistency in self-care practices nurtures self-love.<\/p>"
+        "text": "<p><strong>Nourish Your Skin and Soul [Self-Care Rituals]:</strong></p><p>Indulge in a skincare ritual that’s not only about rejuvenating your skin but also nourishing your soul. Use products with natural ingredients and take your time, relishing each step as a form of self-love. It’s amazing how a simple skincare routine can become a mindful, meditative act. </p><p>Additionally, try developing your own daily self-care rituals that cater to your mind, body, and spirit. This could be a morning stretch routine, a moment of mindfulness before bed, or simply taking time for a warm bath. Consistency in self-care practices nurtures self-love.</p>"
       }
     },
     "73749d49-06e3-49af-89cb-f8db0f9110e4": {
@@ -129,12 +138,12 @@
         "overlap": true,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/holiday-blogjpg-05.jpg",
-        "mobile-image": "shopify:\/\/shop_images\/holiday-blogjpg-05m.jpg",
+        "image": "shopify://shop_images/holiday-blogjpg-05.jpg",
+        "mobile-image": "shopify://shop_images/holiday-blogjpg-05m.jpg",
         "overline": "Mindful Holiday edition",
         "title": "Holiday Glass-Glow Kit",
         "description": "",
-        "link-url": "shopify:\/\/products\/holiday-glass-glow-kit",
+        "link-url": "shopify://products/holiday-glass-glow-kit",
         "link-text": "DISCOVER KIT"
       }
     },
@@ -143,12 +152,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "03",
         "heading": "",
-        "text": "<p><strong>Digital Detox Hour:<\/strong><\/p><p>Designate a portion of your day as a ‘digital detox’ hour. Dedicated digital detox hour emerges as a sanctuary for mental rejuvenation and holistic well-being. Beyond the mere act of stepping away from screens, this intentional break fosters mental clarity, reduces stress, and sharpens focus, leading to enhanced productivity and creativity.<br\/><\/p><p>Disconnecting from the digital realm isn't just a pause; it's a deliberate choice to reclaim moments for introspection, deeper connections with loved ones, and mindfulness. Immerse yourself in simple pleasures—read a book, listen to mindful music, or simply sit in silence, enjoying the moment.<\/p>"
+        "text": "<p><strong>Digital Detox Hour:</strong></p><p>Designate a portion of your day as a ‘digital detox’ hour. Dedicated digital detox hour emerges as a sanctuary for mental rejuvenation and holistic well-being. Beyond the mere act of stepping away from screens, this intentional break fosters mental clarity, reduces stress, and sharpens focus, leading to enhanced productivity and creativity.<br/></p><p>Disconnecting from the digital realm isn't just a pause; it's a deliberate choice to reclaim moments for introspection, deeper connections with loved ones, and mindfulness. Immerse yourself in simple pleasures—read a book, listen to mindful music, or simply sit in silence, enjoying the moment.</p>"
       }
     },
     "55e24150-f985-4be4-8ea0-4591154fa994": {
@@ -156,12 +165,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "04",
         "heading": "",
-        "text": "<p><strong>Mindful Movement:<\/strong><\/p><p>Engage your body and mind with gentle movements—try yoga, stretching, or a serene walk in nature if you can. Pay close attention to every bend, every stretch, and every breath, anchoring yourself firmly in the here and now. Let each movement guide you into the present moment, embracing mindfulness through simple, deliberate actions. Whether it's the flow of a yoga pose, the extension of a stretch, or the rhythm of your steps in nature, allow yourself to be fully present, savoring the tranquility of each moment.<\/p>"
+        "text": "<p><strong>Mindful Movement:</strong></p><p>Engage your body and mind with gentle movements—try yoga, stretching, or a serene walk in nature if you can. Pay close attention to every bend, every stretch, and every breath, anchoring yourself firmly in the here and now. Let each movement guide you into the present moment, embracing mindfulness through simple, deliberate actions. Whether it's the flow of a yoga pose, the extension of a stretch, or the rhythm of your steps in nature, allow yourself to be fully present, savoring the tranquility of each moment.</p>"
       }
     },
     "84930fc7-7d77-46cd-bc59-6a483aa6cb8c": {
@@ -169,12 +178,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "05",
         "heading": "",
-        "text": "<p><strong>Relaxing Tea Moments:<\/strong><\/p><p>Immerse yourself in the mindful ritual of a tea ceremony or simply indulge in the serene pleasure of a warm cup of herbal tea. <\/p><p>Allow the rich and soothing flavors to envelop you, transporting your senses to a state of tranquility. Let the experience of savoring the tea become a mindful journey, a moment of pause amid the rush of daily life. Embrace these moments as opportunities to find yourself and relaxation. Let each sip become a gentle reminder to slow down, breathe, and savor the quiet joy of the present moment.<\/p>"
+        "text": "<p><strong>Relaxing Tea Moments:</strong></p><p>Immerse yourself in the mindful ritual of a tea ceremony or simply indulge in the serene pleasure of a warm cup of herbal tea. </p><p>Allow the rich and soothing flavors to envelop you, transporting your senses to a state of tranquility. Let the experience of savoring the tea become a mindful journey, a moment of pause amid the rush of daily life. Embrace these moments as opportunities to find yourself and relaxation. Let each sip become a gentle reminder to slow down, breathe, and savor the quiet joy of the present moment.</p>"
       }
     },
     "6af28f76-3d95-4b5f-8661-3269b08fb343": {
@@ -182,12 +191,12 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 4,
+        "container-width": 2,
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
         "heading": "",
-        "text": "<p>Cheers to a season filled with kindness, mindfulness, and an abundance of self-care!<\/p>"
+        "text": "<p>Cheers to a season filled with kindness, mindfulness, and an abundance of self-care!</p>"
       }
     },
     "5fdea436-f9d3-4e90-8baf-46d722b058e6": {
@@ -207,13 +216,38 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/holiday-blogjpg-03.jpg",
-        "mobile-image": "shopify:\/\/shop_images\/holiday-blog-mobile-07.jpg",
+        "image": "shopify://shop_images/holiday-blogjpg-03.jpg",
+        "mobile-image": "shopify://shop_images/holiday-blog-mobile-07.jpg",
         "overline": "",
         "title": "",
         "description": "",
         "link-url": "",
         "link-text": ""
+      }
+    },
+    "recent_products_pejb8g": {
+      "type": "recent-products",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "Recently viewed",
+        "title-alignment": "center",
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "newsletter_ULj4Pt": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our newsletter",
+        "newsletter--subheading": "<p>Receive 10% Off Your First Purchase</p>",
+        "border_bottom": false
       }
     },
     "navigation": {
@@ -257,6 +291,8 @@
     "84930fc7-7d77-46cd-bc59-6a483aa6cb8c",
     "6af28f76-3d95-4b5f-8661-3269b08fb343",
     "5fdea436-f9d3-4e90-8baf-46d722b058e6",
+    "recent_products_pejb8g",
+    "newsletter_ULj4Pt",
     "navigation",
     "comments",
     "recents"
