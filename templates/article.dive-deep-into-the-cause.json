@@ -18,21 +18,6 @@
         "show-author": false
       }
     },
-    "section_layout_DekVA6": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "72",
-        "inner_padding_top_mobile": "32",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
-      }
-    },
     "featured_text_EgGD7P": {
       "type": "featured-text",
       "settings": {
@@ -56,7 +41,7 @@
         "spacing-below": true,
         "overline": "01.",
         "heading": "",
-        "text": "<p><strong>Sun Exposure<br/></strong><br/>One of the most common causes of hyperpigmentation is prolonged exposure to UV rays. When your skin is exposed to the sun, it triggers the overproduction of melanin—the pigment responsible for skin color—as a natural defense mechanism to protect against UV damage. Over time, this can lead to dark spots, also known as sunspots or age spots, and an uneven skin tone. Wearing broad-spectrum sunscreen (SPF 30 or higher) daily, reapplying every two hours, and incorporating antioxidants like Vitamin C into your routine can help prevent and minimize sun-induced hyperpigmentation.</p><p></p><p></p><p></p><p></p><p></p><p></p>"
+        "text": "<p><strong>Sun Exposure<br/></strong><br/>One of the most common causes of hyperpigmentation is prolonged exposure to UV rays. When your skin is exposed to the sun, it triggers the overproduction of melanin—the pigment responsible for skin color—as a natural defense mechanism to protect against UV damage. Over time, this can lead to dark spots, also known as sunspots or age spots, and an uneven skin tone. Wearing broad-spectrum sunscreen (SPF 30 or higher) daily, reapplying every two hours, and incorporating antioxidants like Vitamin C into your routine can help prevent and minimize sun-induced hyperpigmentation.</p><p></p><p></p><p></p>"
       }
     },
     "featured_text_yi3zaE": {
@@ -70,21 +55,6 @@
         "overline": "02.",
         "heading": "",
         "text": "<p><strong>Hormonal Changes</strong></p><p>Hormonal fluctuations, especially during pregnancy, menopause, or while using oral contraceptives, can stimulate melanocyte activity (the cells that produce melanin). This condition, often referred to as melasma or \"pregnancy mask,\" typically presents as larger patches of discoloration, especially on the face. To manage hormone-induced hyperpigmentation, use gentle products with ingredients like niacinamide, azelaic acid, and tranexamic acid, which can help regulate melanin production. Always pair these with proper sun protection, as UV exposure can exacerbate melasma.</p>"
-      }
-    },
-    "section_layout_tRwNLE": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "40",
-        "inner_padding_top_mobile": "20",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
       }
     },
     "featured_text_6ynUVD": {
@@ -166,22 +136,7 @@
         "spacing-below": true,
         "overline": "01 .",
         "heading": "",
-        "text": "<h3><strong>Alpha-Bisabolol (Alpha Melight™ Formula)</strong></h3><h3></h3><h3></h3><h3></h3><h3></h3><ul><li><strong>Reduces melanin production:</strong> Known to inhibit melanin formation, helping to prevent dark spots.</li><li><strong>Reduces inflammation:</strong> Soothes irritated skin, preventing post-inflammatory hyperpigmentation (PIH).</li><li><strong>Brightens skin:</strong> Enhances the penetration of other active ingredients, helping to even out skin tone.</li><li><strong>Speeds up healing:</strong> Promotes faster recovery, reducing the risk of pigmentation after skin damage.</li></ul>"
-      }
-    },
-    "section_layout_dGKVKB": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "40",
-        "inner_padding_top_mobile": "20",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
+        "text": "<h3><strong>Alpha-Bisabolol (Alpha Melight™ Formula)</strong></h3><h3></h3><h3></h3><h3></h3><h3></h3><p><strong>Reduces melanin production:</strong> Known to inhibit melanin formation, helping to prevent dark spots.</p><p><strong>Reduces inflammation:</strong> Soothes irritated skin, preventing post-inflammatory hyperpigmentation (PIH).</p><p><strong>Brightens skin:</strong> Enhances the penetration of other active ingredients, helping to even out skin tone.</p><p><strong>Speeds up healing:</strong> Promotes faster recovery, reducing the risk of pigmentation after skin damage.</p>"
       }
     },
     "featured_text_W4Ufrp": {
@@ -194,22 +149,7 @@
         "spacing-below": true,
         "overline": "02.",
         "heading": "",
-        "text": "<h3><strong>Niacinamide (Vitamin B3)</strong></h3><h2></h2><h2></h2><h2></h2><h2></h2><ul><li><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</li><li><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</li><li><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</li><li><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</li></ul>"
-      }
-    },
-    "section_layout_fW4TzY": {
-      "type": "section-layout",
-      "settings": {
-        "snippet_name": "",
-        "border_bottom": false,
-        "background_color": "",
-        "text_color": "",
-        "inner_padding_top_desktop": "40",
-        "inner_padding_top_mobile": "20",
-        "inner_padding_bottom_desktop": "72",
-        "inner_padding_bottom_mobile": "32",
-        "page_width_desktop": "default",
-        "page_width_mobile": "default"
+        "text": "<h3><strong>Niacinamide (Vitamin B3)</strong></h3><h2></h2><h2></h2><h2></h2><h2></h2><p><strong>Inhibits melanin transfer:</strong> Reduces dark spots and prevents new pigmentation from forming.</p><p><strong>Brightens hyperpigmentation:</strong> Helps lighten age spots, sun spots, and PIH.</p><p><strong>Anti-inflammatory:</strong> Calms skin to prevent further irritation that can lead to pigmentation.</p><p><strong>Strengthens the skin barrier:</strong> Enhances moisture retention and protects against environmental damage.</p>"
       }
     },
     "featured_text_FzyVnw": {
@@ -234,7 +174,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 100,
-        "mobile-image-aspect-ratio": 128,
+        "mobile-image-aspect-ratio": 96,
         "darken-image": true,
         "parallax-enabled": false,
         "text-position": "right",
@@ -243,7 +183,7 @@
         "box-around-text": false,
         "mobile-overlay": true,
         "image": "shopify://shop_images/BLOG.jpg",
-        "mobile-image": "shopify://shop_images/toner_a7ce94b2-a4ba-4714-9097-efffadf62043.jpg",
+        "mobile-image": "shopify://shop_images/246.jpg",
         "overline": "Step 1.",
         "title": "",
         "description": "<h3><strong>Lotus Leaf Cleansing Gel ($36)</strong></h3><p><em>Cleansing, Purifying, Collagen-boosting</em></p><h2></h2><h2></h2><h2></h2><p>This low-pH cleanser removes impurities while respecting the skin's natural balance and protecting the skin barrier with love.</p>",
@@ -275,7 +215,7 @@
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 116,
-        "mobile-image-aspect-ratio": 122,
+        "mobile-image-aspect-ratio": 88,
         "darken-image": true,
         "parallax-enabled": false,
         "text-position": "right",
@@ -290,6 +230,57 @@
         "description": "<h3><strong>Lotus Melight Eye Patch ($50)</strong></h3><p><em>Brightening, Rejuvenating, Nourishing</em></p><h2></h2><h2></h2><h2></h2><p>Our Lotus Melight Eye Patches feature a high-performance botanical formula with patented alpha-melight™, targeting hyperpigmentation in the delicate under-eye area. These nourishing patches reduce dark spots, suppress melanin production, and brighten your complexion.</p>",
         "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
         "link-text": ""
+      }
+    },
+    "image_with_text_NYdgFe": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 116,
+        "mobile-image-aspect-ratio": 96,
+        "darken-image": true,
+        "parallax-enabled": false,
+        "text-position": "right",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/boutijour-sep2426_aac6e3ab-f201-45c5-b7a0-aaf8c5764928.jpg",
+        "mobile-image": "shopify://shop_images/boutijour-sep2426_fcbeabb4-e254-4568-8aa9-9e7e6f1a64b8.jpg",
+        "overline": "step 3",
+        "title": "",
+        "description": "<h3><strong>Relief Sun Moisture SPF </strong>50+ PA++++ <strong>($36)</strong></h3><p><em>UV & Blue Light Protection, Moisturizing, Soothing</em></p><h2></h2><h2></h2><h2></h2><p>A lightweight, invisible essence-textured daily sunscreen providing UV protection along with hydrating and soothing benefits.</p>",
+        "link-url": "shopify://products/relief-sun-moisture",
+        "link-text": ""
+      }
+    },
+    "recent_products_ReHHGb": {
+      "type": "recent-products",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "Recently viewed",
+        "title-alignment": "center",
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "newsletter_cyd7Nw": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our newsletter",
+        "newsletter--subheading": "<p>Receive 10% Off Your First Purchase</p>",
+        "border_bottom": false
       }
     },
     "section_layout_xJPAQP": {
@@ -351,24 +342,23 @@
   },
   "order": [
     "main",
-    "section_layout_DekVA6",
     "featured_text_EgGD7P",
     "featured_text_PcF79Q",
     "featured_text_yi3zaE",
-    "section_layout_tRwNLE",
     "featured_text_6ynUVD",
     "section_layout_4an7TV",
     "featured_text_UihaNH",
     "section_layout_mDPPhM",
     "featured_text_g6xpqL",
     "featured_text_x7xmQE",
-    "section_layout_dGKVKB",
     "featured_text_W4Ufrp",
-    "section_layout_fW4TzY",
     "featured_text_FzyVnw",
     "image_with_text_ikyfyN",
     "section_layout_rHr8Yr",
     "image_with_text_rntjUy",
+    "image_with_text_NYdgFe",
+    "recent_products_ReHHGb",
+    "newsletter_cyd7Nw",
     "section_layout_xJPAQP",
     "recents",
     "00f2694a-4dce-4b62-88f3-cbfeef5a19ce",
