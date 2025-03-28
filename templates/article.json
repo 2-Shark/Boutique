@@ -219,6 +219,30 @@
         "loop-enabled": false
       }
     },
+    "newsletter_deNHEq": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "60",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "heading": "Subscribe to our newsletter",
+        "newsletter--subheading": "<p>Receive 10% Off Your First Purchase</p>",
+        "border_bottom": false
+      }
+    },
+    "17431330513269c241": {
+      "type": "apps",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "comments": {
       "type": "article-comments",
       "settings": {
@@ -257,6 +281,8 @@
     "featured_text_gCX4wc",
     "featured_text_MBXAHU",
     "featured_product_Nzm398",
+    "newsletter_deNHEq",
+    "17431330513269c241",
     "comments",
     "recents",
     "navigation"
