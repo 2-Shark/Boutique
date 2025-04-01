@@ -50,15 +50,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_row_rTpnhL": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
@@ -108,6 +99,15 @@
             "default-open": false
           }
         },
+        "collapsible_row_rTpnhL": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "clean beauty",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
@@ -135,12 +135,12 @@
         "options",
         "pickup",
         "description",
-        "collapsible_row_rTpnhL",
         "buy-buttons",
         "complementary-products",
         "social-sharing",
         "loox_reviews_loox_rating_KxmaTb",
         "collapsible_row_gdjb8D",
+        "collapsible_row_rTpnhL",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_pRkjQc"
       ],
