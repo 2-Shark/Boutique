@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "forms": {
+      "type": "apps",
+      "blocks": {
+        "e52110ee-cf4f-4ec4-806e-97d5b82bb6be": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "192255",
+            "text_color": "#13613e",
+            "button_background_color": "#13613e",
+            "button_label_color": "#ffffff",
+            "links_color": "#719987",
+            "errors_color": "#d44b51",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 30,
+            "padding_bottom": 30,
+            "padding_right": 10,
+            "padding_left": 10
+          }
+        }
+      },
+      "block_order": [
+        "e52110ee-cf4f-4ec4-806e-97d5b82bb6be"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "image_with_text_QKGxNt": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 42,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/iPad_Pro_12.9_1_a514f7e6-a5a3-4104-968f-bb494b0636f9.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "shopify://pages/about-us",
+        "link-text": "about us"
+      }
+    }
+  },
+  "order": [
+    "forms",
+    "image_with_text_QKGxNt"
+  ]
+}
