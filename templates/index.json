@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/54.jpg",
-        "image_tablet": "shopify://shop_images/54M.jpg",
-        "image_mobile": "shopify://shop_images/54M.jpg",
+        "image_desktop": "shopify://shop_images/1_b63ed642-1b39-4283-b505-b359d963a56b.jpg",
+        "image_tablet": "shopify://shop_images/31_b3ec88f3-fbbe-41ab-84ac-d649107c646c.jpg",
+        "image_mobile": "shopify://shop_images/31_b3ec88f3-fbbe-41ab-84ac-d649107c646c.jpg",
         "eyebrow": "Beyond Skincare, Beyond Time",
         "header": "For the Timeless Glow",
         "cta": "discover more",
@@ -26,8 +26,10 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/Image2871_d0f52c93-e96e-4886-a492-a0b44c5610fe.jpg",
-        "image_desktop_right": "shopify://shop_images/202307200130_1.jpg",
+        "image_desktop": "shopify://shop_images/34_60e72fab-cae5-426f-9809-7c4109e61546.jpg",
+        "image_mobile": "shopify://shop_images/34_1128c777-f48b-4068-9b52-b5ce00759143.jpg",
+        "image_desktop_right": "shopify://shop_images/37_7e1fb0e3-0531-4e55-ae5c-9897c42c7fae.jpg",
+        "image_mobile_right": "shopify://shop_images/37.jpg",
         "header": "Awakening Senses of Spring",
         "body": "",
         "cta": "Shop",
