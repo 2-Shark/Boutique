@@ -112,7 +112,12 @@
     },
     "disrupt_skin_banner_wjGhNh": {
       "type": "disrupt-skin-banner",
-      "settings": {}
+      "settings": {
+        "image_desktop": "shopify://shop_images/PC_FEB_2025-1.jpg",
+        "image_mobile": "shopify://shop_images/PC_FEB_2025-1.jpg",
+        "image_desktop_r": "shopify://shop_images/54.jpg",
+        "image_mobile_r": "shopify://shop_images/54.jpg"
+      }
     },
     "featured_blog_NRAegH": {
       "type": "featured-blog",
