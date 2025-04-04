@@ -183,6 +183,7 @@
         "box-around-text": false,
         "mobile-overlay": false,
         "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD_1.jpg",
+        "mobile-image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD_1.jpg",
         "overline": "",
         "title": "",
         "description": "",
