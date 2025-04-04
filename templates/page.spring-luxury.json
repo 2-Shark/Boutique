@@ -9,12 +9,122 @@
  */
 {
   "sections": {
+    "image_with_text_qdBi9r": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 2,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 30,
+        "mobile-image-aspect-ratio": 62,
+        "darken-image": true,
+        "parallax-enabled": false,
+        "text-position": "bottom",
+        "text-width": "large",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "overline": "",
+        "title": "Spring Luxury Items",
+        "description": "<p>Protect your skin from irritations, hyperpigmentation, and dryness with a powerful blend of soothing, brightening, and deeply hydrating ingredients. Achieve a resilient, radiant complexion that feels comforted, balanced, and flawlessly nourished.</p>",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "main": {
       "type": "page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "show-title": true,
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "featured_products_hNU6Xt": {
+      "type": "featured-products",
+      "settings": {
+        "product-list": [
+          "lotus-leaf-anti-pollution-repairing-toner",
+          "lotus-melight-eyepatch",
+          "relief-sun-moisture"
+        ],
+        "background-color": "none",
+        "light-text": false,
+        "spacing-above": true,
+        "spacing-below": true,
+        "display-type": "slideshow",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "2",
+        "heading": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "17437458533d134171": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_tk7BQL": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_tk7BQL"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "featured_blog_NRAegH": {
+      "type": "featured-blog",
+      "settings": {
+        "aspect-ratio": "landscape",
+        "container-width": 4,
+        "blog-heading": "BLOG",
+        "blog": "",
+        "tag-select": "pinned",
+        "show-date": true,
+        "show-excerpt": true,
+        "view-more-text": "View more",
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "border_bottom": false,
+        "page_width_desktop": "full",
+        "page_width_mobile": "full"
+      }
     }
   },
   "order": [
-    "main"
+    "image_with_text_qdBi9r",
+    "main",
+    "featured_products_hNU6Xt",
+    "17437458533d134171",
+    "featured_blog_NRAegH"
   ]
 }
