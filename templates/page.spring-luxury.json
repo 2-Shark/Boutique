@@ -14,11 +14,11 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 2,
+        "container-width": 6,
         "spacing-above": false,
         "spacing-below": false,
-        "image-aspect-ratio": 30,
-        "mobile-image-aspect-ratio": 62,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 52,
         "darken-image": true,
         "parallax-enabled": false,
         "text-position": "bottom",
@@ -27,8 +27,8 @@
         "box-around-text": false,
         "mobile-overlay": true,
         "overline": "",
-        "title": "Spring Luxury Items",
-        "description": "<p>Protect your skin from irritations, hyperpigmentation, and dryness with a powerful blend of soothing, brightening, and deeply hydrating ingredients. </p>",
+        "title": "",
+        "description": "",
         "link-url": "",
         "link-text": ""
       }
@@ -45,6 +45,19 @@
         "spacing-below": true
       }
     },
+    "featured_text_MtYp4n": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 2,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Spring Luxury Items",
+        "text": "<p>Protect your skin from irritations, hyperpigmentation, and dryness with a powerful blend of soothing, brightening, and deeply hydrating ingredients. </p>"
+      }
+    },
     "featured_products_hNU6Xt": {
       "type": "featured-products",
       "settings": {
@@ -57,9 +70,9 @@
         "light-text": false,
         "spacing-above": true,
         "spacing-below": true,
-        "display-type": "slideshow",
+        "display-type": "grid",
         "products-per-row--desktop": "3",
-        "products-per-row--mobile": "2",
+        "products-per-row--mobile": "1",
         "heading": "",
         "link-url": "",
         "link-text": ""
@@ -97,6 +110,10 @@
         "spacing-below": true
       }
     },
+    "disrupt_skin_banner_wjGhNh": {
+      "type": "disrupt-skin-banner",
+      "settings": {}
+    },
     "featured_blog_NRAegH": {
       "type": "featured-blog",
       "settings": {
@@ -123,8 +140,10 @@
   "order": [
     "image_with_text_qdBi9r",
     "main",
+    "featured_text_MtYp4n",
     "featured_products_hNU6Xt",
     "17437458533d134171",
+    "disrupt_skin_banner_wjGhNh",
     "featured_blog_NRAegH"
   ]
 }
