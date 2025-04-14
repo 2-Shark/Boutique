@@ -137,6 +137,19 @@
         "show-search-link": true
       }
     },
+    "featured_text_GLr3Ut": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Spring Luxury Items",
+        "text": "<p>Protect your skin from irritations, hyperpigmentation, and dryness with a powerful blend of soothing, brightening, and deeply hydrating ingredients. </p>"
+      }
+    },
     "53f59d77-783e-4a4e-bfa3-d0167f163585": {
       "type": "section-layout",
       "disabled": true,
@@ -156,7 +169,7 @@
     "featured_collection_tJVUWB": {
       "type": "featured-collection",
       "settings": {
-        "collection": "best-sellers",
+        "collection": "spring-luxury",
         "max-products": 4,
         "background-color": "none",
         "light-text": false,
@@ -345,6 +358,7 @@
     "collection-header",
     "6caa325d-4997-4b59-8a16-c8e5ac764ed1",
     "navigation",
+    "featured_text_GLr3Ut",
     "53f59d77-783e-4a4e-bfa3-d0167f163585",
     "featured_collection_tJVUWB",
     "8ee537d5-f6a1-4590-a276-3ffdbab45ab8",
