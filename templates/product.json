@@ -171,7 +171,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 4,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 24,
         "mobile-image-aspect-ratio": 62,
@@ -351,6 +351,32 @@
         "text": ""
       }
     },
+    "image_with_text_EGtRTg": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_B_A.png",
+        "mobile-image": "shopify://shop_images/M_-B_A.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
       "type": "slideshow",
       "blocks": {
@@ -420,7 +446,7 @@
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "spacing-above": false,
+        "spacing-above": true,
         "spacing-below": false,
         "spacing-around-blocks": true,
         "image-aspect-ratio": 46,
@@ -433,32 +459,6 @@
         "mobile-image-aspect-ratio": 130,
         "blocks_per_slide_mobile": "1",
         "mobile-overlay": true
-      }
-    },
-    "image_with_text_EGtRTg": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": true,
-        "spacing-below": false,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 200,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-_LOTUS.FLOWER_95d3225b-e8be-43f2-bb75-c678ea663c50.jpg",
-        "mobile-image": "shopify://shop_images/M_-_LOTUS.FLOWER_1c94dfdd-cb34-448f-a7db-1e7561335b28.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
       }
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
@@ -487,12 +487,38 @@
         "link-text": ""
       }
     },
+    "image_with_text_kqggBq": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": true,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 132,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/Am_pm_routine_7f74ae20-88e0-4df5-bd68-aada6b6afb74.png",
+        "mobile-image": "shopify://shop_images/M_Am_pm_routine.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "image_with_text_pFfj9M": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
         "background-color": "none",
-        "container-width": 6,
+        "container-width": 5,
         "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 56,
@@ -705,9 +731,10 @@
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_jVqdBb",
-    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "image_with_text_EGtRTg",
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
+    "image_with_text_kqggBq",
     "image_with_text_pFfj9M",
     "1741750975e37b9694",
     "image_with_text_daaMHm",
