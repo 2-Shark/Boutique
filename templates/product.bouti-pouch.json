@@ -19,7 +19,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "MASK RITUAL FOR HYPER-PIGMENTATION"
+            "text": "Elegance in Every Detail"
           }
         },
         "vendor": {
@@ -93,14 +93,15 @@
         "collapsible_row_gdjb8D": {
           "type": "collapsible-row",
           "settings": {
-            "heading": "Benefits",
-            "description": "<ul><li>Reduce hyperpigmentation + revitalize delicate under-eyes</li><li>Suppress melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks.</li></ul>",
+            "heading": "Product Details",
+            "description": "<ul><li><strong>Velvet-soft texture</strong> with a pearl-inspired shimmer</li><li>Elegant <strong>snow-white hue</strong> inspired by the resilience of the Snow Lotus</li><li><strong>Roomy interior</strong> to fit your favorites without the bulk</li><li>Refined, minimalist design — made to be used and adored</li></ul>",
             "page-content": "",
             "default-open": false
           }
         },
         "collapsible_row_rTpnhL": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "clean beauty",
             "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
@@ -110,6 +111,7 @@
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "Full Ingredients list",
             "description": "<p><strong>Key Ingredients</strong><br/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
@@ -167,6 +169,7 @@
     },
     "5dc9f552-4580-4447-8abe-673add963394": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -242,6 +245,7 @@
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -286,6 +290,7 @@
       "blocks": {
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "HOW TO USE",
             "description": "<p>- Apply for 20 minutes to absorb and lock in active ingredients.</p><p>- Can be used everyday both in the morning and at night, providing consistent hydration throughout the day.</p><p>- Use as a sleep-in mask: before sleep apply in the under-eye area for a intensive treatment. <br/><br/></p><p>* Pro Tip: Apply them not only under your eyes but also on other areas with dark spots to expand their benefits. </p><p>* For optimal results, use the product 5-6 times per week.</p>",
@@ -307,13 +312,14 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating</p>",
+            "description": "<p>Soft | Velvet-Like</p>",
             "page-content": "",
             "default-open": false
           }
         },
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
           "type": "collapsible-row",
+          "disabled": true,
           "settings": {
             "heading": "AROMA",
             "description": "<p>Bergamot       |       Lavender</p>",
@@ -347,7 +353,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "hyperpigmentation care & Skin radiance boost",
+        "heading": "Makeup bag on the go",
         "text": ""
       }
     },
@@ -356,6 +362,7 @@
       "blocks": {
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -384,6 +391,7 @@
         },
         "image_83MPLr": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
@@ -437,6 +445,7 @@
     },
     "image_with_text_EGtRTg": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -463,6 +472,7 @@
     },
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -489,6 +499,7 @@
     },
     "image_with_text_pFfj9M": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
