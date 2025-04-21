@@ -98,7 +98,7 @@
             "rivo_hero_image": "shopify://shop_images/240_a4342e5d-6d16-4b6b-92a6-4ee5747bafd9.jpg",
             "rivo_hero_background_color_enabled": false,
             "background_color": "linear-gradient(180deg, rgba(19, 97, 62, 1), rgba(247, 246, 240, 1) 100%)",
-            "rivo_banner_desktop_height": 400,
+            "rivo_banner_desktop_height": 450,
             "rivo_banner_text_container_desktop_padding_top": 100,
             "rivo_banner_text_container_desktop_max_width": 100,
             "rivo_banner_text_container_desktop_button_gap": 10,
@@ -106,7 +106,7 @@
             "rivo_banner_image_desktop_brightness": 95,
             "rivo_banner_text_container_desktop_background_color": "#ffffff",
             "rivo_banner_text_container_desktop_font_color": "#13613e",
-            "rivo_banner_title_desktop_font_size": 32,
+            "rivo_banner_title_desktop_font_size": 21,
             "rivo_banner_subtitle_desktop_font_size": 16,
             "rivo_banner_card_desktop_position": "center",
             "rivo_banner_desktop_text_align": "center",
@@ -141,14 +141,17 @@
         "rivo_loyalty_rewards_referrals_lp_how_it_works_irKBVb": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
+            "background_color": "linear-gradient(310deg, rgba(247, 246, 240, 1) 15%, rgba(247, 246, 240, 1) 85%)",
             "section_title_font_color": "",
             "section_subtitle_font_color": "",
-            "step_number_title_font_size": 26,
-            "step_number_subtitle_font_size": 16,
-            "step_font_color": "",
-            "step_number_type": "border",
-            "step_image_height": 200
+            "step_number_title_font_size": 25,
+            "step_number_subtitle_font_size": 14,
+            "step_font_color": "#13613e",
+            "step_number_type": "images",
+            "step_image_height": 200,
+            "step_1_image": "shopify://shop_images/Toner_5.jpg",
+            "step_2_image": "shopify://shop_images/Eyepatch_5_a94b065e-6ddc-4d00-9ca1-53b19207bce1.jpg",
+            "step_3_image": "shopify://shop_images/Relief_sun_3.jpg"
           }
         }
       },
@@ -169,9 +172,9 @@
         "rivo_loyalty_rewards_referrals_lp_ways_to_earn_TEKgwe": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-ways-to-earn/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
-            "section_title_font_color": "",
-            "section_subtitle_font_color": ""
+            "background_color": "linear-gradient(350deg, rgba(27, 123, 80, 1), rgba(19, 97, 62, 1) 100%)",
+            "section_title_font_color": "#f7f6f0",
+            "section_subtitle_font_color": "#f7f6f0"
           }
         }
       },
@@ -182,8 +185,8 @@
         "background-color": "none",
         "light-text": false,
         "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
+        "spacing-above": false,
+        "spacing-below": false
       }
     },
     "17417651213675a70d": {
@@ -192,7 +195,7 @@
         "rivo_loyalty_rewards_referrals_lp_ways_to_redeem_UJzheJ": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-ways-to-redeem/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
+            "background_color": "linear-gradient(180deg, rgba(247, 246, 240, 1), rgba(247, 246, 240, 1) 100%)",
             "section_title_font_color": "",
             "section_subtitle_font_color": ""
           }
