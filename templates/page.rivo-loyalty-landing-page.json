@@ -130,9 +130,9 @@
       "settings": {
         "background-color": "none",
         "light-text": false,
-        "container-width": 2,
-        "spacing-above": true,
-        "spacing-below": true
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false
       }
     },
     "17417650016aacc3ea": {
@@ -147,7 +147,7 @@
             "step_number_title_font_size": 25,
             "step_number_subtitle_font_size": 14,
             "step_font_color": "#13613e",
-            "step_number_type": "images",
+            "step_number_type": "border",
             "step_image_height": 200,
             "step_1_image": "shopify://shop_images/Toner_5.jpg",
             "step_2_image": "shopify://shop_images/Eyepatch_5_a94b065e-6ddc-4d00-9ca1-53b19207bce1.jpg",
@@ -162,8 +162,8 @@
         "background-color": "none",
         "light-text": false,
         "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
+        "spacing-above": false,
+        "spacing-below": false
       }
     },
     "1741765036f3d4c6bd": {
@@ -221,7 +221,7 @@
             "background_color": "",
             "section_title_font_color": "",
             "section_subtitle_font_color": "",
-            "progress_bar_enabled": false,
+            "progress_bar_enabled": true,
             "progress_bar_style": "multi_column",
             "progress_bar_label_style": "below",
             "vip_table_perk_background_color": "",
