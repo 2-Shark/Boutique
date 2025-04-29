@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,19 +20,16 @@
         },
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -41,22 +47,14 @@
             "smart-payment-enabled": true
           }
         },
-        "a4fc2768-8f53-46d2-b428-74de8e01a55c": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "complementary-products": {
           "type": "complementary-products",
@@ -79,14 +77,22 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<ul><li>Designed to provide intensive toxin drainage around the cheeks & smile lines, neck & shoulder - décolleté area.<\/li><li>A relaxing massage tool designed to release tense, tightened muscles and sculpt fatigued, loosened skin.<\/li><\/ul>",
+            "description": "<ul><li>Designed to provide intensive toxin drainage around the cheeks & smile lines, neck & shoulder - décolleté area.</li><li>A relaxing massage tool designed to release tense, tightened muscles and sculpt fatigued, loosened skin.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_yUXVwe": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "shipping policy",
+            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -99,13 +105,13 @@
         "price",
         "options",
         "buy-buttons",
-        "a4fc2768-8f53-46d2-b428-74de8e01a55c",
         "pickup",
         "description",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
-        "ef005e46-1092-400f-a562-311b51df9d9e"
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_yUXVwe"
       ],
       "settings": {
         "container-width": 5,
@@ -136,13 +142,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_1.png",
+            "image": "shopify://shop_images/PC-_-_2_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
+            "mobile-image": "shopify://shop_images/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +156,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_1.png",
+            "image": "shopify://shop_images/PC-_-_1_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,13 +170,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
+            "image": "shopify://shop_images/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/06264258e094b162de1c236add7e2afe.png"
+            "mobile-image": "shopify://shop_images/06264258e094b162de1c236add7e2afe.png"
           }
         }
       },
@@ -205,7 +211,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<ul><li><strong>Contouring & Relaxing Therapy<\/strong><br\/>Bouti Gua Sha is designed to sculpt and massage the skin, helping remove toxins from the face, head and body.<\/li><\/ul><p><\/p><ul><li><strong>Multifuntional Facial & Body Massage<\/strong><br\/>Bouti Gua Sha is made entirely of high quality ceramic (white clay). Two unique and carefully designed pressure bumps can be used for the jawline, facial lines, neck, scalp, and eye area.<\/li><\/ul>",
+            "description": "<ul><li><strong>Contouring & Relaxing Therapy</strong><br/>Bouti Gua Sha is designed to sculpt and massage the skin, helping remove toxins from the face, head and body.</li></ul><p></p><ul><li><strong>Multifuntional Facial & Body Massage</strong><br/>Bouti Gua Sha is made entirely of high quality ceramic (white clay). Two unique and carefully designed pressure bumps can be used for the jawline, facial lines, neck, scalp, and eye area.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -214,7 +220,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p>White Clay<\/p>",
+            "description": "<p>White Clay</p>",
             "page-content": "",
             "default-open": false
           }
@@ -224,7 +230,7 @@
           "disabled": true,
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing<\/p>",
+            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing</p>",
             "page-content": "",
             "default-open": false
           }
@@ -234,7 +240,7 @@
           "disabled": true,
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange<\/p>",
+            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange</p>",
             "page-content": "",
             "default-open": false
           }
@@ -268,7 +274,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -285,13 +291,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_74e6d4e1-0d80-4b6b-95a4-a66471fdae0d.png",
+            "image": "shopify://shop_images/PC_74e6d4e1-0d80-4b6b-95a4-a66471fdae0d.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_810bad39-85f6-4ee0-98cf-4de80ccbe4e2.png"
+            "mobile-image": "shopify://shop_images/MOBILE_810bad39-85f6-4ee0-98cf-4de80ccbe4e2.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
@@ -300,13 +306,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_1_45cbad77-3df0-4703-a198-1b0683d79984.png",
+            "image": "shopify://shop_images/PC_-_-_1_45cbad77-3df0-4703-a198-1b0683d79984.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_-_1_5b75a3df-53cc-4012-a0d5-41e15260241e.png"
+            "mobile-image": "shopify://shop_images/MOBILE_-_1_5b75a3df-53cc-4012-a0d5-41e15260241e.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -315,13 +321,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
+            "image": "shopify://shop_images/PC-_-_3_9c35887f-902d-424e-8033-b6441be4e3f8.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
+            "mobile-image": "shopify://shop_images/MOBILE-_-_3_b04f64ec-29a6-4e1f-b5f7-4849d1956d84.png"
           }
         }
       },
@@ -365,8 +371,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -392,8 +398,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify://shop_images/MOBILE.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -429,8 +435,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -444,31 +450,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -507,8 +513,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -518,17 +524,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "b130c9b3-c303-48c8-b24e-4212d21fd2a4": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-review\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "b130c9b3-c303-48c8-b24e-4212d21fd2a4"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
