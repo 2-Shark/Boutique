@@ -41,12 +41,6 @@
             "size-chart-content": ""
           }
         },
-        "9388a392-c75b-4f68-8e84-62846c935f00": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
@@ -94,6 +88,15 @@
             "default-open": false
           }
         },
+        "collapsible_row_bkCi48": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Shiping policy",
+            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
         "collapsible_row_qPPgjg": {
           "type": "collapsible-row",
           "disabled": true,
@@ -111,7 +114,6 @@
         "vendor",
         "price",
         "options",
-        "9388a392-c75b-4f68-8e84-62846c935f00",
         "pickup",
         "description",
         "buy-buttons",
@@ -119,6 +121,7 @@
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_bkCi48",
         "collapsible_row_qPPgjg"
       ],
       "settings": {
@@ -599,17 +602,6 @@
     },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
-      "blocks": {
-        "14ae7b12-28d9-491d-a290-4b2dba0c9de7": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-review/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "14ae7b12-28d9-491d-a290-4b2dba0c9de7"
-      ],
       "settings": {
         "background-color": "none",
         "light-text": false,
