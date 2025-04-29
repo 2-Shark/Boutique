@@ -14,8 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
@@ -26,13 +25,11 @@
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -88,8 +77,7 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible_row_VqybWy": {
           "type": "collapsible-row",
@@ -113,7 +101,16 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "full Ingredients",
-            "description": "<h4>Lotus Melight Eye Patch</h4><p><strong>Key Ingredients<br/></strong>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients<br/></strong>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p><p>✽</p><h4>Skin Tint Essence</h4><p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br/><br/><strong>Ingredients<br/></strong>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate/Polyhydroxyst carate/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)</p>",
+            "description": "<p><strong>Key Ingredients<br/></strong>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients<br/></strong>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p><p>✽</p><h4>Skin Tint Essence</h4><p><strong>Key Ingredients</strong><br/>Blue Lotus Flower Water | Bisabolol | Pomegranate Flower<br/><br/><strong>Ingredients<br/></strong>Water, ZincOxide, Cyclohe xasiloxane, DibutylAdipate, Propanediol,Diisopropyl Scbacate, Butyloctyl Salicylatc, Dicaprylyl Carbonate, Glycerin, Polyglyceryl-4 Disostearate/Polyhydroxyst carate/Sebacate, Titanium Dioxide,Niacinamide Methvl Trimethicone. Caprvi Methicone, Diethylamino Hydroxybenzoyl Hexyl Benzo ace, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Punica Granatum Flower Extract, Centella Asiatica Extract,Calendula Officinalis Flower Extract, Pancratium Maritimun Extrad, Nymphaca Caerulea Flower Water, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Disteardi monium Hedorie, Magnesium Sulfate, Tricthoxycaprylyl silane, i,2- Heanddo, Chiray! Caprylate, Caprylyl Glycol, Aluminum Hydroxide, Ethylhexylglycerin, Adenosine, Polymethyl Methacrylate, Tocopherol, Squalanc, Bisabolo, Panthenol, Butylene Glycol, Citric Acid, Fragrance, Iron Oxides (Ci 77492), Iron Oxides (Ci 77491), Iron Oxides (Ci 77499)</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_A4Ue96": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "shipping policy",
+            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -125,7 +122,6 @@
         "vendor",
         "price",
         "options",
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
         "pickup",
         "description",
         "buy-buttons",
@@ -134,7 +130,8 @@
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "collapsible_row_VqybWy",
         "collapsible_row_ThixeK",
-        "collapsible_row_pWiVaT"
+        "collapsible_row_pWiVaT",
+        "collapsible_row_A4Ue96"
       ],
       "settings": {
         "container-width": 5,
