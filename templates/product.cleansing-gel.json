@@ -50,34 +50,10 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_row_bg9BaU": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
             "smart-payment-enabled": true
-          }
-        },
-        "loox_reviews_loox_rating_trzqqk": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "contentSize": 16,
-            "pattern": "",
-            "hideText": false,
-            "alignment": "",
-            "layout": "",
-            "textColor": "",
-            "starColor": "",
-            "showAllReviews": false,
-            "looxOpenFloatingWidget": false,
-            "emptyRatingWidget": false
           }
         },
         "complementary-products": {
@@ -100,6 +76,21 @@
             "url-enabled": true
           }
         },
+        "loox_reviews_loox_rating_trzqqk": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
           "settings": {}
@@ -109,6 +100,15 @@
           "settings": {
             "heading": "benefits",
             "description": "<ul><li>Removes impurities, rinsing away without residue</li><li>Cleanses without stripping skin's natural oils</li><li>Boosts collagen production & reinforces skin's barrier</li><li>Leaves a clean and refreshing finish without dryness</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_bg9BaU": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Clean Beauty",
+            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
             "page-content": "",
             "default-open": false
           }
@@ -126,7 +126,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": " Shipping Policy",
-            "description": "<ul><li>International Shipping $20 </li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -140,13 +140,13 @@
         "options",
         "pickup",
         "description",
-        "collapsible_row_bg9BaU",
         "buy-buttons",
-        "loox_reviews_loox_rating_trzqqk",
         "complementary-products",
         "social-sharing",
+        "loox_reviews_loox_rating_trzqqk",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_bg9BaU",
         "collapsible_row_B4FEic",
         "collapsible_row_zkEwdm"
       ],
