@@ -426,6 +426,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_fBDzJz": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_SNOW.LOTUS_2bf195b4-5111-4fe1-b948-216c6997dd0f.jpg",
+        "mobile-image": "shopify://shop_images/M_-_SNOW.LOTUS_c7fbd938-2c92-40e3-a96d-6cb2a6042bf3.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
       "disabled": true,
@@ -672,6 +698,7 @@
     "featured_text_taChND",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
     "image_with_text_LhcbHC",
+    "image_with_text_fBDzJz",
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
     "image_with_text_7af7NU",
