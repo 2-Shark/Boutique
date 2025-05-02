@@ -282,6 +282,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 114,
         "container-width": 1,
@@ -522,8 +523,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-finalimage-cream.jpg",
-        "mobile-image": "shopify://shop_images/M_-finalimage-_-cream.jpg",
+        "image": "shopify://shop_images/PC_finalimage_3.jpg",
+        "mobile-image": "shopify://shop_images/m_finalimage.jpg",
         "overline": "",
         "title": "",
         "description": "",
