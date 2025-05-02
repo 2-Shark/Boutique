@@ -1,0 +1,728 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {}
+        },
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
+          "type": "overline",
+          "settings": {
+            "text": "FIRMS, HYDRATES, AND RESTORES YOUTHFUL BOUNCE"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "variant-style": "buttons",
+            "swatches-enabled": true,
+            "size-chart-enabled": true,
+            "size-chart-option": "size",
+            "size-chart-content": ""
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "smart-payment-enabled": true
+          }
+        },
+        "loox_reviews_loox_rating_mjbymC": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "complementary-products": {
+          "type": "complementary-products",
+          "settings": {
+            "title": "Pairs well with",
+            "max-products": 2,
+            "collapsible-row-enabled": false
+          }
+        },
+        "social-sharing": {
+          "type": "social-sharing",
+          "disabled": true,
+          "settings": {
+            "facebook-enabled": true,
+            "twitter-enabled": true,
+            "pinterest-enabled": true,
+            "email-enabled": true,
+            "url-enabled": true
+          }
+        },
+        "ef005e46-1092-400f-a562-311b51df9d9e": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Benefits",
+            "description": "<ul><li>Firms and lifts the skin with a powerful advanced peptide formula</li><li>Deeply hydrates and locks in moisture for lasting comfort</li><li>Boosts radiance and smooths skin texture</li><li>Reduces fine lines up to 15% and signs of fatigue for a youthful glow</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_aYmCTe": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Full Ingredients list",
+            "description": "<p><strong>Key Ingredients</strong><br/>Snow Lotus (1%) | Acetyl Hexapeptide-8 (1%) | Peptide ComplexTM | Soy Bean Peptides | 4 Natural Oils<br/><br/><br/><strong>Ingredients</strong><br/>Water, Butylene Glycol, Methyl Gluceth-20, Tripropylene Glycol, 1,2-Hexanediol, Niacinamide, Glycerin, Pullulan, Methylpropanediol, Glycereth-26, Panthenol, Squalane, Carbomer, Tromethamine, Xanthan Gum, Ethylhexylglycerin, Adenosine, Disodium EDTA, Lavandula Angustifolia (Lavender) Oil, Hydrogenated Lecithin, Glycine Soja (Soybean) Oil, Sodium Hyaluronate, Carthamus Tinctorius (Safflower) Seed Oil, Saussurea Involucrata Extract, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Caprylyl Glycol, Ceramide NP, Acetyl Hexapeptide-8, Oryza Sativa (Rice) Bran Extract, Anthemis Nobilis Flower Oil, Tocopherol, Madecassoside, Simmondsia Chinensis (Jojoba) Seed Oil, Camellia Japonica Seed Oil, Glycine Soja (Soybean) Peptide, Beta-Glucan, Saccharomyces/Coix Lacryma-Jobi Ma-Yuen Seed Ferment Filtrate, Copper Tripeptide-1, Palmitoyl Tetrapeptide-7, Nonapeptide-1, Tripeptide-1, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Hexapeptide-9, Linalool</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "collapsible_row_eHbkcK": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "shipping policy",
+            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4859035b-c867-4ea2-9cf8-02c56aaa6c17",
+        "vendor",
+        "price",
+        "options",
+        "pickup",
+        "description",
+        "buy-buttons",
+        "loox_reviews_loox_rating_mjbymC",
+        "complementary-products",
+        "social-sharing",
+        "ef005e46-1092-400f-a562-311b51df9d9e",
+        "collapsible_row_aYmCTe",
+        "collapsible_row_eHbkcK"
+      ],
+      "settings": {
+        "container-width": 5,
+        "spacing-above": false,
+        "spacing-below": false,
+        "media-layout": "thumbnails",
+        "text-column-width": 44,
+        "media-gap": 9,
+        "column-spacing": "close",
+        "text-alignment": "left",
+        "thumbnail-width": 121,
+        "heading-enabled": false,
+        "heading-sizes-enabled": true,
+        "heading-size": 45,
+        "breadcrumbs-enabled": true,
+        "modal-enabled": true,
+        "variant-scroll-enabled": true,
+        "image-zoom-enabled": true,
+        "loop-enabled": true,
+        "mobile-media-layout": "slideshow"
+      }
+    },
+    "5dc9f552-4580-4447-8abe-673add963394": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 4,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 62,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": false,
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD_1.jpg",
+        "mobile-image": "shopify://shop_images/763.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Snow_Lotus.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Snow_Lotus.jpg"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Acetyl_Hexapeptide-8.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Acetyl_Hexapeptide-8.jpg"
+          }
+        },
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Peptide_Complex.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Peptide_Complex.jpg"
+          }
+        },
+        "image_dYhdBt": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_4_Natural_Oils.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_4_Natural_Oils.jpg"
+          }
+        },
+        "image_fEejK9": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Soystem.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Soystem.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "image_dYhdBt",
+        "image_fEejK9"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": true,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
+      "type": "featured-video",
+      "settings": {
+        "aspect-ratio": 116,
+        "container-width": 1,
+        "spacing-above": true,
+        "spacing-below": false,
+        "background-color": "none",
+        "light-text": true,
+        "play-button-style": "solid",
+        "darken-video": false,
+        "video-upload": "shopify://files/videos/세럼-캡션O.mp4",
+        "video-url": "",
+        "image": "shopify://shop_images/cb4a5f73693f6a1dc60a34573b408d9f.png",
+        "heading": "",
+        "sub-heading": "",
+        "button-text": "",
+        "button-url": "",
+        "mobile-aspect-ratio": 130
+      }
+    },
+    "b6733570-f064-45cf-a1e6-b865d317d0a8": {
+      "type": "collapsible-rows",
+      "blocks": {
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "HOW TO USE",
+            "description": "<p>Apply 4-5 drops of essence evenly over the skin. Gently tap or massage for enhanced absorption.</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "TEXTURE",
+            "description": "<p>Lightweight | Dewy | Firming | Moisturizing</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        },
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "AROMA",
+            "description": "<p>Rosewood | Vanilla fruit</p>",
+            "page-content": "",
+            "default-open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-1",
+        "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
+        "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "heading": "",
+        "title-alignment": "left",
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "featured_text_Ei8iT6": {
+      "type": "featured-text",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true,
+        "overline": "",
+        "heading": "Rejuvenating essence for brighter complexion",
+        "text": ""
+      }
+    },
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Serum-PC_-in_4_weeks_of_use_c4fec3c1-7630-4563-8a08-ef1bbfc3f742.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_0384dd63-045b-47bc-9729-9cf8e769ca0c.png"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_1.png"
+          }
+        },
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_2.png"
+          }
+        },
+        "image_eLaiDq": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Serum-PC_Clinically_proven_3_25eba708-4440-4d19-b9a3-c9fa1ede83c1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Serum-M_Clinically_proven_3_d24db491-bbbe-43a2-9efb-c9a5999e3d87.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
+        "image_eLaiDq"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 4,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_B_A_Serum.png",
+        "mobile-image": "shopify://shop_images/M_-B_A_1_5c4bf264-e64e-4337-acdf-9175dd54b7b8.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "image_with_text_kpVQNa": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 5,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 44,
+        "mobile-image-aspect-ratio": 200,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_-_SNOW.LOTUS_0e17a0ae-65ed-49f9-9012-aac509ad5512.jpg",
+        "mobile-image": "shopify://shop_images/M_-_SNOW.LOTUS_c7fbd938-2c92-40e3-a96d-6cb2a6042bf3.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "1da4187e-fe26-4969-8379-a32463d40d6f": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 3,
+        "spacing-above": false,
+        "spacing-below": false,
+        "image-aspect-ratio": 40,
+        "mobile-image-aspect-ratio": 58,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
+        "mobile-image": "shopify://shop_images/M_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_finalimage_3.png",
+        "mobile-image": "shopify://shop_images/M_finalimage_serum.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "1741750854a6dffa92": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_QX7Q7z": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_QX7Q7z"
+      ],
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "image_with_text_T6T8eE": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 24,
+        "mobile-image-aspect-ratio": 70,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_PRESS_REVIEWS.png",
+        "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_dde39407-6060-48de-bdf3-378a8fc19657.png",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
+    "slideshow_CcAp3w": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dmV4zx": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_1.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_1.png"
+          }
+        },
+        "image_a4eAfE": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_2.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_2.png"
+          }
+        },
+        "image_JgVar3": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_PRESS_REVIEWS_3.png",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_PRESS_REVIEWS_3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_dmV4zx",
+        "image_a4eAfE",
+        "image_JgVar3"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": false,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 106,
+        "darken-image": false,
+        "blocks_per_slide": 3,
+        "box-around-text": false,
+        "auto-rotate": false,
+        "rotate-frequency": 7,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "section_layout_BNi7Jc": {
+      "type": "section-layout",
+      "settings": {
+        "snippet_name": "",
+        "border_bottom": true,
+        "background_color": "",
+        "text_color": "",
+        "inner_padding_top_desktop": "72",
+        "inner_padding_top_mobile": "32",
+        "inner_padding_bottom_desktop": "72",
+        "inner_padding_bottom_mobile": "32",
+        "page_width_desktop": "default",
+        "page_width_mobile": "default"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
+      "type": "apps",
+      "settings": {
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5dc9f552-4580-4447-8abe-673add963394",
+    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
+    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
+    "b6733570-f064-45cf-a1e6-b865d317d0a8",
+    "featured_text_Ei8iT6",
+    "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
+    "image_with_text_kpVQNa",
+    "1da4187e-fe26-4969-8379-a32463d40d6f",
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967",
+    "1741750854a6dffa92",
+    "image_with_text_T6T8eE",
+    "slideshow_CcAp3w",
+    "section_layout_BNi7Jc",
+    "related-products",
+    "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
+  ]
+}
