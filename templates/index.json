@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/1_b63ed642-1b39-4283-b505-b359d963a56b.jpg",
-        "image_tablet": "shopify://shop_images/31_b3ec88f3-fbbe-41ab-84ac-d649107c646c.jpg",
-        "image_mobile": "shopify://shop_images/31_b3ec88f3-fbbe-41ab-84ac-d649107c646c.jpg",
+        "image_desktop": "shopify://shop_images/1_11674c5d-8abd-46ea-8ea5-c5508595a25d.jpg",
+        "image_tablet": "shopify://shop_images/31.png",
+        "image_mobile": "shopify://shop_images/31.png",
         "eyebrow": "Beyond Skincare, Beyond Time",
         "header": "For the Timeless Glow",
         "cta": "discover more",
@@ -26,11 +26,9 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/34_60e72fab-cae5-426f-9809-7c4109e61546.jpg",
-        "image_mobile": "shopify://shop_images/34_1128c777-f48b-4068-9b52-b5ce00759143.jpg",
-        "image_desktop_right": "shopify://shop_images/37_7e1fb0e3-0531-4e55-ae5c-9897c42c7fae.jpg",
-        "image_mobile_right": "shopify://shop_images/37.jpg",
-        "header": "Awakening Senses<br>of Spring",
+        "image_desktop": "shopify://shop_images/33.png",
+        "image_desktop_right": "shopify://shop_images/37.png",
+        "header": "Awakening Sensesof Spring",
         "body": "",
         "cta": "Shop",
         "link": "shopify://products/lotus-melight-eyepatch"
@@ -350,9 +348,9 @@
             "form_id": "412684",
             "text_color": "#13613e",
             "button_background_color": "#13613e",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 0,
