@@ -282,6 +282,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 116,
         "container-width": 1,
@@ -337,6 +338,7 @@
         "template--20216776425759__b6733570-f064-45cf-a1e6-b865d317d0a8-collapsible-row-3",
         "18ef7cde-0f0d-4e3e-a380-0d5e44c02f12"
       ],
+      "disabled": true,
       "settings": {
         "background-color": "none",
         "light-text": false,
@@ -356,7 +358,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "Rejuvenating essence for brighter complexion",
+        "heading": "Snow Lotus Peptide Skincare for timeless glow",
         "text": ""
       }
     },
@@ -426,6 +428,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
         "image_eLaiDq"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -446,11 +449,12 @@
     },
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
         "container-width": 5,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 44,
         "mobile-image-aspect-ratio": 200,
@@ -476,7 +480,7 @@
         "text-color": "auto",
         "background-color": "none",
         "container-width": 5,
-        "spacing-above": true,
+        "spacing-above": false,
         "spacing-below": false,
         "image-aspect-ratio": 44,
         "mobile-image-aspect-ratio": 200,
@@ -539,8 +543,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage_3.png",
-        "mobile-image": "shopify://shop_images/M_finalimage_serum.png",
+        "image": "shopify://shop_images/PC_finalimage_3.jpg",
         "overline": "",
         "title": "",
         "description": "",
