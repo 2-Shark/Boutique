@@ -181,6 +181,32 @@
         "link-text": ""
       }
     },
+    "image_with_text_Mg8xWb": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 48,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_Pre-order_Only.jpg",
+        "mobile-image": "shopify://shop_images/m_Pre-order_Only.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -544,6 +570,7 @@
         "box-around-text": false,
         "mobile-overlay": true,
         "image": "shopify://shop_images/PC_finalimage_3.jpg",
+        "mobile-image": "shopify://shop_images/m_finalimage.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -712,6 +739,7 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "image_with_text_Mg8xWb",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
