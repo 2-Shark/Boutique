@@ -181,6 +181,32 @@
         "link-text": ""
       }
     },
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
+      "type": "image-with-text",
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "container-width": 6,
+        "spacing-above": true,
+        "spacing-below": false,
+        "image-aspect-ratio": 56,
+        "mobile-image-aspect-ratio": 134,
+        "darken-image": false,
+        "parallax-enabled": false,
+        "text-position": "center",
+        "text-width": "medium",
+        "overlap": false,
+        "box-around-text": false,
+        "mobile-overlay": true,
+        "image": "shopify://shop_images/PC_Pre-order_Only.jpg",
+        "mobile-image": "shopify://shop_images/m_Pre-order_Only.jpg",
+        "overline": "",
+        "title": "",
+        "description": "",
+        "link-url": "",
+        "link-text": ""
+      }
+    },
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
       "type": "slideshow",
       "blocks": {
@@ -282,6 +308,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 116,
         "container-width": 1,
@@ -426,6 +453,7 @@
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
         "image_eLaiDq"
       ],
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -522,7 +550,7 @@
         "link-text": ""
       }
     },
-    "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
+    "image_with_text_8eMfHP": {
       "type": "image-with-text",
       "settings": {
         "text-color": "auto",
@@ -709,6 +737,7 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
+    "3f2e5a64-9305-4a9e-9635-5a882adb3967",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
@@ -717,7 +746,7 @@
     "ef89c55b-bcae-47dc-89cd-9ccfd8ded177",
     "image_with_text_kpVQNa",
     "1da4187e-fe26-4969-8379-a32463d40d6f",
-    "3f2e5a64-9305-4a9e-9635-5a882adb3967",
+    "image_with_text_8eMfHP",
     "1741750854a6dffa92",
     "image_with_text_T6T8eE",
     "slideshow_CcAp3w",
