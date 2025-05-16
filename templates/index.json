@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/1_11674c5d-8abd-46ea-8ea5-c5508595a25d.jpg",
-        "image_tablet": "shopify://shop_images/31.png",
-        "image_mobile": "shopify://shop_images/31.png",
+        "image_desktop": "shopify://shop_images/1_93590f61-dbdd-4d06-b0ea-b8c996d2a894.jpg",
+        "image_tablet": "shopify://shop_images/31_f44814df-1a7d-4646-9de2-846fb9b8ef01.jpg",
+        "image_mobile": "shopify://shop_images/31_f44814df-1a7d-4646-9de2-846fb9b8ef01.jpg",
         "eyebrow": "Beyond Skincare, Beyond Time",
         "header": "The Glow Frozen in Time",
         "cta": "discover more",
@@ -26,8 +26,8 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/33.png",
-        "image_desktop_right": "shopify://shop_images/37.png",
+        "image_desktop": "shopify://shop_images/33_3590112d-d282-4217-a4d3-a266ee59b670.jpg",
+        "image_desktop_right": "shopify://shop_images/37.jpg",
         "header": "Get the New Bouncy Ice Glow",
         "body": "",
         "cta": "Shop",
@@ -238,8 +238,7 @@
         "aae0c60c-b575-4278-b74a-806cba3e934a": {
           "type": "image_text",
           "settings": {
-            "image_desktop": "shopify://shop_images/24.jpg",
-            "image_mobile": "shopify://shop_images/24_c7459fdf-787a-4da1-bfd6-0ec29463f89a.jpg",
+            "image_desktop": "shopify://shop_images/24_d23dbeb6-793b-4c33-84ed-4b09e09e6d24.jpg",
             "header": "GLASS GLOWSKINCARE",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/glass-glow-skincare"
@@ -258,7 +257,7 @@
           "type": "image_text",
           "settings": {
             "image_desktop": "shopify://shop_images/boutijour-sep2654-copy.jpg",
-            "header": "SCULPTING<br>& LIFTING",
+            "header": "SCULPTING& LIFTING",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://pages/lifting-sculting"
           }
@@ -267,7 +266,7 @@
           "type": "image_text",
           "settings": {
             "image_desktop": "shopify://shop_images/26.jpg",
-            "header": "EXTREME<br>SUN LOVERS",
+            "header": "EXTREMESUN LOVERS",
             "cta": "DISCOVER RITUAL",
             "cta_link": "shopify://collections/suncare"
           }
