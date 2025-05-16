@@ -179,17 +179,15 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/18_d81c4506-f82e-4136-b880-ee38a57ea0be.jpg",
-        "image_mobile": "shopify://shop_images/361A3097-copy_1.jpg",
-        "image_desktop_r": "shopify://shop_images/45282e1aa61f86b291444a999afe51fd.jpg",
-        "image_mobile_r": "shopify://shop_images/171f3c4047be3b825a5ffbb116257247.jpg"
+        "image_desktop": "shopify://shop_images/289332f9f863d77a9d7d9dd816dfe663.jpg",
+        "image_mobile": "shopify://shop_images/361A3097-copy_1_7978b6ed-065a-4db1-8732-4c38814e1b3c.jpg",
+        "image_desktop_r": "shopify://shop_images/45282e1aa61f86b291444a999afe51fd.jpg"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
       "settings": {
-        "image_desktop_l": "shopify://shop_images/boutijour-sep2426_fcbeabb4-e254-4568-8aa9-9e7e6f1a64b8.jpg",
-        "image_mobile_l": "shopify://shop_images/boutijour-sep2426_aac6e3ab-f201-45c5-b7a0-aaf8c5764928.jpg",
+        "image_desktop_l": "shopify://shop_images/boutijour-sep2426_fcbeabb4-e254-4568-8aa9-9e7e6f1a64b8_1.jpg",
         "image_desktop_r": "shopify://shop_images/18.jpg"
       }
     },
