@@ -183,6 +183,7 @@
     },
     "image_with_text_Mg8xWb": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
