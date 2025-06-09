@@ -183,6 +183,7 @@
     },
     "3f2e5a64-9305-4a9e-9635-5a882adb3967": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "text-color": "auto",
         "background-color": "none",
