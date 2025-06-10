@@ -180,7 +180,7 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/289332f9f863d77a9d7d9dd816dfe663.jpg",
+        "image_desktop": "shopify://shop_images/305.jpg",
         "image_mobile": "shopify://shop_images/361A3097-copy_1_7978b6ed-065a-4db1-8732-4c38814e1b3c.jpg",
         "image_desktop_r": "shopify://shop_images/45282e1aa61f86b291444a999afe51fd.jpg"
       }
@@ -277,6 +277,7 @@
         "acf14571-4d2f-4da9-b2e0-3c3720ed006e",
         "bbb42d47-16aa-413a-8001-977a1105bf14"
       ],
+      "disabled": true,
       "settings": {
         "header": "ELEVATE YOUR WELLNESS RITUAL"
       }
@@ -321,20 +322,6 @@
         "border_bottom": true,
         "page_width_desktop": "full",
         "page_width_mobile": "full"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "background_color": "#f7f6f0",
-        "text_color": "#13613e",
-        "inner_padding_top_desktop": "76",
-        "inner_padding_top_mobile": "30",
-        "inner_padding_bottom_desktop": "76",
-        "inner_padding_bottom_mobile": "47",
-        "heading": "JOIN OUR WELL-AGER CLUB",
-        "newsletter--subheading": "<p>Join our email subscription for news letter</p>",
-        "border_bottom": false
       }
     },
     "174357455181ac5aa3": {
@@ -383,6 +370,20 @@
         "inner_padding_bottom_mobile": "37",
         "page_width_desktop": "default",
         "page_width_mobile": "default"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "background_color": "#f7f6f0",
+        "text_color": "#13613e",
+        "inner_padding_top_desktop": "76",
+        "inner_padding_top_mobile": "30",
+        "inner_padding_bottom_desktop": "76",
+        "inner_padding_bottom_mobile": "47",
+        "heading": "JOIN OUR WELL-AGER CLUB",
+        "newsletter--subheading": "<p>Join our email subscription for news letter</p>",
+        "border_bottom": false
       }
     },
     "video-section": {
@@ -485,9 +486,9 @@
     "f3bacd45-5a99-4f55-bf0b-1f5d9448547b",
     "106354e2-d471-4368-8771-3834b878d36e",
     "featured-blog",
-    "newsletter",
     "174357455181ac5aa3",
     "instagram",
+    "newsletter",
     "video-section",
     "image-with-text",
     "map",
