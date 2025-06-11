@@ -30,7 +30,19 @@
         "image_mobile": "shopify://shop_images/mobile_79691db0-0369-497b-bbee-f9f6048ef698.jpg",
         "image_desktop_right": "shopify://shop_images/307.jpg",
         "header": "",
-        "body": "Soothe and <br>restore your skin.",
+        "body": "Soothe and restore your skin.",
+        "cta": "shop",
+        "link": "shopify://collections/refreshing-calming-summer"
+      }
+    },
+    "disrupt_banner_double_pVm667": {
+      "type": "disrupt-banner-double",
+      "settings": {
+        "image_desktop": "shopify://shop_images/303.jpg",
+        "image_mobile": "shopify://shop_images/324.jpg",
+        "image_desktop_right": "shopify://shop_images/1032.jpg",
+        "header": "",
+        "body": "Soothe and restore your skin.",
         "cta": "shop",
         "link": "shopify://collections/refreshing-calming-summer"
       }
@@ -187,6 +199,7 @@
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
       "type": "disrupt-anti-aging",
+      "disabled": true,
       "settings": {
         "image_desktop_l": "shopify://shop_images/boutijour-sep2426_fcbeabb4-e254-4568-8aa9-9e7e6f1a64b8_1.jpg",
         "image_desktop_r": "shopify://shop_images/18.jpg"
@@ -476,6 +489,7 @@
   "order": [
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2",
     "71abef73-9e41-4268-855f-afba83392ef9",
+    "disrupt_banner_double_pVm667",
     "image_with_text_nGpBeh",
     "5a6473ff-b578-4d67-8ae9-23e0f4ea16e5",
     "c9b8c308-8b6a-40d1-9945-c181f1987811",
