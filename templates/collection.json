@@ -157,16 +157,16 @@
       "type": "featured-collection",
       "settings": {
         "collection": "refreshing-calming-summer",
-        "max-products": 9,
+        "max-products": 6,
         "background-color": "none",
         "light-text": false,
         "spacing-above": true,
         "spacing-below": true,
         "featured-collection--image--show": false,
         "featured-collection--description--show": false,
-        "display-type": "slideshow",
-        "products-per-row--desktop": "4",
-        "products-per-row--mobile": "1"
+        "display-type": "grid",
+        "products-per-row--desktop": "3",
+        "products-per-row--mobile": "2"
       }
     },
     "8ee537d5-f6a1-4590-a276-3ffdbab45ab8": {
