@@ -190,11 +190,9 @@
       "type": "disrupt-banner-double",
       "settings": {
         "image_desktop": "shopify://shop_images/303.jpg",
-        "image_mobile": "shopify://shop_images/307.jpg",
         "image_desktop_right": "shopify://shop_images/307.jpg",
-        "image_mobile_right": "shopify://shop_images/303.jpg",
         "header": "Advanced lifting formula.",
-        "body": "",
+        "body": "Snow lotus + advanced peptides<br>for a  lifted and plumped skin.",
         "cta": "shop",
         "link": "shopify://collections/refreshing-calming-summer"
       }
