@@ -28,7 +28,8 @@
       "settings": {
         "image_desktop": "shopify://shop_images/304.jpg",
         "image_mobile": "shopify://shop_images/mobile_79691db0-0369-497b-bbee-f9f6048ef698.jpg",
-        "image_desktop_right": "shopify://shop_images/307_9653359c-19b9-419a-bc29-07648e9c163b.jpg",
+        "image_desktop_right": "shopify://shop_images/307_d266bce7-fa32-4137-a6bb-eea462183726.jpg",
+        "image_mobile_right": "shopify://shop_images/mmm.jpg",
         "header": "",
         "body": "Soothe and restore your skin.",
         "cta": "shop",
