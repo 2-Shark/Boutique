@@ -28,10 +28,10 @@
       "settings": {
         "image_desktop": "shopify://shop_images/304.jpg",
         "image_mobile": "shopify://shop_images/mobile_79691db0-0369-497b-bbee-f9f6048ef698.jpg",
-        "image_desktop_right": "shopify://shop_images/307_d266bce7-fa32-4137-a6bb-eea462183726.jpg",
-        "image_mobile_right": "shopify://shop_images/mmm.jpg",
-        "header": "",
-        "body": "Soothe and restore your skin.",
+        "image_desktop_right": "shopify://shop_images/307_ff2cf70e-d626-4b27-98b6-82a9c0847d3c.jpg",
+        "image_mobile_right": "shopify://shop_images/lottusm.jpg",
+        "header": "Soothe & restore your skin.",
+        "body": "",
         "cta": "shop",
         "link": "shopify://collections/refreshing-calming-summer"
       }
