@@ -190,8 +190,9 @@
       "type": "disrupt-banner-double",
       "settings": {
         "image_desktop": "shopify://shop_images/303.jpg",
-        "image_mobile": "shopify://shop_images/324.jpg",
+        "image_mobile": "shopify://shop_images/307.jpg",
         "image_desktop_right": "shopify://shop_images/307.jpg",
+        "image_mobile_right": "shopify://shop_images/303.jpg",
         "header": "Advanced lifting formula.",
         "body": "",
         "cta": "shop",
