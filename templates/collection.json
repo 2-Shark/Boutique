@@ -162,7 +162,7 @@
         "light-text": false,
         "spacing-above": true,
         "spacing-below": true,
-        "featured-collection--image--show": false,
+        "featured-collection--image--show": true,
         "featured-collection--description--show": false,
         "display-type": "grid",
         "products-per-row--desktop": "3",
