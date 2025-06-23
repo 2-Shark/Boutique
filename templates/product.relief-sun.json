@@ -66,15 +66,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_row_Kqrn39": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Free from",
-            "description": "<p>Silicones, GMOs, PEGs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, Harsh Preservatives, and Ocean-Harming Chemicals</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "buy-buttons": {
           "type": "buy-buttons",
           "settings": {
@@ -105,6 +96,15 @@
           "type": "rating",
           "disabled": true,
           "settings": {}
+        },
+        "collapsible_row_Kqrn39": {
+          "type": "collapsible-row",
+          "settings": {
+            "heading": "Free from",
+            "description": "<p>Silicones, GMOs, PEGs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, Harsh Preservatives, and Ocean-Harming Chemicals</p>",
+            "page-content": "",
+            "default-open": false
+          }
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
@@ -143,11 +143,11 @@
         "options",
         "pickup",
         "description",
-        "collapsible_row_Kqrn39",
         "buy-buttons",
         "complementary-products",
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
+        "collapsible_row_Kqrn39",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_e7JLyr",
         "collapsible_row_iiHxqT"
