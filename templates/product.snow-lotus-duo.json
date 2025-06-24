@@ -631,6 +631,17 @@
         "link-text": ""
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "slideshow_CcAp3w": {
       "type": "slideshow",
       "blocks": {
@@ -715,17 +726,6 @@
         "page_width_mobile": "default"
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "title": "You may also like",
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
-      }
-    },
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5": {
       "type": "apps",
       "settings": {
@@ -750,11 +750,11 @@
     "image_with_text_kpVQNa",
     "1da4187e-fe26-4969-8379-a32463d40d6f",
     "3f2e5a64-9305-4a9e-9635-5a882adb3967",
+    "related-products",
     "1741750854a6dffa92",
     "image_with_text_T6T8eE",
     "slideshow_CcAp3w",
     "section_layout_BNi7Jc",
-    "related-products",
     "alireviews-section-fde2eb1e-28fd-4431-a305-0478ee1610b5"
   ]
 }
