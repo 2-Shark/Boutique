@@ -16,7 +16,7 @@
         "image_tablet": "shopify://shop_images/Screenshot_2025-08-19_at_11.06.33_PM.png",
         "image_mobile": "shopify://shop_images/Screenshot_2025-08-19_at_11.06.33_PM.png",
         "eyebrow": "",
-        "header": "Rejuvenate Your Radiance, Post-Sun Exposure",
+        "header": "Restore summer skin with +Advanced Peptides",
         "cta": "Learn More",
         "link": "shopify://collections/post-sun-exposure-skincare",
         "inner_padding_left_right": "185",
@@ -29,11 +29,11 @@
         "image_desktop": "shopify://shop_images/Serum_4_f7fd98d2-8937-4a5f-a749-d691a50a0623.jpg",
         "image_mobile": "shopify://shop_images/Serum_4_f7fd98d2-8937-4a5f-a749-d691a50a0623.jpg",
         "image_desktop_right": "shopify://shop_images/Cream_3_ccaff343-0d78-4925-bf95-cdcd3b2ea9f6.jpg",
-        "image_mobile_right": "shopify://shop_images/lottusm.jpg",
-        "header": "Gentle Slow-Aging",
+        "image_mobile_right": "shopify://shop_images/Cream_3_ccaff343-0d78-4925-bf95-cdcd3b2ea9f6.jpg",
+        "header": "Advanced Well-aging CARE",
         "body": "",
         "cta": "shop",
-        "link": "shopify://collections/post-sun-exposure-skincare"
+        "link": "shopify://collections/skincare"
       }
     },
     "image_with_text_nGpBeh": {
@@ -193,8 +193,8 @@
         "image_desktop": "shopify://shop_images/Screenshot_2025-08-25_at_3.15.11_PM.png",
         "image_mobile": "shopify://shop_images/Screenshot_2025-08-25_at_3.15.11_PM.png",
         "image_desktop_right": "shopify://shop_images/Serum_3_d27b85d5-0c28-4250-8af1-37cd6f0c4826.jpg",
-        "header": "Advancedliftingformula.",
-        "body": "Snow lotus + advanced peptidesfor a  lifted and plumped skin.",
+        "header": "Advanced lifting formula.",
+        "body": "Snow lotus + advanced peptides for a  lifted and plumped skin.",
         "cta": "shop",
         "link": "shopify://collections/post-sun-exposure-skincare"
       }
