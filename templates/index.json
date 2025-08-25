@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/boutijour-sep1796.jpg",
-        "image_tablet": "shopify://shop_images/boutijour-sep1796.jpg",
-        "image_mobile": "shopify://shop_images/boutijour-sep1796.jpg",
+        "image_desktop": "shopify://shop_images/Screenshot_2025-08-19_at_11.06.33_PM.png",
+        "image_tablet": "shopify://shop_images/Screenshot_2025-08-19_at_11.06.33_PM.png",
+        "image_mobile": "shopify://shop_images/Screenshot_2025-08-19_at_11.06.33_PM.png",
         "eyebrow": "",
         "header": "Rejuvenate Your Radiance, Post-Sun Exposure",
         "cta": "Learn More",
@@ -26,9 +26,9 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/TEASER_1_-04.jpg",
-        "image_mobile": "shopify://shop_images/TEASER_1_-04.jpg",
-        "image_desktop_right": "shopify://shop_images/307_650429cb-6d06-459e-9e7d-c27e691e1f32.jpg",
+        "image_desktop": "shopify://shop_images/Serum_4_f7fd98d2-8937-4a5f-a749-d691a50a0623.jpg",
+        "image_mobile": "shopify://shop_images/Serum_4_f7fd98d2-8937-4a5f-a749-d691a50a0623.jpg",
+        "image_desktop_right": "shopify://shop_images/Cream_3_ccaff343-0d78-4925-bf95-cdcd3b2ea9f6.jpg",
         "image_mobile_right": "shopify://shop_images/lottusm.jpg",
         "header": "Gentle Slow-Aging",
         "body": "",
@@ -181,19 +181,20 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/ritual.jpg",
-        "image_mobile": "shopify://shop_images/361A3097-copy_1_7978b6ed-065a-4db1-8732-4c38814e1b3c.jpg",
-        "image_desktop_r": "shopify://shop_images/45282e1aa61f86b291444a999afe51fd.jpg"
+        "image_desktop": "shopify://shop_images/361A3050_copy_1.jpg",
+        "image_mobile": "shopify://shop_images/361A3050_copy_1.jpg",
+        "image_desktop_r": "shopify://shop_images/361A3050_copy_1.jpg",
+        "image_mobile_r": "shopify://shop_images/361A3050_copy_1.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/303.jpg",
-        "image_mobile": "shopify://shop_images/324_9503212f-25bd-419e-88d7-dfc866361df8.jpg",
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_5_2939cbba-0ee5-4068-96c0-eaa1454362e3.jpg",
+        "image_mobile": "shopify://shop_images/iPhone_14_Pro_5_2939cbba-0ee5-4068-96c0-eaa1454362e3.jpg",
         "image_desktop_right": "shopify://shop_images/307.jpg",
-        "header": "Advanced<br>lifting<br>formula.",
-        "body": "Snow lotus + advanced peptides<br>for a  lifted and plumped skin.",
+        "header": "Advancedliftingformula.",
+        "body": "Snow lotus + advanced peptidesfor a  lifted and plumped skin.",
         "cta": "shop",
         "link": "shopify://collections/post-sun-exposure-skincare"
       }
