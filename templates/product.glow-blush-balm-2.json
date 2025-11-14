@@ -50,7 +50,7 @@
           "type": "options",
           "settings": {
             "variant-style": "buttons",
-            "swatches-enabled": true,
+            "swatches-enabled": false,
             "size-chart-enabled": true,
             "size-chart-option": "size",
             "size-chart-content": ""
@@ -94,7 +94,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<ul><li>Reduce hyperpigmentation + revitalize delicate under-eyes</li><li>Suppress melanin production</li><li>Clinically proven to diminish dark spots in 4 weeks.</li></ul>",
+            "description": "<p>– Revitalizes dull cheeks and lips with naturally brightening pigments<br/>– Provides a healthy flush while delivering nourishing, skin-comforting moisture<br/>– Improves skin radiance and hydration through a skincare-infused tinted formula</p>",
             "page-content": "",
             "default-open": false
           }
@@ -103,7 +103,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "clean beauty",
-            "description": "<p>Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives</p>",
+            "description": "<p>Free of Silicones, GMOs, Parabens, Sulfates, Phthalates, Synthetic Fragrances, and Harsh Preservatives, Fragrances</p>",
             "page-content": "",
             "default-open": false
           }
@@ -112,7 +112,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients</strong><br/>Alpha-Bisabolol | Lotus Callus Extract | Lotus Flower<br/><br/><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Tripropylene Glycol, Nelumbium Speciosum Flower Extract(8,790ppm), Nelumbo Nucifera Flower Powder(1,000ppm), (-)-Alpha-Bisabolol(300ppm), Artemisia Princeps Leaf Extract, Broussonetia Kazinoki Root Extract, Acetyl Glucosamine, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Galactoarabinan, Tricholoma Matsutake Extract, Camellia Sinensis Leaf Powder, Nelumbo Nucifera Callus Culture Extract(30ppm), Sodium Hyaluronate, Portulaca Oleracea Extract, Hydrolyzed Sodium Hyaluronate, Polyglyceryl-10 Laurate, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Ceratonia Siliqua (Carob) Gum, Sucrose, Calcium Chloride, Allantoin, Cellulose Gum, Adenosine, Calcium Lactate, Dipotassium Glycyrrhizate, Disodium EDTA, Arginine, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene, Synthetic Fluorphlogopite, Titanium Dioxide, CI 77492, Lavandula Angustifolia (Lavender) Oil</p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower ExtractㅣRose PDRN ㅣCamellia Japonica Seed Oil ㅣSoybean PeptideㅣRice Bran Extract<br/><br/><strong>Ingredients</strong><br/>C12-15 Alkyl Benzoate, Dibutyl Adipate, Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Polyglyceryl-2 Triisostearate, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide, Ozokerite, Synthetic Wax, Polyethylene, Synthetic Fluorphlogopite, Mica, Tocopheryl Acetate, Microcrystalline Wax, Stearalkonium Hectorite, Silica, Yellow Iron Oxide (CI 77492), Alpha-Bisabolol, Propylene Carbonate, Citrus Aurantium Dulcis (Orange) Peel Oil, Red 202 (CI 15850), Diisostearyl Malate, Titanium/Titanium Dioxide, Propylene Glycol Dicaprylate/Dicaprate, Dehydroacetic Acid, Dimethicone, Water (Aqua), Tin Oxide, Tocopherol, Sorbitan Sesquioleate, Squalane, Polyglyceryl-6 Polyricinoleate, Simmondsia Chinensis (Jojoba) Seed Oil, Camellia Japonica Seed Oil, Butylene Glycol, Polyhydroxystearic Acid, 1,2-Hexanediol, Lecithin, Ethylhexyl Palmitate, Isostearic Acid, Isopropyl Myristate, Polyglyceryl-3 Polyricinoleate, Oryza Sativa (Rice) Bran Extract, Punica Granatum (Pomegranate) Extract, Avena Sativa (Oat) Kernel Extract, Camellia Japonica Flower Extract, Oryza Sativa (Rice) Bran Water, Nelumbo Nucifera Flower Extract, Hibiscus Syriacus Bark Extract, Caprylyl Glycol, Ethylhexylglycerin, Soy Peptide (Glycine Soja Peptide), Sodium DNA, Limonene, Linalool, Citronellol</p>",
             "page-content": "",
             "default-open": false
           }
@@ -121,7 +121,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Shipping Policy",
-            "description": "<ul><li>International Shipping $12</li><li>FREE shipping for purchases over $80 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "description": "<ul><li>International Shipping $20</li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -199,13 +199,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-AlphaMelight_0693ff0b-2f18-42b2-be60-45f99db626a6.png",
+            "image": "shopify://shop_images/PC_Volufiline.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/AlphaMelight_de479d25-9d71-4c66-8257-e871a2a1c9cc.png"
+            "mobile-image": "shopify://shop_images/M_Volufiline.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
@@ -213,13 +213,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-Lotus_Flower_Extract_ad8068ab-8d8d-4e17-a71a-05c24caf3464.png",
+            "image": "shopify://shop_images/PC_Tea_Complex.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/Lotus_Flower_Extract.png"
+            "mobile-image": "shopify://shop_images/M_Tea_Complex.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -227,20 +227,50 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC-WhiteTen_2573c876-9ebe-41c2-9352-ff8aaa85d926.png",
+            "image": "shopify://shop_images/PC_Micro-fiber_Bemlise_1.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/WhiteTen.png"
+            "mobile-image": "shopify://shop_images/M_Micro-fiber_Bemlise_1.jpg"
+          }
+        },
+        "image_4EbnbV": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Rose_hip_Oil.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Rose_hip_Oil.jpg"
+          }
+        },
+        "image_bqKLcQ": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.jpg"
           }
         }
       },
       "block_order": [
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3"
+        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
+        "image_4EbnbV",
+        "image_bqKLcQ"
       ],
       "settings": {
         "text-color": "auto",
@@ -348,7 +378,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "hyperpigmentation care & Skin radiance boost",
+        "heading": "Clean Color Skincare Ritual",
         "text": ""
       }
     },
@@ -369,8 +399,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_-_B_A.png",
-        "mobile-image": "shopify://shop_images/M_-B_A.png",
+        "image": "shopify://shop_images/Artboard_7_2x_e24e2a97-89af-4f38-aa7a-8b3bd9470948.jpg",
+        "mobile-image": "shopify://shop_images/Web_1920_4_2x_95cff9c9-ad55-4457-8e45-7d14767e9dbe.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -386,27 +416,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/CONSUMER_SURVEY_RESULT_1_2b4e25c1-5b47-4790-8d41-e9659faed1e7.png",
+            "image": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg",
             "overline": "",
             "title": "",
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_da371527-9f91-4e29-9462-47ddb5323512.png"
-          }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_1_3a8db606-f96a-447c-bcce-75ef222011bb.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_da5f9546-ea13-4b07-bba8-2a1d463a3195.png"
+            "mobile-image": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -414,7 +430,7 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_3_f8f819ea-63a2-4728-8b42-1101f2006d65.png",
+            "image": "shopify://shop_images/Artboard_2.jpg",
             "overline": "",
             "title": "",
             "description": "",
@@ -426,8 +442,61 @@
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+      ],
+      "settings": {
+        "text-color": "auto",
+        "background-color": "none",
+        "spacing-above": true,
+        "spacing-below": false,
+        "spacing-around-blocks": true,
+        "image-aspect-ratio": 46,
+        "darken-image": false,
+        "blocks_per_slide": 1,
+        "box-around-text": false,
+        "auto-rotate": true,
+        "rotate-frequency": 5,
+        "transition_type": "slide",
+        "mobile-image-aspect-ratio": 130,
+        "blocks_per_slide_mobile": "1",
+        "mobile-overlay": true
+      }
+    },
+    "slideshow_bqPpE7": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GtUYCt": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Artboard_10_2x_c1a91631-6392-4461-9a5a-7420d82c07b9.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Web_1920_6_2x_ba9843ee-02cb-45dd-9a18-2929152c06f6.jpg"
+          }
+        },
+        "image_dAQiGw": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/Artboard_11_2x_a7f0933a-e078-4c9c-89f1-a95ad9e3a76d.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Web_1920_7_2x_015f9e3b-494e-4494-9b3e-5a80145e933e.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_GtUYCt",
+        "image_dAQiGw"
       ],
       "settings": {
         "text-color": "auto",
@@ -466,58 +535,6 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
         "mobile-image": "shopify://shop_images/M_OUR_RECYCLE_PACKAGE_STANDARD.jpg",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "image_with_text_kqggBq": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": false,
-        "spacing-below": true,
-        "image-aspect-ratio": 44,
-        "mobile-image-aspect-ratio": 132,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/Am_pm_routine_7f74ae20-88e0-4df5-bd68-aada6b6afb74.png",
-        "mobile-image": "shopify://shop_images/M_Am_pm_routine.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "image_with_text_pFfj9M": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 5,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage.png",
-        "mobile-image": "shopify://shop_images/M_finalimage.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -719,9 +736,8 @@
     "featured_text_jVqdBb",
     "image_with_text_EGtRTg",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
+    "slideshow_bqPpE7",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
-    "image_with_text_kqggBq",
-    "image_with_text_pFfj9M",
     "1741750975e37b9694",
     "image_with_text_daaMHm",
     "slideshow_c9Nxgg",
