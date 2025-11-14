@@ -219,7 +219,7 @@
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Tea_Complex.jpg"
+            "mobile-image": "shopify://shop_images/rose_pdrn_2x_7d2fa67b-dfe5-4413-8e05-6de75f1c4e7d.jpg"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -436,13 +436,28 @@
             "description": "",
             "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify://shop_images/729.png"
+            "mobile-image": "shopify://shop_images/Web_1920_2_2x_84fc25fd-2408-4c64-9de9-f9500806c48d.jpg"
+          }
+        },
+        "image_8Na3df": {
+          "type": "image",
+          "settings": {
+            "text-position": "bottom-left",
+            "text-width": "medium",
+            "image": "shopify://shop_images/color_2x_78904d43-0c44-4ced-b813-8c90670b0f10.jpg",
+            "overline": "",
+            "title": "",
+            "description": "",
+            "link-url": "/",
+            "link-text": "",
+            "mobile-image": "shopify://shop_images/Web_1920_3_2x_b5a89543-7fef-4830-a8dd-d9fbfe49477d.jpg"
           }
         }
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
+        "image_8Na3df"
       ],
       "settings": {
         "text-color": "auto",
