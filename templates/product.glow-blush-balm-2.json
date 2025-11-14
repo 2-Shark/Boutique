@@ -262,6 +262,7 @@
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
       "type": "featured-video",
+      "disabled": true,
       "settings": {
         "aspect-ratio": 116,
         "container-width": 1,
@@ -288,7 +289,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>- Apply for 20 minutes to absorb and lock in active ingredients.</p><p>- Can be used everyday both in the morning and at night, providing consistent hydration throughout the day.</p><p>- Use as a sleep-in mask: before sleep apply in the under-eye area for a intensive treatment. <br/><br/></p><p>* Pro Tip: Apply them not only under your eyes but also on other areas with dark spots to expand their benefits. </p><p>* For optimal results, use the product 5-6 times per week.</p>",
+            "description": "<p>- Apply a small amount onto the cheeks or lips and blend gently with fingertips for a natural, glowing finish.</p><p>- Can be used every day, both in the morning and at night, to enhance radiance and maintain skin-comfort throughout the day.</p><p><br/><em> -Pro Tip: Mix two or more colors to create your own personalized shade and mood.</em><br/></p>",
             "page-content": "",
             "default-open": false
           }
@@ -307,7 +308,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Cooling  |  Dewy  |  Hydrating</p>",
+            "description": "<p>Soft  |  Dewy  |  Hydrating</p>",
             "page-content": "",
             "default-open": false
           }
@@ -316,7 +317,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Bergamot       |       Lavender</p>",
+            "description": "<p><strong>Dusty Rose</strong><br/>— Rose & soft floral accords that create a calm, elegant mood.</p><p><strong>Lotus Petal</strong><br/>— Fresh citrus blended with delicate ylang-ylang for a bright, airy glow.</p><p><strong>Chestnut Tea</strong><br/>— Herbal notes with subtle yuzu, offering a warm and grounding sensation.</p><p><strong>Tangerine</strong><br/>— Vibrant orange essence that brings an energizing, uplifting freshness.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -408,20 +409,6 @@
             "mobile-image": "shopify://shop_images/M_Clinically_proven_1_da5f9546-ea13-4b07-bba8-2a1d463a3195.png"
           }
         },
-        "image_83MPLr": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_2_d50e494c-58f8-4b9a-a45f-4807ef615eb5.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_2.png"
-          }
-        },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
           "type": "image",
           "settings": {
@@ -440,7 +427,6 @@
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "image_83MPLr",
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
       "settings": {
