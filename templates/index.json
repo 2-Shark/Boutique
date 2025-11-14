@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092525909_copy.jpg",
-        "image_tablet": "shopify://shop_images/2025092525909_copy.jpg",
-        "image_mobile": "shopify://shop_images/2025092525909_copy.jpg",
+        "image_desktop": "shopify://shop_images/Web_1920_11.jpg",
+        "image_tablet": "shopify://shop_images/Web_1920_11.jpg",
+        "image_mobile": "shopify://shop_images/Web_1920_11.jpg",
         "eyebrow": "FALL & WINTER SEASON",
         "header": "AGELESSLY ME, TIMELESS RESILIENCE",
         "cta": "DISCOVER",
@@ -26,11 +26,11 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092524525.jpg",
-        "image_mobile": "shopify://shop_images/2025092524525.jpg",
-        "image_desktop_right": "shopify://shop_images/2025092526886.jpg",
-        "image_mobile_right": "shopify://shop_images/2025092526886.jpg",
-        "header": "new skincare coming soon",
+        "image_desktop": "shopify://shop_images/05_06f286a7-4e6b-4f88-b5db-f430f223475b.jpg",
+        "image_mobile": "shopify://shop_images/05_06f286a7-4e6b-4f88-b5db-f430f223475b.jpg",
+        "image_desktop_right": "shopify://shop_images/Group_19.jpg",
+        "image_mobile_right": "shopify://shop_images/Group_19.jpg",
+        "header": "glow blush balm",
         "body": "",
         "cta": "NEW COLOR SKINCARE",
         "link": "shopify://collections/skincare"
@@ -181,19 +181,19 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092526981.jpg",
-        "image_mobile": "shopify://shop_images/2025092526981.jpg",
-        "image_desktop_r": "shopify://shop_images/2025092526981.jpg",
-        "image_mobile_r": "shopify://shop_images/2025092526981.jpg"
+        "image_desktop": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg",
+        "image_mobile": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg",
+        "image_desktop_r": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg",
+        "image_mobile_r": "shopify://shop_images/Artboard_9_2x_0022d8ef-fb41-462a-bdd2-ed9fe795c9c8.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/film_3_000005_copy.jpg",
-        "image_mobile": "shopify://shop_images/film_3_000005_copy.jpg",
-        "image_desktop_right": "shopify://shop_images/2025092525967_copy.jpg",
-        "header": "NEW COLOR SKINCARE",
+        "image_desktop": "shopify://shop_images/Web_1920_8.jpg",
+        "image_mobile": "shopify://shop_images/Web_1920_8.jpg",
+        "image_desktop_right": "shopify://shop_images/Artboard_5_2x_0571fb01-416b-44e7-ae99-be668ac3a44c.jpg",
+        "header": "",
         "body": "6 Core natural formula -  rice + Peptides + ROSE PDRN",
         "cta": "shop",
         "link": "shopify://collections/post-sun-exposure-skincare"
