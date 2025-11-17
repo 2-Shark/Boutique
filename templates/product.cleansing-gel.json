@@ -126,7 +126,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": " Shipping Policy",
-            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "description": "<ul><li>International Shipping $20</li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
