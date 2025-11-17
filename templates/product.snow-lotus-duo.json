@@ -112,7 +112,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "shipping policy",
-            "description": "<ul><li>International Shipping $12 </li><li>FREE shipping for purchases over $70 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
+            "description": "<ul><li>International Shipping $20</li><li>FREE shipping for purchases over $90 </li><li>Processing + Delivery time takes 3-5 working days.</li><li>Worldwide Shipping Available<br/>*Except GCC, China, Australia, Spain and Russia.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -579,6 +579,17 @@
         "link-text": ""
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "You may also like",
+        "background-color": "none",
+        "light-text": false,
+        "container-width": 4,
+        "spacing-above": true,
+        "spacing-below": true
+      }
+    },
     "1741750854a6dffa92": {
       "type": "apps",
       "blocks": {
@@ -629,17 +640,6 @@
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "title": "You may also like",
-        "background-color": "none",
-        "light-text": false,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": true
       }
     },
     "slideshow_CcAp3w": {
