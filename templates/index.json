@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092526383_copy.jpg",
-        "image_tablet": "shopify://shop_images/2025092526383_copy.jpg",
-        "image_mobile": "shopify://shop_images/2025092526383_copy.jpg",
-        "eyebrow": "SITEWIDE 20-35%",
-        "header": "CYBER OF THE YEAR",
+        "image_desktop": "shopify://shop_images/Web_1920_17.jpg",
+        "image_tablet": "shopify://shop_images/Web_1920_17.jpg",
+        "image_mobile": "shopify://shop_images/Web_1920_17.jpg",
+        "eyebrow": "THE SEASON OF",
+        "header": "BOUTI HOLIDAY GLOW",
         "cta": "SHOP NOW",
         "link": "shopify://collections/all",
         "inner_padding_left_right": "185",
@@ -190,8 +190,8 @@
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/Web_1920_8.jpg",
-        "image_mobile": "shopify://shop_images/Web_1920_8.jpg",
+        "image_desktop": "shopify://shop_images/Artboard_1_01d4b68e-2116-4cd3-b0c9-f8f8f690974a.png",
+        "image_mobile": "shopify://shop_images/Artboard_1_01d4b68e-2116-4cd3-b0c9-f8f8f690974a.png",
         "image_desktop_right": "shopify://shop_images/Artboard_5_2x_0571fb01-416b-44e7-ae99-be668ac3a44c.jpg",
         "header": "",
         "body": "6 Core natural formula -  rice + Peptides + ROSE PDRN",
