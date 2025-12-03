@@ -12,13 +12,13 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Web_1920_17.jpg",
-        "image_tablet": "shopify://shop_images/Web_1920_17.jpg",
-        "image_mobile": "shopify://shop_images/Web_1920_17.jpg",
-        "eyebrow": "THE SEASON OF",
-        "header": "BOUTI HOLIDAY GLOW",
+        "image_desktop": "shopify://shop_images/2025092525700_copy.png",
+        "image_tablet": "shopify://shop_images/2025092525700_copy.png",
+        "image_mobile": "shopify://shop_images/2025092525700_copy.png",
+        "eyebrow": "THE SEASON OF GLOW",
+        "header": "Snow Lotus Lifting Skincare",
         "cta": "SHOP NOW",
-        "link": "shopify://collections/all",
+        "link": "shopify://products/snow-lotus-peptide-skincare-duo",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
