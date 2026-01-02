@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Web_1920_13_596a81df-fbd0-490a-942d-26818fc09873.jpg",
-        "image_tablet": "shopify://shop_images/Web_1920_13_596a81df-fbd0-490a-942d-26818fc09873.jpg",
-        "image_mobile": "shopify://shop_images/Web_1920_13_596a81df-fbd0-490a-942d-26818fc09873.jpg",
-        "eyebrow": "HOLIDAY COLLECTION",
-        "header": "2025 Boutijour Holiday Glow",
+        "image_desktop": "shopify://shop_images/boutijour0396.jpg",
+        "image_tablet": "shopify://shop_images/boutijour0396.jpg",
+        "image_mobile": "shopify://shop_images/boutijour0396.jpg",
+        "eyebrow": "NEW YEAR ROUTINE",
+        "header": "NEW YEAR SLOW GLOW",
         "cta": "SHOP NOW",
         "link": "shopify://collections/all-products",
         "inner_padding_left_right": "185",
@@ -26,9 +26,9 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/iPhone_14_Pro_Max_15_5ed2943f-bce8-411b-9832-8dc24d3ac525.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_Max_15_5ed2943f-bce8-411b-9832-8dc24d3ac525.jpg",
-        "image_desktop_right": "shopify://shop_images/IMG_3069.jpg",
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_Max_12.jpg",
+        "image_mobile": "shopify://shop_images/iPhone_14_Pro_Max_12.jpg",
+        "image_desktop_right": "shopify://shop_images/boutijour1206.jpg",
         "image_mobile_right": "shopify://shop_images/IMG_3069.jpg",
         "header": "WINTER INNER GLOW RITUAL",
         "body": "",
