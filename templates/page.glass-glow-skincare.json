@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "35274381-df8e-4c59-8f99-661b7cb6f034": {
@@ -26,7 +26,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_finalimage_Toner_ba1e08b6-3569-4a90-9ac5-2cc61eedaa80.png",
+        "image": "shopify://shop_images/PC_finalimage_Toner_ba1e08b6-3569-4a90-9ac5-2cc61eedaa80.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -67,7 +67,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Parabens",
-            "description": "<p>Parabens, a group of chemical preservatives initially introduced in the 1950s, serve to extend the shelf life of various grooming products by inhibiting the growth of mold and bacteria. These substances have been associated with cancer and hormonal interference, and they can also lead to skin sensitization, resulting in allergic responses. Parabens are commonly present in shampoos, conditioners, body washes, and moisturizers.<\/p>",
+            "description": "<p>Parabens, a group of chemical preservatives initially introduced in the 1950s, serve to extend the shelf life of various grooming products by inhibiting the growth of mold and bacteria. These substances have been associated with cancer and hormonal interference, and they can also lead to skin sensitization, resulting in allergic responses. Parabens are commonly present in shampoos, conditioners, body washes, and moisturizers.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -76,7 +76,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Formaldehyde",
-            "description": "<p>Incorporated into various grooming products to maintain their freshness through the prevention of microbiological growth, formaldehyde is strongly associated with conditions such as asthma, neurotoxic effects, cancer, and developmental toxicity.<\/p>",
+            "description": "<p>Incorporated into various grooming products to maintain their freshness through the prevention of microbiological growth, formaldehyde is strongly associated with conditions such as asthma, neurotoxic effects, cancer, and developmental toxicity.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -85,7 +85,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Phthalates",
-            "description": "<p>Phthalates function as gelling agents, enabling the harmonious mixing of ingredients that would typically resist amalgamation in grooming products, ensuring better adherence. Notably, these compounds have been linked to disruptions in hormonal balance, prompting ongoing monitoring by the FDA.<\/p>",
+            "description": "<p>Phthalates function as gelling agents, enabling the harmonious mixing of ingredients that would typically resist amalgamation in grooming products, ensuring better adherence. Notably, these compounds have been linked to disruptions in hormonal balance, prompting ongoing monitoring by the FDA.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -94,7 +94,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Fragrance",
-            "description": "<p>Fragrance compositions created solely through chemical processes can trigger skin allergies, as well as symptoms such as headaches, allergies, dizziness, rashes, coughing, skin irritation, pigmentation issues, and hyperactivity.<\/p>",
+            "description": "<p>Fragrance compositions created solely through chemical processes can trigger skin allergies, as well as symptoms such as headaches, allergies, dizziness, rashes, coughing, skin irritation, pigmentation issues, and hyperactivity.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -103,7 +103,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Butylated Hydroxytoluene (BHT)",
-            "description": "<p>BHT is a synthetic preservative known to disrupt hormones, trigger allergic reactions, and interfere with testosterone levels. Under the Convention for the Protection of the Marine Environment of the North-East Atlantic, BHA is categorized as a chemical of potential concern due to its toxicity to aquatic organisms and its potential for bioaccumulation.<\/p>",
+            "description": "<p>BHT is a synthetic preservative known to disrupt hormones, trigger allergic reactions, and interfere with testosterone levels. Under the Convention for the Protection of the Marine Environment of the North-East Atlantic, BHA is categorized as a chemical of potential concern due to its toxicity to aquatic organisms and its potential for bioaccumulation.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -143,7 +143,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/boutijour11151434.png",
+        "image": "shopify://shop_images/boutijour11151434.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -161,7 +161,7 @@
         "spacing-below": true,
         "overline": "STEP 1.",
         "heading": "Start with a Gentle Cleansing Routine.",
-        "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage.<\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
+        "text": "<p></p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage.</p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.</p>"
       }
     },
     "5b4a0ac9-2845-4194-97a6-428d94407615": {
@@ -181,11 +181,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow_b4b4e4ce-e0fa-48b3-a2b2-20aef85019bf.png",
+        "image": "shopify://shop_images/Glass_glow_b4b4e4ce-e0fa-48b3-a2b2-20aef85019bf.png",
         "overline": "",
         "title": "Lotus Leaf Cleansing Gel",
-        "description": "<p><em>Cleansing, Purifying, Collagen-boosting<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/lotus-leaf-cleansing-gel",
+        "description": "<p><em>Cleansing, Purifying, Collagen-boosting</em></p>",
+        "link-url": "shopify://products/lotus-leaf-cleansing-gel",
         "link-text": "SHOP"
       }
     },
@@ -199,7 +199,7 @@
         "spacing-below": true,
         "overline": "STEP 2.",
         "heading": "Layer on Hydrating Toner",
-        "text": "<p><\/p><p>Start your skincare routine by applying toner before anything else – even before serums and moisturizers. Think of toner as a boost for your skin, enhancing its ability to absorb the following products and ensuring you reap all the benefits. <\/p><p>Our \"Lotus Leaf Anti-Pollution Toner\" is a lightweight, essence-like toner made with 98% natural ingredients, enriched with organic lotus leaf extract from South Korea. It delicately repairs and hydrates the skin, counteracting irritations caused by daily activities and environmental stressors, promoting clear and healthy skin. Furthermore, it has been clinically proven to shield your skin from pollution and contaminants such as fine dust.<\/p>"
+        "text": "<p></p><p>Start your skincare routine by applying toner before anything else – even before serums and moisturizers. Think of toner as a boost for your skin, enhancing its ability to absorb the following products and ensuring you reap all the benefits. </p><p>Our \"Lotus Leaf Anti-Pollution Toner\" is a lightweight, essence-like toner made with 98% natural ingredients, enriched with organic lotus leaf extract from South Korea. It delicately repairs and hydrates the skin, counteracting irritations caused by daily activities and environmental stressors, promoting clear and healthy skin. Furthermore, it has been clinically proven to shield your skin from pollution and contaminants such as fine dust.</p>"
       }
     },
     "1f97f2e8-72bb-4fe0-b611-a73e07fe1c34": {
@@ -219,11 +219,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow_21dd687e-8267-4755-bd47-9068afe4fbfe.png",
+        "image": "shopify://shop_images/Glass_glow_21dd687e-8267-4755-bd47-9068afe4fbfe.png",
         "overline": "",
         "title": "Lotus Leaf Anti-Pollution Repairing Toner",
-        "description": "<p><em>Anti-Pollution, Repairing, Calming<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
+        "description": "<p><em>Anti-Pollution, Repairing, Calming</em></p>",
+        "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
         "link-text": "SHOP"
       }
     },
@@ -237,7 +237,7 @@
         "spacing-below": true,
         "overline": "STEP 3.",
         "heading": "Use a Nourishing Serum",
-        "text": "<p><\/p><p>For all-day dewy and hydrated skin, incorporating nourishing serums into your routine is essential. Apply the serum with a gentle tapping motion on your face. Using a circular motion, ensure even distribution and give your skin time to absorb all the goodness. <\/p><p>Discover the rejuvenating benefits of our Snow Lotus Lifting Serum, infused with the potent vitality of snow lotus cultivated at high altitudes in winter mountains, and enriched with green active ingredients. Our serum boasts a high antioxidant and anti inflammatory formula, working to enhance collagen production and fortify your skin's barrier, resulting in a radiant and more luminous complexion. With 98% natural ingredients, it has been clinically proven to lift, reduce wrinkles, and enhance skin firmness.<\/p>"
+        "text": "<p></p><p>For all-day dewy and hydrated skin, incorporating nourishing serums into your routine is essential. Apply the serum with a gentle tapping motion on your face. Using a circular motion, ensure even distribution and give your skin time to absorb all the goodness. </p><p>Discover the rejuvenating benefits of our Snow Lotus Lifting Serum, infused with the potent vitality of snow lotus cultivated at high altitudes in winter mountains, and enriched with green active ingredients. Our serum boasts a high antioxidant and anti inflammatory formula, working to enhance collagen production and fortify your skin's barrier, resulting in a radiant and more luminous complexion. With 98% natural ingredients, it has been clinically proven to lift, reduce wrinkles, and enhance skin firmness.</p>"
       }
     },
     "42c19ad0-7dff-4908-8333-9577c2aa91a9": {
@@ -257,11 +257,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow_dc2f9d6a-555e-42e0-a0e2-7a772c5b38ff.png",
+        "image": "shopify://shop_images/Glass_glow_dc2f9d6a-555e-42e0-a0e2-7a772c5b38ff.png",
         "overline": "",
         "title": "Snow Lotus Lifting Serum",
-        "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/super-aging-serum",
+        "description": "<p><em>Lifting, Hydrating, Brightening</em></p>",
+        "link-url": "shopify://products/super-antiaging-serum",
         "link-text": "SHOP"
       }
     },
@@ -275,7 +275,7 @@
         "spacing-below": true,
         "overline": "STEP 4.",
         "heading": "Never Skip Moisturizer",
-        "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. <\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
+        "text": "<p></p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. </p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.</p>"
       }
     },
     "201582d3-b1a4-4a65-b8a3-83d889c8fab7": {
@@ -295,11 +295,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow.png",
+        "image": "shopify://shop_images/Glass_glow.png",
         "overline": "",
         "title": "Snow Lotus Lifting Cream",
-        "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+        "description": "<p><em>Lifting, Hydrating, Brightening</em></p>",
+        "link-url": "shopify://products/snow-lotus-lifting-cream",
         "link-text": "SHOP"
       }
     },
@@ -310,10 +310,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
+            "image": "shopify://shop_images/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
             "title": "Glass Glow Skincare",
             "description": "",
-            "link-url": "shopify:\/\/pages\/glass-glow-skincare",
+            "link-url": "shopify://pages/glass-glow-skincare",
             "link-text": "Read more"
           }
         },
@@ -321,10 +321,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/lifting.jpg",
+            "image": "shopify://shop_images/lifting.jpg",
             "title": "Sculting & Lifting",
             "description": "",
-            "link-url": "shopify:\/\/pages\/lifting-sculting",
+            "link-url": "shopify://pages/lifting-sculting",
             "link-text": "Read more"
           }
         },
@@ -332,7 +332,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/detox.jpg",
+            "image": "shopify://shop_images/detox.jpg",
             "title": "Depuffing & Detoxing",
             "description": "",
             "link-url": "",
@@ -343,7 +343,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/sunlover.jpg",
+            "image": "shopify://shop_images/sunlover.jpg",
             "title": "Extreme Sun Lovers",
             "description": "",
             "link-url": "",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "35274381-df8e-4c59-8f99-661b7cb6f034": {
@@ -17,7 +26,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Lifting_Sculting.png",
+        "image": "shopify://shop_images/Lifting_Sculting.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -61,7 +70,7 @@
         "spacing-below": true,
         "overline": "STEP 1.",
         "heading": "Use Gua Sha for Contouring and Relaxation",
-        "text": "<p><\/p><p>Gua Sha massage has a rich history of efficacy in Asia, known for its ability to reduce swelling, promote lymphatic circulation, and aid in toxin removal. Interestingly, as time has passed, there has been a growing trend among the Gen Z who are embracing self-care at home, with Guasha massage gaining popularity. <\/p><p>In a world where people are increasingly seeking relaxation and stress relief, many are turning to Gua Sha massage as a simple and effective way to incorporate daily self-massage into their routines.<\/p><p>Our Bouti Gua Sha is crafted from 100% ceramic and thoughtfully designed to gently alleviate tension in various areas, including tired eyes, scalp, neckline, jawline, smile lines, and for lifting. It refreshes by releasing stress accumulated throughout the day and eliminates toxins from both your skin and body.<\/p>"
+        "text": "<p></p><p>Gua Sha massage has a rich history of efficacy in Asia, known for its ability to reduce swelling, promote lymphatic circulation, and aid in toxin removal. Interestingly, as time has passed, there has been a growing trend among the Gen Z who are embracing self-care at home, with Guasha massage gaining popularity. </p><p>In a world where people are increasingly seeking relaxation and stress relief, many are turning to Gua Sha massage as a simple and effective way to incorporate daily self-massage into their routines.</p><p>Our Bouti Gua Sha is crafted from 100% ceramic and thoughtfully designed to gently alleviate tension in various areas, including tired eyes, scalp, neckline, jawline, smile lines, and for lifting. It refreshes by releasing stress accumulated throughout the day and eliminates toxins from both your skin and body.</p>"
       }
     },
     "7494883d-da02-4cbf-bd67-510e8eb79717": {
@@ -72,13 +81,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Contouring_Relaxing_Therapy_f4afd381-b0fe-445f-8568-5d314785de2f.png",
+            "image": "shopify://shop_images/Contouring_Relaxing_Therapy_f4afd381-b0fe-445f-8568-5d314785de2f.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Contouring_Relaxing_Therapy.png"
+            "mobile-image": "shopify://shop_images/MOBILE_Contouring_Relaxing_Therapy.png"
           }
         },
         "template--21356547473695__7494883d-da02-4cbf-bd67-510e8eb79717-image-4": {
@@ -86,13 +95,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Enhance_Lymphatic_Circulation.png",
+            "image": "shopify://shop_images/Enhance_Lymphatic_Circulation.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Enhance_Lymphatic_Circulation.png"
+            "mobile-image": "shopify://shop_images/MOBILE_Enhance_Lymphatic_Circulation.png"
           }
         },
         "a55bbf91-718f-4b99-abb5-e0e477e8733c": {
@@ -100,13 +109,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Enhance_Your_Jawline.png",
+            "image": "shopify://shop_images/Enhance_Your_Jawline.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Enhance_Your_Jawline.png"
+            "mobile-image": "shopify://shop_images/MOBILE_Enhance_Your_Jawline.png"
           }
         },
         "template--21356547473695__7494883d-da02-4cbf-bd67-510e8eb79717-image-3": {
@@ -114,13 +123,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Forehead_TempleCirculation_Lifting.png",
+            "image": "shopify://shop_images/Forehead_TempleCirculation_Lifting.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Forehead_TempleCirculation_Lifting.png"
+            "mobile-image": "shopify://shop_images/MOBILE_Forehead_TempleCirculation_Lifting.png"
           }
         },
         "template--21356547473695__7494883d-da02-4cbf-bd67-510e8eb79717-image-2": {
@@ -128,13 +137,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/Rejuvenating_Eye_Rim_Massage.png",
+            "image": "shopify://shop_images/Rejuvenating_Eye_Rim_Massage.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_Rejuvenating_Eye_Rim_Massage.png"
+            "mobile-image": "shopify://shop_images/MOBILE_Rejuvenating_Eye_Rim_Massage.png"
           }
         },
         "8bb29507-7523-4436-8360-425f2947eb4b": {
@@ -142,13 +151,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/ScalpStress-free_Massage.png",
+            "image": "shopify://shop_images/ScalpStress-free_Massage.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_ScalpStress-free_Massage_3673f173-86ac-475d-abf6-5e7b68f168f2.png"
+            "mobile-image": "shopify://shop_images/MOBILE_ScalpStress-free_Massage_3673f173-86ac-475d-abf6-5e7b68f168f2.png"
           }
         }
       },
@@ -195,11 +204,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Lifting_Sculting_3fa4153a-4b3e-48cd-83d5-dbbbed878555.png",
+        "image": "shopify://shop_images/Lifting_Sculting_3fa4153a-4b3e-48cd-83d5-dbbbed878555.png",
         "overline": "100% MADE WITH NATURAL CERAMIC",
         "title": "Ceramic Bouti Gua Sha",
-        "description": "<p>Lifting, Sculpting, Relaxing<\/p>",
-        "link-url": "shopify:\/\/products\/ceramic-bouti-guasha",
+        "description": "<p>Lifting, Sculpting, Relaxing</p>",
+        "link-url": "shopify://products/ceramic-bouti-guasha",
         "link-text": "SHOP"
       }
     },
@@ -213,7 +222,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "More tips:",
-        "text": "<p><\/p><p>If you're seeking to enhance the efficacy of your skincare routine for lifting, consider incorporating our clean lifting serum & lifting cream along with Gua Sha. The synergy would be remarkable, offering a holistic approach to skin rejuvenation. Our lifting serum & lifting cream is designed to nourish and hydrate, promoting elasticity and a brighter complexion.<\/p>"
+        "text": "<p></p><p>If you're seeking to enhance the efficacy of your skincare routine for lifting, consider incorporating our clean lifting serum & lifting cream along with Gua Sha. The synergy would be remarkable, offering a holistic approach to skin rejuvenation. Our lifting serum & lifting cream is designed to nourish and hydrate, promoting elasticity and a brighter complexion.</p>"
       }
     },
     "42c19ad0-7dff-4908-8333-9577c2aa91a9": {
@@ -233,11 +242,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow_dc2f9d6a-555e-42e0-a0e2-7a772c5b38ff.png",
+        "image": "shopify://shop_images/Glass_glow_dc2f9d6a-555e-42e0-a0e2-7a772c5b38ff.png",
         "overline": "97.7% natural ingredients",
         "title": "Snow Lotus Lifting Serum",
-        "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/super-aging-serum",
+        "description": "<p><em>Lifting, Hydrating, Brightening</em></p>",
+        "link-url": "shopify://products/super-antiaging-serum",
         "link-text": "SHOP"
       }
     },
@@ -258,11 +267,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Glass_glow.png",
+        "image": "shopify://shop_images/Glass_glow.png",
         "overline": "90.5% natural ingredients",
         "title": "Snow Lotus Lifting Cream",
-        "description": "<p><em>Lifting, Hydrating, Brightening<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+        "description": "<p><em>Lifting, Hydrating, Brightening</em></p>",
+        "link-url": "shopify://products/snow-lotus-lifting-cream",
         "link-text": "SHOP"
       }
     },
@@ -276,7 +285,7 @@
         "spacing-below": true,
         "overline": "STEP 2.",
         "heading": "Try our Patent X-lifting mask",
-        "text": "<p><\/p><p>Stay firm, strong, and revitalized with the X-Lifting Mask—scientifically designed to enhance facial lifting. Its advanced X-weaving fabric and Hydrogel are enriched with botanical lifting and firming extracts such as Volufiline, Lotus, and Tea Complex. This mask delivers a sensational lifting experience, leaving you feeling invigorated and uplifted throughout the day with its resilient fabric.<\/p><p>Our advanced X-Lifting Mask—an innovative solution featuring a patented design meticulously crafted to lift the jawline, double chin, cheeks, and smile lines simultaneously. It’s clinically proven for its efficacy in face lifting, jawline sculpting, double chin reduction, and smile line improvement.<\/p><p>Furthermore, this versatile mask extends its benefits beyond facial care. Explore its application on your legs or forearms for an additional slimming effect. Elevate your skincare routine with the serene effectiveness of our X-Lifting Mask, backed by clinical validation and patent design.<\/p>"
+        "text": "<p></p><p>Stay firm, strong, and revitalized with the X-Lifting Mask—scientifically designed to enhance facial lifting. Its advanced X-weaving fabric and Hydrogel are enriched with botanical lifting and firming extracts such as Volufiline, Lotus, and Tea Complex. This mask delivers a sensational lifting experience, leaving you feeling invigorated and uplifted throughout the day with its resilient fabric.</p><p>Our advanced X-Lifting Mask—an innovative solution featuring a patented design meticulously crafted to lift the jawline, double chin, cheeks, and smile lines simultaneously. It’s clinically proven for its efficacy in face lifting, jawline sculpting, double chin reduction, and smile line improvement.</p><p>Furthermore, this versatile mask extends its benefits beyond facial care. Explore its application on your legs or forearms for an additional slimming effect. Elevate your skincare routine with the serene effectiveness of our X-Lifting Mask, backed by clinical validation and patent design.</p>"
       }
     },
     "ec411aa5-8d88-424d-92f6-26eae8c2070d": {
@@ -296,11 +305,11 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/Lifting-mask-product_35d991e5-b339-4f42-ab72-154060879740.png",
+        "image": "shopify://shop_images/Lifting-mask-product_35d991e5-b339-4f42-ab72-154060879740.png",
         "overline": "PATENTED DESIGN & clinically proven",
         "title": "X-LIFTING MASK",
-        "description": "<p><em>Lifting, Firming, Moisturizing<\/em><\/p>",
-        "link-url": "shopify:\/\/products\/x-lifting-mask-1",
+        "description": "<p><em>Lifting, Firming, Moisturizing</em></p>",
+        "link-url": "shopify://products/x-lifting-mask-1",
         "link-text": "SHOP"
       }
     },
@@ -315,7 +324,7 @@
         "spacing-below": true,
         "overline": "STEP 4.",
         "heading": "Never Skip Moisturizer",
-        "text": "<p><\/p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. <\/p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.<\/p>"
+        "text": "<p></p><p>No matter your skin type, using a good moisturizer is essential for maintaining hydration levels and supporting the skin's barrier, which protects it from environmental aggressors that can lead to dullness and damage. </p><p>Try our Snow Lotus Lifting Cream, formulated with a clean, well-aging formula composed of 90.5% natural ingredients. Its medium-light daily moisturizing texture provides long-lasting radiance, leaving your skin uplifted and sculpted. This daily lifting cream is suitable for all skin types and ages. Our Snow Lotus Lifting Cream deeply moisturizes and firms the skin, especially when irritated by external factors, giving your skin a healthy, glassy glow.</p>"
       }
     },
     "1bcf4c95-50f4-4d2b-b79e-bbf1643c6087": {
@@ -325,10 +334,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
+            "image": "shopify://shop_images/glow_f0ed7cad-bad0-4a08-b83b-80f9a51e50f1.jpg",
             "title": "Glass Glow Skincare",
             "description": "",
-            "link-url": "shopify:\/\/pages\/glass-glow-skincare",
+            "link-url": "shopify://pages/glass-glow-skincare",
             "link-text": "Read more"
           }
         },
@@ -336,10 +345,10 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/lifting.jpg",
+            "image": "shopify://shop_images/lifting.jpg",
             "title": "Sculting & Lifting",
             "description": "",
-            "link-url": "shopify:\/\/pages\/lifting-sculting",
+            "link-url": "shopify://pages/lifting-sculting",
             "link-text": "Read more"
           }
         },
@@ -347,7 +356,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/detox.jpg",
+            "image": "shopify://shop_images/detox.jpg",
             "title": "Depuffing & Detoxing",
             "description": "",
             "link-url": "",
@@ -358,7 +367,7 @@
           "type": "image",
           "settings": {
             "show-image": true,
-            "image": "shopify:\/\/shop_images\/sunlover.jpg",
+            "image": "shopify://shop_images/sunlover.jpg",
             "title": "Extreme Sun Lovers",
             "description": "",
             "link-url": "",

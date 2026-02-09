@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "35274381-df8e-4c59-8f99-661b7cb6f034": {
@@ -17,7 +26,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/30-sensitive-collection.png",
+        "image": "shopify://shop_images/30-sensitive-collection.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -35,7 +44,7 @@
         "spacing-below": true,
         "overline": "",
         "heading": "Skincare Routine for 30's",
-        "text": "<p>In your 30s, taking care of your skin becomes even more important as its needs evolve. Whether you have sensitive skin or not, adjusting your skincare routine accordingly is essential. Here's a comprehensive skincare guide tailored to individuals in their 30s, with a special focus on those with sensitive skin:<\/p>"
+        "text": "<p>In your 30s, taking care of your skin becomes even more important as its needs evolve. Whether you have sensitive skin or not, adjusting your skincare routine accordingly is essential. Here's a comprehensive skincare guide tailored to individuals in their 30s, with a special focus on those with sensitive skin:</p>"
       }
     },
     "f9424bb4-bf00-4553-a884-9f44e26c2247": {
@@ -55,7 +64,7 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": false,
-        "image": "shopify:\/\/shop_images\/1_52441536-9da1-4623-9904-c60acaddafdc.jpg",
+        "image": "shopify://shop_images/1_52441536-9da1-4623-9904-c60acaddafdc.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -114,13 +123,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_a3726a6b-536e-49c1-a87c-6575c78747b2.png",
+            "image": "shopify://shop_images/PC_a3726a6b-536e-49c1-a87c-6575c78747b2.png",
             "overline": "",
             "title": "Lotus Melight Eye Patch",
-            "description": "<p>Brightening, Rejuvenating, Nourishing<\/p>",
-            "link-url": "shopify:\/\/products\/lotus-melight-eyepatch",
+            "description": "<p>Brightening, Rejuvenating, Nourishing</p>",
+            "link-url": "shopify://products/lotus-melight-eyepatch",
             "link-text": "SHOP NOW",
-            "mobile-image": "shopify:\/\/shop_images\/Mobile_78f531ef-475e-4475-b513-463ffe733be7.png"
+            "mobile-image": "shopify://shop_images/Mobile_78f531ef-475e-4475-b513-463ffe733be7.png"
           }
         },
         "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-2": {
@@ -128,13 +137,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_a3bbc14f-d83f-4fb2-b292-661c33701e7d.png",
+            "image": "shopify://shop_images/PC_a3bbc14f-d83f-4fb2-b292-661c33701e7d.png",
             "overline": "",
             "title": "Snow Lotus Lifting Serum",
-            "description": "<p>Lifting, Hydrating, Brightening<\/p>",
-            "link-url": "shopify:\/\/products\/super-aging-serum",
+            "description": "<p>Lifting, Hydrating, Brightening</p>",
+            "link-url": "shopify://products/super-antiaging-serum",
             "link-text": "SHOP NOW",
-            "mobile-image": "shopify:\/\/shop_images\/Mobile_31cb2b11-3748-4cf0-b0ce-7e4ff2345802.png"
+            "mobile-image": "shopify://shop_images/Mobile_31cb2b11-3748-4cf0-b0ce-7e4ff2345802.png"
           }
         },
         "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-3": {
@@ -142,13 +151,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_-_-_2.png",
+            "image": "shopify://shop_images/PC_-_-_2.png",
             "overline": "",
             "title": "Snow Lotus Lifting Cream",
-            "description": "<p>Lifting, Hydrating, Brightening<\/p>",
-            "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+            "description": "<p>Lifting, Hydrating, Brightening</p>",
+            "link-url": "shopify://products/snow-lotus-lifting-cream",
             "link-text": "SHOP NOW",
-            "mobile-image": "shopify:\/\/shop_images\/Mobile-_-_2_10301f45-c917-4821-a7c8-3f1d08022d7d.png"
+            "mobile-image": "shopify://shop_images/Mobile-_-_2_10301f45-c917-4821-a7c8-3f1d08022d7d.png"
           }
         },
         "template--21034939777311__945cf0f6-54c5-497c-aaab-ec5684513177-image-4": {
@@ -159,8 +168,8 @@
             "text-width": "medium",
             "overline": "Overline text",
             "title": "Slide heading",
-            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.<\/p>",
-            "link-url": "\/",
+            "description": "<p>Combine imagery with text to create stand-out campaign sections, eye-catching promotions, information blocks and more.</p>",
+            "link-url": "/",
             "link-text": "View more"
           }
         }

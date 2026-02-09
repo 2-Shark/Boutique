@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,19 +20,16 @@
         },
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -41,22 +47,14 @@
             "smart-payment-enabled": true
           }
         },
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
-          "type": "shopify:\/\/apps\/junip-product-reviews-ugc\/blocks\/junip-product-summary\/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "complementary-products": {
           "type": "complementary-products",
@@ -79,14 +77,13 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "ef005e46-1092-400f-a562-311b51df9d9e": {
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT IT DOES",
-            "description": "<p><strong>*Lotus Leaf Anti Pollution Repairing Toner<\/strong><\/p><ul><li>Lotus leaf extract and naturally derived patented ingredients, such as B-Circadin™ and BioDtox®, help balance the skin's biological rhythm.<\/li><\/ul><p><\/p><p><strong>*Snow Lotus Lifting Serum<\/strong><\/p><ul><li>Snow Lotus extract, along with naturally derived antioxidant and anti-inflammatory ingredients, helps maintain healthy elasticity.<\/li><\/ul><p><\/p><p><strong>*Snow Lotus Lifting Cream<\/strong><\/p><ul><li>The patented formula Soystem & Redsnow® help you achieve healthy and elastic skin.<\/li><\/ul>",
+            "description": "<p><strong>*Lotus Leaf Anti Pollution Repairing Toner</strong></p><ul><li>Lotus leaf extract and naturally derived patented ingredients, such as B-Circadin™ and BioDtox®, help balance the skin's biological rhythm.</li></ul><p></p><p><strong>*Snow Lotus Lifting Serum</strong></p><ul><li>Snow Lotus extract, along with naturally derived antioxidant and anti-inflammatory ingredients, helps maintain healthy elasticity.</li></ul><p></p><p><strong>*Snow Lotus Lifting Cream</strong></p><ul><li>The patented formula Soystem & Redsnow® help you achieve healthy and elastic skin.</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -99,7 +96,6 @@
         "price",
         "options",
         "buy-buttons",
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
         "pickup",
         "description",
         "complementary-products",
@@ -136,13 +132,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_2_1.png",
+            "image": "shopify://shop_images/PC-_-_2_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
+            "mobile-image": "shopify://shop_images/2_898a21e1-f6d4-442b-9f74-c87651e7274d.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
@@ -150,13 +146,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_-_1_1.png",
+            "image": "shopify://shop_images/PC-_-_1_1.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
+            "mobile-image": "shopify://shop_images/1_d8f3c83e-4629-47e8-a379-a60e3a972ca5.png"
           }
         },
         "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
@@ -164,13 +160,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
+            "image": "shopify://shop_images/PC-_1_fa84eece-9383-4e1e-895c-1efe68c81cbe.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/06264258e094b162de1c236add7e2afe.png"
+            "mobile-image": "shopify://shop_images/06264258e094b162de1c236add7e2afe.png"
           }
         }
       },
@@ -205,7 +201,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "HOW TO USE",
-            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.<\/p>",
+            "description": "<p>Apply the cream on body or hands where extra nourishment is needed. Gently massage until absorbed.</p>",
             "page-content": "",
             "default-open": false
           }
@@ -214,7 +210,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "INGREDIENTS",
-            "description": "<p><strong>Key Ingredients<\/strong><br\/>Rosehip Fruit Oil | Pumpkin Seed Oil | Jojoba Seed Oil | Snow Lotus | Niacinamide | Adenosine<\/p><p><br\/><strong>Ingredients<\/strong><br\/>Water, Propylene Glycol Dicaprylate\/Dicaprate, 2,3-Butanediol, 1,2-Hexanediol, CetearylAlcohol, Betaine, Niacinamide, Polyglyceryl-3 Stearate, CetearylOlivate, SimmondsiaChinensis(Jojoba) Seed Oil, Glyceryl Stearate, Sodium Acrylate\/ Sodium AcryloyldimethylTaurateCopolymer, Cucurbita Pepo(Pumpkin) Seed Oil, Polyisobutene, Ethylhexylglycerin, Rosa Canina Fruit Oil, Caprylyl\/Capryl Glucoside, SorbitanOleate, Adenosine, Malt Extract, Propanediol, Butylene Glycol, Fragrance, Camellia Japonica Flower Extract, Cucurbita Pepo(Pumpkin) Fruit Extract, Nelumbo Nucifera Flower Extract, Saussurea Involucrata Extract, Limonene, Benzyl Salicylate<\/p>",
+            "description": "<p><strong>Key Ingredients</strong><br/>Rosehip Fruit Oil | Pumpkin Seed Oil | Jojoba Seed Oil | Snow Lotus | Niacinamide | Adenosine</p><p><br/><strong>Ingredients</strong><br/>Water, Propylene Glycol Dicaprylate/Dicaprate, 2,3-Butanediol, 1,2-Hexanediol, CetearylAlcohol, Betaine, Niacinamide, Polyglyceryl-3 Stearate, CetearylOlivate, SimmondsiaChinensis(Jojoba) Seed Oil, Glyceryl Stearate, Sodium Acrylate/ Sodium AcryloyldimethylTaurateCopolymer, Cucurbita Pepo(Pumpkin) Seed Oil, Polyisobutene, Ethylhexylglycerin, Rosa Canina Fruit Oil, Caprylyl/Capryl Glucoside, SorbitanOleate, Adenosine, Malt Extract, Propanediol, Butylene Glycol, Fragrance, Camellia Japonica Flower Extract, Cucurbita Pepo(Pumpkin) Fruit Extract, Nelumbo Nucifera Flower Extract, Saussurea Involucrata Extract, Limonene, Benzyl Salicylate</p>",
             "page-content": "",
             "default-open": false
           }
@@ -223,7 +219,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "TEXTURE",
-            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing<\/p>",
+            "description": "<p>Creamy | Rejuvenating | Relaxing | Quick-absorbing</p>",
             "page-content": "",
             "default-open": false
           }
@@ -232,7 +228,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "AROMA",
-            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange<\/p>",
+            "description": "<p>Cedarwood | Gardenia | Vetiver | Orange</p>",
             "page-content": "",
             "default-open": false
           }
@@ -267,7 +263,7 @@
         "light-text": true,
         "play-button-style": "solid",
         "darken-video": false,
-        "video-upload": "shopify:\/\/files\/videos\/shopify-cleansing.mp4",
+        "video-upload": "shopify://files/videos/shopify-cleansing.mp4",
         "video-url": "",
         "heading": "",
         "sub-heading": "",
@@ -284,13 +280,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
+            "image": "shopify://shop_images/PC_2d2ef5db-c70c-4bf2-a1cb-9dc8d62c9497.png",
             "overline": "Anti-Pollution, Repairing, Calming",
             "title": "Lotus Leaf Anti-Pollution Repairing Toner",
             "description": "",
-            "link-url": "shopify:\/\/products\/lotus-leaf-anti-pollution-repairing-toner",
+            "link-url": "shopify://products/lotus-leaf-anti-pollution-repairing-toner",
             "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
+            "mobile-image": "shopify://shop_images/MOBILE_96c487e5-0888-4d94-8366-64460a08ff8d.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
@@ -298,13 +294,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_743509a8-cb29-40f8-97c1-eccc1209f3de.png",
+            "image": "shopify://shop_images/PC_743509a8-cb29-40f8-97c1-eccc1209f3de.png",
             "overline": "Lifting, Hydrating, Brightening",
             "title": "Snow Lotus Lifting Serum",
             "description": "",
-            "link-url": "shopify:\/\/products\/super-aging-serum",
+            "link-url": "shopify://products/super-antiaging-serum",
             "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_435b31a6-2cb5-4dcf-8bbd-f3e2fb9b8b88.png"
+            "mobile-image": "shopify://shop_images/MOBILE_435b31a6-2cb5-4dcf-8bbd-f3e2fb9b8b88.png"
           }
         },
         "5a70a823-92d2-42ac-99ff-20aeff4794cb": {
@@ -312,13 +308,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_d7b0793e-aab9-4d77-b044-cb0d6a32aba3.png",
+            "image": "shopify://shop_images/PC_d7b0793e-aab9-4d77-b044-cb0d6a32aba3.png",
             "overline": "Lifting, Hydrating, Brightening",
             "title": "Snow Lotus Lifting Cream",
             "description": "",
-            "link-url": "shopify:\/\/products\/snow-lotus-lifting-cream",
+            "link-url": "shopify://products/snow-lotus-lifting-cream",
             "link-text": "PRODUCT DETAILS",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_83e01017-4536-44fe-aa12-3d4b917dd418.png"
+            "mobile-image": "shopify://shop_images/MOBILE_83e01017-4536-44fe-aa12-3d4b917dd418.png"
           }
         },
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
@@ -326,13 +322,13 @@
           "settings": {
             "text-position": "bottom-left",
             "text-width": "medium",
-            "image": "shopify:\/\/shop_images\/PC_d6b6eafb-739a-4b08-917b-080e83dfa8cb.png",
+            "image": "shopify://shop_images/PC_d6b6eafb-739a-4b08-917b-080e83dfa8cb.png",
             "overline": "",
             "title": "",
             "description": "",
-            "link-url": "\/",
+            "link-url": "/",
             "link-text": "",
-            "mobile-image": "shopify:\/\/shop_images\/MOBILE_5e64d757-6d1f-4ecc-bad6-51a3ff002cb1.png"
+            "mobile-image": "shopify://shop_images/MOBILE_5e64d757-6d1f-4ecc-bad6-51a3ff002cb1.png"
           }
         }
       },
@@ -377,8 +373,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
+        "image": "shopify://shop_images/Pc-icon_8bd552e2-1646-45a5-9874-6eb8c6baf258.png",
+        "mobile-image": "shopify://shop_images/Mobile-icon_7d47ccc2-9c02-49a4-8876-7634e59f7cd1.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -404,8 +400,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
-        "mobile-image": "shopify:\/\/shop_images\/MOBILE.png",
+        "image": "shopify://shop_images/PC_40f53bc7-a5e6-466a-8eac-f303c29790d1.png",
+        "mobile-image": "shopify://shop_images/MOBILE.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -441,8 +437,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
+        "image": "shopify://shop_images/PC-PRESS_REVIEWS_627ea2d2-1055-43d4-b441-c2bccb3a2385.png",
+        "mobile-image": "shopify://shop_images/Mobile-PRESS_REVIEWS_25a1a0e4-703e-4f2b-9b35-8cfbdec88d09.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -456,31 +452,31 @@
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201862.jpg",
+            "image": "shopify://shop_images/202307201862.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201724.jpg",
+            "image": "shopify://shop_images/202307201724.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         },
         "template--20216776425759__b8f597d5-408e-4e85-9e30-05801e242feb-testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify:\/\/shop_images\/202307201734.jpg",
+            "image": "shopify://shop_images/202307201734.jpg",
             "icon": "10",
             "author-role": "",
             "author-name": "",
-            "description": "<p>Here you can include a short description about the author or their testimonial.<\/p>"
+            "description": "<p>Here you can include a short description about the author or their testimonial.</p>"
           }
         }
       },
@@ -519,8 +515,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify:\/\/shop_images\/PC-sustainable_beauty.png",
-        "mobile-image": "shopify:\/\/shop_images\/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
+        "image": "shopify://shop_images/PC-sustainable_beauty.png",
+        "mobile-image": "shopify://shop_images/Mobile-sustainable_beauty_852dddd6-d2b2-41db-9fc2-a9cc7b489e55.png",
         "overline": "",
         "title": "",
         "description": "",
