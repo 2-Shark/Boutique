@@ -71,6 +71,12 @@
             "smart-payment-enabled": true
           }
         },
+        "liquid_jHFGhH": {
+          "type": "liquid",
+          "settings": {
+            "custom-liquid": "<a href=\"https://www.amazon.com/BOUTIJOUR-Lotus-Melight-Patch-Patches/dp/B08K9H267D/ref=sr_1_6?dib=eyJ2IjoiMSJ9.8E1z9duQEuxO1x_fJnQ1TMx4dC6bP307ub7fbbINgv0ZhglEB8QwCB0CR5SXS0ZtUctlMF4Jt3cf6QzpxkQ-kc0viBDP5hW3p9lXbn-1PKdo1iigDlTEjoM-nxsCzGIxEsfSUweC0tFb4KHm_3-f_6PMh9rEjSkwoUKsLp1iM32tzX5fJT37E0bGlPb8UZkpernoDsJfog9LXjenS9Vk7edM4YAxi_K7x7BFGdrdNeH1wC3ja56_I8XvVBwuQX0BQM0o-s5G5tX0Gv3rPZvK2yql98PpkKJgFAL3DzUKPe8.-5Tod1ABhLy9e8EkQa5yJoU3XeeRx_eM9JtiXZlzH_g&dib_tag=se&keywords=Lotus+Melight+Eye+Patch&qid=1771584888&sr=8-6\" class=\"button\" style=\"display: block; width: 100%; padding: 14px 24px; background-color: #FF9900; color: #000000; text-decoration: none; border-radius: 4px; font-weight: 600; text-align: center; transition: background-color 0.3s ease; box-sizing: border-box; font-size: 16px; letter-spacing: 0.5px;\">Buy on Amazon</a>"
+          }
+        },
         "complementary-products": {
           "type": "complementary-products",
           "settings": {
@@ -137,6 +143,7 @@
         "pickup",
         "description",
         "buy-buttons",
+        "liquid_jHFGhH",
         "complementary-products",
         "social-sharing",
         "collapsible_row_gdjb8D",
@@ -545,6 +552,8 @@
         "loox_reviews_loox_dynamic_section_diYKYg": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
