@@ -13,12 +13,12 @@
       "type": "disrupt-main-banner",
       "settings": {
         "image_desktop": "shopify://shop_images/2025092526754.jpg",
-        "image_tablet": "shopify://shop_images/iPhone_14_Pro_11_2x_89f4df94-4016-48de-85c0-03fb58c50968.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_11_2x_89f4df94-4016-48de-85c0-03fb58c50968.jpg",
+        "image_tablet": "shopify://shop_images/2025092526754.jpg",
+        "image_mobile": "shopify://shop_images/2025092526754.jpg",
         "eyebrow": "+ LONGEVITY SKINCARE & COLOR",
         "header": "Soft Luminous Glow",
         "cta": "SHOP COLOR",
-        "link": "shopify://collections/all-products",
+        "link": "shopify://collections/color-makeup",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
