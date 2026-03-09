@@ -18,7 +18,7 @@
         "eyebrow": "+ PRO LONGEVITY SKINCARE & COLOR",
         "header": "Celebrate Women's Month",
         "cta": "SHOP NOW",
-        "link": "shopify://collections/color-makeup",
+        "link": "shopify://collections/sets",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
@@ -28,8 +28,8 @@
       "settings": {
         "image_desktop": "shopify://shop_images/2025092524999.jpg",
         "image_mobile": "shopify://shop_images/R0009464.jpg",
-        "image_desktop_right": "shopify://shop_images/iPhone14Pro_25_2x_842e98dc-435e-4f8a-8b83-82f24c8548c0.jpg",
-        "image_mobile_right": "shopify://shop_images/Cover_V1B.png",
+        "image_desktop_right": "shopify://shop_images/R0009464.jpg",
+        "image_mobile_right": "shopify://shop_images/R0009464.jpg",
         "header": "Women's Month Special sets",
         "body": "Soft luminous glow",
         "cta": "SHOP NOW",
@@ -190,11 +190,11 @@
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/iPhone_14_Pro_Max_9_2x_4d20a96f-5733-4eee-9748-38015febd2bb.jpg",
-        "image_mobile": "shopify://shop_images/2025092526754.jpg",
+        "image_desktop": "shopify://shop_images/2025092525724.jpg",
+        "image_mobile": "shopify://shop_images/2025092525724.jpg",
         "image_desktop_right": "shopify://shop_images/Instagram_05_7_7.jpg",
         "header": "",
-        "body": "6 Core natural formula -  rice + Peptides + ROSE PDRN",
+        "body": "8 PEPTIDE COMPLEX + SOY PEPTIDES + SNOW LOTUS FORMULA",
         "cta": "shop",
         "link": "shopify://products/glow-blush-balm"
       }
