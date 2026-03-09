@@ -17,7 +17,7 @@
         "image_mobile": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
         "eyebrow": "+ PRO LONGEVITY SKINCARE & COLOR",
         "header": "Celebrate Women's Month",
-        "cta": "SHOP COLOR",
+        "cta": "SHOP NOW",
         "link": "shopify://collections/color-makeup",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
@@ -26,12 +26,12 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/R0009464.jpg",
+        "image_desktop": "shopify://shop_images/2025092524999.jpg",
         "image_mobile": "shopify://shop_images/R0009464.jpg",
-        "image_desktop_right": "shopify://shop_images/Lotus-Melight_Eye_Patch.jpg",
+        "image_desktop_right": "shopify://shop_images/iPhone14Pro_25_2x_842e98dc-435e-4f8a-8b83-82f24c8548c0.jpg",
         "image_mobile_right": "shopify://shop_images/Cover_V1B.png",
-        "header": "Best Eye Mask ritual",
-        "body": "BRIGHTEN. NOURISH.",
+        "header": "Women's Month Special sets",
+        "body": "Soft luminous glow",
         "cta": "SHOP NOW",
         "link": "shopify://collections/sets"
       }
@@ -181,7 +181,7 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/sd.jpg",
+        "image_desktop": "shopify://shop_images/IMG_9906.jpg",
         "image_mobile": "shopify://shop_images/2025092526851_copy.jpg",
         "image_desktop_r": "shopify://shop_images/2025092526851_copy.jpg",
         "image_mobile_r": "shopify://shop_images/2025092526851_copy.jpg"
@@ -190,7 +190,7 @@
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092525274.jpg",
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_Max_9_2x_4d20a96f-5733-4eee-9748-38015febd2bb.jpg",
         "image_mobile": "shopify://shop_images/2025092526754.jpg",
         "image_desktop_right": "shopify://shop_images/Instagram_05_7_7.jpg",
         "header": "",
