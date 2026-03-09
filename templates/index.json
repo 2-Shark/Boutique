@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092526754.jpg",
-        "image_tablet": "shopify://shop_images/2025092526754.jpg",
-        "image_mobile": "shopify://shop_images/2025092526754.jpg",
+        "image_desktop": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
+        "image_tablet": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
+        "image_mobile": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
         "eyebrow": "+ PRO LONGEVITY SKINCARE & COLOR",
-        "header": "Soft Luminous Glow",
+        "header": "Celebrate Women's Month",
         "cta": "SHOP COLOR",
         "link": "shopify://collections/color-makeup",
         "inner_padding_left_right": "185",
@@ -26,9 +26,9 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092525000.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_Max_12.jpg",
-        "image_desktop_right": "shopify://shop_images/Cover_V1B.png",
+        "image_desktop": "shopify://shop_images/R0009464.jpg",
+        "image_mobile": "shopify://shop_images/R0009464.jpg",
+        "image_desktop_right": "shopify://shop_images/Lotus-Melight_Eye_Patch.jpg",
         "image_mobile_right": "shopify://shop_images/Cover_V1B.png",
         "header": "Best Eye Mask ritual",
         "body": "BRIGHTEN. NOURISH.",
@@ -181,7 +181,7 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092526851_copy.jpg",
+        "image_desktop": "shopify://shop_images/sd.jpg",
         "image_mobile": "shopify://shop_images/2025092526851_copy.jpg",
         "image_desktop_r": "shopify://shop_images/2025092526851_copy.jpg",
         "image_mobile_r": "shopify://shop_images/2025092526851_copy.jpg"
@@ -192,7 +192,7 @@
       "settings": {
         "image_desktop": "shopify://shop_images/2025092525274.jpg",
         "image_mobile": "shopify://shop_images/2025092526754.jpg",
-        "image_desktop_right": "shopify://shop_images/Artboard_5_2x_0571fb01-416b-44e7-ae99-be668ac3a44c.jpg",
+        "image_desktop_right": "shopify://shop_images/Instagram_05_7_7.jpg",
         "header": "",
         "body": "6 Core natural formula -  rice + Peptides + ROSE PDRN",
         "cta": "shop",
