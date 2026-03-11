@@ -182,9 +182,9 @@
       "type": "disrupt-skin-banner",
       "settings": {
         "image_desktop": "shopify://shop_images/IMG_9906.jpg",
-        "image_mobile": "shopify://shop_images/2025092526851_copy.jpg",
-        "image_desktop_r": "shopify://shop_images/2025092526851_copy.jpg",
-        "image_mobile_r": "shopify://shop_images/2025092526851_copy.jpg"
+        "image_mobile": "shopify://shop_images/IMG_9906.jpg",
+        "image_desktop_r": "shopify://shop_images/IMG_9906.jpg",
+        "image_mobile_r": "shopify://shop_images/IMG_9906.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
