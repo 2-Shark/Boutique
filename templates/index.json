@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
-        "image_tablet": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
-        "image_mobile": "shopify://shop_images/2025092525232_copy_c7c00955-62c7-46ce-ae19-06f0a0eaa18e.jpg",
-        "eyebrow": "+ PRO LONGEVITY SKINCARE & COLOR",
-        "header": "Celebrate Women's Month",
+        "image_desktop": "shopify://shop_images/2025092525700_copy.png",
+        "image_tablet": "shopify://shop_images/2025092525700_copy.png",
+        "image_mobile": "shopify://shop_images/2025092525700_copy.png",
+        "eyebrow": "+ Deep nourishing Longevity cream",
+        "header": "Snow Lotus Lifting Cream",
         "cta": "SHOP NOW",
         "link": "shopify://collections/sets",
         "inner_padding_left_right": "185",
@@ -26,12 +26,12 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/R0009464.jpg",
-        "image_mobile": "shopify://shop_images/R0009464.jpg",
-        "image_desktop_right": "shopify://shop_images/2025092524999.jpg",
-        "image_mobile_right": "shopify://shop_images/2025092524999.jpg",
-        "header": "Women's Month Special sets",
-        "body": "Soft luminous glow",
+        "image_desktop": "shopify://shop_images/image2333.jpg",
+        "image_mobile": "shopify://shop_images/image2333.jpg",
+        "image_desktop_right": "shopify://shop_images/Instagram_05_7_7_4d8cb7b0-4789-45ac-9c5f-03f8660e80c3.webp",
+        "image_mobile_right": "shopify://shop_images/Instagram_05_7_7_4d8cb7b0-4789-45ac-9c5f-03f8660e80c3.webp",
+        "header": "powered with snow lotus & peptides",
+        "body": "DISDOVER THE LONGEVITY CREAM",
         "cta": "SHOP NOW",
         "link": "shopify://collections/sets"
       }
@@ -181,22 +181,22 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/IMG_9906.jpg",
-        "image_mobile": "shopify://shop_images/IMG_9906.jpg",
-        "image_desktop_r": "shopify://shop_images/IMG_9906.jpg",
-        "image_mobile_r": "shopify://shop_images/IMG_9906.jpg"
+        "image_desktop": "shopify://shop_images/Web_1920_3.jpg",
+        "image_mobile": "shopify://shop_images/Web_1920_3.jpg",
+        "image_desktop_r": "shopify://shop_images/Web_1920_3.jpg",
+        "image_mobile_r": "shopify://shop_images/Web_1920_3.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/2025092525724.jpg",
-        "image_mobile": "shopify://shop_images/2025092525724.jpg",
-        "image_desktop_right": "shopify://shop_images/Instagram_05_7_7.jpg",
+        "image_desktop": "shopify://shop_images/Gemini_Generated_Image_qluf8sqluf8sqluf.png",
+        "image_mobile": "shopify://shop_images/Gemini_Generated_Image_qluf8sqluf8sqluf.png",
+        "image_desktop_right": "shopify://shop_images/Cover_V1B.png",
         "header": "",
-        "body": "8 PEPTIDE COMPLEX + SOY PEPTIDES + SNOW LOTUS FORMULA",
+        "body": "",
         "cta": "shop",
-        "link": "shopify://products/glow-blush-balm"
+        "link": "shopify://products/lotus-melight-eyepatch"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
