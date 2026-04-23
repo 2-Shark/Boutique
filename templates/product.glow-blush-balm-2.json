@@ -94,7 +94,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "Benefits",
-            "description": "<p>– Revitalizes dull cheeks and lips with naturally brightening pigments<br/>– Provides a healthy flush while delivering nourishing, skin-comforting moisture<br/>– Improves skin radiance and hydration through a skincare-infused tinted formula</p>",
+            "description": "<p>– Revitalizes dull cheeks and lips with naturally brightening pigments<br/>– Provides a healthy blush while delivering nourishing, skin-comforting moisture<br/>– Improves skin radiance and hydration through a skincare-infused tinted formula</p>",
             "page-content": "",
             "default-open": false
           }
@@ -563,6 +563,8 @@
         "loox_reviews_loox_dynamic_section_diYKYg": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
