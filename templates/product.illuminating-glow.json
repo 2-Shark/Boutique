@@ -14,25 +14,22 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-          }
+          "settings": {}
         },
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "2024 Holiday edition I"
+            "text": "2026 Summer Edition"
           }
         },
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "options": {
           "type": "options",
@@ -44,22 +41,14 @@
             "size-chart-content": ""
           }
         },
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe": {
-          "type": "shopify://apps/junip-product-reviews-ugc/blocks/junip-product-summary/dc14f5a8-ed15-41b1-ad08-cfba23f9789b",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy-buttons",
@@ -88,23 +77,13 @@
         },
         "35fabdba-a7a1-4bc2-a122-5effa977b694": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible_row_VqybWy": {
           "type": "collapsible-row",
           "settings": {
             "heading": "WHAT’S INSIDE",
-            "description": "<ul><li>Snow Lotus Lifting Cream</li><li>Relief Sun Moisture</li><li>Glow Enhancer Stick</li><li>2024-25 Holiday Edition Pouch </li></ul>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
-        "collapsible_row_ThixeK": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Benefits",
-            "description": "<h4>Snow Lotus Lifting Cream</h4><ul><li>Delivers antioxidant-packed hydration + illuminating glow</li><li>Supports skin barrier function</li><li>Improves skin's texture, elasticity, and complexion</li><li>Non-comedogenic</li></ul><p>✽</p><h4>Relief Sun Moisture</h4><ul><li>Clinically proven to improve skin hydration</li><li>Shields against UVA, UVB, and Blue Light</li><li>Gives ultimate hydration and silky glow</li><li>Non-comedogenic, non-stimulating</li></ul>",
+            "description": "<ul><li>Lotus Melight Eye Patch</li><li>Relief Sun Moisture</li><li>2026 Summer Travel Pouch</li><li>Shopping Bag</li></ul>",
             "page-content": "",
             "default-open": false
           }
@@ -113,7 +92,7 @@
           "type": "collapsible-row",
           "settings": {
             "heading": "full Ingredients",
-            "description": "<h4>Snow Lotus Lifting Cream</h4><p><strong>Key Ingredients<br/></strong>Snow Lotus | MC-Resveratrol™ | SoyStem™ | Niacinamide | Adenosine<br/><br/><strong>Ingredients<br/></strong>Water, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Glyceryl Stearate, Niacinamide, Butyrospermum, Parkii (Shea) Butter, Cetearyl Alcohol, Ethylhexyl Palmitate, Saussurea Involucrata Extract, Nelumbo Nucifera Flower Extract, Glycine Soja (Soybean) Peptide, Camellia Japonica Flower Extract, Resveratrol, 1,2-Hexanediol, Propanediol, Cetearyl Glucoside, Arginine, Carbomer, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pelargonium Graveolens Flower Oil, Pogostemon Cablin Leaf Extract, Centella Asiatica Extract, Portulaca Oleracea Extract, Camellia Sinensis Leaf Extract, Camellia Sinensis Leaf Extract, Artemisia Capillaris Extract, Hexylene Glycol, Hydroxyacetophenone, Dipropylene Glycol, Ammonium, Acryloyldimethyltaurate/VP Copolymer, Sodium Hyaluronate, Adenosine, Disodium EDTA, Ethoxydiglycol, Poloxamer 338, Glucose, t-Butyl Alcohol, Ferulic Acid, Citric Acid, Ethylhexylglycerin, Citronellol, D-Limonene, Geraniol, Linalool</p><p>✽</p><h4>Relief Sun Moisture</h4><p><strong>Key Ingredients<br/></strong>Blue Lotus Flower Water | Calendula Flower | Centella Asiatica<br/><br/><strong>Ingredients<br/></strong>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic / Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance</p>",
+            "description": "<h3>Lotus Melight Eye Patch</h3><p><strong>Key Ingredients</strong><br/>Alpha-Melight™ | Lotus Flower Extract | Lotus Pollen | Niacinamide | Adenosine</p><p><strong>Ingredients</strong><br/>Water, Glycerin, Niacinamide, Carrageenan, Butylene Glycol, Nelumbo Nucifera Flower Extract (8,790ppm), Ceratonia Siliqua (Carob) Gum, Artemisia Princeps Leaf Extract, Tripropylene Glycol, Allantoin, Hexylene Glycol, Calcium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Dipotassium Glycyrrhizate, Nelumbo Nucifera Pollen (2,000ppm), Ethylhexanediol, Pentylene Glycol, Propanediol, Pinus Densiflora Leaf Extract, Chlorphenesin, Polyglyceryl-10 Laurate, Hydroxyacetophenone, Camellia Sinensis Leaf Powder, Sucrose, Potassium Chloride, 1,2-Hexanediol, Cellulose Gum, Calcium Lactate, Adenosine, Synthetic Fluorphlogopite, Disodium EDTA, Illicium Verum (Anise) Extract, Bisabolol (300ppm), Ethylhexylglycerin, Titanium Dioxide, Caprylyl Glycol, Arginine, Acetyl Glucosamine, Broussonetia Kazinoki Root Extract, Lavender Oil, Morus Alba Bark Extract, Pyrus Malus (Apple) Fruit Extract, Nelumbo Nucifera Callus Culture Extract (30ppm), Camellia Japonica Leaf Extract, Camellia Sinensis Leaf Extract, Centella Asiatica Extract, Portulaca Oleracea Extract, Galactoarabinan, Tricholoma Matsutake Extract, Sodium Hyaluronate, Iron Oxides (CI 77492), Hydrolyzed Sodium Hyaluronate, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Limonene.</p><p>✽</p><h4>Relief Sun Moisture</h4><p><strong>Key Ingredients<br/></strong>Blue Lotus Flower Water | Calendula Flower | Centella Asiatica<br/><br/><strong>Ingredients<br/></strong>Water, Dibutyl Adipate, Zinc Oxide, Diisopropyl Sebacate, Caprylic / Capric Triglyceride, Ethylhexyl Triazone, Panthenol,Diethy lamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Bis - Ethylhexy loxyphenol Methoxyphenyl Triazine, Niacinamide, Propanediol Polyclvcervl-3 Distearate, Capryly Methi cone, ,2-Hexanediol, PentyleneGlycol,Polymethy Isilsesquioxane, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Granatum Flower Extract. Calendula Officinalis Flower Extract, Pancratium Maritimum Extract, Hydrogenated Lecithin,Nymphaea Caerdulca Flower Water, Simmonedia Gainensis (Jojoba) Seed Oil, Glycerin, Poly C10-30 Alkyl Acrylate, Polyglyceryt-3 Methylglucose Distearate, Polyglyceryl-6 Distcarate, Cetearyi Aloohol, Polyhydroxystearic Acid, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, Ammonium Acryloyldim ethyltaurateVp Copolymer, Butylene Glycol, Polyacryl Grosspolymer-b, Triethoxycaprylylsilane, Glyceryl Stearate Citrate, Sodium Stearov Glutamate, XanthanGum, Ethylhexylg lycerin, Adenosinc, Citric Acid, Ceramide Np, Squalane, Bisabolol, Tocopherol, Fragrance</p>",
             "page-content": "",
             "default-open": false
           }
@@ -125,7 +104,6 @@
         "vendor",
         "price",
         "options",
-        "4b442b73-6bdb-43e2-aea2-e0f8f9904dbe",
         "pickup",
         "description",
         "buy-buttons",
@@ -133,7 +111,6 @@
         "social-sharing",
         "35fabdba-a7a1-4bc2-a122-5effa977b694",
         "collapsible_row_VqybWy",
-        "collapsible_row_ThixeK",
         "collapsible_row_pWiVaT"
       ],
       "settings": {
@@ -185,70 +162,6 @@
     },
     "slideshow_FTQcqC": {
       "type": "slideshow",
-      "blocks": {
-        "image_PCLwkn": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC1.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/boutijour-sep0076.png"
-          }
-        },
-        "image_9Ey4dj": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC2_dba39774-2cf5-49f2-a460-00f3481830b2.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer_59120ec4-0adb-4afa-898b-3dadb8e93c7b.png"
-          }
-        },
-        "image_ByUzPP": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC3_da5adb04-c3aa-4b02-bb11-6ef925a470bc.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer_1_0109210c-f51f-4040-aa5a-f52e637c75f5.png"
-          }
-        },
-        "image_BPCE3F": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Illuminating_Glow_Enhancer_PC-1_5e089807-f64a-4496-885e-a22bd6d1bfe2.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Illuminating_Glow_Enhancer_2_d5203ae3-6adb-474f-8ec1-0534a9f2668c.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_PCLwkn",
-        "image_9Ey4dj",
-        "image_ByUzPP",
-        "image_BPCE3F"
-      ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -278,27 +191,6 @@
         "overline": "",
         "heading": "Complete rejuvenation with Illuminating Glow",
         "text": ""
-      }
-    },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 58,
-        "container-width": 4,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/Illuminating Glow Enhancer_F.mp4",
-        "video-url": "",
-        "image": "shopify://shop_images/Illuminating-Glow-Enhancer.jpg",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 58
       }
     },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
@@ -357,32 +249,6 @@
         "mobile-overlay": true,
         "image": "shopify://shop_images/PC_OUR_RECYCLE_PACKAGE_STANDARD.png",
         "mobile-image": "shopify://shop_images/M_Recycle_91122f57-bf28-4d74-9f56-ed12b1feeae5.png",
-        "overline": "",
-        "title": "",
-        "description": "",
-        "link-url": "",
-        "link-text": ""
-      }
-    },
-    "image_with_text_ximmWX": {
-      "type": "image-with-text",
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "container-width": 6,
-        "spacing-above": false,
-        "spacing-below": false,
-        "image-aspect-ratio": 56,
-        "mobile-image-aspect-ratio": 134,
-        "darken-image": false,
-        "parallax-enabled": false,
-        "text-position": "center",
-        "text-width": "medium",
-        "overlap": false,
-        "box-around-text": false,
-        "mobile-overlay": true,
-        "image": "shopify://shop_images/PC_finalimage_5.png",
-        "mobile-image": "shopify://shop_images/boutijour-sep0390.png",
         "overline": "",
         "title": "",
         "description": "",
@@ -459,10 +325,8 @@
     "5dc9f552-4580-4447-8abe-673add963394",
     "slideshow_FTQcqC",
     "featured_text_LhGfQi",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "fc8ba69e-08b6-414c-9a11-e03fbcf66b20",
-    "image_with_text_ximmWX",
     "section_layout_X8kb9U",
     "related-products",
     "260d160b-2e45-4d0f-87aa-3259f69332e3",
