@@ -108,15 +108,6 @@
             "default-open": false
           }
         },
-        "collapsible_row_pNxt9c": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients</strong><br/>Leafresh | B-Circadin™ | BioDtox®</p><p><br/><strong>Ingredients</strong><br/>Water, Propanediol, Glycerin, 1,2-Hexanediol, Nelumbo Nucifera Leaf Extract, C12-14 Pareth-12, Camellia Sinensis Leaf Extract, Panthenol, Arginine, Nelumbium Speciosum Flower Extract, Carbomer, Butylene Glycol, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Dipotassium Glycyrrhizate, Citrus Aurantium Dulcis (Orange) Peel Oil, Pentylene Glycol, Aloe Barbadensis Leaf Extract, Xanthan Gum, Lespedeza Capitata Leaf/Stem Extract, Centella Asiatica Extract, Camellia Japonica Flower Extract, Portulaca Oleracea Extract, Bioflavonoids, Lavandula Hybrida Oil, Sodium Hyaluronate, Brassica Oleracea Italica (Broccoli) Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Mentha Viridis (Spearmint) Leaf Oil, Calendula Officinalis Flower Extract, Limonene</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "collapsible_row_f7mmGN": {
           "type": "collapsible-row",
           "settings": {
@@ -151,7 +142,6 @@
         "buy-buttons",
         "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_zT8Aac",
-        "collapsible_row_pNxt9c",
         "collapsible_row_f7mmGN",
         "collapsible_row_yHzdYE"
       ],
@@ -571,6 +561,8 @@
         "loox_reviews_loox_dynamic_section_anNc68": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
