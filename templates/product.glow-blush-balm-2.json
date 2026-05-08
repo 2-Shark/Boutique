@@ -108,15 +108,6 @@
             "default-open": false
           }
         },
-        "ef005e46-1092-400f-a562-311b51df9d9e": {
-          "type": "collapsible-row",
-          "settings": {
-            "heading": "Full Ingredients list",
-            "description": "<p><strong>Key Ingredients</strong><br/>Lotus Flower ExtractㅣRose PDRN ㅣCamellia Japonica Seed Oil ㅣSoybean PeptideㅣRice Bran Extract<br/><br/><strong>Ingredients</strong><br/>C12-15 Alkyl Benzoate, Dibutyl Adipate, Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Polyglyceryl-2 Triisostearate, Tridecyl Trimellitate, Hydrogenated Polyisobutene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide, Ozokerite, Synthetic Wax, Polyethylene, Synthetic Fluorphlogopite, Mica, Tocopheryl Acetate, Microcrystalline Wax, Stearalkonium Hectorite, Silica, Yellow Iron Oxide (CI 77492), Alpha-Bisabolol, Propylene Carbonate, Citrus Aurantium Dulcis (Orange) Peel Oil, Red 202 (CI 15850), Diisostearyl Malate, Titanium/Titanium Dioxide, Propylene Glycol Dicaprylate/Dicaprate, Dehydroacetic Acid, Dimethicone, Water (Aqua), Tin Oxide, Tocopherol, Sorbitan Sesquioleate, Squalane, Polyglyceryl-6 Polyricinoleate, Simmondsia Chinensis (Jojoba) Seed Oil, Camellia Japonica Seed Oil, Butylene Glycol, Polyhydroxystearic Acid, 1,2-Hexanediol, Lecithin, Ethylhexyl Palmitate, Isostearic Acid, Isopropyl Myristate, Polyglyceryl-3 Polyricinoleate, Oryza Sativa (Rice) Bran Extract, Punica Granatum (Pomegranate) Extract, Avena Sativa (Oat) Kernel Extract, Camellia Japonica Flower Extract, Oryza Sativa (Rice) Bran Water, Nelumbo Nucifera Flower Extract, Hibiscus Syriacus Bark Extract, Caprylyl Glycol, Ethylhexylglycerin, Soy Peptide (Glycine Soja Peptide), Sodium DNA, Limonene, Linalool, Citronellol</p>",
-            "page-content": "",
-            "default-open": false
-          }
-        },
         "collapsible_row_pRkjQc": {
           "type": "collapsible-row",
           "settings": {
@@ -141,7 +132,6 @@
         "social-sharing",
         "collapsible_row_gdjb8D",
         "collapsible_row_rTpnhL",
-        "ef005e46-1092-400f-a562-311b51df9d9e",
         "collapsible_row_pRkjQc"
       ],
       "settings": {
@@ -189,105 +179,6 @@
         "description": "",
         "link-url": "",
         "link-text": ""
-      }
-    },
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22": {
-      "type": "slideshow",
-      "blocks": {
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Volufiline.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Volufiline.jpg"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Tea_Complex.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/rose_pdrn_2x_7d2fa67b-dfe5-4413-8e05-6de75f1c4e7d.jpg"
-          }
-        },
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Micro-fiber_Bemlise_1.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Micro-fiber_Bemlise_1.jpg"
-          }
-        },
-        "image_4EbnbV": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Rose_hip_Oil.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Rose_hip_Oil.jpg"
-          }
-        },
-        "image_bqKLcQ": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Pumpkin_Jojoba_Seed_Oil.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Pumpkin_Jojoba_Seed_Oil.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-2",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-1",
-        "template--20216776425759__a688af1e-6a2e-4c8f-9d55-1a6333f22f22-image-3",
-        "image_4EbnbV",
-        "image_bqKLcQ"
-      ],
-      "settings": {
-        "text-color": "auto",
-        "background-color": "none",
-        "spacing-above": true,
-        "spacing-below": true,
-        "spacing-around-blocks": true,
-        "image-aspect-ratio": 106,
-        "darken-image": false,
-        "blocks_per_slide": 3,
-        "box-around-text": false,
-        "auto-rotate": false,
-        "rotate-frequency": 7,
-        "transition_type": "slide",
-        "mobile-image-aspect-ratio": 130,
-        "blocks_per_slide_mobile": "1",
-        "mobile-overlay": true
       }
     },
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
@@ -399,8 +290,8 @@
         "overlap": false,
         "box-around-text": false,
         "mobile-overlay": true,
-        "image": "shopify://shop_images/Artboard_7_2x_e24e2a97-89af-4f38-aa7a-8b3bd9470948.jpg",
-        "mobile-image": "shopify://shop_images/Web_1920_4_2x_95cff9c9-ad55-4457-8e45-7d14767e9dbe.jpg",
+        "image": "shopify://shop_images/1cfd60c5994edd7ffe55ec81cd443963.jpg",
+        "mobile-image": "shopify://shop_images/99e1ddeae9ecd2ac4f51f59ed8c9d994.jpg",
         "overline": "",
         "title": "",
         "description": "",
@@ -438,26 +329,11 @@
             "link-text": "",
             "mobile-image": "shopify://shop_images/Web_1920_2_2x_84fc25fd-2408-4c64-9de9-f9500806c48d.jpg"
           }
-        },
-        "image_8Na3df": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/color_2x_78904d43-0c44-4ced-b813-8c90670b0f10.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Web_1920_3_2x_b5a89543-7fef-4830-a8dd-d9fbfe49477d.jpg"
-          }
         }
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2",
-        "image_8Na3df"
+        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
       ],
       "settings": {
         "text-color": "auto",
@@ -479,40 +355,6 @@
     },
     "slideshow_bqPpE7": {
       "type": "slideshow",
-      "blocks": {
-        "image_GtUYCt": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Artboard_10_2x_c1a91631-6392-4461-9a5a-7420d82c07b9.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Web_1920_6_2x_163ad2b5-b363-4d5b-9e65-3d843631ea19.jpg"
-          }
-        },
-        "image_dAQiGw": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/Artboard_11_2x_a7f0933a-e078-4c9c-89f1-a95ad9e3a76d.jpg",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/Web_1920_7_2x_ea10e3f4-d60e-498f-8031-0d8332c10b2c.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_GtUYCt",
-        "image_dAQiGw"
-      ],
       "settings": {
         "text-color": "auto",
         "background-color": "none",
@@ -747,7 +589,6 @@
   "order": [
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
-    "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
     "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_jVqdBb",
