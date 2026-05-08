@@ -19,7 +19,7 @@
         "4859035b-c867-4ea2-9cf8-02c56aaa6c17": {
           "type": "overline",
           "settings": {
-            "text": "Elegance in Every Detail"
+            "text": "Daily & Travel Cosmetic Bag"
           }
         },
         "vendor": {
@@ -264,27 +264,6 @@
         "mobile-overlay": true
       }
     },
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0": {
-      "type": "featured-video",
-      "settings": {
-        "aspect-ratio": 116,
-        "container-width": 1,
-        "spacing-above": true,
-        "spacing-below": false,
-        "background-color": "none",
-        "light-text": true,
-        "play-button-style": "solid",
-        "darken-video": false,
-        "video-upload": "shopify://files/videos/아이패치-캡션O_1.mp4",
-        "video-url": "",
-        "image": "shopify://shop_images/626.png",
-        "heading": "",
-        "sub-heading": "",
-        "button-text": "",
-        "button-url": "",
-        "mobile-aspect-ratio": 130
-      }
-    },
     "b6733570-f064-45cf-a1e6-b865d317d0a8": {
       "type": "collapsible-rows",
       "blocks": {
@@ -353,7 +332,7 @@
         "spacing-above": true,
         "spacing-below": true,
         "overline": "",
-        "heading": "Makeup bag on the go",
+        "heading": "Elegant Travel bag on the go",
         "text": ""
       }
     },
@@ -375,20 +354,6 @@
             "mobile-image": "shopify://shop_images/m_in_4_weeks_of_use_da371527-9f91-4e29-9462-47ddb5323512.png"
           }
         },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_1_3a8db606-f96a-447c-bcce-75ef222011bb.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/M_Clinically_proven_1_da5f9546-ea13-4b07-bba8-2a1d463a3195.png"
-          }
-        },
         "image_83MPLr": {
           "type": "image",
           "disabled": true,
@@ -403,27 +368,11 @@
             "link-text": "",
             "mobile-image": "shopify://shop_images/M_Clinically_proven_2.png"
           }
-        },
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2": {
-          "type": "image",
-          "settings": {
-            "text-position": "bottom-left",
-            "text-width": "medium",
-            "image": "shopify://shop_images/PC_Clinically_proven_3_f8f819ea-63a2-4728-8b42-1101f2006d65.png",
-            "overline": "",
-            "title": "",
-            "description": "",
-            "link-url": "/",
-            "link-text": "",
-            "mobile-image": "shopify://shop_images/729.png"
-          }
         }
       },
       "block_order": [
         "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-3",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-1",
-        "image_83MPLr",
-        "template--20216776425759__7f9c9a4d-3f4d-458a-a235-f9980ce0965a-image-2"
+        "image_83MPLr"
       ],
       "settings": {
         "text-color": "auto",
@@ -530,6 +479,8 @@
         "loox_reviews_loox_dynamic_section_diYKYg": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
@@ -713,7 +664,6 @@
     "main",
     "5dc9f552-4580-4447-8abe-673add963394",
     "a688af1e-6a2e-4c8f-9d55-1a6333f22f22",
-    "b44324e2-2631-4b4f-a6b3-bcf8927f36e0",
     "b6733570-f064-45cf-a1e6-b865d317d0a8",
     "featured_text_jVqdBb",
     "7f9c9a4d-3f4d-458a-a235-f9980ce0965a",
