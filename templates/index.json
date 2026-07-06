@@ -12,9 +12,9 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Artboard_6.jpg",
-        "image_tablet": "shopify://shop_images/Artboard_6.jpg",
-        "image_mobile": "shopify://shop_images/Artboard_5.jpg",
+        "image_desktop": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
+        "image_tablet": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
+        "image_mobile": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
         "eyebrow": "+ Four season peptide glow",
         "header": "Snow Lotus Peptide Glow",
         "cta": "SHOP GIFT SETS",
@@ -26,8 +26,8 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/Image_20260417124527_331_2.jpg",
-        "image_mobile": "shopify://shop_images/Image_20260417124527_331_2.jpg",
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_33.jpg",
+        "image_mobile": "shopify://shop_images/iPhone_14_Pro_33.jpg",
         "image_desktop_right": "shopify://shop_images/Instagram_05_7_7_4d8cb7b0-4789-45ac-9c5f-03f8660e80c3.webp",
         "image_mobile_right": "shopify://shop_images/Instagram_05_7_7_4d8cb7b0-4789-45ac-9c5f-03f8660e80c3.webp",
         "header": "Mother's Day Gift Sets & Promotion",
@@ -181,17 +181,17 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Web_1920_3.jpg",
-        "image_mobile": "shopify://shop_images/Web_1920_3.jpg",
-        "image_desktop_r": "shopify://shop_images/Web_1920_3.jpg",
-        "image_mobile_r": "shopify://shop_images/Web_1920_3.jpg"
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
+        "image_mobile": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
+        "image_desktop_r": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
+        "image_mobile_r": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/b75d698757c41867c58b0f51c27d8f0e.jpg",
-        "image_mobile": "shopify://shop_images/Gemini_Generated_Image_qluf8sqluf8sqluf.png",
+        "image_desktop": "shopify://shop_images/iPhone_14_Pro_34.jpg",
+        "image_mobile": "shopify://shop_images/iPhone_14_Pro_34.jpg",
         "image_desktop_right": "shopify://shop_images/Eye_Patch_D_-_1.png",
         "header": "+Summer Melanin Treatment",
         "body": "",
