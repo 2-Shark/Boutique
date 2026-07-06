@@ -17,8 +17,8 @@
         "image_mobile": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
         "eyebrow": "+ Advanced UV Damage & Barrier Protection",
         "header": "Peptide-Powered Protection Glow",
-        "cta": "SHOP GIFT SETS",
-        "link": "shopify://collections/sets",
+        "cta": "SHOP NOW",
+        "link": "shopify://products/snow-lotus-lifting-cream",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
       }
@@ -31,9 +31,9 @@
         "image_desktop_right": "shopify://shop_images/bf6b5add403c5c02be07f5c5aa809d9e_e0a31de6-9e70-4d4e-89e4-20992b51708d.jpg",
         "image_mobile_right": "shopify://shop_images/bf6b5add403c5c02be07f5c5aa809d9e_e0a31de6-9e70-4d4e-89e4-20992b51708d.jpg",
         "header": "Advanced Summer UV Shield+",
-        "body": "DISDOVER THE LONGEVITY CREAM",
+        "body": "DISDOVER OUR LONGEVITY CREAM",
         "cta": "SHOP NOW",
-        "link": "shopify://collections/sets"
+        "link": "shopify://products/relief-sun-moisture"
       }
     },
     "image_with_text_nGpBeh": {
@@ -193,9 +193,9 @@
         "image_desktop": "shopify://shop_images/iPhone_14_Pro_34.jpg",
         "image_mobile": "shopify://shop_images/iPhone_14_Pro_34.jpg",
         "image_desktop_right": "shopify://shop_images/Eye_Patch_D_-_1.png",
-        "header": "+Summer Melanin Treatment",
+        "header": "+PM Summer Melanin Treatment",
         "body": "",
-        "cta": "shop",
+        "cta": "SUMMER PM ROUTINE",
         "link": "shopify://products/lotus-melight-eyepatch"
       }
     },

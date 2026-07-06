@@ -16,10 +16,10 @@
       "custom_css": [],
       "settings": {
         "home-page-only": false,
-        "background-color": "light",
+        "background-color": "accent-2",
         "light-text": true,
-        "text": "SUMMER PREP BUNDLES & GIFTS / FREE Shipping Over $90 USA, CANADA, JAPAN & OTHER COUNTRIES",
-        "link": "shopify://collections/sets"
+        "text": "BOUTIJOUR FREE Shipping Over $90 USA, CANADA, JAPAN & OTHER COUNTRIES",
+        "link": "shopify://collections/all"
       }
     },
     "header": {
