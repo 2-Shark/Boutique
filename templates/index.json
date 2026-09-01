@@ -12,12 +12,12 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
+        "image_desktop": "shopify://shop_images/16e3d0deadeeb499ee527cfcee2ecc3f.png",
         "image_tablet": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
         "image_mobile": "shopify://shop_images/Screenshot_2026-07-06_at_10.17.15_AM.png",
-        "eyebrow": "+ Advanced UV Damage & Barrier Protection",
-        "header": "Peptide-Powered Protection Glow",
-        "cta": "SHOP NOW",
+        "eyebrow": "+ Advanced Repair & Barrier Protection",
+        "header": "Skincare Color Cheek & Lip",
+        "cta": "SHOP COLOR SKINCARE",
         "link": "shopify://products/snow-lotus-lifting-cream",
         "inner_padding_left_right": "185",
         "inner_padding_bottom": "166"
@@ -26,14 +26,14 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/iPhone_14_Pro_33.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_33.jpg",
-        "image_desktop_right": "shopify://shop_images/bf6b5add403c5c02be07f5c5aa809d9e_e0a31de6-9e70-4d4e-89e4-20992b51708d.jpg",
-        "image_mobile_right": "shopify://shop_images/bf6b5add403c5c02be07f5c5aa809d9e_e0a31de6-9e70-4d4e-89e4-20992b51708d.jpg",
-        "header": "Advanced Summer UV Shield+",
-        "body": "DISCOVER OUR LONGEVITY CREAM",
+        "image_desktop": "shopify://shop_images/Screenshot_2026-09-02_at_12.24.00_AM.png",
+        "image_mobile": "shopify://shop_images/Screenshot_2026-09-02_at_12.24.00_AM.png",
+        "image_desktop_right": "shopify://shop_images/07.png",
+        "image_mobile_right": "shopify://shop_images/07.png",
+        "header": "SKIN NOURISHING & REPAIR BLUSH BALM",
+        "body": "DISCOVER OUR LONGEVITY RITUAL",
         "cta": "SHOP NOW",
-        "link": "shopify://products/relief-sun-moisture"
+        "link": "shopify://products/glow-blush-balm"
       }
     },
     "image_with_text_nGpBeh": {
@@ -181,10 +181,10 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
-        "image_desktop_r": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg",
-        "image_mobile_r": "shopify://shop_images/iPhone_14_Pro_32_dff5704b-1f26-4b1d-a323-35486228697b.jpg"
+        "image_desktop": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
+        "image_mobile": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
+        "image_desktop_r": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
+        "image_mobile_r": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg"
       }
     },
     "disrupt_banner_double_pVm667": {
@@ -193,7 +193,7 @@
         "image_desktop": "shopify://shop_images/iPhone_14_Pro_34.jpg",
         "image_mobile": "shopify://shop_images/iPhone_14_Pro_34.jpg",
         "image_desktop_right": "shopify://shop_images/Eye_Patch_D_-_1.png",
-        "header": "+PM Summer Melanin Treatment",
+        "header": "Eye Repair & Melanin Treatment",
         "body": "",
         "cta": "SUMMER PM ROUTINE",
         "link": "shopify://products/lotus-melight-eyepatch"
