@@ -43,7 +43,7 @@
 
   {%- if thumbnail -%}
     <div class="featured-video--thumbnail">
-      {%- render 'image', image: thumbnail | image_url -%}
+      {%- render 'image', image: thumbnail -%}
     </div>
   {%- endif -%}
 
@@ -117,3 +117,13 @@
     </a>
   {%- endif -%}
 </featured-video>
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- render 'image', image: thumbnail | image_url -%}"
+  to: "{%- render 'image', image: thumbnail -%}"
+  position: 1311..1351
+{% endcomment %}
