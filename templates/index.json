@@ -15,7 +15,7 @@
         "image_desktop": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
         "image_tablet": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
         "image_mobile": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
-        "eyebrow": "+ SKIN LONGEVITY, ROOTED IN HERITAGE & SCIENCE",
+        "eyebrow": "+ ADVANCED SKIN LONGEVITY, ROOTED IN HERITAGE & SCIENCE",
         "header": "Korean Well-aging Skincare",
         "cta": "DISCOVER NOW",
         "link": "shopify://products/snow-lotus-lifting-cream",
@@ -190,13 +190,13 @@
     "disrupt_banner_double_pVm667": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/iPhone_14_Pro_34.jpg",
-        "image_mobile": "shopify://shop_images/iPhone_14_Pro_34.jpg",
-        "image_desktop_right": "shopify://shop_images/Eye_Patch_D_-_1.png",
-        "header": "Eye Repair & Melanin Treatment",
+        "image_desktop": "shopify://shop_images/Web_1920_2_3cbc802e-be62-4b8b-a24d-22b20fd03625.png",
+        "image_mobile": "shopify://shop_images/Web_1920_2_3cbc802e-be62-4b8b-a24d-22b20fd03625.png",
+        "image_desktop_right": "shopify://shop_images/Web_1920_6_7331566a-d580-4845-b2ed-e5c2792615ba.png",
+        "header": "RETURN TO YOUR INNER SELF",
         "body": "",
-        "cta": "MELANIN CARE",
-        "link": "shopify://products/lotus-melight-eyepatch"
+        "cta": "OUR LONGEVITY CREAM",
+        "link": "shopify://products/snow-lotus-lifting-cream"
       }
     },
     "64199d9c-7934-497b-ab6f-34c84f1dcb50": {
