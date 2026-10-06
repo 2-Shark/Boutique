@@ -12,11 +12,11 @@
     "0a2d21d6-f0b6-40db-97e5-7f7ab91e88c2": {
       "type": "disrupt-main-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/16e3d0deadeeb499ee527cfcee2ecc3f_f93a196e-f873-4b8a-8070-17bb9f613485.png",
-        "image_tablet": "shopify://shop_images/16e3d0deadeeb499ee527cfcee2ecc3f_f93a196e-f873-4b8a-8070-17bb9f613485.png",
-        "image_mobile": "shopify://shop_images/gfgfg.png",
-        "eyebrow": "+ Advanced Repair & Barrier Protection",
-        "header": "Skincare Color Cheek & Lip",
+        "image_desktop": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
+        "image_tablet": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
+        "image_mobile": "shopify://shop_images/Web_1920_1_a1173222-93ca-48b6-924e-30b371819278.png",
+        "eyebrow": "rooted in heritage & Science",
+        "header": "Korean Well-aging Skincare",
         "cta": "SHOP COLOR SKINCARE",
         "link": "shopify://products/snow-lotus-lifting-cream",
         "inner_padding_left_right": "185",
@@ -26,14 +26,14 @@
     "71abef73-9e41-4268-855f-afba83392ef9": {
       "type": "disrupt-banner-double",
       "settings": {
-        "image_desktop": "shopify://shop_images/Screenshot_2026-09-02_at_12.24.00_AM.png",
-        "image_mobile": "shopify://shop_images/Screenshot_2026-09-02_at_12.24.00_AM.png",
-        "image_desktop_right": "shopify://shop_images/07.png",
-        "image_mobile_right": "shopify://shop_images/07.png",
-        "header": "SKIN NOURISHING & REPAIR BLUSH BALM",
+        "image_desktop": "shopify://shop_images/Web_1920_7_7aee4684-e6c2-4b00-bfc4-2ba5bc0af051.png",
+        "image_mobile": "shopify://shop_images/Web_1920_7_7aee4684-e6c2-4b00-bfc4-2ba5bc0af051.png",
+        "image_desktop_right": "shopify://shop_images/Web_1920_5.png",
+        "image_mobile_right": "shopify://shop_images/Web_1920_5.png",
+        "header": "SNOW LOTUS LONGEVITY RITUALS",
         "body": "DISCOVER OUR LONGEVITY RITUAL",
         "cta": "SHOP NOW",
-        "link": "shopify://products/glow-blush-balm"
+        "link": "shopify://products/super-antiaging-serum"
       }
     },
     "image_with_text_nGpBeh": {
@@ -181,10 +181,10 @@
     "b69860be-717b-4156-b06f-e6dbbea974f2": {
       "type": "disrupt-skin-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
-        "image_mobile": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
-        "image_desktop_r": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg",
-        "image_mobile_r": "shopify://shop_images/Web_1920_5_2abc5781-9ce4-4a66-b331-8f5550593b9d.jpg"
+        "image_desktop": "shopify://shop_images/Web_1920_3_cedc6f9b-bda7-40b2-8b5a-a89e109f2b57.png",
+        "image_mobile": "shopify://shop_images/Web_1920_3_cedc6f9b-bda7-40b2-8b5a-a89e109f2b57.png",
+        "image_desktop_r": "shopify://shop_images/Web_1920_3_cedc6f9b-bda7-40b2-8b5a-a89e109f2b57.png",
+        "image_mobile_r": "shopify://shop_images/Web_1920_3_cedc6f9b-bda7-40b2-8b5a-a89e109f2b57.png"
       }
     },
     "disrupt_banner_double_pVm667": {
@@ -195,7 +195,7 @@
         "image_desktop_right": "shopify://shop_images/Eye_Patch_D_-_1.png",
         "header": "Eye Repair & Melanin Treatment",
         "body": "",
-        "cta": "SUMMER PM ROUTINE",
+        "cta": "MELANIN CARE",
         "link": "shopify://products/lotus-melight-eyepatch"
       }
     },
